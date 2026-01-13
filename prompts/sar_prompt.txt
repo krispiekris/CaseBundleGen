@@ -1,0 +1,28 @@
+Using the case metadata provided in the attached file, generate a SAR (Suspicious Activity Report) in XML format.
+
+Follow this structure exactly:
+
+<SAR>
+  <ReportID>...</ReportID>
+  <ReportingInstitution>...</ReportingInstitution>
+  <Subject>
+    <Name>...</Name>
+    <Account>...</Account>
+  </Subject>
+  <Transaction>
+    <Date>...</Date>
+    <Amount>...</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>...</DestinationAccount>
+    <DestinationName>...</DestinationName>
+    <Purpose>Crypto Investment</Purpose>
+  </Transaction>
+</SAR>
+
+Rules:
+- Output ONLY valid XML.
+- Do NOT include markdown or explanations.
+- Use IBANs consistent with the metadata (Estonia, Lithuania, Cyprus).
+- Use realistic amounts (200–5000 EUR).
+- Use synthetic names and institutions.
+- Ensure the XML is complete and well-formed.

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2025-003</ReportID>
+  <ReportingInstitution>Bank ABC</ReportingInstitution>
+  <Subject>
+    <Name>Victim 3</Name>
+    <Account>GR1601101250000000012330695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2025-04-18</Date>
+    <Amount>9000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123453</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Crypto Investment</Purpose>
+  </Transaction>
+</SAR>

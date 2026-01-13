@@ -1,0 +1,55 @@
+You are generating metadata for a synthetic investment-fraud case.
+
+Output STRICT JSON ONLY.
+
+RULES:
+- Do NOT include markdown.
+- Do NOT include comments.
+- Do NOT include explanations.
+- Do NOT include ranges like 25-45. Use strings instead: "25-45".
+- Do NOT include currency symbols. Use plain numbers or strings.
+- Every value MUST be a JSON string, number, boolean, array, or object.
+- All keys MUST be quoted.
+- All string values MUST be quoted.
+- Do NOT add any text before or after the JSON.
+
+Now generate a JSON object with the following fields:
+
+{
+  "case_id": "string",
+  "fraud_type": "string",
+  "victim_profiles": [
+    {
+      "age_range": "string",
+      "income_range": "string",
+      "education_level": "string"
+    }
+  ],
+  "fraudster_profile": {
+    "location": "string",
+    "languages_spoken": ["string"]
+  },
+  "timeline": [
+    {"date": "string", "event": "string"}
+  ],
+  "assets_involved": [
+    {
+      "type": "string",
+      "amount_range": "string"
+    }
+  ],
+  "transaction_patterns": [
+    {"method": "string", "frequency": "string"}
+  ],
+  "communication_channels": [
+    {"channel": "string", "frequency": "string"}
+  ],
+  "fake_website_theme": "string",
+  "summary": "string"
+}
+
+IMPORTANT:
+- Output ONLY one complete JSON object.
+- The JSON MUST end with a closing brace '}'.
+- Do NOT stop early.
+- Do NOT omit the final brace.

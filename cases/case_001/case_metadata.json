@@ -1,0 +1,69 @@
+{
+  "case_id": "CF-2024-07-26-001",
+  "fraud_type": "PonziScheme",
+  "victim_profiles": [
+    {
+      "age_range": "35-55",
+      "income_range": "75000-150000",
+      "education_level": "Bachelor's Degree"
+    },
+    {
+      "age_range": "56-75",
+      "income_range": "50000-90000",
+      "education_level": "High School Diploma"
+    }
+  ],
+  "fraudster_profile": {
+    "location": "Panama City",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2023-01-15",
+      "event": "Initial investment offers begin"
+    },
+    {
+      "date": "2023-03-01",
+      "event": "First payments made to investors"
+    },
+    {
+      "date": "2023-05-10",
+      "event": "Investor numbers rapidly increase"
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Red flags raised by a few investors"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency",
+      "amount_range": "1000-50000"
+    },
+    {
+      "type": "Stocks",
+      "amount_range": "5000-25000"
+    }
+  ],
+  "transaction_patterns": [
+    {
+      "method": "Wire Transfers",
+      "frequency": "Daily"
+    }
+  ],
+  "communication_channels": [
+    {
+      "channel": "Email",
+      "frequency": "Hourly"
+    },
+    {
+      "channel": "WhatsApp",
+      "frequency": "Several times a day"
+    }
+  ],
+  "fake_website_theme": "Luxury Real Estate Investments",
+  "summary": "A Ponzi scheme operated from Panama, targeting middle-aged individuals with moderate incomes, promising high returns on luxury real estate investments via cryptocurrency."
+}

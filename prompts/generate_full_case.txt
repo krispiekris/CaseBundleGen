@@ -1,0 +1,31 @@
+You are generating a synthetic investment-fraud case.
+
+Output a SINGLE JSON object with the following structure:
+
+{
+  "metadata": { ... },
+  "files": [
+    {
+      "filename": "string",
+      "type": "xml / csv / txt / pdf / png-description",
+      "content": "string"
+    },
+    ...
+  ]
+}
+
+Rules:
+- Include a realistic subset of files: not all types are required.
+- Choose 1–3 SAR XMLs, 1–2 bank CSVs, 1–2 promotional texts or PDFs, 1–2 emails, and optionally 1–2 fake website screenshot descriptions.
+    For each screenshot:
+    {
+    "filename": "site_01.png",
+    "type": "png-description",
+    "content": "Describe what the fake login portal should look like."
+    }
+- Use synthetic but realistic content.
+- Use filenames that match the type (e.g., sar_01.xml, bank_01.csv, promo_01.txt).
+- For screenshots, output a text description of what the PNG should show.
+- Output ONLY valid JSON.
+- Do NOT include markdown, explanations, or comments.
+- Ensure the JSON ends with a closing brace.
