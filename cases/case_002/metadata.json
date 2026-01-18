@@ -1,0 +1,59 @@
+{
+  "case_id": "NF-2024-08-17-003",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "NFT Scam",
+  "victim_profile": {
+    "age_range": "35-45",
+    "income_range": "60000-90000 EUR",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Ukraine",
+    "languages_spoken": [
+      "English",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Bulgaria",
+    "Seychelles",
+    "United Arab Emirates"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim contacts NFT project 'AstroWhales' via Discord."
+    },
+    {
+      "date": "2023-12-03",
+      "event": "Victim purchases 3 AstroWhales NFTs for 1500 EUR."
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Promotional emails promising exclusive access and high returns begin."
+    },
+    {
+      "date": "2024-03-18",
+      "event": "Victim transfers 5000 EUR to 'liquidity pool' as instructed."
+    },
+    {
+      "date": "2024-05-22",
+      "event": "Victim attempts to sell NFTs, finds no market."
+    },
+    {
+      "date": "2024-07-01",
+      "event": "Discord server disappears. Victim reports the scam."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "NFT",
+      "amount_range": "1500-8000 EUR"
+    },
+    {
+      "type": "EUR",
+      "amount_range": "6500-8000 EUR"
+    }
+  ]
+}

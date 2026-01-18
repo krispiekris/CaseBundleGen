@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>NF-2024-08-17-002</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Schmidt</Name>
+    <Account>DE77200000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-03</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>AE890000000000000000123456789</DestinationAccount>
+    <DestinationName>Digital Art Gallery</DestinationName>
+    <Purpose>NFT Purchase</Purpose>
+  </Transaction>
+</SAR>

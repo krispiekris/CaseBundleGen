@@ -1,56 +1,64 @@
 {
-  "case_id": "FRD-2026-017",
+  "case_id": "IFC-2024-08-22-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-65",
-    "income_range": "\u20ac40,000-\u20ac60,000",
+    "age_range": "55-64",
+    "income_range": "60000-80000 EUR",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Sofia, Bulgaria",
     "languages_spoken": [
       "English",
-      "German",
-      "Bulgarian"
+      "Bulgarian",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "United Arab Emirates",
-    "Panama"
+    "Bulgaria",
+    "Lithuania",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2026-01-15",
-      "event": "Initial contact via social media advertisement."
+      "date": "2023-11-15",
+      "event": "Initial contact via Facebook ad for 'NovaTrade AI' platform."
     },
     {
-      "date": "2026-02-01",
-      "event": "Victim makes first deposit into trading platform."
+      "date": "2023-11-22",
+      "event": "Victim deposits initial funds of 5000 EUR."
     },
     {
-      "date": "2026-03-10",
-      "event": "Victim is encouraged to deposit more funds, promised higher returns."
+      "date": "2023-12-10",
+      "event": "Victim receives 'profits' totaling 2000 EUR."
     },
     {
-      "date": "2026-04-05",
-      "event": "Victim attempts to withdraw funds but encounters difficulties."
+      "date": "2024-01-15",
+      "event": "Fraudster encourages larger investment, citing 'exclusive opportunity'."
     },
     {
-      "date": "2026-04-15",
-      "event": "Victim reports the fraud to authorities."
+      "date": "2024-02-01",
+      "event": "Victim deposits additional 10000 EUR."
+    },
+    {
+      "date": "2024-03-10",
+      "event": "Withdrawal requests blocked, platform unresponsive."
+    },
+    {
+      "date": "2024-04-20",
+      "event": "Victim files police report."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cash",
-      "amount_range": "\u20ac10,000-\u20ac25,000"
+      "type": "EUR",
+      "amount_range": "15000-20000"
     },
     {
-      "type": "Cryptocurrency",
-      "amount_range": "\u20ac5,000-\u20ac10,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0-1000"
     }
   ]
 }

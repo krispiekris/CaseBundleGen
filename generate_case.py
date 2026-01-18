@@ -59,5 +59,11 @@ def generate_case(case_id="case_001", model="gemma3:27b"):
 
     print(f"Case {case_id} generated successfully.")
 
+def generate_batch(n=10, model="gemma3:27b"):
+    for i in range(1, n + 1):
+        case_id = f"case_{i:03d}"
+        print(f"\n=== Generating {case_id} ===")
+        generate_case(case_id, model=model)
+
 if __name__ == "__main__":
-    generate_case("case_001")
+    generate_batch(2)
