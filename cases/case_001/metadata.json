@@ -1,46 +1,56 @@
 {
-  "case_id": "FRAUD2023-001",
-  "fraud_type": "AI Trading Scam",
-  "fraud_subtype": "Quantum AI Trader",
+  "case_id": "FRD-2026-017",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "30-40",
-    "income_range": "50,000-100,000",
+    "age_range": "55-65",
+    "income_range": "\u20ac40,000-\u20ac60,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Philippines",
+    "location": "Bulgaria",
     "languages_spoken": [
       "English",
-      "Tagalog"
+      "German",
+      "Bulgarian"
     ]
   },
   "destination_countries": [
-    "UK",
-    "Sweden"
+    "Cyprus",
+    "United Arab Emirates",
+    "Panama"
   ],
   "timeline": [
     {
-      "date": "2023-02-15",
-      "event": "Initial Investment"
+      "date": "2026-01-15",
+      "event": "Initial contact via social media advertisement."
     },
     {
-      "date": "2023-03-10",
-      "event": "Fake Trading Results"
+      "date": "2026-02-01",
+      "event": "Victim makes first deposit into trading platform."
     },
     {
-      "date": "2023-04-20",
-      "event": "Withdrawal Request"
+      "date": "2026-03-10",
+      "event": "Victim is encouraged to deposit more funds, promised higher returns."
+    },
+    {
+      "date": "2026-04-05",
+      "event": "Victim attempts to withdraw funds but encounters difficulties."
+    },
+    {
+      "date": "2026-04-15",
+      "event": "Victim reports the fraud to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrencies",
-      "amount_range": "1,000-5,000"
+      "type": "Cash",
+      "amount_range": "\u20ac10,000-\u20ac25,000"
     },
     {
-      "type": "Stocks",
-      "amount_range": "10,000-50,000"
+      "type": "Cryptocurrency",
+      "amount_range": "\u20ac5,000-\u20ac10,000"
     }
   ]
 }

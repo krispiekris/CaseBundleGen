@@ -1,1 +1,12 @@
-Reminder: Your account is inactive. Deposit now to secure a 15% return!
+Subject: Urgent: Account Verification Required
+
+Dear Erika Schmidt,
+
+We have detected unusual activity on your NovaInvest AI account. To ensure the security of your funds, please verify your account immediately by clicking the link below.
+
+[malicious link]
+
+Failure to verify your account may result in temporary suspension.
+
+Sincerely,
+The NovaInvest AI Team

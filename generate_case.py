@@ -18,7 +18,7 @@ def extract_json(text):
 def save_file(case_dir, filename, content):
     (case_dir / filename).write_text(content)
 
-def generate_case(case_id="case_001", model="llama3"):
+def generate_case(case_id="case_001", model="gemma3:27b"):
     case_dir = Path("cases") / case_id
     case_dir.mkdir(parents=True, exist_ok=True)
 

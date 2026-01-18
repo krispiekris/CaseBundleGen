@@ -1,1 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?><SAR><ReportID>INV2023-001</ReportID><ReportingInstitution>Bullion Bank</ReportingInstitution><Subject><Name>Vera Müller</Name><Account>DE1234567890123456789</Account></Subject><Transaction><Date>2023-03-15</Date><Amount>5,000</Amount><Currency>EUR</Currency><DestinationAccount>GB29RSLXXXXXXXXXXXXX</DestinationAccount><DestinationName>BullionFX Ltd</DestinationName><Purpose>Crypto Investment</Purpose></Transaction></SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2026-028</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Erika Schmidt</Name>
+    <Account>DE89370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2026-02-18</Date>
+    <Amount>8500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY21000000000000000000012345</DestinationAccount>
+    <DestinationName>Apex Trading Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>

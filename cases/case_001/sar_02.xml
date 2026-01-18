@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2026-032</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>Erika Schmidt</Name>
+    <Account>DE55100400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2026-03-12</Date>
+    <Amount>6000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>AE28044000000000000000123456</DestinationAccount>
+    <DestinationName>Global Investments FZCO</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>
