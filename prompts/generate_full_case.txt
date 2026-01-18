@@ -1,31 +1,76 @@
-You are generating a synthetic investment-fraud case.
+You are generating a complete synthetic investment‑fraud case.
+
+IMPORTANT:
+- You must generate a completely new fraud case.
+- Do NOT reuse any names, IBANs, dates, amounts, or text from the samples.
+- Use the samples ONLY as stylistic inspiration.
+- Every case must differ significantly in structure, content, and narrative.
+- Randomize fraud type, countries, victim profile, transaction patterns, and promotional tone.
+- Randomize the number and type of files included in the case.
+- Ensure all content is synthetic and realistic.
 
 Output a SINGLE JSON object with the following structure:
 
 {
-  "metadata": { ... },
+  "metadata": {
+      "case_id": "string",
+      "fraud_type": "string",
+      "fraud_subtype": "string",
+      "victim_profile": {
+          "age_range": "string",
+          "income_range": "string",
+          "country": "string",
+          "education_level": "string"
+      },
+      "fraudster_profile": {
+          "location": "string",
+          "languages_spoken": ["string"]
+      },
+      "destination_countries": ["string"],
+      "timeline": [
+          {"date": "string", "event": "string"}
+      ],
+      "assets_involved": [
+          {"type": "string", "amount_range": "string"}
+      ]
+  },
+
   "files": [
-    {
-      "filename": "string",
-      "type": "xml / csv / txt / pdf / png-description",
-      "content": "string"
-    },
-    ...
+      {
+        "filename": "string",
+        "type": "xml | csv | txt | pdf | png-description",
+        "content": "string"
+      }
   ]
 }
 
-Rules:
-- Include a realistic subset of files: not all types are required.
-- Choose 1–3 SAR XMLs, 1–2 bank CSVs, 1–2 promotional texts or PDFs, 1–2 emails, and optionally 1–2 fake website screenshot descriptions.
-    For each screenshot:
-    {
-    "filename": "site_01.png",
-    "type": "png-description",
-    "content": "Describe what the fake login portal should look like."
-    }
-- Use synthetic but realistic content.
-- Use filenames that match the type (e.g., sar_01.xml, bank_01.csv, promo_01.txt).
-- For screenshots, output a text description of what the PNG should show.
-- Output ONLY valid JSON.
-- Do NOT include markdown, explanations, or comments.
+FILE GENERATION RULES:
+- Include a realistic subset of files. Not all types are required.
+- Choose 1–3 SAR XML files.
+- Choose 1–2 bank CSV files.
+- Choose 1–2 promotional files (txt or pdf).
+- Choose 1–2 scam email files (txt).
+- Optionally include 1–2 fake website screenshot descriptions (png-description).
+- Filenames must match the type (e.g., sar_01.xml, bank_01.csv, promo_01.txt).
+
+CONTENT RULES:
+- All XML must be complete and well‑formed.
+- All CSV must be valid CSV with a header row.
+- All text fields must be plain text.
+- PNG files must be descriptions only (no binary data).
+- Do NOT include markdown.
+- Do NOT include explanations.
+- Do NOT include comments.
 - Ensure the JSON ends with a closing brace.
+
+RANDOMIZATION RULES:
+- Choose a fraud subtype randomly (crypto scam, forex scam, boiler room, NFT scam, AI trading scam, recovery scam).
+- Choose 1–3 destination countries randomly from a list of 15 European and non‑European countries.
+- Generate new IBANs matching the selected countries.
+- Generate new victim and fraudster profiles.
+- Generate new transaction patterns.
+- Generate new promotional themes.
+- Generate new email tone and content.
+- Generate new website descriptions.
+
+Use the provided samples ONLY as stylistic inspiration. Do not copy any content.

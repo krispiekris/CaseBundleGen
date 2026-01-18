@@ -1,11 +1,46 @@
 {
-  "case_name": "QuantumFX Fraud Case",
-  "investor_names": [
-    "Victim 1",
-    "Victim 2",
-    "Victim 3"
+  "case_id": "FRAUD2023-001",
+  "fraud_type": "AI Trading Scam",
+  "fraud_subtype": "Quantum AI Trader",
+  "victim_profile": {
+    "age_range": "30-40",
+    "income_range": "50,000-100,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Philippines",
+    "languages_spoken": [
+      "English",
+      "Tagalog"
+    ]
+  },
+  "destination_countries": [
+    "UK",
+    "Sweden"
   ],
-  "investments": [
-    "Crypto Investment"
+  "timeline": [
+    {
+      "date": "2023-02-15",
+      "event": "Initial Investment"
+    },
+    {
+      "date": "2023-03-10",
+      "event": "Fake Trading Results"
+    },
+    {
+      "date": "2023-04-20",
+      "event": "Withdrawal Request"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrencies",
+      "amount_range": "1,000-5,000"
+    },
+    {
+      "type": "Stocks",
+      "amount_range": "10,000-50,000"
+    }
   ]
 }
