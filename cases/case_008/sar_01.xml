@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-007</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hildegard Fischer</Name>
+    <Account>DE87370400440532018875</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-05-01</Date>
+    <Amount>8000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY9100200000000000000001</DestinationAccount>
+    <DestinationName>Apex Recovery Solutions Ltd</DestinationName>
+    <Purpose>Recovery Fee</Purpose>
+  </Transaction>
+</SAR>

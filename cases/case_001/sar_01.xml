@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-008</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <ReportID>INV2024-017-SAR-01</ReportID>
+  <ReportingInstitution>ING Bank</ReportingInstitution>
   <Subject>
-    <Name>Elke Schmidt</Name>
-    <Account>DE89370400440532013000</Account>
+    <Name>Hendrik Vogels</Name>
+    <Account>NL97INGB1234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2024-02-01</Date>
-    <Amount>10000</Amount>
+    <Date>2023-10-05</Date>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT227181010001234567</DestinationAccount>
-    <DestinationName>UAB 'InvestPro LT'</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>MT16HABB00010000001234</DestinationAccount>
+    <DestinationName>Solstice Investments Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-10</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NL44ABNA0240123456</DestinationAccount>
+    <DestinationName>Hendrik Vogels</DestinationName>
+    <Purpose>Withdrawal (Profit)</Purpose>
   </Transaction>
 </SAR>

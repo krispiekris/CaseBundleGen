@@ -80,5 +80,29 @@ RANDOMIZATION RULES:
 - Generate new website descriptions.
 - Randomize dates within a realistic past window (last 1–5 years), never in the future.
 
+NAME GENERATION RULES (EUROPE ONLY):
+- Use names exclusively from European countries.
+- Prefer uncommon or regionally specific surnames.
+- Avoid repeating surnames across cases.
+- Avoid the most common surnames such as Schmidt, Müller, Schneider, Rossi, Russo, Bianchi, Novak, Horváth, Kowalski, Nowak, Ivanov, Petrov, Popov, Smith, Johnson.
+- Use a wide variety of European naming traditions:
+  - Southern Europe (Greek, Italian, Spanish, Portuguese)
+  - Central Europe (Austrian, Swiss, Czech, Slovak, Hungarian)
+  - Eastern Europe (Polish, Romanian, Bulgarian, Baltic)
+  - Northern Europe (Scandinavian, Finnish)
+  - Western Europe (French, Belgian, Dutch)
+- You may invent new surnames that resemble European linguistic patterns.
+- Ensure that each case uses a distinct set of names that do not overlap with previous cases.
+
+COMPANY NAME GENERATION RULES (EUROPE ONLY):
+- All company names must be unique across cases.
+- Do NOT reuse names such as NovaTech Investments, QuantumTrade, EuroCapital, PrimeMarkets, GlobalFX, CryptoVision, or any other common synthetic trading-company names.
+- Use regionally specific or uncommon European-style company names.
+- Prefer names that reflect local languages (e.g., Greek, Italian, Spanish, Portuguese, French, German, Dutch, Nordic, Baltic, Balkan, Central/Eastern European).
+- You may invent new company names that resemble real European corporate naming patterns.
+- Include realistic suffixes such as:
+  - Ltd, GmbH, AG, SA, SAS, BV, Oy, AB, Srl, SL, Sp. z o.o., Kft, OÜ, EOOD, SRL.
+- Avoid generic “techy” names unless they are clearly distinct and not reused.
+
 Use the provided samples ONLY as stylistic inspiration. Do not copy any content.
 Output ONLY the JSON object. Do not include any text before or after it.

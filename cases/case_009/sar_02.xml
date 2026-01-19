@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>ECO2024-041</ReportID>
+  <ReportingInstitution>EuroCredit Online</ReportingInstitution>
+  <Subject>
+    <Name>Jan Vermeer</Name>
+    <Account>BG10BNL190105054000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-20</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT3170453975400000000</DestinationAccount>
+    <DestinationName>InvestWise Capital</DestinationName>
+    <Purpose>Trading</Purpose>
+  </Transaction>
+</SAR>

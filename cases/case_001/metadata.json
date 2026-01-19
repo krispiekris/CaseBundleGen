@@ -1,15 +1,15 @@
 {
-  "case_id": "IFC-2024-08-22-007",
+  "case_id": "INV2024-017",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
-    "country": "Germany",
+    "income_range": "\u20ac40,000-\u20ac60,000",
+    "country": "Netherlands",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Sofia, Bulgaria",
+    "location": "Bulgaria",
     "languages_spoken": [
       "English",
       "Bulgarian",
@@ -18,47 +18,35 @@
   },
   "destination_countries": [
     "Bulgaria",
-    "Lithuania",
-    "United Arab Emirates"
+    "Malta",
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Initial contact via Facebook ad for 'NovaTrade AI' platform."
+      "date": "2023-09-15",
+      "event": "Victim contacts 'HorizonAI' through online advertisement"
     },
     {
-      "date": "2023-11-22",
-      "event": "Victim deposits initial funds of 5000 EUR."
+      "date": "2023-10-05",
+      "event": "Initial deposit of \u20ac5,000 made by victim"
     },
     {
-      "date": "2023-12-10",
-      "event": "Victim receives 'profits' totaling 2000 EUR."
+      "date": "2023-11-10",
+      "event": "First 'profit' withdrawal of \u20ac1,500"
     },
     {
-      "date": "2024-01-15",
-      "event": "Fraudster encourages larger investment, citing 'exclusive opportunity'."
+      "date": "2024-01-20",
+      "event": "Victim attempts to withdraw remaining funds; request denied"
     },
     {
-      "date": "2024-02-01",
-      "event": "Victim deposits additional 10000 EUR."
-    },
-    {
-      "date": "2024-03-10",
-      "event": "Withdrawal requests blocked, platform unresponsive."
-    },
-    {
-      "date": "2024-04-20",
-      "event": "Victim files police report."
+      "date": "2024-02-15",
+      "event": "Victim reports fraud to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "15000-20000"
-    },
-    {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0-1000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
     }
   ]
 }

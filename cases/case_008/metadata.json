@@ -1,0 +1,52 @@
+{
+  "case_id": "INV2024-018",
+  "fraud_type": "Forex Scam",
+  "fraud_subtype": "Recovery Scam",
+  "victim_profile": {
+    "age_range": "65-74",
+    "income_range": "\u20ac30,000-\u20ac50,000",
+    "country": "Germany",
+    "education_level": "High School"
+  },
+  "fraudster_profile": {
+    "location": "Bulgaria",
+    "languages_spoken": [
+      "English",
+      "Bulgarian",
+      "German"
+    ]
+  },
+  "destination_countries": [
+    "Cyprus",
+    "Bulgaria",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2022-03-15",
+      "event": "Initial contact with victim."
+    },
+    {
+      "date": "2022-06-20",
+      "event": "First deposit made by victim."
+    },
+    {
+      "date": "2023-01-10",
+      "event": "Victim claims losses and seeks recovery."
+    },
+    {
+      "date": "2023-05-01",
+      "event": "Victim transfers additional funds to 'recovery' service."
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Investigation triggered by bank suspicious activity report."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Forex Trading Account",
+      "amount_range": "\u20ac15,000 - \u20ac30,000"
+    }
+  ]
+}

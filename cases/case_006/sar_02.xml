@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-012</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Ruđer Petrović</Name>
+    <Account>GB82BARP20400020397400</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-05-18</Date>
+    <Amount>2000</Amount>
+    <Currency>GBP</Currency>
+    <DestinationAccount>BG36UNCR700015000098765</DestinationAccount>
+    <DestinationName>Bulgaria Solutions</DestinationName>
+    <Purpose>Recovery Fee</Purpose>
+  </Transaction>
+</SAR>

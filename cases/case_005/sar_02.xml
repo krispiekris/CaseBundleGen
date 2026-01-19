@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-008</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>Klaus-Dieter Weber</Name>
+    <Account>DE8770100500009876543210</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG78BN0006000100000101</DestinationAccount>
+    <DestinationName>Phoenix Global Investments EOOD</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>

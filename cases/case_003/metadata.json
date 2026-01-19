@@ -1,5 +1,5 @@
 {
-  "case_id": "INV2024-012",
+  "case_id": "INV2024-017",
   "fraud_type": "Forex Scam",
   "fraud_subtype": "Recovery Scam",
   "victim_profile": {
@@ -18,39 +18,35 @@
   },
   "destination_countries": [
     "Bulgaria",
-    "United Kingdom",
-    "Seychelles"
+    "Seychelles",
+    "Hungary"
   ],
   "timeline": [
     {
-      "date": "2022-09-15",
-      "event": "Initial Contact"
+      "date": "2022-07-15",
+      "event": "Initial Contact - Email"
     },
     {
-      "date": "2022-11-20",
-      "event": "First Investment"
+      "date": "2022-08-01",
+      "event": "First Deposit"
     },
     {
-      "date": "2023-05-10",
-      "event": "Claim of Losses"
+      "date": "2023-03-10",
+      "event": "Claim of Losses and Recovery Promise"
     },
     {
-      "date": "2023-08-01",
-      "event": "Recovery Scam Proposal"
+      "date": "2023-05-20",
+      "event": "Second Deposit for 'Recovery'"
     },
     {
-      "date": "2023-12-05",
-      "event": "Final Transfer"
-    },
-    {
-      "date": "2024-01-15",
-      "event": "Case Reported"
+      "date": "2023-08-15",
+      "event": "Victim ceases communication"
     }
   ],
   "assets_involved": [
     {
-      "type": "Forex Trading Accounts",
-      "amount_range": "\u20ac20,000 - \u20ac45,000"
+      "type": "Forex Trading Account",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     }
   ]
 }

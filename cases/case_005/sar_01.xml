@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-123</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Klaus-Dieter Weber</Name>
+    <Account>DE8770100500001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG78BN0006000100000101</DestinationAccount>
+    <DestinationName>Phoenix Global Investments EOOD</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>

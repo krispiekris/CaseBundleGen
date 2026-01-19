@@ -18,7 +18,7 @@ def extract_json(text):
 def save_file(case_dir, filename, content):
     (case_dir / filename).write_text(content)
 
-def generate_case(case_id="case_001", model="gemma3:27b"):
+def generate_case(case_id="case_001", model="gemma3:12b"):
     case_dir = Path("cases") / case_id
     case_dir.mkdir(parents=True, exist_ok=True)
 
@@ -59,11 +59,11 @@ def generate_case(case_id="case_001", model="gemma3:27b"):
 
     print(f"Case {case_id} generated successfully.")
 
-def generate_batch(n=10, model="gemma3:27b"):
+def generate_batch(n=10, model="gemma3:12b"):
     for i in range(1, n + 1):
         case_id = f"case_{i:03d}"
         print(f"\n=== Generating {case_id} ===")
         generate_case(case_id, model=model)
 
 if __name__ == "__main__":
-    generate_batch(2)
+    generate_batch(10)

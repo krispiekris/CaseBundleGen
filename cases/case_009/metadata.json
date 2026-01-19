@@ -1,0 +1,52 @@
+{
+  "case_id": "INV2024-017",
+  "fraud_type": "crypto scam",
+  "fraud_subtype": "AI trading scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Netherlands",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Bulgaria",
+    "languages_spoken": [
+      "English",
+      "Bulgarian",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Bulgaria",
+    "Lithuania",
+    "Malta"
+  ],
+  "timeline": [
+    {
+      "date": "2023-07-15",
+      "event": "Victim contacts 'HorizonAI' via online ad"
+    },
+    {
+      "date": "2023-08-01",
+      "event": "Initial deposit made"
+    },
+    {
+      "date": "2023-08-15",
+      "event": "First 'profit' withdrawal"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim requests large withdrawal; delayed."
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim reports suspicious activity"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    }
+  ]
+}

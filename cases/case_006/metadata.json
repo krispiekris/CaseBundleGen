@@ -1,0 +1,52 @@
+{
+  "case_id": "INV2024-017",
+  "fraud_type": "Forex Scam",
+  "fraud_subtype": "Recovery Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Ireland",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Bulgaria",
+    "languages_spoken": [
+      "English",
+      "Bulgarian",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Bulgaria",
+    "United Kingdom",
+    "Cyprus"
+  ],
+  "timeline": [
+    {
+      "date": "2022-09-15",
+      "event": "Victim contacts 'Forex Recovery Experts' after losing funds."
+    },
+    {
+      "date": "2022-09-22",
+      "event": "Initial deposit of \u20ac15,000 made to Forex Recovery Experts."
+    },
+    {
+      "date": "2023-03-10",
+      "event": "Victim transfers additional \u20ac5,000 after promises of recovery."
+    },
+    {
+      "date": "2023-06-01",
+      "event": "Victim realizes they have been scammed and reports to authorities."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Forex Trading Accounts",
+      "amount_range": "\u20ac20,000 - \u20ac25,000"
+    },
+    {
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac25,000 - \u20ac30,000"
+    }
+  ]
+}

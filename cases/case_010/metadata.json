@@ -1,0 +1,52 @@
+{
+  "case_id": "INV2024-017",
+  "fraud_type": "crypto scam",
+  "fraud_subtype": "AI trading scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Ireland",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Bulgaria",
+    "languages_spoken": [
+      "English",
+      "Bulgarian",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Malta",
+    "Seychelles",
+    "Bulgaria"
+  ],
+  "timeline": [
+    {
+      "date": "2023-07-15",
+      "event": "Victim contacts 'NovaAurora Investments'"
+    },
+    {
+      "date": "2023-08-01",
+      "event": "Initial investment of \u20ac5,000"
+    },
+    {
+      "date": "2023-09-10",
+      "event": "Victim receives fabricated profit notifications"
+    },
+    {
+      "date": "2023-11-20",
+      "event": "Victim requests withdrawal, met with resistance"
+    },
+    {
+      "date": "2024-01-15",
+      "event": "Victim reports fraud"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
+    }
+  ]
+}

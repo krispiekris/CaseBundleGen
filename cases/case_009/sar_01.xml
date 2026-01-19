@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BNL2024-032</ReportID>
+  <ReportingInstitution>Bank BNL</ReportingInstitution>
+  <Subject>
+    <Name>Jan Vermeer</Name>
+    <Account>BG10BNL190105054000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT8770453975400000000</DestinationAccount>
+    <DestinationName>FinTech Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>
