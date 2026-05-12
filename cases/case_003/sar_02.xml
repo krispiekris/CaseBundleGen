@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-016</ReportID>
-  <ReportingInstitution>ING Bank</ReportingInstitution>
+  <ReportID>SUS2024-006</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
   <Subject>
-    <Name>Jan Vermeer</Name>
-    <Account>NL63INGB0001234567890123456789</Account>
+    <Name>Klaus Eberhardt</Name>
+    <Account>DE1272150000000987654321</Account>
   </Subject>
   <Transaction>
-    <Date>2023-05-20</Date>
-    <Amount>3000</Amount>
+    <Date>2023-12-15</Date>
+    <Amount>2000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG48BNAT0101010101010102</DestinationAccount>
-    <DestinationName>EuroTrade Solutions EOOD</DestinationName>
-    <Purpose>Recovery Fees</Purpose>
+    <DestinationAccount>LT797045000000000001</DestinationAccount>
+    <DestinationName>Baltic Fintech Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
 </SAR>

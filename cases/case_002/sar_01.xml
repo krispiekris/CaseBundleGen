@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-012-SAR</ReportID>
-  <ReportingInstitution>ABN AMRO</ReportingInstitution>
+  <ReportID>INV2024-042-SAR-01</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
   <Subject>
-    <Name>Pieter Van Der Velde</Name>
-    <Account>NL91RABO0313924627</Account>
+    <Name>Klaus Eberhardt</Name>
+    <Account>DE8770100500000102345678</Account>
   </Subject>
   <Transaction>
-    <Date>2023-08-15</Date>
-    <Amount>12000</Amount>
+    <Date>2023-09-05</Date>
+    <Amount>8000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG74UNCR9661S17004740</DestinationAccount>
-    <DestinationName>EuroAssist Solutions Ltd</DestinationName>
-    <Purpose>Recovery Fee</Purpose>
+    <DestinationAccount>BZ00245814420000011234</DestinationAccount>
+    <DestinationName>Horizon Global Ltd</DestinationName>
+    <Purpose>Investment in AI Trading System</Purpose>
   </Transaction>
 </SAR>

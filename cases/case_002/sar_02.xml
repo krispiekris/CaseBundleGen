@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-012-SAR2</ReportID>
-  <ReportingInstitution>ING</ReportingInstitution>
+  <ReportID>INV2024-042-SAR-02</ReportID>
+  <ReportingInstitution>Kreissparkasse</ReportingInstitution>
   <Subject>
-    <Name>Pieter Van Der Velde</Name>
-    <Account>NL19INGB0001234567</Account>
+    <Name>Klaus Eberhardt</Name>
+    <Account>DE8770100500000102345678</Account>
   </Subject>
   <Transaction>
-    <Date>2023-05-22</Date>
-    <Amount>8000</Amount>
+    <Date>2023-11-15</Date>
+    <Amount>1500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG74UNCR9661S17004740</DestinationAccount>
-    <DestinationName>EuroAssist Solutions Ltd</DestinationName>
-    <Purpose>Initial Investment</Purpose>
+    <DestinationAccount>BZ00245814420000011234</DestinationAccount>
+    <DestinationName>Horizon Global Ltd</DestinationName>
+    <Purpose>Further Investment</Purpose>
   </Transaction>
 </SAR>

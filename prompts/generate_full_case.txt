@@ -38,7 +38,7 @@ Output a SINGLE JSON object with the following structure:
   "files": [
       {
         "filename": "string",
-        "type": "xml | csv | txt | pdf | png-description",
+        "type": "xml | csv | txt | pdf",
         "content": "string"
       }
   ]
@@ -50,14 +50,14 @@ FILE GENERATION RULES:
 - Choose 1–2 bank CSV files.
 - Choose 1–2 promotional files (txt or pdf).
 - Choose 1–2 scam email files (txt).
-- Optionally include 1–2 fake website screenshot descriptions (png-description).
-- Filenames must match the type (e.g., sar_01.xml, bank_01.csv, promo_01.txt).
+- Optionally include 1–2 fake website screenshot descriptions (img-description.txt).
+- Filenames must match the type (e.g., sar_01.xml, sar_02.xml, bank_01.csv, promo_01.txt).
 
 CONTENT RULES:
 - All XML must be complete and well‑formed.
-- All CSV must be valid CSV with a header row.
+- All CSV must be valid CSV with a header row. If a field is empty, include an empty CSV cell (e.g., ,,). Every row must contain exactly the same number of comma‑separated values as the header.
 - All text fields must be plain text.
-- PNG files must be descriptions only (no binary data).
+- PNG files must be descriptions only (no binary data) in txt format.
 - Do NOT include markdown.
 - Do NOT include explanations.
 - Do NOT include comments.
@@ -81,7 +81,7 @@ RANDOMIZATION RULES:
 - Randomize dates within a realistic past window (last 1–5 years), never in the future.
 
 NAME GENERATION RULES (EUROPE ONLY):
-- Use names exclusively from European countries.
+- Use names exclusively from European Union member states and nearby European countries.
 - Prefer uncommon or regionally specific surnames.
 - Avoid repeating surnames across cases.
 - Avoid the most common surnames such as Schmidt, Müller, Schneider, Rossi, Russo, Bianchi, Novak, Horváth, Kowalski, Nowak, Ivanov, Petrov, Popov, Smith, Johnson.
@@ -91,6 +91,10 @@ NAME GENERATION RULES (EUROPE ONLY):
   - Eastern Europe (Polish, Romanian, Bulgarian, Baltic)
   - Northern Europe (Scandinavian, Finnish)
   - Western Europe (French, Belgian, Dutch)
+- Use at least three distinct given names within each case (victim, fraudster, contacts, and any corporate representatives).
+- Do not rely on a single given name repeatedly in the same case. Avoid defaulting to the same name such as Klaus.
+- Use a balanced mix of first names and surnames from different European regions in the same case when possible.
+- Do not repeat the same first name or surname across different generated cases.
 - You may invent new surnames that resemble European linguistic patterns.
 - Ensure that each case uses a distinct set of names that do not overlap with previous cases.
 

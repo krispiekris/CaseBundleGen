@@ -1,10 +1,10 @@
 {
-  "case_id": "INV2024-017",
-  "fraud_type": "crypto scam",
-  "fraud_subtype": "AI trading scam",
+  "case_id": "FRAUD2024-11-02-001",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000-\u20ac60,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -17,40 +17,32 @@
     ]
   },
   "destination_countries": [
-    "Bulgaria",
-    "United Kingdom",
-    "Cyprus"
+    "Cyprus",
+    "United Arab Emirates",
+    "Bulgaria"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacts 'AI Trader Pro' via online advertisement"
+      "date": "2023-05-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial investment of \u20ac5,000 made"
+      "date": "2023-06-22",
+      "event": "First deposit made"
     },
     {
-      "date": "2023-09-15",
-      "event": "Victim shown fabricated trading results"
+      "date": "2023-09-10",
+      "event": "Victim attempts withdrawal - rejected"
     },
     {
-      "date": "2023-10-01",
-      "event": "Victim pressured to invest additional \u20ac10,000"
-    },
-    {
-      "date": "2023-10-20",
-      "event": "Victim requests withdrawal of profits, request denied"
-    },
-    {
-      "date": "2023-11-01",
-      "event": "Victim reports fraud to authorities"
+      "date": "2023-11-05",
+      "event": "Victim reports suspicious activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "EUR",
+      "amount_range": "\u20ac15,000 - \u20ac35,000"
     }
   ]
 }

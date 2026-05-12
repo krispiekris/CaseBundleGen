@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-124</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <ReportID>IRL2024-004</ReportID>
+  <ReportingInstitution>Allied Bank Ireland</ReportingInstitution>
   <Subject>
-    <Name>Franz Kloss</Name>
-    <Account>DE2848060000001234567890</Account>
+    <Name>Aisling O’Malley</Name>
+    <Account>IE32BOFI9000000000012345</Account>
   </Subject>
   <Transaction>
-    <Date>2022-06-10</Date>
-    <Amount>1000</Amount>
+    <Date>2023-07-15</Date>
+    <Amount>2500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG48UNCR70001530858262</DestinationAccount>
-    <DestinationName>Olympus Financial Solutions Ltd</DestinationName>
-    <Purpose>Additional Funds</Purpose>
+    <DestinationAccount>MT110811000000000001234</DestinationAccount>
+    <DestinationName>NovaArtis Ltd</DestinationName>
+    <Purpose>NFT Investment</Purpose>
   </Transaction>
 </SAR>

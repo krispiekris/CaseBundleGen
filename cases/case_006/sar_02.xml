@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-012</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <ReportID>INV2024-017-SAR2</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
   <Subject>
-    <Name>Ruđer Petrović</Name>
-    <Account>GB82BARP20400020397400</Account>
+    <Name>Klaus-Dieter Hoffmann</Name>
+    <Account>DE8770100808012345678901</Account>
   </Subject>
   <Transaction>
-    <Date>2023-05-18</Date>
-    <Amount>2000</Amount>
-    <Currency>GBP</Currency>
-    <DestinationAccount>BG36UNCR700015000098765</DestinationAccount>
-    <DestinationName>Bulgaria Solutions</DestinationName>
-    <Purpose>Recovery Fee</Purpose>
+    <Date>2023-11-10</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT647044053400010271</DestinationAccount>
+    <DestinationName>NovaAlgorithmic Systems Ltd</DestinationName>
+    <Purpose>Additional Investment</Purpose>
   </Transaction>
 </SAR>

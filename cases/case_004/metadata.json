@@ -1,56 +1,48 @@
 {
-  "case_id": "INV2024-042",
-  "fraud_type": "Crypto Scam",
+  "case_id": "INV2024-047",
+  "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac60,000-\u20ac80,000",
-    "country": "Germany",
-    "education_level": "Bachelor's Degree"
+    "age_range": "60-65",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Austria",
+    "education_level": "High School"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Serbia",
     "languages_spoken": [
       "English",
-      "Bulgarian",
-      "Russian"
+      "Serbian",
+      "German"
     ]
   },
   "destination_countries": [
-    "Bulgaria",
+    "Seychelles",
     "United Kingdom",
-    "Cyprus"
+    "Mauritius"
   ],
   "timeline": [
     {
-      "date": "2023-07-15",
-      "event": "Victim contacted by 'Personal AI Trader'"
+      "date": "2023-08-15",
+      "event": "Victim receives initial promotional email"
     },
     {
-      "date": "2023-08-05",
-      "event": "Initial investment of \u20ac5,000 made"
+      "date": "2023-09-22",
+      "event": "Victim makes first investment"
     },
     {
-      "date": "2023-09-10",
-      "event": "Victim shown fabricated gains"
+      "date": "2023-12-05",
+      "event": "Victim attempts to withdraw funds; encounters issues"
     },
     {
-      "date": "2023-11-20",
-      "event": "Request for further investment"
-    },
-    {
-      "date": "2024-01-15",
-      "event": "Victim attempts to withdraw funds, denied"
-    },
-    {
-      "date": "2024-02-28",
-      "event": "Victim reports fraud"
+      "date": "2024-01-18",
+      "event": "Victim reports the incident"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac10,000-\u20ac20,000"
+      "type": "EUR",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     }
   ]
 }

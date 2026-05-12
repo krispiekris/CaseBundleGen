@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>ECO2024-041</ReportID>
-  <ReportingInstitution>EuroCredit Online</ReportingInstitution>
+  <ReportID>IR2024-005</ReportID>
+  <ReportingInstitution>First Trust Bank Ireland</ReportingInstitution>
   <Subject>
-    <Name>Jan Vermeer</Name>
-    <Account>BG10BNL190105054000000001</Account>
+    <Name>Eamon Byrne</Name>
+    <Account>IE41RAIB90132499671945</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-20</Date>
+    <Date>2023-08-01</Date>
     <Amount>1000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT3170453975400000000</DestinationAccount>
-    <DestinationName>InvestWise Capital</DestinationName>
-    <Purpose>Trading</Purpose>
+    <DestinationAccount>MT18VALL20002500010100029787</DestinationAccount>
+    <DestinationName>Veridian Global Investments Ltd</DestinationName>
+    <Purpose>AI Trading Platform Deposit</Purpose>
   </Transaction>
 </SAR>

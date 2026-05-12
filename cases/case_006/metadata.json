@@ -1,11 +1,11 @@
 {
   "case_id": "INV2024-017",
-  "fraud_type": "Forex Scam",
-  "fraud_subtype": "Recovery Scam",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Ireland",
+    "income_range": "\u20ac50,000-\u20ac80,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -13,40 +13,36 @@
     "languages_spoken": [
       "English",
       "Bulgarian",
-      "Russian"
+      "German"
     ]
   },
   "destination_countries": [
     "Bulgaria",
-    "United Kingdom",
-    "Cyprus"
+    "Lithuania",
+    "Malta"
   ],
   "timeline": [
     {
-      "date": "2022-09-15",
-      "event": "Victim contacts 'Forex Recovery Experts' after losing funds."
+      "date": "2023-09-15",
+      "event": "Victim receives initial promotional email"
     },
     {
-      "date": "2022-09-22",
-      "event": "Initial deposit of \u20ac15,000 made to Forex Recovery Experts."
+      "date": "2023-10-27",
+      "event": "Victim deposits initial funds"
     },
     {
-      "date": "2023-03-10",
-      "event": "Victim transfers additional \u20ac5,000 after promises of recovery."
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal, is denied"
     },
     {
-      "date": "2023-06-01",
-      "event": "Victim realizes they have been scammed and reports to authorities."
+      "date": "2024-02-01",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Forex Trading Accounts",
-      "amount_range": "\u20ac20,000 - \u20ac25,000"
-    },
-    {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac25,000 - \u20ac30,000"
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     }
   ]
 }

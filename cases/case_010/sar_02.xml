@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-002</ReportID>
-  <ReportingInstitution>First Credit Union</ReportingInstitution>
+  <ReportID>IRL2023-005</ReportID>
+  <ReportingInstitution>First Trust Bank (Ireland)</ReportingInstitution>
   <Subject>
-    <Name>Eamon O'Connell</Name>
-    <Account>IE37RAIB901020292350000000</Account>
+    <Name>Declan O'Malley</Name>
+    <Account>IE44RAIB90180808204193</Account>
   </Subject>
   <Transaction>
-    <Date>2023-11-18</Date>
-    <Amount>2000</Amount>
+    <Date>2022-09-01</Date>
+    <Amount>10000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>MT1211610401000101010111</DestinationAccount>
-    <DestinationName>NovaAurora Investments Ltd</DestinationName>
-    <Purpose>Additional Deposit</Purpose>
+    <DestinationAccount>SC2700000000000001</DestinationAccount>
+    <DestinationName>Veridian Capital Ltd</DestinationName>
+    <Purpose>Withdrawal Request (Denied)</Purpose>
   </Transaction>
 </SAR>

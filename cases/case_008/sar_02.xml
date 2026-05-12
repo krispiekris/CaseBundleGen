@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-008</ReportID>
+  <ReportID>FIN2023-135</ReportID>
   <ReportingInstitution>Commerzbank</ReportingInstitution>
   <Subject>
-    <Name>Friedrich Scholz</Name>
-    <Account>DE08450900300150016132</Account>
+    <Name>Klaus-Dieter Werner</Name>
+    <Account>DE87370400440532106480</Account>
   </Subject>
   <Transaction>
-    <Date>2022-07-10</Date>
-    <Amount>2000</Amount>
+    <Date>2023-07-20</Date>
+    <Amount>12500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG77UNCR70001550009350</DestinationAccount>
-    <DestinationName>EuroCapital Trading</DestinationName>
-    <Purpose>Initial Investment</Purpose>
+    <DestinationAccount>CY21000000000000000000</DestinationAccount>
+    <DestinationName>Elite Automated Investments Ltd</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
   </Transaction>
 </SAR>

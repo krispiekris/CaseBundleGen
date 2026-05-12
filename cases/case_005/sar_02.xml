@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-008</ReportID>
+  <ReportID>STR2024-0041</ReportID>
   <ReportingInstitution>Commerzbank</ReportingInstitution>
   <Subject>
-    <Name>Klaus-Dieter Weber</Name>
-    <Account>DE8770100500009876543210</Account>
+    <Name>Gerhard Beckmann</Name>
+    <Account>DE87500101100243871449</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>10000</Amount>
+    <Date>2023-09-10</Date>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG78BN0006000100000101</DestinationAccount>
-    <DestinationName>Phoenix Global Investments EOOD</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>BG51BNBG9631101010123456</DestinationAccount>
+    <DestinationName>Balkan Trading Solutions EOOD</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
   </Transaction>
 </SAR>

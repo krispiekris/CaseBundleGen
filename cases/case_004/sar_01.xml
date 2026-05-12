@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-042-SAR</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <ReportID>FIN2024-008</ReportID>
+  <ReportingInstitution>Raiffeisenbank Salzburg</ReportingInstitution>
   <Subject>
-    <Name>Gerhard Keil</Name>
-    <Account>DE1272150000001234567890</Account>
+    <Name>Gerhard Leitner</Name>
+    <Account>AT641450600150185050</Account>
   </Subject>
   <Transaction>
-    <Date>2023-08-05</Date>
-    <Amount>5000</Amount>
+    <Date>2023-09-22</Date>
+    <Amount>6500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG48BN0002000200020002</DestinationAccount>
-    <DestinationName>NovaTrade Ltd</DestinationName>
-    <Purpose>Initial Investment</Purpose>
+    <DestinationAccount>SC262000045344293083</DestinationAccount>
+    <DestinationName>FinTech Solutions Seychelles Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
 </SAR>

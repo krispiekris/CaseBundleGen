@@ -1,56 +1,46 @@
 {
-  "case_id": "INV2024-012",
-  "fraud_type": "Forex Scam",
-  "fraud_subtype": "Recovery Scam",
+  "case_id": "INV2024-042",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
+    "age_range": "60-65",
     "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Netherlands",
-    "education_level": "Bachelor's Degree"
+    "country": "Germany",
+    "education_level": "High School"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Bulgarian",
-      "German"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Bulgaria",
-    "United Kingdom",
+    "Belize",
     "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2022-09-15",
-      "event": "Initial Contact"
+      "date": "2023-08-15",
+      "event": "Victim contacts 'InvestHorizon'"
     },
     {
-      "date": "2022-11-20",
-      "event": "First Investment"
+      "date": "2023-09-05",
+      "event": "Initial deposit made"
     },
     {
-      "date": "2023-05-10",
-      "event": "Claim of Losses"
+      "date": "2023-11-10",
+      "event": "Withdrawal request denied"
     },
     {
-      "date": "2023-08-01",
-      "event": "Recovery Scam Proposal"
-    },
-    {
-      "date": "2023-12-05",
-      "event": "Final Transfer"
-    },
-    {
-      "date": "2024-01-15",
-      "event": "Case Reported"
+      "date": "2024-01-22",
+      "event": "Victim reports to bank"
     }
   ],
   "assets_involved": [
     {
-      "type": "Forex Trading Accounts",
-      "amount_range": "\u20ac20,000 - \u20ac45,000"
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac15,000"
     }
   ]
 }
