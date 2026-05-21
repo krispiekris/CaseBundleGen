@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the fraud subtype in this case?",
+    "answer": "AI Trading Scam"
+  },
+  {
+    "question": "What is the victim's country of residence?",
+    "answer": "Netherlands"
+  },
+  {
+    "question": "Which bank handled the victim\u2019s transactions?",
+    "answer": "ABN AMRO"
+  },
+  {
+    "question": "What is the initial amount invested by the victim?",
+    "answer": "\u20ac5000"
+  },
+  {
+    "question": "What is the name of the company that received the victim's investments?",
+    "answer": "NovaTech Investments EOOD"
+  },
+  {
+    "question": "What is the destination account where the victim was asked to transfer a 'verification fee'?",
+    "answer": "RS3020500000000000001432"
+  },
+  {
+    "question": "What is the name of the fraudster mentioned in the SAR?",
+    "answer": "Dimitri Petrov"
+  },
+  {
+    "question": "According to the bank statement, what was the largest debit transaction?",
+    "answer": "-5000"
+  }
+]

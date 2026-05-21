@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>GER2024-005</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Klaus Hoffmann</Name>
+    <Account>DE1272150000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-22</Date>
+    <Amount>8000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC203203000000001234</DestinationAccount>
+    <DestinationName>EuroFX Solutions Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+</SAR>

@@ -1,0 +1,1 @@
+Description: Website displaying a flashy interface with rotating images of cartoonish NFTs and prominent call-to-action buttons such as "Buy Now" and "Join the Exclusive Club".  A countdown timer indicates a limited-time offer.

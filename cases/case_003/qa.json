@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the victim's occupation according to the bank statements?",
+    "answer": "Salary earner at Van Houten & Zn."
+  },
+  {
+    "question": "Which company received the largest single transaction from the victim?",
+    "answer": "Celestial Arts Holdings Ltd"
+  },
+  {
+    "question": "What date did the victim first interact with the fraudulent entity?",
+    "answer": "2023-08-15"
+  },
+  {
+    "question": "What countries are listed as destination countries for the funds?",
+    "answer": "Hong Kong, Seychelles, Portugal"
+  },
+  {
+    "question": "What type of asset was purchased by the victim?",
+    "answer": "NFTs"
+  },
+  {
+    "question": "What is the main purpose of the email sent on 2023-10-03?",
+    "answer": "To request KYC documentation"
+  },
+  {
+    "question": "What is a common theme shared between the promotional brochure and the emails?",
+    "answer": "Exclusive access and limited-time offers"
+  },
+  {
+    "question": "Which language is spoken by the fraudster?",
+    "answer": "English"
+  },
+  {
+    "question": "Does the name of the beneficiary in the SAR match with those found in the email content?",
+    "answer": "Celestial Arts Holdings Ltd"
+  },
+  {
+    "question": "What is the reported institution in the first SAR file?",
+    "answer": "ABN AMRO"
+  }
+]

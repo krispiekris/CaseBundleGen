@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>MTA2024-012</ReportID>
+  <ReportingInstitution>HSBC Malta</ReportingInstitution>
+  <Subject>
+    <Name>Stefan Petrov</Name>
+    <Account>MT12VAGL0000000000012345</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-08-22</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>AE12050000000012345</DestinationAccount>
+    <DestinationName>Zahid Trading</DestinationName>
+    <Purpose>Investment Proceeds</Purpose>
+  </Transaction>
+</SAR>

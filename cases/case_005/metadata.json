@@ -1,48 +1,56 @@
 {
-  "case_id": "FRAUD2024-11-02-001",
+  "case_id": "FRAUD2024-078",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "NFT Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
-    "country": "Germany",
+    "age_range": "45-55",
+    "income_range": "\u20ac60,000-\u20ac80,000",
+    "country": "Netherlands",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Georgia",
     "languages_spoken": [
       "English",
-      "Bulgarian",
+      "Georgian",
       "Russian"
     ]
   },
   "destination_countries": [
-    "Cyprus",
     "United Arab Emirates",
-    "Bulgaria"
+    "Bulgaria",
+    "Portugal"
   ],
   "timeline": [
     {
-      "date": "2023-05-15",
-      "event": "Initial contact via email"
+      "date": "2023-09-15",
+      "event": "Victim contacts 'ArtGenesis' via Telegram."
     },
     {
-      "date": "2023-06-22",
-      "event": "First deposit made"
+      "date": "2023-09-22",
+      "event": "Initial investment of \u20ac5,000 made."
     },
     {
-      "date": "2023-09-10",
-      "event": "Victim attempts withdrawal - rejected"
+      "date": "2023-10-15",
+      "event": "Victim receives fabricated 'profit' distribution of \u20ac1,500."
     },
     {
-      "date": "2023-11-05",
-      "event": "Victim reports suspicious activity"
+      "date": "2023-11-01",
+      "event": "Victim attempts to withdraw \u20ac6,500; request denied."
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim reports suspicious activity to Dutch authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac15,000 - \u20ac35,000"
+      "type": "Cryptocurrency (ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
+    },
+    {
+      "type": "Bank Account (EUR)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

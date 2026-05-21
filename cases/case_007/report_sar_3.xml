@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>FIN2024-007</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Klaus Weber</Name>
+    <Account>DE8750011100002222333344</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-08-20</Date>
+    <Amount>750</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>VC795548202011005235537882</DestinationAccount>
+    <DestinationName>InnovAI Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>

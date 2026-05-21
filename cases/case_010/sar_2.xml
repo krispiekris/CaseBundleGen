@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>FIN2024-028</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Klaus Eberhardt</Name>
+    <Account>DE8770100500000000100234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-09</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>MT18BANKMT01010001234567</DestinationAccount>
+    <DestinationName>Venture Galactic Ltd</DestinationName>
+    <Purpose>NFT Purchase</Purpose>
+  </Transaction>
+</SAR>

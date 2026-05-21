@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DUTCH2024-005</ReportID>
+  <ReportingInstitution>ABN AMRO Bank</ReportingInstitution>
+  <Subject>
+    <Name>Pieter van der Meer</Name>
+    <Account>NL97ABNA0123456789</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-01</Date>
+    <Amount>6500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG48BNB3109301000257323</DestinationAccount>
+    <DestinationName>ArtGenesis Ltd.</DestinationName>
+    <Purpose>NFT Withdrawal Request</Purpose>
+  </Transaction>
+</SAR>

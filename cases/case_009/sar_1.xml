@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>AUT2024-003</ReportID>
+  <ReportingInstitution>Raiffeisenbank Austria</ReportingInstitution>
+  <Subject>
+    <Name>Klaus Bergmann</Name>
+    <Account>AT4233000000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-22</Date>
+    <Amount>7500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC230019025700000001</DestinationAccount>
+    <DestinationName>Adriatic Forex Solutions Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+</SAR>

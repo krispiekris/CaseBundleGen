@@ -1,52 +1,47 @@
 {
-  "case_id": "FRAUD2023-087",
+  "case_id": "INV2024-047",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "NFT Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000-\u20ac60,000",
-    "country": "Ireland",
+    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Serbia",
     "languages_spoken": [
       "English",
-      "Bulgarian",
-      "German"
+      "Serbian"
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "Mauritius",
-    "Bulgaria"
+    "Serbia",
+    "Malta",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2022-03-15",
-      "event": "Victim contacts 'Veridian Capital'"
+      "date": "2023-09-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2022-05-20",
-      "event": "Initial investment of \u20ac5,000 made"
+      "date": "2023-10-27",
+      "event": "First investment made"
     },
     {
-      "date": "2022-07-10",
-      "event": "Victim receives fabricated profit statement"
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal"
     },
     {
-      "date": "2022-09-01",
-      "event": "Victim attempts withdrawal, denied"
-    },
-    {
-      "date": "2022-12-15",
-      "event": "Victim reports fraud"
+      "date": "2024-02-22",
+      "event": "Withdrawal denied; communication ceases"
     }
   ],
   "assets_involved": [
     {
-      "type": "Funds",
-      "amount_range": "\u20ac5,000 - \u20ac25,000"
+      "type": "Cryptocurrency (ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     }
   ]
 }

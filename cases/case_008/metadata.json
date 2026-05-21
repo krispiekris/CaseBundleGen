@@ -1,52 +1,50 @@
 {
-  "case_id": "FIN2024-017",
-  "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "case_id": "INV2024-018",
+  "fraud_type": "Forex Scam",
+  "fraud_subtype": "Recovery Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
-    "country": "Germany",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Ireland",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Bulgarian",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "Bulgaria",
+    "Belize",
     "Seychelles"
   ],
   "timeline": [
     {
       "date": "2023-03-15",
-      "event": "Victim contacts 'AI Trading Pro'"
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-04-01",
-      "event": "Initial deposit made"
+      "date": "2023-04-22",
+      "event": "First deposit made"
     },
     {
-      "date": "2023-05-10",
-      "event": "First 'profit' withdrawal"
+      "date": "2023-07-10",
+      "event": "Victim claims losses and requests recovery assistance"
     },
     {
-      "date": "2023-07-22",
-      "event": "Victim requests full withdrawal - rejected"
+      "date": "2023-08-05",
+      "event": "Further deposits requested for 'recovery fees'"
     },
     {
-      "date": "2023-08-15",
-      "event": "Victim reports to authorities"
+      "date": "2023-09-12",
+      "event": "Victim reports suspicious activity to bank"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Forex Trading Account",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     }
   ]
 }

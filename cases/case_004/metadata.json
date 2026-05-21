@@ -1,12 +1,12 @@
 {
-  "case_id": "INV2024-047",
+  "case_id": "FRAUD2024-077",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "NFT Scam",
   "victim_profile": {
-    "age_range": "60-65",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Austria",
-    "education_level": "High School"
+    "age_range": "45-55",
+    "income_range": "75000-125000",
+    "country": "Ireland",
+    "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Serbia",
@@ -17,32 +17,39 @@
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "United Kingdom",
-    "Mauritius"
+    "Malta",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Victim receives initial promotional email"
+      "event": "Victim contacts 'ArtVerse Collective' after seeing promotional material."
     },
     {
-      "date": "2023-09-22",
-      "event": "Victim makes first investment"
+      "date": "2023-08-22",
+      "event": "Initial investment of \u20ac5,000 made by victim."
     },
     {
-      "date": "2023-12-05",
-      "event": "Victim attempts to withdraw funds; encounters issues"
+      "date": "2023-09-10",
+      "event": "Victim receives fabricated profit reports."
     },
     {
-      "date": "2024-01-18",
-      "event": "Victim reports the incident"
+      "date": "2023-11-01",
+      "event": "Victim attempts to withdraw funds, request denied."
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim reports suspicious activity to bank."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Cryptocurrency (ETH)",
+      "amount_range": "5000-15000"
+    },
+    {
+      "type": "Bank Account (EUR)",
+      "amount_range": "10000-50000"
     }
   ]
 }

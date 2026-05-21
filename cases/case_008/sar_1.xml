@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>IR2024-003</ReportID>
+  <ReportingInstitution>Allied Irish Bank</ReportingInstitution>
+  <Subject>
+    <Name>Eamon O'Connell</Name>
+    <Account>IE47AIBK94221672283000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-04-22</Date>
+    <Amount>12000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>Coral Financial Group Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+</SAR>

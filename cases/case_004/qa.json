@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the company the victim initially invested in?",
+    "answer": "ArtVerse Collective Ltd"
+  },
+  {
+    "question": "What currency was used for the initial investment transaction?",
+    "answer": "EUR"
+  },
+  {
+    "question": "Which country's bank reported the suspicious activity?",
+    "answer": "Ireland"
+  },
+  {
+    "question": "According to the files, what type of asset was the victim invested in?",
+    "answer": "NFT"
+  },
+  {
+    "question": "Who is the recipient of the money wired from the victim\u2019s account on August 22, 2023?",
+    "answer": "ArtVerse Collective Ltd"
+  },
+  {
+    "question": "What is mentioned on the website screenshot?",
+    "answer": "The screenshot shows a branded page with promotions and testimonials from 'verified investors'."
+  },
+  {
+    "question": "What is the report ID for the SAR filed with AIB Bank?",
+    "answer": "IRL2024-007"
+  },
+  {
+    "question": "What was the purpose of the transaction recorded in sar_1.xml?",
+    "answer": "Investment in NFT project"
+  },
+  {
+    "question": "What company employed the victim?",
+    "answer": "Eaton Pharmaceuticals"
+  },
+  {
+    "question": "What is the account number of Aoife Byrne?",
+    "answer": "IE42AIBK94470243958013"
+  }
+]

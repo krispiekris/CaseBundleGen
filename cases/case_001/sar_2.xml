@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BG2024-012</ReportID>
+  <ReportingInstitution>Unicredit Bulbank</ReportingInstitution>
+  <Subject>
+    <Name>Dimitri Petrov</Name>
+    <Account>BG51BNES95071020168349</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NL93ABNA018452411029</DestinationAccount>
+    <DestinationName>Hendrik Vermeer</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>

@@ -1,11 +1,11 @@
 {
-  "case_id": "EUR2024-017",
+  "case_id": "INV2024-048",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Ireland",
+    "income_range": "\u20ac40,000-\u20ac60,000",
+    "country": "Netherlands",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -13,39 +13,34 @@
     "languages_spoken": [
       "English",
       "Bulgarian",
-      "Russian"
+      "German"
     ]
   },
   "destination_countries": [
-    "Malta",
-    "Seychelles",
-    "Belize"
+    "Bulgaria",
+    "Serbia"
   ],
   "timeline": [
     {
-      "date": "2023-07-15",
-      "event": "Victim contacts 'AI Trader Pro' via online advertisement."
-    },
-    {
-      "date": "2023-08-01",
-      "event": "Initial investment of \u20ac5,000 made by victim."
-    },
-    {
       "date": "2023-08-15",
-      "event": "Victim receives fabricated profit statements."
+      "event": "Initial contact via email"
     },
     {
       "date": "2023-09-01",
-      "event": "Victim attempts withdrawal, met with demands for 'processing fees'."
+      "event": "First investment made"
     },
     {
-      "date": "2023-09-15",
-      "event": "Victim realizes funds are inaccessible and reports fraud."
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal, denied"
+    },
+    {
+      "date": "2024-02-22",
+      "event": "Victim reports suspicious activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency",
+      "type": "EUR",
       "amount_range": "\u20ac5,000 - \u20ac15,000"
     }
   ]

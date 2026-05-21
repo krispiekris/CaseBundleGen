@@ -1,12 +1,12 @@
 {
-  "case_id": "INV2024-017",
-  "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "case_id": "INV2024-027",
+  "fraud_type": "Forex Scam",
+  "fraud_subtype": "Recovery Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac50,000-\u20ac80,000",
+    "age_range": "60-65",
+    "income_range": "\u20ac40,000-\u20ac60,000",
     "country": "Germany",
-    "education_level": "Bachelor's Degree"
+    "education_level": "High School"
   },
   "fraudster_profile": {
     "location": "Bulgaria",
@@ -17,32 +17,35 @@
     ]
   },
   "destination_countries": [
-    "Bulgaria",
-    "Lithuania",
-    "Malta"
+    "Seychelles",
+    "Bulgaria"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Victim receives initial promotional email"
+      "date": "2023-08-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-10-27",
-      "event": "Victim deposits initial funds"
+      "date": "2023-09-22",
+      "event": "First deposit made"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim attempts withdrawal, is denied"
+      "event": "Victim claims losses and seeks recovery assistance"
     },
     {
       "date": "2024-02-01",
-      "event": "Victim reports fraud"
+      "event": "Second deposit requested for 'recovery fees'"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim reports the scam to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Forex Trading Accounts",
+      "amount_range": "\u20ac15,000 - \u20ac30,000"
     }
   ]
 }

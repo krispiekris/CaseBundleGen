@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>IRL2024-007</ReportID>
+  <ReportingInstitution>AIB Bank</ReportingInstitution>
+  <Subject>
+    <Name>Aoife Byrne</Name>
+    <Account>IE42AIBK94470243958013</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-08-22</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>MT12VAGL0000000000012345</DestinationAccount>
+    <DestinationName>ArtVerse Collective Ltd</DestinationName>
+    <Purpose>Investment in NFT project</Purpose>
+  </Transaction>
+</SAR>

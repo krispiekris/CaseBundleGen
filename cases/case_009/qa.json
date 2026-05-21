@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the primary fraud type in this case?",
+    "answer": "Investment Fraud"
+  },
+  {
+    "question": "What is the victim\u2019s name?",
+    "answer": "Klaus Bergmann"
+  },
+  {
+    "question": "Which company is mentioned in both the promotional brochure and the bank statement?",
+    "answer": "Adriatic Forex Solutions Ltd"
+  },
+  {
+    "question": "What amount did the victim pay as a 'processing fee'?",
+    "answer": "\u20ac375"
+  },
+  {
+    "question": "What is the stated purpose of the first transaction recorded in the SAR file?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "According to the email, what is the reason provided for the processing fee?",
+    "answer": "Market volatility"
+  },
+  {
+    "question": "What is the country of registration for Adriatic Forex Solutions Ltd, as mentioned in the SAR file?",
+    "answer": "Cyprus"
+  },
+  {
+    "question": "What is the primary language spoken by the fraudster, according to the metadata?",
+    "answer": "English"
+  },
+  {
+    "question": "What is the account number of the victim\u2019s account at Raiffeisenbank Austria?",
+    "answer": "AT4233000000001234567890"
+  },
+  {
+    "question": "What does the website screenshot description indicate about the displayed profit graph?",
+    "answer": "Results not typical"
+  }
+]

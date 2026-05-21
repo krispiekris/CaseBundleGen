@@ -53,6 +53,11 @@ def generate_case(case_id="case_001", model="gemma3:12b"):
         json.dumps(data["metadata"], indent=2)
     )
 
+    # Save QA
+    (case_dir / "qa.json").write_text(
+        json.dumps(data["qa"], indent=2)
+    )
+
     # Save all generated files
     for f in data["files"]:
         (case_dir / f["filename"]).write_text(f["content"])

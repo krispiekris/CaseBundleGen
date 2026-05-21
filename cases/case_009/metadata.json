@@ -1,42 +1,46 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "INV2024-018",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Ireland",
+    "income_range": "\u20ac50,000-\u20ac75,000",
+    "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Cyprus",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "German"
+      "Greek",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Malta",
-    "United Arab Emirates",
-    "Bulgaria"
+    "Seychelles",
+    "United Kingdom",
+    "Dominica"
   ],
   "timeline": [
     {
-      "date": "2023-05-12",
+      "date": "2023-09-15",
       "event": "Initial contact via email"
     },
     {
-      "date": "2023-06-28",
-      "event": "First investment made"
+      "date": "2023-09-22",
+      "event": "First deposit made"
     },
     {
-      "date": "2023-09-15",
-      "event": "Withdrawal attempt fails"
+      "date": "2023-11-10",
+      "event": "Victim requests withdrawal"
     },
     {
-      "date": "2023-11-03",
-      "event": "Victim reports fraud"
+      "date": "2023-11-15",
+      "event": "Withdrawal request denied, presented with 'fees'"
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim reports suspicious activity"
     }
   ],
   "assets_involved": [

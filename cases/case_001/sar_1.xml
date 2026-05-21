@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>NL2024-007</ReportID>
+  <ReportingInstitution>ABN AMRO</ReportingInstitution>
+  <Subject>
+    <Name>Hendrik Vermeer</Name>
+    <Account>NL93ABNA018452411029</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG51BNES95071020168349</DestinationAccount>
+    <DestinationName>NovaTech Investments EOOD</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+</SAR>

@@ -1,0 +1,5 @@
+A simple webpage titled "Fake Login Portal 1".
+Inside a rectangular bordered area, there are two labeled input fields:
+"Username:" followed by an empty line, and "Password:" followed by an empty line.
+Below the fields are two clickable links labeled "Login" and "Create Account".
+The layout is minimal with plain text and no images, graphics, or additional interface elements.

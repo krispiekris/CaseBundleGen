@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the victim's account number?",
+    "answer": "DE87370400440532113014"
+  },
+  {
+    "question": "What company did the victim initially transfer funds to?",
+    "answer": "Aetheria Collective Ltd"
+  },
+  {
+    "question": "When was the SAR filed?",
+    "answer": "2023-06-22"
+  },
+  {
+    "question": "What is the reported fraud subtype?",
+    "answer": "NFT Scam"
+  },
+  {
+    "question": "What currency was used for the initial investment?",
+    "answer": "EUR"
+  },
+  {
+    "question": "What is the name of the reporting institution?",
+    "answer": "Deutsche Kreditbank"
+  },
+  {
+    "question": "What is one of the destination countries associated with the fraud?",
+    "answer": "Malta"
+  },
+  {
+    "question": "What email subject line was used to initially contact the victim?",
+    "answer": "Limited Time Offer: Aetheria Collective Invitation"
+  }
+]

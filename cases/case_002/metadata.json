@@ -1,46 +1,46 @@
 {
-  "case_id": "INV2024-042",
+  "case_id": "FRAUD2023-087",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "NFT Scam",
   "victim_profile": {
-    "age_range": "60-65",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "age_range": "45-54",
+    "income_range": "\u20ac60,000-\u20ac90,000",
     "country": "Germany",
-    "education_level": "High School"
+    "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Cyprus",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Greek"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Seychelles"
+    "Malta",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacts 'InvestHorizon'"
+      "date": "2023-03-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-09-05",
-      "event": "Initial deposit made"
+      "date": "2023-04-01",
+      "event": "First investment made"
     },
     {
-      "date": "2023-11-10",
-      "event": "Withdrawal request denied"
+      "date": "2023-05-10",
+      "event": "Victim attempts withdrawal, rejected"
     },
     {
-      "date": "2024-01-22",
-      "event": "Victim reports to bank"
+      "date": "2023-06-22",
+      "event": "SAR filed by bank"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac15,000"
+      "type": "Cryptocurrency (ETH)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     }
   ]
 }
