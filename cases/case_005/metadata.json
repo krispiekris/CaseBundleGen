@@ -1,10 +1,10 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "INV2024-027",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
     "country": "Netherlands",
     "education_level": "Bachelor's Degree"
   },
@@ -17,34 +17,39 @@
   },
   "destination_countries": [
     "Belize",
-    "United Kingdom"
+    "United Kingdom",
+    "Hong Kong"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacts 'QuantumLeap AI' through online advertisement"
-    },
-    {
-      "date": "2023-09-01",
-      "event": "Initial deposit made by victim"
-    },
-    {
       "date": "2023-11-15",
-      "event": "Victim requests withdrawal, faces obstacles and pressure"
+      "event": "Victim contacted by 'investment advisor'"
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim reports suspicious activity"
+      "date": "2023-12-05",
+      "event": "Initial deposit made"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "First 'profit' withdrawal"
+    },
+    {
+      "date": "2024-03-20",
+      "event": "Victim attempts to withdraw larger sum, blocked"
+    },
+    {
+      "date": "2024-04-15",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "10000-25000"
+      "amount_range": "\u20ac5,000 - \u20ac20,000"
     },
     {
       "type": "BTC",
-      "amount_range": "0.1-0.5"
+      "amount_range": "0.1 - 0.5"
     }
   ]
 }

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the report ID of the initial Suspicious Activity Report (SAR) filed by Credident Bank?",
-    "answer": "AT2024-007"
+    "question": "What is the report ID of the SAR filed by Erste Bank?",
+    "answer": "INV2024-017-SAR2"
   },
   {
-    "question": "According to the promotional email, what is the key feature of NovaTrade AI?",
-    "answer": "It utilizes cutting-edge artificial intelligence to maximize profits."
+    "question": "According to the brochure, what is a key feature of NovaTrade AI's trading?",
+    "answer": "AI-Powered Trading: Our advanced algorithms work 24/7 to maximize your profits."
   },
   {
-    "question": "What is the purpose stated for the transactions involving Heinrich Gruber and NovaTrade Global Investments Ltd?",
+    "question": "What was the purpose of the transaction on 2023-09-01?",
     "answer": "Investment"
   },
   {
-    "question": "Which destination account is consistently used for the transactions linked to NovaTrade Global Investments Ltd?",
-    "answer": "CY800020000000000000000000"
+    "question": "What additional investment was requested from Hans Gruber according to email_3?",
+    "answer": "500 EUR"
   },
   {
-    "question": "What does the promotional brochure claim about NovaTrade AI\u2019s trading capabilities?",
-    "answer": "It claims the AI works 24/7 and provides consistent profits in any market."
+    "question": "Which bank initially reported the suspicious activity?",
+    "answer": "Volksbank Wien"
   },
   {
-    "question": "What does the urgent email indicate could happen if Heinrich Gruber doesn't verify his account?",
-    "answer": "Account suspension and loss of funds"
+    "question": "What is the destination account for the initial deposit of 12000 EUR?",
+    "answer": "CY7000300000000000"
   },
   {
-    "question": "What characteristics of the 'NovaTrade Global Investments Ltd' registration raise concerns?",
-    "answer": "The registration number appears randomly generated, the address is a generic P.O. Box, and the listed director is frequently associated with offshore company registrations."
+    "question": "What entity is associated with the withdrawal request of 1000 EUR?",
+    "answer": "Altcoin Global Ltd"
   },
   {
-    "question": "What is the primary concern highlighted in SAR_2, regarding Heinrich Gruber\u2019s activity?",
-    "answer": "A potential link to an investment fraud scheme involving an online trading platform, following similar activity reported by Credident Bank."
+    "question": "What is the ROI promised by NovaTrade AI in email_2?",
+    "answer": "An average ROI of 20% per week."
   },
   {
-    "question": "What is the amount of Heinrich Gruber's salary as reported in bank_statement_2?",
-    "answer": "3200 EUR"
+    "question": "What does SAR 3 identify as the destination of funds transferred from Altcoin Global Ltd?",
+    "answer": "Unknown"
   },
   {
-    "question": "Which German bank filed a SAR with report ID DE2024-035 regarding Heinrich Gruber\u2019s transactions?",
-    "answer": "Deutsche Kreditbank"
+    "question": "According to website_screenshot_1, what are the testimonials on the NovaTrade AI website?",
+    "answer": "Testimonials from 'satisfied users' with generic stock photos."
   }
 ]

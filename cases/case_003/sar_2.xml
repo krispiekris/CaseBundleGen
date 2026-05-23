@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-018-002</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <ReportID>AT2024-5678</ReportID>
+  <ReportingInstitution>Alpine Credit Union</ReportingInstitution>
   <Subject>
-    <Name>NovaTrade Investments Ltd</Name>
+    <Name>Affiliate Marketer</Name>
+    <Account>AT1234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
+    <Date>2023-10-20</Date>
+    <Amount>2500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GB29BARC000000000000</DestinationAccount>
-    <DestinationName>Client Account</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>BM000000000000000000</DestinationAccount>
+    <DestinationName>QuantumAlgo Ltd</DestinationName>
+    <Purpose>Commission</Purpose>
   </Transaction>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB29BARC000000000000</DestinationAccount>
-    <DestinationName>Client Account</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-    <Findings>
-    <SuspiciousActivity>Unusual investment activity, potential investment fraud.</SuspiciousActivity>
-    <Reason>Funds transferred to Cyprus-based entity with unclear investment purpose.</Reason>
-  </Findings>
+  <Findings>Recurring payments received from an affiliate marketer promoting QuantumAlgo.</Findings>
 </SAR>

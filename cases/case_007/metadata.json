@@ -1,10 +1,10 @@
 {
-  "case_id": "INV2024-018",
+  "case_id": "INV2024-017",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
     "country": "Austria",
     "education_level": "University Degree"
   },
@@ -17,31 +17,35 @@
     ]
   },
   "destination_countries": [
-    "Saint Vincent and the Grenadines",
-    "Belize"
+    "Belize",
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Initial Contact - Promotional Email"
+      "date": "2023-08-15",
+      "event": "Initial contact with 'NovaTrade AI'"
     },
     {
-      "date": "2023-10-05",
-      "event": "Victim makes first investment"
+      "date": "2023-09-01",
+      "event": "First deposit made"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim attempts to withdraw funds - denied"
+      "date": "2023-11-10",
+      "event": "Victim requests withdrawal; partially blocked."
     },
     {
-      "date": "2024-02-28",
+      "date": "2024-01-20",
       "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "10000-30000"
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.3"
     }
   ]
 }

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial SAR (INV2024-017-SAR1), what is the primary concern regarding Johannes Vermeer's account activity?",
-    "answer": "Account activity inconsistent with stated income."
+    "question": "What is the ReportID for the Suspicious Activity Report (SAR) filed by ABN AMRO?",
+    "answer": "INV2024-027-001"
   },
   {
-    "question": "What is the stated purpose for the first two transactions from Johannes Vermeer to QuantumLeap Investments Ltd, as detailed in SAR 1?",
-    "answer": "Initial Investment and Additional Investment."
+    "question": "What amount did Victim 1 initially invest with Altcoin Global Ltd, according to the bank statement?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What promotional claim is made in the brochure regarding QuantumLeap AI's performance?",
-    "answer": "Our cutting-edge AI algorithms generate consistent returns, even in volatile markets."
+    "question": "According to promotional material, what is the main benefit offered by QuantumFX AI Trader?",
+    "answer": "Unparalleled returns"
   },
   {
-    "question": "What contact information is listed for QuantumLeap Investments Ltd in the website screenshot?",
-    "answer": "A Belizean address and a UK phone number."
+    "question": "What is the purpose stated for the transaction in the SAR filed by HSBC regarding Altcoin Global Ltd?",
+    "answer": "Investment"
   },
   {
-    "question": "Based on the emails, what incentive was offered to Johannes Vermeer to deposit more funds?",
-    "answer": "A 15% bonus on all deposits."
+    "question": "What is the DestinationAccount where Altcoin Global Ltd transferred funds to according to the SAR filed by ABN AMRO?",
+    "answer": "LT12100001110123451"
   },
   {
-    "question": "Which institution filed the SAR detailing transactions from Johannes Vermeer to QuantumLeap, and what is the report ID?",
-    "answer": "ABN AMRO, INV2024-017-SAR1."
+    "question": "What is the stated reason for the delay in Victim 1's withdrawal request, according to the fourth email?",
+    "answer": "High transaction volume"
   },
   {
-    "question": "How much money did Johannes Vermeer transfer to QuantumLeap Investments Ltd on September 5th, 2023?",
-    "answer": "12000 EUR."
+    "question": "What account did Hong Kong Company Ltd. transfer funds to, as stated in the SAR filed by Standard Chartered?",
+    "answer": "Belize Account"
   },
   {
-    "question": "What is the stated purpose of the transactions in SAR 2 and 3?",
-    "answer": "Investment."
+    "question": "Besides the Netherlands, which other countries are involved in the money transfers?",
+    "answer": "United Kingdom and Belize"
   },
   {
-    "question": "What is the main claim made by the recovery email from 'assetretrieval.com'?",
-    "answer": "We believe we can assist in retrieving a portion of your lost funds."
+    "question": "What did the screenshot of the QuantumFX website describe about its design?",
+    "answer": "Clean, modern interface intended to convey trustworthiness and sophistication"
   },
   {
-    "question": "According to the website screenshot, what is a feature offered to users of the platform?",
-    "answer": "A chat feature offering 'personalized support'."
+    "question": "What risk assessment was assigned to the transaction by ABN AMRO?",
+    "answer": "High"
   }
 ]

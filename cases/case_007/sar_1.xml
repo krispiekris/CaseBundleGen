@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AT2024-007</ReportID>
-  <ReportingInstitution>Credident Bank</ReportingInstitution>
+  <ReportID>INV2024-017-SAR1</ReportID>
+  <ReportingInstitution>Volksbank Wien</ReportingInstitution>
   <Subject>
-    <Name>Heinrich Gruber</Name>
-    <Account>AT132060000000000000001</Account>
+    <Name>Hans Gruber</Name>
+    <Account>AT421420000000000001</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-03</Date>
-    <Amount>5000</Amount>
+    <Date>2023-09-01</Date>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade Global Investments Ltd</DestinationName>
+    <DestinationAccount>CY7000300000000000</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade Global Investments Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Suspected investment fraud scheme involving online trading platform.</Findings>
+  <Findings>Initial deposit of a significant amount to a newly established entity. Unusual trading patterns observed shortly after deposit.</Findings>
+  <ReportDate>2023-11-15</ReportDate>
 </SAR>

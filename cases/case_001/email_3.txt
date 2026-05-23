@@ -1,11 +1,13 @@
-From: withdrawals@quantumalpha.co
-To: gerhard.steiner@email.at
-Subject: Withdrawal Confirmation – Processing
+From: profits@quantumleapinvestments.net
+To: hendrik.jansen@email.nl
+Subject: Profit Distribution - QuantumLeap Investments
 
-Dear Gerhard,
+Dear Hendrik,
 
-This email confirms that your withdrawal request for €10,000 has been processed and is currently being reviewed. Please allow 3-5 business days for the funds to be credited to your account.
+We’re pleased to announce your profit distribution for the period of January 1st to March 31st. Your total profit is €3,000.
 
-Thank you for choosing QuantumAlpha.
+To receive your profit, please follow this link and confirm your withdrawal details:
+[Fake withdrawal link]
 
-The QuantumAlpha Team
+Sincerely,
+The QuantumLeap Investments Team

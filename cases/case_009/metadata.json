@@ -1,51 +1,50 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "INV2024-032",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
     "income_range": "60000-80000 EUR",
-    "country": "Austria",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Greek",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Bulgaria",
-    "Lithuania"
+    "Belize",
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Initial Contact - Promotional Email"
+      "date": "2023-08-15",
+      "event": "Victim contacts QuantumAI Solutions"
     },
     {
-      "date": "2023-10-01",
-      "event": "Victim deposits initial funds"
+      "date": "2023-09-01",
+      "event": "Initial investment made"
     },
     {
       "date": "2023-11-15",
-      "event": "False profit statements begin"
+      "event": "Victim withdraws small profit"
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim attempts withdrawal - rejected"
+      "date": "2024-01-10",
+      "event": "Requests for larger investments begin"
     },
     {
-      "date": "2024-02-10",
-      "event": "Victim reports fraud"
+      "date": "2024-03-20",
+      "event": "Victim reports loss"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "10000-25000"
+      "amount_range": "15000-30000"
     }
   ]
 }

@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>LC2024-002</ReportID>
+  <ReportID>INV2024-017-003</ReportID>
   <ReportingInstitution>Belize International Bank</ReportingInstitution>
   <Subject>
-    <Name>Global Invest Holdings</Name>
-    <Account>LC1234567890</Account>
+    <Name>NovaTrade AI</Name>
+    <Account>BZ1234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SZ00000012345</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Investment Funds</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-11-10</Date>
+    <Date>2023-09-10</Date>
     <Amount>15000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>SZ00000012345</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Investment Funds</Purpose>
+    <SourceAccount>LT12100001110123451</SourceAccount>
+    <SourceName>NovaTrade AI</SourceName>
+    <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Receives funds from Austria and channels them to Seychelles. Shell company with limited operational information.</Findings>
+  <Findings>Transfers to offshore account with no apparent business purpose. Potential money laundering.</Findings>
 </SAR>

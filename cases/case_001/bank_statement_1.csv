@@ -1,6 +1,5 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-11-10,Salary,3800,EUR,Employer Name
-2023-11-15,Transfer Out,-12000,EUR,Nova Finance UAB
-2023-12-05,Transfer Out,-3000,EUR,Nova Finance UAB
-2023-12-10,Salary,3800,EUR,Employer Name
-2024-01-05,Transfer Out,-1000,EUR,Nova Finance UAB
+2023-11-20,Transfer to QuantumLeap,-2000,EUR,QuantumLeap Investments Ltd
+2023-12-01,Investment,5000,EUR,QuantumLeap Investments Ltd
+2024-01-10,Investment,2500,EUR,QuantumLeap Investments Ltd
+2024-02-15,Withdrawal Request,,-EUR,

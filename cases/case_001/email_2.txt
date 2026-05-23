@@ -1,12 +1,12 @@
-From: support@quantumalpha.co
-To: gerhard.steiner@email.at
-Subject: Urgent: Maintain Your Investment Momentum!
+Subject: Important Security Alert - Account Verification Required
 
-Dear Gerhard,
+Dear Customer,
 
-We've noticed your account activity has been reduced. To maintain your current investment momentum and continue benefiting from our AI's predictive power, we strongly encourage you to add funds to your account. 
+We have detected unusual activity on your QuantumLeap Investments account. To ensure the security of your funds, please verify your account details by clicking the link below:
 
-Deposit now and receive a limited-time bonus of 5% on your deposit!
+[Fake verification link]
 
-Best regards,
-QuantumAlpha Support
+Failure to verify your account within 24 hours may result in suspension of your account.
+
+Sincerely,
+QuantumLeap Investments Support

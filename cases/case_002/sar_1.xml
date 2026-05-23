@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-032-001</ReportID>
-  <ReportingInstitution>Credobank Austria</ReportingInstitution>
+  <ReportID>DEU2023-123</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
   <Subject>
-    <Name>Karl Schmidt</Name>
-    <Account>AT7011000000000012345</Account>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
+    <Date>2023-10-20</Date>
     <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>FC1234567890123456789</DestinationAccount>
-    <DestinationName>ApexAI Solutions Ltd</DestinationName>
-    <Purpose>Investment in AI Trading Bot</Purpose>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Customer reported unusually high transaction volume and promised high returns on automated trading platform. Initial investment made with subsequent smaller transfers.</Findings>
+  <Findings>Unusual transaction amount and destination country. Further investigation recommended.</Findings>
 </SAR>

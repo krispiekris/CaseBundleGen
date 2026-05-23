@@ -1,12 +1,10 @@
-From: compliance@novatrade.net
-To: karl.berger@email.at
-Subject: Important: Verification of Account
+From: withdrawal_agent@novatrade.fake
+To: victim1@email.com
+Subject: NovaTrade AI Withdrawal Processing
 
-Dear Karl,
+Dear Victim 1,
 
-To ensure the security of your account and comply with regulatory requirements, we require you to submit copies of your passport and a recent utility bill.
+Your large withdrawal request has been approved. To finalize the process, please confirm your bank details and a small processing fee of 50 EUR.
 
-You can upload your documents here: www.novatrade.net/verification
-
-Thank you for your cooperation.
-The NovaTrade AI Compliance Team
+Regards,
+Withdrawal Agent

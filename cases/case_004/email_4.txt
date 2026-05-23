@@ -1,12 +1,15 @@
-From: QuantumFX Promotions <promotions@quantumfx.ai>
-To: wolfgang.schmidt@email.at
-Subject: Limited-Time Bonus Offer!
+From: NovaTech AI Trading <withdrawal@novatechtrading.com>
+To: Victim 1 <victim1@email.com>
+Subject: Withdrawal Confirmation
 
-Dear Wolfgang,
+Dear [Victim 1],
 
-For a limited time only, we're offering a special bonus to our valued members!  Deposit 3000 EUR or more and receive a 10% bonus on top of your existing balance!
+We are pleased to confirm that your withdrawal request has been processed and your funds are on their way.
 
-This offer expires soon, so don't miss out!
+Transaction ID: NTW-20231110-12345
+Amount: €5,000
+
+Thank you for investing with NovaTech AI Trading.
 
 Sincerely,
-The QuantumFX Promotions Team
+The NovaTech AI Trading Withdrawal Team

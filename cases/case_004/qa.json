@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by Bank ABC?",
-    "answer": "ABC2024-123"
+    "question": "What is the report ID for the initial Suspicious Activity Report (SAR) filed by ABN AMRO?",
+    "answer": "INV2024-017-001"
   },
   {
-    "question": "What is the purpose stated for the transactions to QuantumLeap Investments?",
+    "question": "According to the email from NovaTech AI Trading, what potential daily return was advertised to victims?",
+    "answer": "Up to 20%"
+  },
+  {
+    "question": "What is the destination account number consistently used for transfers related to NovaTech Investments Ltd?",
+    "answer": "CY610020000100000000000000"
+  },
+  {
+    "question": "Based on the SAR filed by Alpha Bank Cyprus, where are the destination accounts located?",
+    "answer": "The Netherlands"
+  },
+  {
+    "question": "What is the purpose stated for the transactions between Victim 1 and NovaTech Investments Ltd?",
     "answer": "Investment"
   },
   {
-    "question": "What is the initial processing fee requested by Sterling Bridge Ltd?",
-    "answer": "2000 EUR"
+    "question": "What is the 'Transaction ID' shown in the email confirmation of a withdrawal?",
+    "answer": "NTW-20231110-12345"
   },
   {
-    "question": "According to the website screenshot, what is a notable characteristic of the QuantumLeap Investments website URL?",
-    "answer": "It uses a .fake domain extension."
+    "question": "Which entity is linked to a network of fraudulent investment schemes operating in Serbia and Cyprus, according to Europol\u2019s SAR?",
+    "answer": "Golden Horizon Ltd"
   },
   {
-    "question": "What date did Victor Schmidt receive an email urging him to increase his deposit to maximize returns?",
-    "answer": "Not mentioned in the case files"
+    "question": "What amount of funds was Victim 1 offered a 10% return on, according to the second email?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "Besides QuantumLeap Investments, which other entity is associated with Victor Schmidt's transactions?",
-    "answer": "Sterling Bridge Ltd"
+    "question": "How many times did Victim 1 receive a salary from Company A, as recorded in the bank statement?",
+    "answer": "Two"
   },
   {
-    "question": "What is the finding in the HSBC UK SAR regarding Sterling Bridge Ltd?",
-    "answer": "Funds being transferred to a UK company claiming to be a funds recovery service."
-  },
-  {
-    "question": "What promotional claim does the QuantumLeap Investments brochure make regarding its investment strategy?",
-    "answer": "Harness the power of AI to generate daily profits."
-  },
-  {
-    "question": "What is the total amount transferred to QuantumLeap Investments?",
-    "answer": "25000 EUR"
-  },
-  {
-    "question": "What country is associated with the offshore account receiving funds from Victor Schmidt?",
-    "answer": "Belize"
+    "question": "According to the SAR filed by Europol, what is the investigative priority regarding Golden Horizon Ltd?",
+    "answer": "Investigative priority"
   }
 ]

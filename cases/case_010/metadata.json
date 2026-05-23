@@ -4,52 +4,52 @@
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "75000-100000 EUR",
-    "country": "Austria",
+    "income_range": "60000-80000 EUR",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Cyprus",
     "languages_spoken": [
       "English",
-      "Spanish",
+      "Greek",
       "Russian"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Seychelles"
+    "Lithuania",
+    "Belize"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Initial Contact"
+      "event": "Initial contact via email"
     },
     {
       "date": "2023-09-01",
-      "event": "First Deposit"
+      "event": "Victim deposits initial funds"
     },
     {
       "date": "2023-11-10",
-      "event": "Increased Investment"
+      "event": "First 'withdrawal' processed (small amount)"
     },
     {
       "date": "2024-01-20",
-      "event": "Victim Attempts Withdrawal"
+      "event": "Victim attempts large withdrawal \u2013 rejected"
     },
     {
       "date": "2024-02-05",
-      "event": "Account Restricted"
+      "event": "Victim reports to authorities"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "20000-45000"
+      "amount_range": "10000-25000"
     },
     {
       "type": "BTC",
-      "amount_range": "0.5-1.5"
+      "amount_range": "0.1-0.5"
     }
   ]
 }

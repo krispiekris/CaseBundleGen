@@ -1,5 +1,5 @@
 {
-  "case_id": "INV2024-018",
+  "case_id": "INV2024-042",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -9,43 +9,47 @@
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Serbia",
     "languages_spoken": [
       "English",
-      "Spanish",
-      "Mandarin"
+      "Serbian",
+      "German"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Hong Kong"
+    "Serbia",
+    "Cyprus"
   ],
   "timeline": [
     {
+      "date": "2023-09-15",
+      "event": "Initial contact from 'Automated Investments'"
+    },
+    {
+      "date": "2023-10-01",
+      "event": "Victim deposits initial \u20ac5,000"
+    },
+    {
       "date": "2023-11-15",
-      "event": "Victim contacts 'investment advisor'"
+      "event": "Victim encouraged to deposit more, citing exceptional profits"
     },
     {
-      "date": "2024-01-20",
-      "event": "Initial deposit made"
+      "date": "2024-01-10",
+      "event": "Withdrawal request denied, citing 'security protocol'"
     },
     {
-      "date": "2024-03-10",
-      "event": "Victim attempts withdrawal, denied"
-    },
-    {
-      "date": "2024-05-01",
-      "event": "Victim reports to authorities"
+      "date": "2024-03-20",
+      "event": "Victim reports fraudulent activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac20,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     }
   ]
 }

@@ -1,51 +1,58 @@
 {
-  "case_id": "INV2024-018",
+  "case_id": "INV2024-027",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
-    "country": "Austria",
+    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "country": "Netherlands",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Greek",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Lithuania",
-    "Slovakia"
+    "Belize",
+    "Marshall Islands"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumAlpha'"
+      "event": "Victim contacts 'QuantumLeap Investments' via online advertisement."
     },
     {
-      "date": "2023-12-05",
-      "event": "Initial deposit made"
+      "date": "2023-12-01",
+      "event": "Initial investment of \u20ac5,000 made by victim."
     },
     {
       "date": "2024-01-10",
-      "event": "Victim experiences fabricated profits"
+      "event": "Victim receives fabricated profits, encouraging further investment."
     },
     {
       "date": "2024-02-28",
-      "event": "Victim requests withdrawal, denied"
+      "event": "Victim attempts to withdraw funds; request denied."
     },
     {
       "date": "2024-03-15",
-      "event": "Victim reports fraud"
+      "event": "Victim reports suspicious activity to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "10000-25000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
+    },
+    {
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
+    },
+    {
+      "type": "US Dollar Bank Account",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

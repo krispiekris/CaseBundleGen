@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-017-001</ReportID>
-  <ReportingInstitution>Credobank Austria</ReportingInstitution>
+  <ReportID>INV2024-032-SAR1</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
   <Subject>
-    <Name>Hans Gruber</Name>
-    <Account>AT141100000000000004789012</Account>
+    <Name>Hans Schmidt</Name>
+    <Account>DE8770020290000000000123</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-01</Date>
+    <Date>2023-09-05</Date>
     <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <DestinationAccount>BZ1206005000000100000000</DestinationAccount>
+    <DestinationName>QuantumAI Solutions Ltd</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Transaction>
-    <Date>2023-11-10</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual transaction pattern; large deposits followed by transfers to offshore account. Subject exhibits signs of being targeted by an investment scam.</Findings>
+  <Findings>Unusually large transfer to Belize-based company. The stated purpose of investment is concerning given the limited interaction prior to the transfer.</Findings>
 </SAR>

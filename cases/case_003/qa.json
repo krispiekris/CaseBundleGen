@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the IBAN of Hans Schmidt's bank account?",
-    "answer": "DE89370400440532013000"
+    "question": "What is the name of the reporting institution in SAR AT2024-1234?",
+    "answer": "Creditas Bank Austria"
   },
   {
-    "question": "According to the promotional material, what is a key feature of NovaTrade AI?",
-    "answer": "24/7 Automated Trading"
+    "question": "According to the promotional material, what technology is used by QuantumAlgo?",
+    "answer": "AI-powered trading platform"
   },
   {
-    "question": "What is the purpose stated for the transactions from Hans Schmidt's account to NovaTrade Investments Ltd?",
+    "question": "What is the purpose of the transaction on 2024-01-10 involving Victim 1's account?",
     "answer": "Investment"
   },
   {
-    "question": "What is the account name and bank for the tax processing fee transfer requested in email_3?",
-    "answer": "Account Name: Secure Investments Ltd, Bank: Deutsche Bank"
+    "question": "What KYC documentation does QuantumAlgo request from Victim 1?",
+    "answer": "A copy of their passport or government-issued ID"
   },
   {
-    "question": "What is the destination account for the initial \u20ac5000 transaction from Hans Schmidt to NovaTrade Investments Ltd, as reported in SAR_1?",
-    "answer": "CY12000001920000000000"
+    "question": "What is the main reason for the processing fee mentioned in email_3?",
+    "answer": "Increased security measures"
   },
   {
-    "question": "What is the total profit reported to Hans Schmidt in email_2?",
-    "answer": "\u20ac1045.78"
+    "question": "What is the purpose of the transactions involving the 'Affiliate Marketer' accounts?",
+    "answer": "Commission"
   },
   {
-    "question": "Which bank statement shows an outgoing transfer of \u20ac1500?",
-    "answer": "bank_statement_2.csv"
+    "question": "What is the account number associated with Victim 1 in SAR AT2024-1234?",
+    "answer": "GR1601101250000000012310695"
   },
   {
-    "question": "What is the SWIFT code provided for the final payment confirmation in email_4?",
-    "answer": "TDMXUSDM"
+    "question": "Based on the website screenshot, what visual elements are used to portray QuantumAlgo?",
+    "answer": "Sleek, modern design with animated charts and graphs demonstrating impressive returns, prominent testimonials, and a 'Join Now' button."
   },
   {
-    "question": "What suspicious activity is reported in SAR_3?",
-    "answer": "Unusual investment activity, potential investment fraud."
+    "question": "What is the destination account used for all transactions mentioned in the provided files?",
+    "answer": "BM000000000000000000"
   },
   {
-    "question": "What does the screenshot_1 file describe about the NovaTrade AI platform?",
-    "answer": "The platform features a clean and modern design with a prominent graph displaying simulated trading performance, accessible live chat support, and buttons for 'Start Trading,' 'Withdraw Funds,' and 'Account Settings'."
+    "question": "What is the link provided in the email regarding KYC verification?",
+    "answer": "www.quantumalgo.fake/kyc"
   }
 ]

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-032-003</ReportID>
-  <ReportingInstitution>Raiffeisen Bank International</ReportingInstitution>
+  <ReportID>LTU2024-007</ReportID>
+  <ReportingInstitution>Šiaulių bankas</ReportingInstitution>
   <Subject>
-    <Name>Other Victim Name</Name>
-    <Account>AT1234567890123456</Account>
+    <Name>Altalytics GmbH</Name>
+    <Account>LT12100001110123451</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>5000</Amount>
+    <Date>2023-10-20</Date>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>FC1234567890123456789</DestinationAccount>
-    <DestinationName>ApexAI Solutions Ltd</DestinationName>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Similar transaction pattern observed with another customer.  Reporting Institution flagged based on similar reporting by Credobank and Sparkasse.</Findings>
+  <Findings>Receiving significant funds from multiple foreign accounts. Company registration information incomplete and suspicious.</Findings>
 </SAR>

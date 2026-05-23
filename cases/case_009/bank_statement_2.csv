@@ -1,6 +1,6 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-10-01,Transfer to Altcoin Global Ltd,12000,EUR,Altcoin Global Ltd
-2023-11-01,Transfer to Altcoin Global Ltd,3000,EUR,Altcoin Global Ltd
-2023-12-01,Salary,3500,EUR,ABC Company
-2024-01-05,Withdrawal Attempt,-5000,EUR,
-2024-01-07,Withdrawal Rejection,-5000,EUR,
+2023-08-25,Incoming Salary,6500,EUR,Company B
+2023-09-05,Wire Transfer,-12000,EUR,QuantumAI Solutions Ltd
+2023-09-12,Wire Transfer,300,EUR,QuantumAI Solutions Ltd
+2023-09-20,Withdrawal,-500,EUR,ATM
+2023-09-27,Wire Transfer,-3000,EUR,QuantumAI Solutions Ltd

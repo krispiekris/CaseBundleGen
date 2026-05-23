@@ -1,13 +1,12 @@
-From: withdrawals@novatech-ai.com
-To: johann.huber@email.at
-Subject: Withdrawal Request Confirmation
+Subject: Important Security Notification
 
-Dear Johann,
+Dear Helmut,
 
-This email confirms receipt of your withdrawal request for €1000.  Processing time is typically 3-5 business days.
+Due to heightened security concerns, we have temporarily restricted withdrawals from your Automated Investments account.
 
-Thank you for choosing NovaTech AI.
+This measure is in place to protect your funds and ensure the integrity of our platform.
 
-Regards,
+Please be assured that your funds are safe. We appreciate your understanding.
 
-NovaTech AI Team
+Sincerely,
+Automated Investments Security Team

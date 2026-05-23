@@ -1,60 +1,59 @@
 {
-  "case_id": "INV2024-018",
+  "case_id": "INV2024-027",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Germany",
+    "income_range": "60000-80000 EUR",
+    "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Greek",
+      "Spanish",
       "Russian"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "United Kingdom",
-    "Marshall Islands"
+    "Belize",
+    "Seychelles"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Victim contacts 'advisor' online"
+      "event": "Victim contacts 'QuantumAlgo' via online advertisement"
     },
     {
       "date": "2023-09-01",
-      "event": "Initial investment made"
+      "event": "Initial investment of 5000 EUR made"
     },
     {
       "date": "2023-11-15",
-      "event": "Victim receives fabricated profits"
+      "event": "Victim withdraws a small profit (300 EUR) to build trust"
     },
     {
-      "date": "2024-02-20",
-      "event": "Victim attempts withdrawal; denied"
+      "date": "2024-01-10",
+      "event": "Victim encouraged to deposit further funds (15000 EUR)"
     },
     {
-      "date": "2024-03-10",
-      "event": "Victim reports to authorities"
+      "date": "2024-03-20",
+      "event": "Victim requests withdrawal of remaining funds, denied"
+    },
+    {
+      "date": "2024-04-05",
+      "event": "Victim files complaint"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac20,000"
+      "amount_range": "20000-30000"
     },
     {
       "type": "BTC",
-      "amount_range": "0.1 - 0.5"
-    },
-    {
-      "type": "ETH",
-      "amount_range": "1 - 5"
+      "amount_range": "0.1-0.3"
     }
   ]
 }

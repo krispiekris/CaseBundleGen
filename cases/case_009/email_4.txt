@@ -1,10 +1,14 @@
-From: alerts@credident-bank.at
-To: markus.steiner@email.at
-Subject: Important Security Alert - Unusual Account Activity
+From: Recovery Specialist <recovery@fund-recovery.net>
+To: hans.schmidt@email.de
+Subject: Urgent: Potential Recovery of Lost Funds
 
-Dear Markus,
+Dear Hans,
 
-We've detected unusual activity on your account.  To verify your identity, please click here: www.credident-verify.com
+We understand you may have experienced losses due to fraudulent investment schemes. Our team specializes in recovering funds from such scams.
+
+Contact us immediately for a free consultation and assessment of your case.
+
+fund-recovery.net
 
 Sincerely,
-Credident Bank Security Team
+A Recovery Specialist

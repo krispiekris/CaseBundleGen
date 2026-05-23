@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-018-001</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <ReportID>AT2024-1234</ReportID>
+  <ReportingInstitution>Creditas Bank Austria</ReportingInstitution>
   <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE89370400440532013000</Account>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
+    <Date>2024-01-10</Date>
+    <Amount>15000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>CY12000001920000000000</DestinationAccount>
-    <DestinationName>NovaTrade Investments Ltd</DestinationName>
+    <DestinationAccount>BM000000000000000000</DestinationAccount>
+    <DestinationName>QuantumAlgo Ltd</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
   <Transaction>
     <Date>2023-11-15</Date>
-    <Amount>1000</Amount>
+    <Amount>300</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>CY12000001920000000000</DestinationAccount>
-    <DestinationName>NovaTrade Investments Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>BM000000000000000000</DestinationAccount>
+    <DestinationName>QuantumAlgo Ltd</DestinationName>
+    <Purpose>Withdrawal</Purpose>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Unusual investment activity, potential investment fraud.</SuspiciousActivity>
-    <Reason>Funds transferred to Cyprus-based entity with unclear investment purpose.</Reason>
-  </Findings>
+  <Findings>Multiple large transfers to an entity registered in Belize.  Unusual investment activity given the customer's profile.</Findings>
 </SAR>

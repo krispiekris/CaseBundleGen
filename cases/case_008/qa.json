@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount Johann Huber transferred to NovaTech Solutions Ltd, and when did this transaction occur?",
-    "answer": "Johann Huber transferred \u20ac5000 to NovaTech Solutions Ltd on 2024-01-20."
+    "question": "What is the report ID for the SAR filed by Credomatic Bank Austria?",
+    "answer": "AT2024-123"
   },
   {
-    "question": "According to the promotional brochure, what is a key feature of the NovaTech AI trading platform?",
-    "answer": "The promotional brochure states that the platform utilizes 'AI-Powered Algorithms' with 'unparalleled accuracy'."
+    "question": "What is the destination account used for the investments according to the SARs?",
+    "answer": "RS1000100100123456789"
   },
   {
-    "question": "What is the purpose given for the transactions from Johann Huber's account to NovaTech Solutions Ltd?",
-    "answer": "The purpose given for the transactions is 'Investment'."
+    "question": "According to the bank statement of Helmut Gruber, what was the purpose of the transactions with Automated Investments SRL?",
+    "answer": "Investment"
   },
   {
-    "question": "What is the name of the shell company identified in SAR_2.xml and where is it located?",
-    "answer": "The shell company is Oceanic Holdings, located in Belize."
+    "question": "What does the brochure claim about Automated Investments\u2019 technology?",
+    "answer": "Secure & Transparent Technology"
   },
   {
-    "question": "What did the email from support@novatech-ai.com suggest Johann Huber do to maximize his gains?",
-    "answer": "The email suggested Johann Huber increase his investment by adding another \u20ac2,000 to his account."
+    "question": "What action did Automated Investments propose to Helmut in email_2?",
+    "answer": "To complete a simple verification process to release profits."
   },
   {
-    "question": "According to the promotional video description, what claims were made about the profitability of the NovaTech AI platform?",
-    "answer": "The promotional video description states that users allegedly doubled their investment in just one month."
+    "question": "What security concern led to a temporary restriction on withdrawals, according to email_3?",
+    "answer": "Heightened security concerns"
   },
   {
-    "question": "What is the primary concern expressed by Johann Huber that prompted SAR_3.xml?",
-    "answer": "Johann Huber expressed concerns regarding promised returns."
+    "question": "What is the domain name mentioned in the brochure?",
+    "answer": "www.automatedinvestments.net"
   },
   {
-    "question": "What action did NovaTech AI threaten in the email claiming to be from account_security@novatech-ai.com?",
-    "answer": "NovaTech AI threatened permanent account closure and forfeiture of all funds if Johann Huber did not deposit an additional \u20ac1,500 within 24 hours."
+    "question": "According to the website screenshot, what is lacking regarding Automated Investments' team and location?",
+    "answer": "The 'About Us' section is vague and doesn't provide concrete details."
   },
   {
-    "question": "Which bank initiated the first Suspicious Activity Report (SAR) regarding Johann Huber's transactions?",
-    "answer": "Raiffeisenbank Austria initiated the first SAR (INV2024-018-001)."
+    "question": "Which bank filed the SAR with report ID CY2024-050?",
+    "answer": "Cyprus Global Bank"
   },
   {
-    "question": "Besides Johann Huber, are there any other individuals mentioned in the case files?",
-    "answer": "Alex Johnson is mentioned as an Investment Advisor at NovaTech AI."
+    "question": "What does email_4 claim to have detected regarding Helmut's account?",
+    "answer": "Unusual activity"
   }
 ]

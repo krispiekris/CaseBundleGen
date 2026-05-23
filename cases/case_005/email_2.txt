@@ -1,14 +1,12 @@
-From: support@quantumleap.fake
-To: johannes.vermeer@email.nl
-Subject: Important Account Update - Limited Time Offer
+From: QuantumFX Support <support@quantumfx.tech>
+To: victim1@email.nl
+Subject: Important: Secure Your Investment - Limited Time Remaining
 
-Dear Johannes,
+Dear [Victim 1],
 
-Your QuantumLeap AI account is showing significant potential! To maximize your returns and unlock even greater opportunities, we encourage you to make an additional deposit.
+Your account shows promising potential, but to maintain access and maximize your returns, a minimum balance is required. 
 
-For a limited time, we're offering a 15% bonus on all deposits!
+Deposit additional funds within the next 72 hours to avoid account restrictions.
 
-Don't miss out – deposit now!
-
-Best regards,
-QuantumLeap AI Support
+Regards,
+QuantumFX Support Team

@@ -1,1 +1,8 @@
-The NovaTrade AI website features a sleek, modern design with prominently displayed charts showing impressive profit growth.  Testimonials are featured throughout the site.  There's a live chat option available. A professional-looking video showcases the AI technology in action.
+NovaTrade AI Website Homepage:
+
+The website features a modern design with a predominantly blue and white color scheme. A large banner proclaims "Unlock Your Financial Freedom with AI". Several testimonials are prominently displayed:
+
+"I’ve never seen returns like this! NovaTrade AI is a game-changer." - John S.
+"Easy to use and incredibly profitable. Highly recommended!" - Maria K.
+
+There's a live trading dashboard graphic and a prominent 'Start Trading' button.

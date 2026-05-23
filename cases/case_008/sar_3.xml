@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-018-002</ReportID>
-  <ReportingInstitution>Raiffeisenbank Austria</ReportingInstitution>
+  <ReportID>CY2024-050</ReportID>
+  <ReportingInstitution>Cyprus Global Bank</ReportingInstitution>
   <Subject>
-    <Name>Johann Huber</Name>
-    <Account>AT3311000000001234567890</Account>
+    <Name>Automated Investments SRL</Name>
+    <Account>CY0100000100012345678</Account>
   </Subject>
   <Transaction>
-    <Date>2024-03-01</Date>
-    <Amount>1000</Amount>
+    <Date>2023-12-01</Date>
+    <Amount>2500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ120000000000000001</DestinationAccount>
-    <DestinationName>NovaTech Solutions Ltd</DestinationName>
+    <DestinationAccount>AT112011103511000000</DestinationAccount>
+    <DestinationName>Helmut Gruber</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Increased transfers to NovaTech Solutions Ltd. Customer expressing concerns regarding promised returns. Possible investment fraud.</Findings>
+  <Findings>Pattern of receiving funds from overseas and transferring to single accounts.</Findings>
 </SAR>

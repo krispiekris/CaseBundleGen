@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>BGR-2024-005</ReportID>
-  <ReportingInstitution>First Investment Bank, Bulgaria</ReportingInstitution>
+  <ReportID>INV2024-032-SAR2</ReportID>
+  <ReportingInstitution>Lloyds Bank (UK)</ReportingInstitution>
   <Subject>
     <Name>Altcoin Global Ltd</Name>
-    <Account>BG51BN0000200100000001</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>12000</Amount>
+    <Date>2023-09-10</Date>
+    <Amount>15000</Amount>
     <Currency>EUR</Currency>
-    <SourceAccount>AT141100000000000004789012</SourceAccount>
-    <SourceName>Credobank Austria</SourceName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>GB27LYB10010001234567</DestinationAccount>
+    <DestinationName>John Doe</DestinationName>
+    <Purpose>Consultancy Fees</Purpose>
   </Transaction>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>AT141100000000000004789012</SourceAccount>
-    <SourceName>Credobank Austria</SourceName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Suspicious activity detected. Large sums received from Austria, unusual beneficiary transaction history.</Findings>
+  <Findings>Large, frequent transfers received from various sources across Europe.  Beneficiary residing in Belize, operating under an ambiguous business model.</Findings>
 </SAR>

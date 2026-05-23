@@ -1,10 +1,10 @@
 {
-  "case_id": "INV2024-032",
+  "case_id": "INV2024-017",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "75000-100000 EUR",
+    "income_range": "60000-80000 EUR",
     "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
@@ -17,39 +17,35 @@
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Marshall Islands"
+    "Lithuania",
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact via email"
+      "date": "2023-09-15",
+      "event": "Victim receives initial email"
     },
     {
-      "date": "2023-09-01",
-      "event": "First investment made"
+      "date": "2023-10-20",
+      "event": "Victim deposits initial investment"
     },
     {
-      "date": "2023-11-10",
-      "event": "Victim expresses concern about withdrawals"
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal; denied"
     },
     {
-      "date": "2024-01-22",
-      "event": "Victim reports fraud"
-    },
-    {
-      "date": "2024-02-15",
-      "event": "Investigation initiated"
+      "date": "2024-02-28",
+      "event": "Victim reports to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "5000-15000 EUR"
+      "type": "EUR",
+      "amount_range": "10000-25000"
     },
     {
-      "type": "EUR Bank Transfers",
-      "amount_range": "20000-35000 EUR"
+      "type": "BTC",
+      "amount_range": "0.1-0.5"
     }
   ]
 }

@@ -1,7 +1,4 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-08-20,Incoming Transfer,5000,EUR,
-2023-08-28,ATM Withdrawal,-200,EUR,
-2023-09-01,Wire Transfer,-5000,EUR,NovaTrade Investments Ltd
-2023-11-14,Wire Transfer,-1000,EUR,NovaTrade Investments Ltd
-2023-12-05,Salary,4000,EUR,Employer Name
-2024-02-18,Wire Transfer,-3000,EUR,NovaTrade Investments Ltd
+2023-08-15,Transfer to QuantumAlgo,5000,EUR,QuantumAlgo Ltd
+2023-11-15,Withdrawal,300,EUR,
+2024-01-10,Transfer to QuantumAlgo,15000,EUR,QuantumAlgo Ltd

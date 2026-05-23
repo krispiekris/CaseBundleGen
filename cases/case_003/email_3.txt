@@ -1,16 +1,10 @@
-From: tax@novatrade.ai
-To: hans.schmidt@email.de
-Subject: Important: Tax Processing Fee
+From: QuantumAlgo Support <support@quantumalgo.fake>
+To: Victim 1 <victim1@email.at>
+Subject: Regarding Your Withdrawal Request
 
-Dear Hans,
+Dear Victim 1,
 
-To finalize your withdrawal request, a small tax processing fee of €1500 is required. This fee is necessary to comply with international regulations.
+We've received your request to withdraw funds from your account.  Due to increased security measures, we require you to pay a processing fee of 10% of your withdrawal amount to complete the transaction.  This fee is refundable upon successful processing.
 
-Kindly transfer the amount to the following account:
-Account Name: Secure Investments Ltd
-Bank:  Deutsche Bank
-IBAN: DE89370400440532013000
-
-Thank you for your cooperation.
-
-The NovaTrade AI Finance Team
+Thank you for your understanding.
+The QuantumAlgo Team

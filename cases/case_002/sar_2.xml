@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-032-002</ReportID>
-  <ReportingInstitution>Sparkasse</ReportingInstitution>
+  <ReportID>AUT2024-045</ReportID>
+  <ReportingInstitution>Erste Bank</ReportingInstitution>
   <Subject>
-    <Name>Karl Schmidt</Name>
-    <Account>AT7011000000000012345</Account>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-10</Date>
-    <Amount>1000</Amount>
+    <Date>2024-01-10</Date>
+    <Amount>-12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>FC1234567890123456789</DestinationAccount>
-    <DestinationName>ApexAI Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Withdrawal Attempt</Purpose>
   </Transaction>
-  <Findings>Multiple small transfers to the same beneficiary.  Reporting Institution flagged based on similar reporting by Credobank.</Findings>
+  <Findings>Withdrawal attempt denied due to insufficient funds.  Suspicious activity regarding previous deposits.</Findings>
 </SAR>

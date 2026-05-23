@@ -1,13 +1,12 @@
-From: support@novatrade.ai
-To: hans.schmidt@email.de
-Subject: Welcome to NovaTrade AI
+From: QuantumAlgo Support <support@quantumalgo.fake>
+To: Victim 1 <victim1@email.at>
+Subject: Welcome to QuantumAlgo - Your AI Trading Partner
 
-Dear Hans,
+Dear Victim 1,
 
-Welcome to the NovaTrade AI platform! We're thrilled to have you join our community of savvy investors.
+Welcome to the QuantumAlgo family!  Our sophisticated AI algorithms are working hard to maximize your returns.  A small initial deposit of 5000 EUR has been credited to your account.  
 
-Your account has been successfully created.  Ready to begin your automated investment journey?
+To further enhance your earnings, consider increasing your investment. 
 
 Sincerely,
-
-The NovaTrade AI Team
+The QuantumAlgo Team

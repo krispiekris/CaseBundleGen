@@ -1,10 +1,14 @@
-From: secure.notice@yourbank.at
-To: karl.schmidt@email.at
-Subject: Important Security Alert
+From: noreply@erste-bank.at
+To: victim1@email.at
+Subject: Important Security Verification
 
-Dear Karl,
+Dear [Victim 1],
 
-We have detected unusual activity on your account. Please verify your information immediately by clicking this link: [Phishing Link]. Failure to do so may result in account suspension.
+For your continued security, please verify your account details by clicking on the link below:
+
+[link to phishing verification page]
+
+Failure to verify your account may result in temporary suspension.
 
 Sincerely,
-Your Bank Security Team
+Erste Bank Security Team

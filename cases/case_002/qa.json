@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the ReportID of the initial Suspicious Activity Report (SAR) filed by Credobank Austria?",
-    "answer": "INV2024-032-001"
+    "question": "What is the Report ID for the SAR filed by Commerzbank?",
+    "answer": "DEU2023-123"
   },
   {
-    "question": "According to the brochure, what was the initial average ROI promised by ApexAI?",
-    "answer": "3.5% Daily!"
+    "question": "According to the bank statement, what was the initial transfer amount into Victim 1's account?",
+    "answer": "12000 EUR"
   },
   {
-    "question": "What is the email address used by David Miller from WealthMax Group?",
-    "answer": "financial.advisor@wealthmaxgroup.com"
+    "question": "Which company name appears in the SAR filed by \u0160iauli\u0173 bankas (LTU2024-007)?",
+    "answer": "Altalytics GmbH"
   },
   {
-    "question": "What is the destination account number used for transactions related to ApexAI Solutions Ltd?",
-    "answer": "FC1234567890123456789"
+    "question": "What did the email from support@athenaaitrader.com claim about the AI algorithms used by AthenaAI Trader?",
+    "answer": "They analyze complex data patterns to generate consistent profits \u2013 even in volatile market conditions."
   },
   {
-    "question": "What reason did Karl Schmidt give for the unusually high transaction volume, as reported by Credobank?",
-    "answer": "Promised high returns on automated trading platform."
+    "question": "What was the purpose of the transaction on 2024-01-10 according to the SAR filed by Erste Bank?",
+    "answer": "Withdrawal Attempt"
   },
   {
-    "question": "Besides Credobank Austria, which other reporting institutions flagged transactions related to Karl Schmidt?",
-    "answer": "Sparkasse and Raiffeisen Bank International"
+    "question": "What is the destination account mentioned in sar_1.xml?",
+    "answer": "LT12100001110123451"
   },
   {
-    "question": "What is the purpose listed for the transaction of 1000 EUR on 2023-09-10 in bank_statement_2.csv?",
-    "answer": "Investment"
+    "question": "What action did Erste Bank take regarding the withdrawal attempt on 2024-01-10?",
+    "answer": "Withdrawal attempt denied due to insufficient funds."
   },
   {
-    "question": "What does the website screenshot_1.txt indicate about ApexAI.net's design?",
-    "answer": "It displays a sleek, modern design with graphs showing consistently upward trending financial performance."
+    "question": "According to the brochure, what is one of the guarantees provided by AthenaAI Trader?",
+    "answer": "Enjoy market-beating returns, guaranteed."
   },
   {
-    "question": "What is the URL of the ApexAI website as mentioned in brochure_2.txt?",
-    "answer": "www.apexai.net/opportunities"
+    "question": "What subject line did the email claiming to be from a recovery specialist use?",
+    "answer": "Urgent: Potential Funds Recovery \u2013 AthenaAI Trader"
   },
   {
-    "question": "What is the subject line of the email seemingly from Karl Schmidt's bank?",
-    "answer": "Important Security Alert"
+    "question": "What does the website screenshot suggest about the AthenaAI Trader website?",
+    "answer": "The website features prominently displayed graphics showcasing rapidly increasing graphs and charts."
   }
 ]

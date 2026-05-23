@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>HK2024-025-001</ReportID>
-  <ReportingInstitution>Standard Chartered Hong Kong</ReportingInstitution>
+  <ReportID>CY2024-045</ReportID>
+  <ReportingInstitution>Cyprus Global Bank</ReportingInstitution>
   <Subject>
-    <Name>NovaTech Solutions Ltd</Name>
-    <Account>BZ120000000000000001</Account>
+    <Name>Automated Investments SRL</Name>
+    <Account>CY0100000100012345678</Account>
   </Subject>
   <Transaction>
-    <Date>2024-02-20</Date>
+    <Date>2023-10-01</Date>
     <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ134567890123456789</DestinationAccount>
-    <DestinationName>Oceanic Holdings</DestinationName>
+    <DestinationAccount>AT112011103511000000</DestinationAccount>
+    <DestinationName>Helmut Gruber</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Funds transferred to Oceanic Holdings, Belize.  Beneficiary appears to be shell company.</Findings>
+  <Transaction>
+    <Date>2023-11-10</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>AT112011103511000000</DestinationAccount>
+    <DestinationName>Helmut Gruber</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual activity involving frequent transfers to and from overseas accounts with no apparent business relationship.</Findings>
 </SAR>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AT2024-003</ReportID>
-  <ReportingInstitution>Erste Bank Austria</ReportingInstitution>
+  <ReportID>INV2024-017-001</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Karl Berger</Name>
-    <Account>AT402020100000000001</Account>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
     <Date>2023-09-01</Date>
-    <Amount>10000</Amount>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BB12030000000000000001</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Investment in AI Trading Platform</Purpose>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
   <Transaction>
     <Date>2023-11-10</Date>
-    <Amount>15000</Amount>
+    <Amount>500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BB12030000000000000001</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Increased Investment in AI Trading Platform</Purpose>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Withdrawal</Purpose>
   </Transaction>
-  <Findings>Multiple large transfers to an offshore company with unusual investment scheme.  Customer expresses limited understanding of the investment.</Findings>
+  <Findings>Suspicious deposit followed by small withdrawal, potentially related to investment fraud.</Findings>
 </SAR>

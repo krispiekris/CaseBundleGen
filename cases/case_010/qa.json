@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the first SAR (AT2024-003), what was the stated purpose of the initial transaction from Karl Berger to NovaTrade Solutions Ltd?",
-    "answer": "Investment in AI Trading Platform"
+    "question": "According to the SAR, what is the primary purpose of the first transaction from Victim 1 to NovaTrade AI?",
+    "answer": "Investment"
   },
   {
-    "question": "What document type contains testimonials about NovaTrade AI\u2019s performance?",
-    "answer": "Brochure_1.txt and Brochure_2.txt"
+    "question": "What does the brochure claim about the NovaTrade AI platform?",
+    "answer": "It claims the platform is 'Secure & Transparent'."
   },
   {
-    "question": "Which account is listed as the destination for both of Karl Berger\u2019s wire transfers to NovaTrade Solutions Ltd?",
-    "answer": "BB12030000000000000001"
+    "question": "What amount of processing fee was requested from Victim 1 for the withdrawal?",
+    "answer": "50 EUR"
   },
   {
-    "question": "Based on the SAR (SZ2024-001) filed by Chase Bank Seychelles, what is stated about NovaTrade Solutions Ltd's business activity?",
-    "answer": "Registered company with minimal verifiable business activity."
+    "question": "What is the account number for NovaTrade AI in Belize International Bank?",
+    "answer": "BZ1234567890"
   },
   {
-    "question": "What document requests Karl Berger to submit copies of his passport and a utility bill?",
-    "answer": "email_3.txt"
+    "question": "Besides EUR, are any other currencies involved in the reported transactions?",
+    "answer": "None"
   },
   {
-    "question": "What does the SAR (LC2024-002) from Belize International Bank indicate about Global Invest Holdings?",
-    "answer": "Shell company with limited operational information."
+    "question": "What is the purpose of the second transaction from Victim 1's account to NovaTrade AI?",
+    "answer": "Withdrawal"
   },
   {
-    "question": "What is the total amount Karl Berger transferred to NovaTrade Solutions Ltd, according to his bank statement?",
-    "answer": "25000 EUR"
+    "question": "What is the name of the company that pays Victim 1's salary?",
+    "answer": "Company A"
   },
   {
-    "question": "According to the website screenshot, what kind of design does the NovaTrade AI website have?",
-    "answer": "Sleek, modern design with prominently displayed charts showing impressive profit growth."
+    "question": "What types of testimonials are featured on the NovaTrade AI website?",
+    "answer": "Testimonials claim high returns and ease of use."
   },
   {
-    "question": "What is the reported initial investment amount highlighted in the brochure?",
-    "answer": "\u20ac500"
+    "question": "What is the finding described in SAR 3?",
+    "answer": "Transfers to offshore account with no apparent business purpose. Potential money laundering."
   },
   {
-    "question": "What purpose do the transactions from Global Invest Holdings to NovaTrade Solutions Ltd serve, as stated in the SAR (LC2024-002)?",
-    "answer": "Investment Funds"
+    "question": "What email address was used to send the initial recruitment email to Victim 1?",
+    "answer": "recruiter@novatrade.fake"
   }
 ]

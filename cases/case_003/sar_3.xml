@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-018-003</ReportID>
-  <ReportingInstitution>TD Bank</ReportingInstitution>
+  <ReportID>DE2024-9012</ReportID>
+  <ReportingInstitution>Deutsche Handelsbank</ReportingInstitution>
   <Subject>
-    <Name>Island Holdings Inc</Name>
+    <Name>Affiliate Marketer</Name>
+    <Account>DE1234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2024-03-01</Date>
-    <Amount>2000</Amount>
+    <Date>2023-11-01</Date>
+    <Amount>1800</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>JM0000000000</DestinationAccount>
-    <DestinationName>TD Bank</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>BM000000000000000000</DestinationAccount>
+    <DestinationName>QuantumAlgo Ltd</DestinationName>
+    <Purpose>Commission</Purpose>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Unusual investment activity, potential investment fraud.</SuspiciousActivity>
-    <Reason>Funds transferred to Marshall Islands company with unclear investment purpose.</Reason>
-  </Findings>
+  <Findings>The affiliate marketer receives frequent payments from QuantumAlgo, suggesting a commission-based referral system.</Findings>
 </SAR>

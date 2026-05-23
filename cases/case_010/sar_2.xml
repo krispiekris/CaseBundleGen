@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>SZ2024-001</ReportID>
-  <ReportingInstitution>Chase Bank Seychelles</ReportingInstitution>
+  <ReportID>INV2024-017-002</ReportID>
+  <ReportingInstitution>Luminor Bank</ReportingInstitution>
   <Subject>
-    <Name>NovaTrade Solutions Ltd</Name>
-    <Account>SZ00000012345</Account>
+    <Name>NovaTrade AI</Name>
+    <Account>LT12100001110123451</Account>
   </Subject>
   <Transaction>
     <Date>2023-09-01</Date>
-    <Amount>10000</Amount>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AT402020100000000001</DestinationAccount>
-    <DestinationName>Karl Berger</DestinationName>
-    <Purpose>Investment Payment</Purpose>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+    <Purpose>Investment</Purpose>
   </Transaction>
   <Transaction>
-    <Date>2023-11-10</Date>
-    <Amount>15000</Amount>
+    <Date>2023-11-08</Date>
+    <Amount>500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AT402020100000000001</DestinationAccount>
-    <DestinationName>Karl Berger</DestinationName>
-    <Purpose>Investment Payment</Purpose>
+    <SourceAccount>LT12100001110123451</SourceAccount>
+    <SourceName>NovaTrade AI</SourceName>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Withdrawal</Purpose>
   </Transaction>
-  <Findings>Receiving large sums of EUR from Austria, reported as investment payments.  Registered company with minimal verifiable business activity.</Findings>
+  <Findings>Multiple incoming transfers from various sources, consistent with investment scheme.</Findings>
 </SAR>
