@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-018-003</ReportID>
+  <ReportingInstitution>TD Bank</ReportingInstitution>
+  <Subject>
+    <Name>Island Holdings Inc</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>JM0000000000</DestinationAccount>
+    <DestinationName>TD Bank</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusual investment activity, potential investment fraud.</SuspiciousActivity>
+    <Reason>Funds transferred to Marshall Islands company with unclear investment purpose.</Reason>
+  </Findings>
+</SAR>

@@ -1,56 +1,47 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "INV2024-018",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
-    "country": "Germany",
-    "education_level": "Bachelor's Degree"
+    "income_range": "60000-80000 EUR",
+    "country": "Austria",
+    "education_level": "University Degree"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Cyprus",
     "languages_spoken": [
       "English",
-      "Bulgarian",
+      "Greek",
       "Russian"
     ]
   },
   "destination_countries": [
-    "St. Vincent and the Grenadines",
-    "Bulgaria",
+    "Saint Vincent and the Grenadines",
     "Belize"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial Contact via Email"
+      "date": "2023-09-15",
+      "event": "Initial Contact - Promotional Email"
     },
     {
-      "date": "2023-09-01",
-      "event": "First Investment"
+      "date": "2023-10-05",
+      "event": "Victim makes first investment"
     },
     {
-      "date": "2023-12-05",
-      "event": "Second Investment"
+      "date": "2024-01-10",
+      "event": "Victim attempts to withdraw funds - denied"
     },
     {
-      "date": "2024-02-10",
-      "event": "Victim Expresses Concerns"
-    },
-    {
-      "date": "2024-03-22",
-      "event": "Victim Files Report"
+      "date": "2024-02-28",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
-    },
-    {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.3"
+      "amount_range": "10000-30000"
     }
   ]
 }

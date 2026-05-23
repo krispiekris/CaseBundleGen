@@ -1,34 +1,42 @@
 [
   {
-    "question": "What is the fraud subtype in this case?",
-    "answer": "AI Trading Scam"
+    "question": "What is the report ID of the initial Suspicious Activity Report (SAR) filed by Credident Bank?",
+    "answer": "AT2024-007"
   },
   {
-    "question": "What is Klaus Weber\u2019s age range?",
-    "answer": "55-64"
+    "question": "According to the promotional email, what is the key feature of NovaTrade AI?",
+    "answer": "It utilizes cutting-edge artificial intelligence to maximize profits."
   },
   {
-    "question": "Which company received the largest individual investment from Klaus Weber?",
-    "answer": "InnovAI Solutions Ltd"
+    "question": "What is the purpose stated for the transactions involving Heinrich Gruber and NovaTrade Global Investments Ltd?",
+    "answer": "Investment"
   },
   {
-    "question": "What is the destination country for the funds transferred to InnovAI Solutions Ltd?",
-    "answer": "St. Vincent and the Grenadines"
+    "question": "Which destination account is consistently used for the transactions linked to NovaTrade Global Investments Ltd?",
+    "answer": "CY800020000000000000000000"
   },
   {
-    "question": "When did Klaus Weber first make an investment with InnovAI?",
-    "answer": "2023-09-01"
+    "question": "What does the promotional brochure claim about NovaTrade AI\u2019s trading capabilities?",
+    "answer": "It claims the AI works 24/7 and provides consistent profits in any market."
   },
   {
-    "question": "According to the provided email, what is the supposed benefit of joining the InnovAI Beta Program?",
-    "answer": "Potentially double your investment in just weeks."
+    "question": "What does the urgent email indicate could happen if Heinrich Gruber doesn't verify his account?",
+    "answer": "Account suspension and loss of funds"
   },
   {
-    "question": "Which financial institution filed the SAR reports?",
-    "answer": "Sparkasse Bank, Deutsche Bank"
+    "question": "What characteristics of the 'NovaTrade Global Investments Ltd' registration raise concerns?",
+    "answer": "The registration number appears randomly generated, the address is a generic P.O. Box, and the listed director is frequently associated with offshore company registrations."
   },
   {
-    "question": "Is there any mention of cryptocurrency transactions in the bank statements?",
-    "answer": "Yes, there is a transaction of BTC"
+    "question": "What is the primary concern highlighted in SAR_2, regarding Heinrich Gruber\u2019s activity?",
+    "answer": "A potential link to an investment fraud scheme involving an online trading platform, following similar activity reported by Credident Bank."
+  },
+  {
+    "question": "What is the amount of Heinrich Gruber's salary as reported in bank_statement_2?",
+    "answer": "3200 EUR"
+  },
+  {
+    "question": "Which German bank filed a SAR with report ID DE2024-035 regarding Heinrich Gruber\u2019s transactions?",
+    "answer": "Deutsche Kreditbank"
   }
 ]

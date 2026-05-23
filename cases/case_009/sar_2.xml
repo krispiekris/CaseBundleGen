@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AUT2024-004</ReportID>
-  <ReportingInstitution>Sparkasse Austria</ReportingInstitution>
+  <ReportID>BGR-2024-005</ReportID>
+  <ReportingInstitution>First Investment Bank, Bulgaria</ReportingInstitution>
   <Subject>
-    <Name>Klaus Bergmann</Name>
-    <Account>AT50500000000001234567</Account>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>BG51BN0000200100000001</Account>
   </Subject>
   <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>375</Amount>
+    <Date>2023-10-01</Date>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GB98NWBK2070045155001</DestinationAccount>
-    <DestinationName>Hargrave Financial Services</DestinationName>
-    <Purpose>Processing Fee</Purpose>
+    <SourceAccount>AT141100000000000004789012</SourceAccount>
+    <SourceName>Credobank Austria</SourceName>
+    <Purpose>Investment</Purpose>
   </Transaction>
+  <Transaction>
+    <Date>2023-11-01</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>AT141100000000000004789012</SourceAccount>
+    <SourceName>Credobank Austria</SourceName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Suspicious activity detected. Large sums received from Austria, unusual beneficiary transaction history.</Findings>
 </SAR>

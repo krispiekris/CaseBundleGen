@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary fraud type in this case?",
-    "answer": "Investment Fraud"
+    "question": "What is the account number of Hans Gruber, the victim?",
+    "answer": "AT141100000000000004789012"
   },
   {
-    "question": "What is the victim\u2019s name?",
-    "answer": "Klaus Bergmann"
+    "question": "What is the purpose stated for the transactions to Altcoin Global Ltd?",
+    "answer": "Investment"
   },
   {
-    "question": "Which company is mentioned in both the promotional brochure and the bank statement?",
-    "answer": "Adriatic Forex Solutions Ltd"
+    "question": "According to the promotional material, what is a key feature of Athena AI Trader?",
+    "answer": "AI algorithms analyze market trends and execute trades automatically."
   },
   {
-    "question": "What amount did the victim pay as a 'processing fee'?",
-    "answer": "\u20ac375"
+    "question": "What is the account number for Altcoin Global Ltd based on the SAR filed in Bulgaria?",
+    "answer": "BG51BN0000200100000001"
   },
   {
-    "question": "What is the stated purpose of the first transaction recorded in the SAR file?",
-    "answer": "Initial Investment"
+    "question": "What did the emails from support@athenaaitrader.net encourage Hans Gruber to do?",
+    "answer": "Increase his initial investment and explore premium investment packages."
   },
   {
-    "question": "According to the email, what is the reason provided for the processing fee?",
-    "answer": "Market volatility"
+    "question": "What is the color scheme of the Athena AI Trader website?",
+    "answer": "Dark blue and gold"
   },
   {
-    "question": "What is the country of registration for Adriatic Forex Solutions Ltd, as mentioned in the SAR file?",
-    "answer": "Cyprus"
+    "question": "What was the first transaction amount sent to Altcoin Global Ltd?",
+    "answer": "12000 EUR"
   },
   {
-    "question": "What is the primary language spoken by the fraudster, according to the metadata?",
-    "answer": "English"
+    "question": "What findings were noted in the SAR regarding Altcoin Global Ltd?",
+    "answer": "Large sums received from Austria, unusual beneficiary transaction history."
   },
   {
-    "question": "What is the account number of the victim\u2019s account at Raiffeisenbank Austria?",
-    "answer": "AT4233000000001234567890"
+    "question": "What was the purpose of the failed withdrawal attempt on 2024-01-05?",
+    "answer": "To withdraw 5000 EUR"
   },
   {
-    "question": "What does the website screenshot description indicate about the displayed profit graph?",
-    "answer": "Results not typical"
+    "question": "Besides Credobank Austria, which other bank is mentioned in the case files?",
+    "answer": "First Investment Bank, Bulgaria"
   }
 ]

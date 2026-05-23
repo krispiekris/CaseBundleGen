@@ -1,5 +1,6 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-09-05,-500,EUR,Groceries
-2023-10-27,-12000,EUR,Venture Galactic Ltd
-2023-11-15,Salary,4500,EUR,Ingenieurbüro Schmidt
-2024-01-09,-2000,EUR,Venture Galactic Ltd
+2023-08-20,Salary,4500,EUR,Company B
+2023-09-01,Wire Transfer,-10000,EUR,NovaTrade Solutions Ltd
+2023-11-10,Wire Transfer,-15000,EUR,NovaTrade Solutions Ltd
+2023-11-15,ATM,-300,EUR,
+2023-12-01,Salary,4500,EUR,Company B

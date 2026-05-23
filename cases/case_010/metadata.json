@@ -1,47 +1,55 @@
 {
-  "case_id": "INV2024-047",
+  "case_id": "INV2024-017",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "NFT Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
-    "country": "Germany",
+    "income_range": "75000-100000 EUR",
+    "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Serbian"
+      "Spanish",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Serbia",
-    "Malta",
-    "United Arab Emirates"
+    "Belize",
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Initial contact via email"
+      "date": "2023-08-15",
+      "event": "Initial Contact"
     },
     {
-      "date": "2023-10-27",
-      "event": "First investment made"
+      "date": "2023-09-01",
+      "event": "First Deposit"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim attempts withdrawal"
+      "date": "2023-11-10",
+      "event": "Increased Investment"
     },
     {
-      "date": "2024-02-22",
-      "event": "Withdrawal denied; communication ceases"
+      "date": "2024-01-20",
+      "event": "Victim Attempts Withdrawal"
+    },
+    {
+      "date": "2024-02-05",
+      "event": "Account Restricted"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (ETH)",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "EUR",
+      "amount_range": "20000-45000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.5-1.5"
     }
   ]
 }

@@ -1,34 +1,42 @@
 [
   {
-    "question": "What is the victim's account number?",
-    "answer": "DE87370400440532113014"
+    "question": "What is the ReportID of the initial Suspicious Activity Report (SAR) filed by Credobank Austria?",
+    "answer": "INV2024-032-001"
   },
   {
-    "question": "What company did the victim initially transfer funds to?",
-    "answer": "Aetheria Collective Ltd"
+    "question": "According to the brochure, what was the initial average ROI promised by ApexAI?",
+    "answer": "3.5% Daily!"
   },
   {
-    "question": "When was the SAR filed?",
-    "answer": "2023-06-22"
+    "question": "What is the email address used by David Miller from WealthMax Group?",
+    "answer": "financial.advisor@wealthmaxgroup.com"
   },
   {
-    "question": "What is the reported fraud subtype?",
-    "answer": "NFT Scam"
+    "question": "What is the destination account number used for transactions related to ApexAI Solutions Ltd?",
+    "answer": "FC1234567890123456789"
   },
   {
-    "question": "What currency was used for the initial investment?",
-    "answer": "EUR"
+    "question": "What reason did Karl Schmidt give for the unusually high transaction volume, as reported by Credobank?",
+    "answer": "Promised high returns on automated trading platform."
   },
   {
-    "question": "What is the name of the reporting institution?",
-    "answer": "Deutsche Kreditbank"
+    "question": "Besides Credobank Austria, which other reporting institutions flagged transactions related to Karl Schmidt?",
+    "answer": "Sparkasse and Raiffeisen Bank International"
   },
   {
-    "question": "What is one of the destination countries associated with the fraud?",
-    "answer": "Malta"
+    "question": "What is the purpose listed for the transaction of 1000 EUR on 2023-09-10 in bank_statement_2.csv?",
+    "answer": "Investment"
   },
   {
-    "question": "What email subject line was used to initially contact the victim?",
-    "answer": "Limited Time Offer: Aetheria Collective Invitation"
+    "question": "What does the website screenshot_1.txt indicate about ApexAI.net's design?",
+    "answer": "It displays a sleek, modern design with graphs showing consistently upward trending financial performance."
+  },
+  {
+    "question": "What is the URL of the ApexAI website as mentioned in brochure_2.txt?",
+    "answer": "www.apexai.net/opportunities"
+  },
+  {
+    "question": "What is the subject line of the email seemingly from Karl Schmidt's bank?",
+    "answer": "Important Security Alert"
   }
 ]

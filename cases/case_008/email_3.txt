@@ -1,0 +1,13 @@
+From: withdrawals@novatech-ai.com
+To: johann.huber@email.at
+Subject: Withdrawal Request Confirmation
+
+Dear Johann,
+
+This email confirms receipt of your withdrawal request for €1000.  Processing time is typically 3-5 business days.
+
+Thank you for choosing NovaTech AI.
+
+Regards,
+
+NovaTech AI Team

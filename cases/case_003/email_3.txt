@@ -1,8 +1,16 @@
-Subject: Request for KYC Documentation
+From: tax@novatrade.ai
+To: hans.schmidt@email.de
+Subject: Important: Tax Processing Fee
 
-Dear Reinier,
+Dear Hans,
 
-To comply with regulatory requirements, we require you to submit updated KYC documentation. Please upload your documents through this secure link: [suspicious link]
+To finalize your withdrawal request, a small tax processing fee of €1500 is required. This fee is necessary to comply with international regulations.
 
-Sincerely,
-Nova Arte Compliance Team
+Kindly transfer the amount to the following account:
+Account Name: Secure Investments Ltd
+Bank:  Deutsche Bank
+IBAN: DE89370400440532013000
+
+Thank you for your cooperation.
+
+The NovaTrade AI Finance Team

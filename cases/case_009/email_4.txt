@@ -1,0 +1,10 @@
+From: alerts@credident-bank.at
+To: markus.steiner@email.at
+Subject: Important Security Alert - Unusual Account Activity
+
+Dear Markus,
+
+We've detected unusual activity on your account.  To verify your identity, please click here: www.credident-verify.com
+
+Sincerely,
+Credident Bank Security Team

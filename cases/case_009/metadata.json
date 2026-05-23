@@ -1,10 +1,10 @@
 {
-  "case_id": "INV2024-018",
+  "case_id": "INV2024-017",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000-\u20ac75,000",
+    "income_range": "60000-80000 EUR",
     "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
@@ -17,36 +17,35 @@
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "United Kingdom",
-    "Dominica"
+    "Bulgaria",
+    "Lithuania"
   ],
   "timeline": [
     {
       "date": "2023-09-15",
-      "event": "Initial contact via email"
+      "event": "Initial Contact - Promotional Email"
     },
     {
-      "date": "2023-09-22",
-      "event": "First deposit made"
-    },
-    {
-      "date": "2023-11-10",
-      "event": "Victim requests withdrawal"
+      "date": "2023-10-01",
+      "event": "Victim deposits initial funds"
     },
     {
       "date": "2023-11-15",
-      "event": "Withdrawal request denied, presented with 'fees'"
+      "event": "False profit statements begin"
     },
     {
       "date": "2024-01-20",
-      "event": "Victim reports suspicious activity"
+      "event": "Victim attempts withdrawal - rejected"
+    },
+    {
+      "date": "2024-02-10",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "amount_range": "10000-25000"
     }
   ]
 }

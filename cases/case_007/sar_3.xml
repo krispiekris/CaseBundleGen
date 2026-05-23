@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-035</ReportID>
+  <ReportingInstitution>Deutsche Kreditbank</ReportingInstitution>
+  <Subject>
+    <Name>Heinrich Gruber</Name>
+    <Account>DE1211000070000123456789</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-18</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
+    <DestinationName>NovaTrade Global Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Potential investment fraud scheme matching reports from Austria; proceeds transferred to Cyprus.</Findings>
+</SAR>

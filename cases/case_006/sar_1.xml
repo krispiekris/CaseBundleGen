@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>GER2024-005</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <ReportID>INV2024-017-001</ReportID>
+  <ReportingInstitution>ABN AMRO</ReportingInstitution>
   <Subject>
-    <Name>Klaus Hoffmann</Name>
-    <Account>DE1272150000001234567890</Account>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-22</Date>
-    <Amount>8000</Amount>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>SC203203000000001234</DestinationAccount>
-    <DestinationName>EuroFX Solutions Ltd</DestinationName>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
     <Purpose>Initial Investment</Purpose>
   </Transaction>
+  <Transaction>
+    <Date>2023-11-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Test Withdrawal</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Increased Investment</Purpose>
+  </Transaction>
+  <Findings>Suspected investment fraud.  Large amounts transferred to an offshore company with vague investment purpose.  Victim reported inability to withdraw funds.</Findings>
 </SAR>

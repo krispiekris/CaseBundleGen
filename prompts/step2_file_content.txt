@@ -1,0 +1,54 @@
+You are generating file content for a synthetic investment-fraud case, guided by metadata and file structure from the previous step.
+
+IMPORTANT:
+- Generate ONLY the file content as specified in the file_structure.
+- All content must be realistic, consistent with the metadata, and aligned with the case timeline.
+- Do NOT copy any content from previous cases.
+- Use the same victim, fraudster, and company names as provided in metadata.
+- All dates must match the case timeline and be within the last 5 years.
+
+INPUT (from previous step):
+{metadata}
+{file_structure}
+
+OUTPUT RULES:
+Output a single JSON object with the following structure:
+
+{{
+  "files": [
+      {{
+          "filename": "string (must match file_structure)",
+          "content": "string (complete file content)"
+      }}
+  ]
+}}
+
+FILE CONTENT RULES:
+
+XML Files (SAR - Suspicious Activity Reports):
+- Must be complete, well-formed XML.
+- Use realistic SAR structure with transaction details, party information, and findings.
+- Align dates and amounts with the case timeline and bank statements.
+
+CSV Files (Bank Statements):
+- Must be valid CSV with header row.
+- If a field is empty, include an empty CSV cell (e.g., ,,).
+- Every row must have the same number of comma-separated values as the header.
+- Align transaction dates and amounts with the case timeline.
+- Include realistic transaction descriptions and recipient IBANs.
+
+Text Files (Emails, Promotional Content, Website Descriptions):
+- Must be plain text, no markdown, no explanations, no comments.
+- Emails should follow realistic email format (From, To, Subject, body).
+- Promotional content should be realistic and persuasive, matching the fraud type.
+- Website descriptions should describe layout, content, and appeal factors.
+- All text should be consistent with the fraud narrative.
+
+CONSISTENCY RULES:
+- Transaction amounts in bank CSVs must align with the case assets_involved.
+- Email dates and events must align with the case timeline.
+- Company and person names must match those in metadata.
+- All transaction recipients and entities must be mentioned in at least one narrative file (email, SAR, or promo).
+- If fraudster_location is mentioned, it should be implied in communication patterns (e.g., in time zones).
+
+Output ONLY the JSON object. Do not include any text before or after it.

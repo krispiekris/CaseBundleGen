@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SK2024-002</ReportID>
+  <ReportingInstitution>Slovakian Bank</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-15</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>AT1520120150000000012345</DestinationAccount>
+    <DestinationName>Gerhard Steiner</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Large sum transferred from an unknown source to a personal account. Suspicious given recipient's investment history.</Findings>
+</SAR>

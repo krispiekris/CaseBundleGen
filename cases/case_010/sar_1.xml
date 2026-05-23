@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>FIN2024-012</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <ReportID>AT2024-003</ReportID>
+  <ReportingInstitution>Erste Bank Austria</ReportingInstitution>
   <Subject>
-    <Name>Klaus Eberhardt</Name>
-    <Account>DE8770100500000000100234</Account>
+    <Name>Karl Berger</Name>
+    <Account>AT402020100000000001</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-27</Date>
-    <Amount>12000</Amount>
+    <Date>2023-09-01</Date>
+    <Amount>10000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>MT18BANKMT01010001234567</DestinationAccount>
-    <DestinationName>Venture Galactic Ltd</DestinationName>
-    <Purpose>NFT Purchase</Purpose>
+    <DestinationAccount>BB12030000000000000001</DestinationAccount>
+    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
+    <Purpose>Investment in AI Trading Platform</Purpose>
   </Transaction>
+  <Transaction>
+    <Date>2023-11-10</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BB12030000000000000001</DestinationAccount>
+    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
+    <Purpose>Increased Investment in AI Trading Platform</Purpose>
+  </Transaction>
+  <Findings>Multiple large transfers to an offshore company with unusual investment scheme.  Customer expresses limited understanding of the investment.</Findings>
 </SAR>

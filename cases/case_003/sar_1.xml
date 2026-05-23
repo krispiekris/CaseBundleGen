@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-018-001</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Schmidt</Name>
+    <Account>DE89370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY12000001920000000000</DestinationAccount>
+    <DestinationName>NovaTrade Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY12000001920000000000</DestinationAccount>
+    <DestinationName>NovaTrade Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusual investment activity, potential investment fraud.</SuspiciousActivity>
+    <Reason>Funds transferred to Cyprus-based entity with unclear investment purpose.</Reason>
+  </Findings>
+</SAR>

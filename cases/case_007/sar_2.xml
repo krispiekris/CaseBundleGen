@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>AT2024-012</ReportID>
+  <ReportingInstitution>Regional Sparkasse</ReportingInstitution>
+  <Subject>
+    <Name>Heinrich Gruber</Name>
+    <Account>AT132060000000000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
+    <DestinationName>NovaTrade Global Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Potential link to investment fraud scheme involving online trading platform, following similar activity reported by Credident Bank.</Findings>
+</SAR>

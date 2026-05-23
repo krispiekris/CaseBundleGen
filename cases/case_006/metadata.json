@@ -1,51 +1,58 @@
 {
-  "case_id": "INV2024-027",
-  "fraud_type": "Forex Scam",
-  "fraud_subtype": "Recovery Scam",
+  "case_id": "INV2024-017",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "60-65",
-    "income_range": "\u20ac40,000-\u20ac60,000",
-    "country": "Germany",
-    "education_level": "High School"
+    "age_range": "55-64",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Netherlands",
+    "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Bulgaria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Bulgarian",
-      "German"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "Bulgaria"
+    "Belize",
+    "United Kingdom"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Initial contact via email"
+      "event": "Victim contacts 'QuantumLeap AI'"
     },
     {
-      "date": "2023-09-22",
-      "event": "First deposit made"
+      "date": "2023-09-01",
+      "event": "Initial investment made"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim claims losses and seeks recovery assistance"
+      "date": "2023-11-10",
+      "event": "Victim withdraws small amount to test"
     },
     {
-      "date": "2024-02-01",
-      "event": "Second deposit requested for 'recovery fees'"
+      "date": "2023-12-05",
+      "event": "Victim increases investment significantly"
     },
     {
-      "date": "2024-03-15",
-      "event": "Victim reports the scam to authorities"
+      "date": "2024-01-20",
+      "event": "Victim attempts withdrawal; denied"
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Victim reports to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Forex Trading Accounts",
-      "amount_range": "\u20ac15,000 - \u20ac30,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac5,000 - \u20ac20,000"
+    },
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac2,000 - \u20ac8,000"
     }
   ]
 }

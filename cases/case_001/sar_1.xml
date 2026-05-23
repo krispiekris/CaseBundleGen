@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>NL2024-007</ReportID>
-  <ReportingInstitution>ABN AMRO</ReportingInstitution>
+  <ReportID>AT2024-003</ReportID>
+  <ReportingInstitution>Sparkasse Österreich</ReportingInstitution>
   <Subject>
-    <Name>Hendrik Vermeer</Name>
-    <Account>NL93ABNA018452411029</Account>
+    <Name>Gerhard Steiner</Name>
+    <Account>AT1520120150000000012345</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
+    <Date>2023-12-05</Date>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BG51BNES95071020168349</DestinationAccount>
-    <DestinationName>NovaTech Investments EOOD</DestinationName>
+    <DestinationAccount>LT787640054901100123</DestinationAccount>
+    <DestinationName>Nova Finance UAB</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT787640054901100123</DestinationAccount>
+    <DestinationName>Nova Finance UAB</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual transaction activity with potential investment fraud. High amounts transferred to foreign accounts with vague descriptions.</Findings>
 </SAR>

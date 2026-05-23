@@ -1,46 +1,55 @@
 {
-  "case_id": "FRAUD2023-087",
+  "case_id": "INV2024-032",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "NFT Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "45-54",
-    "income_range": "\u20ac60,000-\u20ac90,000",
-    "country": "Germany",
+    "age_range": "55-64",
+    "income_range": "75000-100000 EUR",
+    "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Cyprus",
     "languages_spoken": [
       "English",
-      "Greek"
+      "Greek",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Malta",
-    "United Arab Emirates"
+    "Belize",
+    "Marshall Islands"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
+      "date": "2023-08-15",
       "event": "Initial contact via email"
     },
     {
-      "date": "2023-04-01",
+      "date": "2023-09-01",
       "event": "First investment made"
     },
     {
-      "date": "2023-05-10",
-      "event": "Victim attempts withdrawal, rejected"
+      "date": "2023-11-10",
+      "event": "Victim expresses concern about withdrawals"
     },
     {
-      "date": "2023-06-22",
-      "event": "SAR filed by bank"
+      "date": "2024-01-22",
+      "event": "Victim reports fraud"
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Investigation initiated"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (ETH)",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "5000-15000 EUR"
+    },
+    {
+      "type": "EUR Bank Transfers",
+      "amount_range": "20000-35000 EUR"
     }
   ]
 }

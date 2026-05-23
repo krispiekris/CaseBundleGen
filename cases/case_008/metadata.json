@@ -1,50 +1,51 @@
 {
   "case_id": "INV2024-018",
-  "fraud_type": "Forex Scam",
-  "fraud_subtype": "Recovery Scam",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
     "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Ireland",
+    "country": "Austria",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Belize",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Spanish",
+      "Mandarin"
     ]
   },
   "destination_countries": [
     "Belize",
-    "Seychelles"
+    "Hong Kong"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
-      "event": "Initial contact via email"
+      "date": "2023-11-15",
+      "event": "Victim contacts 'investment advisor'"
     },
     {
-      "date": "2023-04-22",
-      "event": "First deposit made"
+      "date": "2024-01-20",
+      "event": "Initial deposit made"
     },
     {
-      "date": "2023-07-10",
-      "event": "Victim claims losses and requests recovery assistance"
+      "date": "2024-03-10",
+      "event": "Victim attempts withdrawal, denied"
     },
     {
-      "date": "2023-08-05",
-      "event": "Further deposits requested for 'recovery fees'"
-    },
-    {
-      "date": "2023-09-12",
-      "event": "Victim reports suspicious activity to bank"
+      "date": "2024-05-01",
+      "event": "Victim reports to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Forex Trading Account",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "EUR",
+      "amount_range": "\u20ac5,000 - \u20ac20,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.5"
     }
   ]
 }

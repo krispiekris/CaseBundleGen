@@ -1,34 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount made by the victim?",
-    "answer": "\u20ac12000"
+    "question": "What was the initial amount Johann Huber transferred to NovaTech Solutions Ltd, and when did this transaction occur?",
+    "answer": "Johann Huber transferred \u20ac5000 to NovaTech Solutions Ltd on 2024-01-20."
   },
   {
-    "question": "What company is repeatedly mentioned as the recipient of the victim\u2019s funds?",
-    "answer": "Coral Financial Group Ltd"
+    "question": "According to the promotional brochure, what is a key feature of the NovaTech AI trading platform?",
+    "answer": "The promotional brochure states that the platform utilizes 'AI-Powered Algorithms' with 'unparalleled accuracy'."
   },
   {
-    "question": "What is the alleged purpose of the 'recovery fee' requested from the victim?",
-    "answer": "Processing fee to finalize the recovery process"
+    "question": "What is the purpose given for the transactions from Johann Huber's account to NovaTech Solutions Ltd?",
+    "answer": "The purpose given for the transactions is 'Investment'."
   },
   {
-    "question": "What type of financial instrument was the victim initially involved in?",
-    "answer": "Forex Trading"
+    "question": "What is the name of the shell company identified in SAR_2.xml and where is it located?",
+    "answer": "The shell company is Oceanic Holdings, located in Belize."
   },
   {
-    "question": "What language(s) are spoken by the fraudster?",
-    "answer": "English and Spanish"
+    "question": "What did the email from support@novatech-ai.com suggest Johann Huber do to maximize his gains?",
+    "answer": "The email suggested Johann Huber increase his investment by adding another \u20ac2,000 to his account."
   },
   {
-    "question": "What is the domain name used in the recovery brochure?",
-    "answer": "www.secureassetretrieval.net"
+    "question": "According to the promotional video description, what claims were made about the profitability of the NovaTech AI platform?",
+    "answer": "The promotional video description states that users allegedly doubled their investment in just one month."
   },
   {
-    "question": "Which account received the largest amount of money, and what was the date of that transaction?",
-    "answer": "Coral Financial Group Ltd, 2023-04-22"
+    "question": "What is the primary concern expressed by Johann Huber that prompted SAR_3.xml?",
+    "answer": "Johann Huber expressed concerns regarding promised returns."
   },
   {
-    "question": "What country is the fraudster based in?",
-    "answer": "Belize"
+    "question": "What action did NovaTech AI threaten in the email claiming to be from account_security@novatech-ai.com?",
+    "answer": "NovaTech AI threatened permanent account closure and forfeiture of all funds if Johann Huber did not deposit an additional \u20ac1,500 within 24 hours."
+  },
+  {
+    "question": "Which bank initiated the first Suspicious Activity Report (SAR) regarding Johann Huber's transactions?",
+    "answer": "Raiffeisenbank Austria initiated the first SAR (INV2024-018-001)."
+  },
+  {
+    "question": "Besides Johann Huber, are there any other individuals mentioned in the case files?",
+    "answer": "Alex Johnson is mentioned as an Investment Advisor at NovaTech AI."
   }
 ]

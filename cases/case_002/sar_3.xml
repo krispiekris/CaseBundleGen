@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-032-003</ReportID>
+  <ReportingInstitution>Raiffeisen Bank International</ReportingInstitution>
+  <Subject>
+    <Name>Other Victim Name</Name>
+    <Account>AT1234567890123456</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>FC1234567890123456789</DestinationAccount>
+    <DestinationName>ApexAI Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Similar transaction pattern observed with another customer.  Reporting Institution flagged based on similar reporting by Credobank and Sparkasse.</Findings>
+</SAR>

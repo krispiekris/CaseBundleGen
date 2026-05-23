@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>GER2023-143</ReportID>
-  <ReportingInstitution>Deutsche Kreditbank</ReportingInstitution>
+  <ReportID>INV2024-032-002</ReportID>
+  <ReportingInstitution>Sparkasse</ReportingInstitution>
   <Subject>
-    <Name>Klaus Weber</Name>
-    <Account>DE87370400440532113014</Account>
+    <Name>Karl Schmidt</Name>
+    <Account>AT7011000000000012345</Account>
   </Subject>
   <Transaction>
-    <Date>2023-05-15</Date>
-    <Amount>1200</Amount>
+    <Date>2023-10-10</Date>
+    <Amount>1000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>MT04VALL2001400000000004</DestinationAccount>
-    <DestinationName>Aetheria Collective Ltd</DestinationName>
-    <Purpose>Withdrawal Attempt</Purpose>
+    <DestinationAccount>FC1234567890123456789</DestinationAccount>
+    <DestinationName>ApexAI Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
+  <Findings>Multiple small transfers to the same beneficiary.  Reporting Institution flagged based on similar reporting by Credobank.</Findings>
 </SAR>

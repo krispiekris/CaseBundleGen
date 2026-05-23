@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the victim's account number?",
-    "answer": "DE8770100500000000100234"
+    "question": "According to the first SAR (AT2024-003), what was the stated purpose of the initial transaction from Karl Berger to NovaTrade Solutions Ltd?",
+    "answer": "Investment in AI Trading Platform"
   },
   {
-    "question": "What is the reported fraud type?",
-    "answer": "Investment Fraud"
+    "question": "What document type contains testimonials about NovaTrade AI\u2019s performance?",
+    "answer": "Brochure_1.txt and Brochure_2.txt"
   },
   {
-    "question": "What was the purpose of the transaction on 2023-10-27?",
-    "answer": "NFT Purchase"
+    "question": "Which account is listed as the destination for both of Karl Berger\u2019s wire transfers to NovaTrade Solutions Ltd?",
+    "answer": "BB12030000000000000001"
   },
   {
-    "question": "Which company is mentioned in both promotional material and bank statements?",
-    "answer": "Venture Galactic Ltd"
+    "question": "Based on the SAR (SZ2024-001) filed by Chase Bank Seychelles, what is stated about NovaTrade Solutions Ltd's business activity?",
+    "answer": "Registered company with minimal verifiable business activity."
   },
   {
-    "question": "What is the destination country for the funds transferred from Klaus Eberhardt\u2019s account?",
-    "answer": "Malta"
+    "question": "What document requests Karl Berger to submit copies of his passport and a utility bill?",
+    "answer": "email_3.txt"
   },
   {
-    "question": "What was the amount of the initial investment made by the victim?",
-    "answer": "12000"
+    "question": "What does the SAR (LC2024-002) from Belize International Bank indicate about Global Invest Holdings?",
+    "answer": "Shell company with limited operational information."
   },
   {
-    "question": "What is the occupation of the victim?",
-    "answer": "None"
+    "question": "What is the total amount Karl Berger transferred to NovaTrade Solutions Ltd, according to his bank statement?",
+    "answer": "25000 EUR"
   },
   {
-    "question": "Which European country does the fraudster reside in?",
-    "answer": "Serbia"
+    "question": "According to the website screenshot, what kind of design does the NovaTrade AI website have?",
+    "answer": "Sleek, modern design with prominently displayed charts showing impressive profit growth."
   },
   {
-    "question": "What type of digital asset was involved in the fraud?",
-    "answer": "NFT"
+    "question": "What is the reported initial investment amount highlighted in the brochure?",
+    "answer": "\u20ac500"
   },
   {
-    "question": "Which company initially reported this activity?",
-    "answer": "Sparkasse Bank"
+    "question": "What purpose do the transactions from Global Invest Holdings to NovaTrade Solutions Ltd serve, as stated in the SAR (LC2024-002)?",
+    "answer": "Investment Funds"
   }
 ]

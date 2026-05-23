@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>IR2024-004</ReportID>
-  <ReportingInstitution>Allied Irish Bank</ReportingInstitution>
+  <ReportID>HK2024-025-001</ReportID>
+  <ReportingInstitution>Standard Chartered Hong Kong</ReportingInstitution>
   <Subject>
-    <Name>Eamon O'Connell</Name>
-    <Account>IE47AIBK94221672283000</Account>
+    <Name>NovaTech Solutions Ltd</Name>
+    <Account>BZ120000000000000001</Account>
   </Subject>
   <Transaction>
-    <Date>2023-08-20</Date>
-    <Amount>1500</Amount>
+    <Date>2024-02-20</Date>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>Coral Financial Group Ltd</DestinationName>
-    <Purpose>Recovery Fee</Purpose>
+    <DestinationAccount>BZ134567890123456789</DestinationAccount>
+    <DestinationName>Oceanic Holdings</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
+  <Findings>Funds transferred to Oceanic Holdings, Belize.  Beneficiary appears to be shell company.</Findings>
 </SAR>

@@ -1,0 +1,10 @@
+From: secure.notice@yourbank.at
+To: karl.schmidt@email.at
+Subject: Important Security Alert
+
+Dear Karl,
+
+We have detected unusual activity on your account. Please verify your information immediately by clicking this link: [Phishing Link]. Failure to do so may result in account suspension.
+
+Sincerely,
+Your Bank Security Team

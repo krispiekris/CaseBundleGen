@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the reported fraud type in this case?",
-    "answer": "Forex Scam"
+    "question": "What is the Report ID for the SAR filed by ABN AMRO?",
+    "answer": "INV2024-017-001"
   },
   {
-    "question": "Which company is consistently mentioned in the transaction history and reports?",
-    "answer": "EuroFX Solutions Ltd"
+    "question": "According to the email from QuantumLeap AI, what is the purported benefit of using their AI?",
+    "answer": "Imagine earning daily returns while you sleep!"
   },
   {
-    "question": "Approximately how much money did the victim initially invest?",
-    "answer": "\u20ac8000"
+    "question": "Which account was used as the destination for all transactions involving 'Altcoin Global Ltd'?",
+    "answer": "LT12100001110123451"
   },
   {
-    "question": "What is the purpose of the transaction on 2024-01-10?",
-    "answer": "Recovery Fees"
+    "question": "What purpose was given for the initial investment of 5000 EUR?",
+    "answer": "Initial Investment"
   },
   {
-    "question": "According to the brochure, what is advertised as a benefit of using EuroFX Solutions?",
-    "answer": "Maximize your returns, minimize your risk"
+    "question": "Based on the HSBC SAR (UK-INV2024-001), where did the funds ultimately originate before reaching the account in LT12100001110123451?",
+    "answer": "The Netherlands"
   },
   {
-    "question": "What is the victim's country of residence?",
-    "answer": "Germany"
+    "question": "What promotional claim is made in the brochure regarding investment returns?",
+    "answer": "Earn consistent profits, even while you sleep."
   },
   {
-    "question": "What is the location of the fraudster?",
-    "answer": "Bulgaria"
+    "question": "What action did the Recovery Specialist email encourage the victim to take?",
+    "answer": "Please contact us immediately to discuss your case further and explore your options."
   },
   {
-    "question": "What did the victim pay for recovery fees?",
-    "answer": "\u20ac1500"
+    "question": "Which bank\u2019s SAR references activity from an account in the UK with account number GB82BARC40083100000000?",
+    "answer": "Barclays"
   },
   {
-    "question": "What is the reported education level of the victim?",
-    "answer": "High School"
+    "question": "What is the purpose of the 'Secure' badge displayed on the QuantumLeap AI website?",
+    "answer": "To convey professionalism and trustworthiness."
   },
   {
-    "question": "What language does the fraudster speak, in addition to Bulgarian?",
-    "answer": "German"
+    "question": "What is the total amount transferred to Victim 1 according to Bank Statement 2?",
+    "answer": "21000 EUR"
   }
 ]

@@ -1,55 +1,58 @@
 {
-  "case_id": "FRAUD2024-077",
+  "case_id": "INV2024-047",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "NFT Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "45-55",
-    "income_range": "75000-125000",
-    "country": "Ireland",
+    "age_range": "55-64",
+    "income_range": "60000-80000 EUR",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "German"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Malta",
-    "United Arab Emirates"
+    "Belize",
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacts 'ArtVerse Collective' after seeing promotional material."
-    },
-    {
-      "date": "2023-08-22",
-      "event": "Initial investment of \u20ac5,000 made by victim."
-    },
-    {
-      "date": "2023-09-10",
-      "event": "Victim receives fabricated profit reports."
-    },
-    {
-      "date": "2023-11-01",
-      "event": "Victim attempts to withdraw funds, request denied."
-    },
-    {
       "date": "2023-11-15",
-      "event": "Victim reports suspicious activity to bank."
+      "event": "Victim contacts 'QuantumLeap Investments'"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial deposit made by victim"
+    },
+    {
+      "date": "2024-01-15",
+      "event": "Victim withdraws small profit"
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Victim encouraged to deposit larger sum"
+    },
+    {
+      "date": "2024-03-10",
+      "event": "Victim attempts to withdraw funds and is blocked"
+    },
+    {
+      "date": "2024-03-25",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (ETH)",
-      "amount_range": "5000-15000"
+      "type": "EUR",
+      "amount_range": "25000-40000"
     },
     {
-      "type": "Bank Account (EUR)",
-      "amount_range": "10000-50000"
+      "type": "BTC",
+      "amount_range": "0.5-1.0"
     }
   ]
 }

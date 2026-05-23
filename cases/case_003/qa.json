@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the victim's occupation according to the bank statements?",
-    "answer": "Salary earner at Van Houten & Zn."
+    "question": "What is the IBAN of Hans Schmidt's bank account?",
+    "answer": "DE89370400440532013000"
   },
   {
-    "question": "Which company received the largest single transaction from the victim?",
-    "answer": "Celestial Arts Holdings Ltd"
+    "question": "According to the promotional material, what is a key feature of NovaTrade AI?",
+    "answer": "24/7 Automated Trading"
   },
   {
-    "question": "What date did the victim first interact with the fraudulent entity?",
-    "answer": "2023-08-15"
+    "question": "What is the purpose stated for the transactions from Hans Schmidt's account to NovaTrade Investments Ltd?",
+    "answer": "Investment"
   },
   {
-    "question": "What countries are listed as destination countries for the funds?",
-    "answer": "Hong Kong, Seychelles, Portugal"
+    "question": "What is the account name and bank for the tax processing fee transfer requested in email_3?",
+    "answer": "Account Name: Secure Investments Ltd, Bank: Deutsche Bank"
   },
   {
-    "question": "What type of asset was purchased by the victim?",
-    "answer": "NFTs"
+    "question": "What is the destination account for the initial \u20ac5000 transaction from Hans Schmidt to NovaTrade Investments Ltd, as reported in SAR_1?",
+    "answer": "CY12000001920000000000"
   },
   {
-    "question": "What is the main purpose of the email sent on 2023-10-03?",
-    "answer": "To request KYC documentation"
+    "question": "What is the total profit reported to Hans Schmidt in email_2?",
+    "answer": "\u20ac1045.78"
   },
   {
-    "question": "What is a common theme shared between the promotional brochure and the emails?",
-    "answer": "Exclusive access and limited-time offers"
+    "question": "Which bank statement shows an outgoing transfer of \u20ac1500?",
+    "answer": "bank_statement_2.csv"
   },
   {
-    "question": "Which language is spoken by the fraudster?",
-    "answer": "English"
+    "question": "What is the SWIFT code provided for the final payment confirmation in email_4?",
+    "answer": "TDMXUSDM"
   },
   {
-    "question": "Does the name of the beneficiary in the SAR match with those found in the email content?",
-    "answer": "Celestial Arts Holdings Ltd"
+    "question": "What suspicious activity is reported in SAR_3?",
+    "answer": "Unusual investment activity, potential investment fraud."
   },
   {
-    "question": "What is the reported institution in the first SAR file?",
-    "answer": "ABN AMRO"
+    "question": "What does the screenshot_1 file describe about the NovaTrade AI platform?",
+    "answer": "The platform features a clean and modern design with a prominent graph displaying simulated trading performance, accessible live chat support, and buttons for 'Start Trading,' 'Withdraw Funds,' and 'Account Settings'."
   }
 ]

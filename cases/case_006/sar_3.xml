@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK-INV2024-002</ReportID>
+  <ReportingInstitution>Barclays</ReportingInstitution>
+  <Subject>
+    <Account>GB82BARC40083100000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-20</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+  </Transaction>
+  <Findings>Suspicious activity – funds received from international transfers. Further investigation required.</Findings>
+</SAR>

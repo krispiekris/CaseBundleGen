@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>GER2023-142</ReportID>
-  <ReportingInstitution>Deutsche Kreditbank</ReportingInstitution>
+  <ReportID>INV2024-032-001</ReportID>
+  <ReportingInstitution>Credobank Austria</ReportingInstitution>
   <Subject>
-    <Name>Klaus Weber</Name>
-    <Account>DE87370400440532113014</Account>
+    <Name>Karl Schmidt</Name>
+    <Account>AT7011000000000012345</Account>
   </Subject>
   <Transaction>
-    <Date>2023-04-01</Date>
-    <Amount>7500</Amount>
+    <Date>2023-09-01</Date>
+    <Amount>12000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>MT04VALL2001400000000004</DestinationAccount>
-    <DestinationName>Aetheria Collective Ltd</DestinationName>
-    <Purpose>NFT Investment</Purpose>
+    <DestinationAccount>FC1234567890123456789</DestinationAccount>
+    <DestinationName>ApexAI Solutions Ltd</DestinationName>
+    <Purpose>Investment in AI Trading Bot</Purpose>
   </Transaction>
+  <Findings>Customer reported unusually high transaction volume and promised high returns on automated trading platform. Initial investment made with subsequent smaller transfers.</Findings>
 </SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the name of the company the victim initially invested in?",
-    "answer": "ArtVerse Collective Ltd"
+    "question": "What is the Report ID for the SAR filed by Bank ABC?",
+    "answer": "ABC2024-123"
   },
   {
-    "question": "What currency was used for the initial investment transaction?",
-    "answer": "EUR"
+    "question": "What is the purpose stated for the transactions to QuantumLeap Investments?",
+    "answer": "Investment"
   },
   {
-    "question": "Which country's bank reported the suspicious activity?",
-    "answer": "Ireland"
+    "question": "What is the initial processing fee requested by Sterling Bridge Ltd?",
+    "answer": "2000 EUR"
   },
   {
-    "question": "According to the files, what type of asset was the victim invested in?",
-    "answer": "NFT"
+    "question": "According to the website screenshot, what is a notable characteristic of the QuantumLeap Investments website URL?",
+    "answer": "It uses a .fake domain extension."
   },
   {
-    "question": "Who is the recipient of the money wired from the victim\u2019s account on August 22, 2023?",
-    "answer": "ArtVerse Collective Ltd"
+    "question": "What date did Victor Schmidt receive an email urging him to increase his deposit to maximize returns?",
+    "answer": "Not mentioned in the case files"
   },
   {
-    "question": "What is mentioned on the website screenshot?",
-    "answer": "The screenshot shows a branded page with promotions and testimonials from 'verified investors'."
+    "question": "Besides QuantumLeap Investments, which other entity is associated with Victor Schmidt's transactions?",
+    "answer": "Sterling Bridge Ltd"
   },
   {
-    "question": "What is the report ID for the SAR filed with AIB Bank?",
-    "answer": "IRL2024-007"
+    "question": "What is the finding in the HSBC UK SAR regarding Sterling Bridge Ltd?",
+    "answer": "Funds being transferred to a UK company claiming to be a funds recovery service."
   },
   {
-    "question": "What was the purpose of the transaction recorded in sar_1.xml?",
-    "answer": "Investment in NFT project"
+    "question": "What promotional claim does the QuantumLeap Investments brochure make regarding its investment strategy?",
+    "answer": "Harness the power of AI to generate daily profits."
   },
   {
-    "question": "What company employed the victim?",
-    "answer": "Eaton Pharmaceuticals"
+    "question": "What is the total amount transferred to QuantumLeap Investments?",
+    "answer": "25000 EUR"
   },
   {
-    "question": "What is the account number of Aoife Byrne?",
-    "answer": "IE42AIBK94470243958013"
+    "question": "What country is associated with the offshore account receiving funds from Victor Schmidt?",
+    "answer": "Belize"
   }
 ]

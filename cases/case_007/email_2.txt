@@ -1,8 +1,13 @@
-Subject: Important Update Regarding Your InnovAI Account
+From: support@aetheriumtrading.net
+To: johannes.vermeer@email.nl
+Subject: Your Initial Deposit & Projected Returns
 
-Dear Klaus,
+Dear Johannes,
 
-There's been an unusual activity detected on your InnovAI account. To ensure the safety of your funds, please verify your information immediately by clicking here: [malicious link].
+We've received your initial deposit of €15,000 and have activated your trading account. Our AI has already identified several promising opportunities.
 
-Regards,
-InnovAI Support
+Projected returns for the first month are estimated at 15-20%.
+
+Sincerely,
+
+Aetherium Support Team

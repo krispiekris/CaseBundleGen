@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>MTA2024-012</ReportID>
-  <ReportingInstitution>HSBC Malta</ReportingInstitution>
+  <ReportID>HSBCUK2024-045</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
+  <DateFiled>2024-03-15</DateFiled>
   <Subject>
-    <Name>Stefan Petrov</Name>
-    <Account>MT12VAGL0000000000012345</Account>
+    <Name>Victor Schmidt</Name>
+    <Account>DE87370400440532013000</Account>
   </Subject>
   <Transaction>
-    <Date>2023-08-22</Date>
-    <Amount>5000</Amount>
+    <Date>2024-02-28</Date>
+    <Amount>20000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AE12050000000012345</DestinationAccount>
-    <DestinationName>Zahid Trading</DestinationName>
-    <Purpose>Investment Proceeds</Purpose>
+    <DestinationAccount>GB80NWBK02010012345678</DestinationAccount>
+    <DestinationName>Sterling Bridge Ltd</DestinationName>
+    <Purpose>Funds Recovery</Purpose>
   </Transaction>
+  <Findings>
+    <Finding>Funds being transferred to a UK company claiming to be a funds recovery service.</Finding>
+    <Finding>Potential attempt to recover lost funds from the victim by fraudulent means.</Finding>
+  </Findings>
 </SAR>

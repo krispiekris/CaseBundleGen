@@ -1,34 +1,42 @@
 [
   {
-    "question": "What is the fraud subtype in this case?",
-    "answer": "AI Trading Scam"
+    "question": "What is the report ID for the SAR filed by Sparkasse \u00d6sterreich?",
+    "answer": "AT2024-003"
   },
   {
-    "question": "What is the victim's country of residence?",
-    "answer": "Netherlands"
+    "question": "According to the brochure, what is a key claim made about QuantumAlpha's AI trading platform?",
+    "answer": "Our advanced algorithms ensure consistent growth, regardless of market volatility."
   },
   {
-    "question": "Which bank handled the victim\u2019s transactions?",
-    "answer": "ABN AMRO"
+    "question": "What is the destination account used for the transfers from Gerhard Steiner's account?",
+    "answer": "LT787640054901100123"
   },
   {
-    "question": "What is the initial amount invested by the victim?",
-    "answer": "\u20ac5000"
+    "question": "What amount of funds was Gerhard Steiner instructed to deposit to maintain his investment momentum, according to email_2?",
+    "answer": "Not mentioned in the case files"
   },
   {
-    "question": "What is the name of the company that received the victim's investments?",
-    "answer": "NovaTech Investments EOOD"
+    "question": "What is the purpose stated for the transactions involving Gerhard Steiner's account?",
+    "answer": "Investment"
   },
   {
-    "question": "What is the destination account where the victim was asked to transfer a 'verification fee'?",
-    "answer": "RS3020500000000000001432"
+    "question": "Which entity is identified as the reporting institution in the SAR filed in Lithuania?",
+    "answer": "Luminor Bank"
   },
   {
-    "question": "What is the name of the fraudster mentioned in the SAR?",
-    "answer": "Dimitri Petrov"
+    "question": "What amount of funds did Gerhard Steiner request to withdraw, as indicated by email_3?",
+    "answer": "\u20ac10,000"
   },
   {
-    "question": "According to the bank statement, what was the largest debit transaction?",
-    "answer": "-5000"
+    "question": "Besides Germany, which other countries are mentioned as locations of satisfied QuantumAlpha investors in the brochure?",
+    "answer": "Switzerland and Italy"
+  },
+  {
+    "question": "What is the destination account in the SAR filed by the Slovakian Bank?",
+    "answer": "AT1520120150000000012345"
+  },
+  {
+    "question": "What characteristic of QuantumAlpha's support team is highlighted in the promotional material?",
+    "answer": "Our dedicated team is here to assist you every step of the way."
   }
 ]
