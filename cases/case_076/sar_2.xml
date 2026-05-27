@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-0123</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE871101000000000123456789</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-05</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>AlphaTrade Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Significant increase in investment amount. Further investigation revealed connection to Belizean company with questionable regulatory status.</Findings>
+</SAR>

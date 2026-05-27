@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>LT2024-0567</ReportID>
+  <ReportingInstitution>Luminor Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>3500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG40700001110123451</DestinationAccount>
+    <DestinationName>Chinedu Okoro</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Transaction originated from potentially fraudulent source; high-risk jurisdiction.</Findings>
+</SAR>

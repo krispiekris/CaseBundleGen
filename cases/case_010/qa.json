@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR, what is the primary purpose of the first transaction from Victim 1 to NovaTrade AI?",
+    "question": "According to sar_1.xml, what is the account number of Hans Schmidt?",
+    "answer": "DE25744501010005102388"
+  },
+  {
+    "question": "What purpose is consistently listed for the transactions involving Hans Schmidt's account?",
     "answer": "Investment"
   },
   {
-    "question": "What does the brochure claim about the NovaTrade AI platform?",
-    "answer": "It claims the platform is 'Secure & Transparent'."
+    "question": "Which bank submitted the report CMZ2024-0112?",
+    "answer": "Commerzbank"
   },
   {
-    "question": "What amount of processing fee was requested from Victim 1 for the withdrawal?",
-    "answer": "50 EUR"
+    "question": "What date did Hans Schmidt receive a salary payment according to bank_statement_1.csv?",
+    "answer": "2024-02-22"
   },
   {
-    "question": "What is the account number for NovaTrade AI in Belize International Bank?",
-    "answer": "BZ1234567890"
+    "question": "What is the purported reason given in email_3.txt for the delay in withdrawal processing?",
+    "answer": "Unexpected technical issues with our processing system"
   },
   {
-    "question": "Besides EUR, are any other currencies involved in the reported transactions?",
-    "answer": "None"
+    "question": "What does screenshot_1.txt indicate about the NovaTrade AI dashboard?",
+    "answer": "It displays a graph showing an upward trend with fabricated profit numbers and a 'Current Balance: \u20ac8,250.00'"
   },
   {
-    "question": "What is the purpose of the second transaction from Victim 1's account to NovaTrade AI?",
-    "answer": "Withdrawal"
+    "question": "According to sar_3.xml, what is the account of 'NovaTrade AI Global'?",
+    "answer": "AE50024000101041234567890"
   },
   {
-    "question": "What is the name of the company that pays Victim 1's salary?",
-    "answer": "Company A"
+    "question": "What is the purpose of the transaction described in sar_3.xml?",
+    "answer": "Investment"
   },
   {
-    "question": "What types of testimonials are featured on the NovaTrade AI website?",
-    "answer": "Testimonials claim high returns and ease of use."
+    "question": "What is the subject line of the email intended to alert Hans Schmidt to suspicious activity?",
+    "answer": "Important Security Alert - Sparkasse Bank"
   },
   {
-    "question": "What is the finding described in SAR 3?",
-    "answer": "Transfers to offshore account with no apparent business purpose. Potential money laundering."
-  },
-  {
-    "question": "What email address was used to send the initial recruitment email to Victim 1?",
-    "answer": "recruiter@novatrade.fake"
+    "question": "Based on the provided files, what is the function of the website www.novatradeai.com?",
+    "answer": "To promote and offer automated investment opportunities."
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the initial amount invested by Victim 1 with QuantumLeap AI, according to sar_1.xml?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "According to sar_2.xml, what concerning detail was discovered regarding the registration address of QuantumLeap AI Ltd?",
+    "answer": "It is registered at a residential address."
+  },
+  {
+    "question": "Based on the email_3.txt, what specific personal information was the victim asked to provide?",
+    "answer": "Full Name, Account Number, Debit/Credit Card Details (front and back)"
+  },
+  {
+    "question": "What is the purpose of the transaction recorded in sar_3.xml involving QuantumLeap AI Ltd and an account in the UAE?",
+    "answer": "Transfer"
+  },
+  {
+    "question": "According to the brochure_1.txt, what is a key selling point for QuantumLeap AI regarding risk?",
+    "answer": "Minimizes risk"
+  },
+  {
+    "question": "According to bank_statement_2.csv, what is the destination account where QuantumLeap AI transferred 2500 EUR?",
+    "answer": "AE1234567890"
+  },
+  {
+    "question": "What does the screenshot_1.txt indicate about the website's visual representation?",
+    "answer": "It shows a clean and modern website interface with a graph displaying increasing profits, deposit/withdrawal buttons, and testimonials."
+  },
+  {
+    "question": "According to email_4.txt, what is the victim's primary concern regarding their QuantumLeap AI account?",
+    "answer": "They are concerned about recent transfers and haven't received a withdrawal of 3000 EUR."
+  },
+  {
+    "question": "What is the reporting institution for both SARs INV2023-09-22 and INV2023-12-15?",
+    "answer": "Lloyds Bank"
+  },
+  {
+    "question": "According to sar_3.xml, which country is the destination account located in where funds originating from the UK are being transferred?",
+    "answer": "United Arab Emirates (UAE)"
+  }
+]

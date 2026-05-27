@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SC2024-789</ReportID>
+  <ReportingInstitution>First Global Bank (Seychelles)</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC000000123456789</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Unknown</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC000000123456789</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Unknown</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from transfers originating in Germany. Account holder unresponsive to inquiries.</Findings>
+</SAR>

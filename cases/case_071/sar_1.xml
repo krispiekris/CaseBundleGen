@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-123</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-15</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-28</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual activity, potential investment fraud</Findings>
+</SAR>

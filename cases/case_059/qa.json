@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what is the purpose of the initial transaction from the victim to Altcoin Global Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the name of the reporting institution in SAR_2.xml?",
+    "answer": "Belize International Bank"
+  },
+  {
+    "question": "What additional verification fee was requested from the victim in email_3.txt?",
+    "answer": "\u20ac500"
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what type of transaction occurred on 2023-10-25?",
+    "answer": "ATM Withdrawal"
+  },
+  {
+    "question": "What is the projected return mentioned in email_2.txt?",
+    "answer": "15-20%"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the website's design?",
+    "answer": "Sleek, modern design with a dark blue and silver color scheme. Prominent graphics display graphs showing exponential growth and testimonials from supposed satisfied users. A countdown timer indicates a 'limited-time opportunity'."
+  },
+  {
+    "question": "According to SAR_3.xml, what is the purpose of the funds received by Altcoin Global Ltd from Germany?",
+    "answer": "Related to potential investment fraud scheme"
+  },
+  {
+    "question": "What is the potential risk identified in SAR_1.xml?",
+    "answer": "High risk of investment fraud"
+  },
+  {
+    "question": "According to email_4.txt, what is the consequence of failing to verify your account?",
+    "answer": "Temporary suspension"
+  },
+  {
+    "question": "What currency is used for the transactions described in the case files?",
+    "answer": "EUR"
+  }
+]

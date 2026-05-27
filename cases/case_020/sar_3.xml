@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>LU2023-789</ReportID>
+  <ReportingInstitution>BGL BNP Paribas</ReportingInstitution>
+  <Subject>
+    <Name>Arabian Holdings LLC</Name>
+    <Account>AE77000000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>12000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ12010000010000001234</DestinationAccount>
+    <DestinationName>NovaTrade AI Ltd.</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from a company potentially linked to investment fraud. Further investigation warranted.</Findings>
+</SAR>

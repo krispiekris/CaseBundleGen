@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the SAR filed by Commerzbank?",
+    "answer": "CM2024-015"
+  },
+  {
+    "question": "According to the email from rewards@novaaitrading.fake, how much does the victim need to deposit to claim their profit?",
+    "answer": "\u20ac5,000"
+  },
+  {
+    "question": "What is the purpose stated for the transaction involving Destination Account US5312345678901234567890 in sar_2.xml?",
+    "answer": "Withdrawal"
+  },
+  {
+    "question": "What is the destination account for the transaction flagged in SAR_3?",
+    "answer": "AE9801234567890123456789"
+  },
+  {
+    "question": "What is the name of the company that paid the victim's salary?",
+    "answer": "Company A"
+  },
+  {
+    "question": "What amount did Nova AI Trading LLC receive from Deutsche Bank on December 5, 2023?",
+    "answer": "10000 EUR"
+  },
+  {
+    "question": "According to the brochure_1.txt, what is one of the advertised features of Nova AI Trading?",
+    "answer": "Automated Trading"
+  },
+  {
+    "question": "What is the purpose of the transaction between Nova AI Trading LLC and Sunrise Investments FZE?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What does the screenshot_1.txt indicate about the victim's 'Daily Profit'?",
+    "answer": "\u20ac3,000"
+  },
+  {
+    "question": "How many withdrawal attempts are listed in bank_statement_2.csv?",
+    "answer": "3"
+  }
+]

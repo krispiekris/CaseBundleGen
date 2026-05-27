@@ -1,5 +1,5 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "CY2024-11-05-Alpha",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -12,45 +12,47 @@
     "location": "Belize",
     "languages_spoken": [
       "English",
-      "Spanish",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
     "Belize",
-    "Seychelles",
     "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim discovers 'NovaTrade AI'"
+      "date": "2023-09-15",
+      "event": "Victim contacted by 'investment advisor' via email."
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial investment of \u20ac2,000"
+      "date": "2023-09-22",
+      "event": "Initial investment of \u20ac2,000 made."
     },
     {
       "date": "2023-10-15",
-      "event": "Victim receives 'profit' payouts"
+      "event": "Victim receives first 'profit' distribution."
     },
     {
       "date": "2024-01-10",
-      "event": "Victim requests withdrawal of \u20ac15,000"
+      "event": "Victim attempts to withdraw funds; request denied."
     },
     {
-      "date": "2024-01-20",
-      "event": "Withdrawal request denied, citing 'verification issues'"
+      "date": "2024-02-28",
+      "event": "Victim officially reports fraud."
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Initial SAR filed."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac5,000 - \u20ac20,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     },
     {
-      "type": "EUR Bank Account",
-      "amount_range": "\u20ac2,000 - \u20ac15,000"
+      "type": "EUR Bank Funds",
+      "amount_range": "\u20ac2,000 - \u20ac20,000"
     }
   ]
 }

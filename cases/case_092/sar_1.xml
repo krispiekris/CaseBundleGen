@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CZ2024-0087</ReportID>
+  <ReportingInstitution>Česká spořitelna</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>1111111111/2222</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG41070000138138391976212486</DestinationAccount>
+    <DestinationName>Chibuzo Okoro</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG41070000138138391976212486</DestinationAccount>
+    <DestinationName>Chibuzo Okoro</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
+  </Transaction>
+  <Findings>Unusual activity observed on account. Funds transferred overseas.</Findings>
+</SAR>

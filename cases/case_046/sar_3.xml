@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CU2023-0125</ReportID>
+  <ReportingInstitution>Credit Union ABC</ReportingInstitution>
+  <DateFiled>2023-05-15</DateFiled>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE25370400440532015200</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-05-07</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB56NWBK54014938035684</DestinationAccount>
+    <DestinationName>Wealth Management Solutions UK</DestinationName>
+    <Purpose>Withdrawal</Purpose>
+  </Transaction>
+  <Findings>
+    <Finding>Unusual withdrawal to a UK bank account. Possible link to investment fraud.</Finding>
+  </Findings>
+</SAR>

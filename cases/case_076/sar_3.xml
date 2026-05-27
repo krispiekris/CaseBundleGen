@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-0567</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
+  <Subject>
+    <Name>AlphaTrade Investments Ltd</Name>
+    <Account>GB80HBHS1234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-10-01</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE871101000000000123456789</DestinationAccount>
+    <DestinationName>Helmut Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds originating from Belize being transferred to Germany. Further investigation revealed potential links to investment fraud.</Findings>
+</SAR>

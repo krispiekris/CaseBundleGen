@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-008</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE89370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ000000000000000001</DestinationAccount>
+    <DestinationName>QuantumLeap Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Initial investment flagged due to offshore destination and high-risk investment scheme.  Victim expressed limited understanding of the investment.</Findings>
+</SAR>

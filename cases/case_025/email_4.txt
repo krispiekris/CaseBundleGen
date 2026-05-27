@@ -1,0 +1,14 @@
+From: audit@financialcompliance.co.uk
+To: john.smith@email.com
+Subject: Urgent: Funds Release Verification
+
+Dear John,
+
+Our firm has been engaged by AutomatedWealth AI to conduct a final audit of your account. To release your funds, a verification fee of £1000 is required.
+
+Click here to complete the audit verification: www.automatedwealth.fake/audit
+
+Failure to pay may delay your funds release.
+
+Sincerely,
+Financial Compliance Auditors

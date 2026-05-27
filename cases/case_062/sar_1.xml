@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE20241115-001</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG33080158297700000998</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Initial investment flagged due to destination account location and unregulated nature of 'NovaTrade AI'.</Findings>
+</SAR>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2023-087</ReportID>
+  <ReportingInstitution>Belize Bank Limited</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>US123456789</DestinationAccount>
+    <DestinationName>Offshore Services LLC</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from Germany. Account flagged for potential money laundering activities.</Findings>
+</SAR>

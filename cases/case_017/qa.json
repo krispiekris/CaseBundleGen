@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the SAR filed by Deutsche Bank regarding Victim 1?",
+    "answer": "INV2024-007"
+  },
+  {
+    "question": "According to email_2.txt, what bonus was offered to users who deposited funds within 24 hours?",
+    "answer": "A guaranteed 20% return"
+  },
+  {
+    "question": "Which destination account received transfers labeled as 'Investment' according to sar_1.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "What purpose was listed for the 500 EUR transaction in sar_2.xml?",
+    "answer": "Payment Processing Fee"
+  },
+  {
+    "question": "What type of company is 'Company A' based on bank_statement_1.csv?",
+    "answer": "None"
+  },
+  {
+    "question": "What does screenshot_1.txt indicate about the QuantumFX website?",
+    "answer": "It features a sleek, modern design with animated charts and graphs, and live chat functionality."
+  },
+  {
+    "question": "According to sar_3.xml, what is a characteristic of the beneficiary \u2018Altcoin Global Ltd\u2019?",
+    "answer": "A known shell company"
+  },
+  {
+    "question": "What was the amount of the withdrawal request initiated by the victim on 2024-01-12?",
+    "answer": "15000 EUR"
+  },
+  {
+    "question": "What is the significance of the finding in sar_3.xml regarding funds received by \u2018Altcoin Global Ltd\u2019?",
+    "answer": "Funds received from several different accounts matching victim profiles indicative of investment fraud."
+  },
+  {
+    "question": "Which entity is linked to the AI trading platform scheme according to sar_2.xml?",
+    "answer": "Global Finance Solutions"
+  }
+]

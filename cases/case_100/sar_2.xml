@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-456</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB26NWBK000000000012345</DestinationAccount>
+    <DestinationName>Sterling Global Finance</DestinationName>
+    <Purpose>Withdrawal request - Denied</Purpose>
+  </Transaction>
+  <Findings>Client requested withdrawal which was denied due to account inactivity and suspicious transaction patterns.</Findings>
+</SAR>

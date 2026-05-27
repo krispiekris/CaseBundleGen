@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what was the purpose of the initial investment made by John Smith?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "What is the destination account number used for both transactions detailed in SAR_1.xml?",
+    "answer": "CY7501200011012345678901"
+  },
+  {
+    "question": "Based on email_2.txt, what additional amount was John Smith encouraged to invest?",
+    "answer": "\u20ac5000"
+  },
+  {
+    "question": "What is the primary function of QuantumLeap AI Trader as described in brochure_1.txt?",
+    "answer": "Automated Crypto Profits"
+  },
+  {
+    "question": "According to email_3.txt, what documents were requested from John Smith for account verification?",
+    "answer": "Copies of his passport and recent bank statements"
+  },
+  {
+    "question": "What type of security concern prompted the Risk Assessment of 'High' in SAR_3.xml?",
+    "answer": "Large transfers to companies with opaque ownership structures"
+  },
+  {
+    "question": "Which reporting institution flagged the initial transactions involving John Smith?",
+    "answer": "Commonwealth Bank of Australia"
+  },
+  {
+    "question": "What action does email_2.txt suggest John Smith can take to increase his daily profits?",
+    "answer": "Add another \u20ac5000 to his account"
+  },
+  {
+    "question": "According to sar_2.xml, what is the purpose assigned to the deposits from John Smith?",
+    "answer": "Deposit from John Smith"
+  },
+  {
+    "question": "What is the website URL associated with QuantumLeap AI Trader, as mentioned in email_1.txt?",
+    "answer": "www.quantumleaptrader.fake"
+  }
+]

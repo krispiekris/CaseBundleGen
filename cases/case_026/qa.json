@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of the victim?",
+    "answer": "GR1601101250000000012310695"
+  },
+  {
+    "question": "What purpose is given for the initial transaction of 2000 EUR in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on sar_2.xml, what is the name of the company receiving transfers from Victim 1?",
+    "answer": "Altcoin Global Ltd"
+  },
+  {
+    "question": "What is the purpose of the transaction listed in bank_statement_1.csv on 2024-02-20?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What document does email_3.txt request from the victim as part of a 'security upgrade'?",
+    "answer": "A copy of their passport and a recent utility bill"
+  },
+  {
+    "question": "What is the total investment amount displayed on the dashboard according to screenshot_2.txt?",
+    "answer": "\u20ac2,000"
+  },
+  {
+    "question": "What does sar_3.xml indicate about the involvement of 'QuantumLeap AI'?",
+    "answer": "The recipient is flagged for potential involvement in fraudulent investment schemes."
+  },
+  {
+    "question": "What amount of funds were transferred out from QuantumLeap AI according to bank_statement_2.csv?",
+    "answer": "500 EUR"
+  },
+  {
+    "question": "According to email_4.txt, what additional documentation is required from the victim?",
+    "answer": "Copies of their passport and proof of address"
+  },
+  {
+    "question": "What currency is used for the transactions recorded in sar_1.xml?",
+    "answer": "EUR"
+  }
+]

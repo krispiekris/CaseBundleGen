@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-017-002</ReportID>
-  <ReportingInstitution>Luminor Bank</ReportingInstitution>
+  <ReportID>CMZ2024-0112</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
   <Subject>
-    <Name>NovaTrade AI</Name>
-    <Account>LT12100001110123451</Account>
+    <Name>Hans Schmidt</Name>
+    <Account>DE25744501010005102388</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>12000</Amount>
+    <Date>2024-02-15</Date>
+    <Amount>800</Amount>
     <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
+    <DestinationAccount>AE50024000101041234567890</DestinationAccount>
+    <DestinationName>NovaTrade AI Global</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Transaction>
-    <Date>2023-11-08</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>LT12100001110123451</SourceAccount>
-    <SourceName>NovaTrade AI</SourceName>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Multiple incoming transfers from various sources, consistent with investment scheme.</Findings>
+  <Findings>Similar to report SPK2024-0034, multiple transactions to offshore accounts.  Lack of transparency regarding transaction purpose.</Findings>
 </SAR>

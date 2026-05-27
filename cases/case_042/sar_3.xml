@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-055</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Third Party Contact</Name>
+    <Account>GB16NWBK20400178874949</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE89370400440532013000</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Multiple transactions received from various sources. Suspicious connections to known fraudulent entities. Potential money laundering activity.</Findings>
+</SAR>

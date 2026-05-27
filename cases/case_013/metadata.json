@@ -1,0 +1,56 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-80000",
+    "country": "Australia",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Cyprus",
+    "languages_spoken": [
+      "English",
+      "Greek",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Cyprus",
+    "United Kingdom",
+    "Serbia"
+  ],
+  "timeline": [
+    {
+      "date": "2023-09-15",
+      "event": "Victim contacted by QuantumLeap AI"
+    },
+    {
+      "date": "2023-10-20",
+      "event": "Initial investment of 2000 EUR"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim encouraged to deposit further funds"
+    },
+    {
+      "date": "2024-03-05",
+      "event": "Victim requests withdrawal, fails"
+    },
+    {
+      "date": "2024-04-12",
+      "event": "Victim reports fraud"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "5000-15000"
+    },
+    {
+      "type": "GBP",
+      "amount_range": "0-2000"
+    }
+  ]
+}

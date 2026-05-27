@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-042</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Schmidt</Name>
+    <Account>DE89370400440532013700</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-10-20</Date>
+    <Amount>6000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Customer reported suspicious activity. Funds transferred to a high-risk jurisdiction.</Findings>
+  <ReportDate>2024-02-05</ReportDate>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the account number of Helmut Schmidt's bank account?",
+    "answer": "DE8780000000000001234567890"
+  },
+  {
+    "question": "According to email_3.txt, what is the stated reason for a withdrawal request being pending?",
+    "answer": "Market volatility requiring an additional investment to unlock profits."
+  },
+  {
+    "question": "What is the destination account number used for transfers to QuantumLeap AI Investments?",
+    "answer": "BZ1503000000000012345678"
+  },
+  {
+    "question": "What is the purpose stated for the transactions to QuantumLeap AI Investments?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on screenshot_1.txt, what is prominently displayed on the landing page of QuantumLeap AI?",
+    "answer": "An upward-trending graph showcasing impressive ROI figures."
+  },
+  {
+    "question": "What additional action is Helmut Schmidt asked to take in email_3.txt to proceed with his withdrawal?",
+    "answer": "Deposit 1000 EUR to the account number BZ1503000000000012345678"
+  },
+  {
+    "question": "According to the brochure_2.txt, what is the average ROI stated for Stellar Crypto Ventures?",
+    "answer": "30% per month"
+  },
+  {
+    "question": "What is the purpose of the inbound transfer from Germany detailed in SAR_3.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What action is requested in email_4.txt to maintain an account and secure investments?",
+    "answer": "Deposit funds within the next 7 days"
+  },
+  {
+    "question": "What is the amount of the initial deposit made by Helmut Schmidt to QuantumLeap AI Investments according to sar_1.xml?",
+    "answer": "5000 EUR"
+  }
+]

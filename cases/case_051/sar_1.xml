@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2023-0045</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE8780000000000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1503000000000012345678</DestinationAccount>
+    <DestinationName>QuantumLeap AI Investments</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Initial deposit into a platform claiming AI trading services. Limited information available regarding the platform's legitimacy.</Findings>
+  <ReportDate>2023-11-10</ReportDate>
+</SAR>

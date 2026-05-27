@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the SAR filed by Barclays Bank?",
+    "answer": "UK2023-123"
+  },
+  {
+    "question": "According to the brochure, what is one of the key benefits of using NovaTrade AI?",
+    "answer": "High-profit potential"
+  },
+  {
+    "question": "What was the purpose stated for the EUR 5000 transaction from David Miller's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which bank initially filed a SAR concerning Marcus Cole's account?",
+    "answer": "Belize International Bank"
+  },
+  {
+    "question": "What type of file contains information about the website's visual design?",
+    "answer": "screenshot_1.txt"
+  },
+  {
+    "question": "According to email_2, why was a deposit of 3000 EUR required?",
+    "answer": "To unlock pending profits and ensure the security of funds."
+  },
+  {
+    "question": "What is the destination account number consistently appearing in the transactions?",
+    "answer": "BZ0001234567"
+  },
+  {
+    "question": "What finding prompted the recommendation for further investigation in the initial SAR filed by Belize International Bank (BZ2024-045)?",
+    "answer": "Large deposit from overseas"
+  },
+  {
+    "question": "What is the email address associated with Marcus Cole according to email_4?",
+    "answer": "cole.m@novatradeai.fake"
+  },
+  {
+    "question": "What is the domain name used by NovaTrade AI for all email communications?",
+    "answer": "novatradeai.fake"
+  }
+]

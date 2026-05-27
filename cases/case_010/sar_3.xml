@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-017-003</ReportID>
-  <ReportingInstitution>Belize International Bank</ReportingInstitution>
+  <ReportID>EMN2024-0057</ReportID>
+  <ReportingInstitution>Emirates NBD</ReportingInstitution>
   <Subject>
-    <Name>NovaTrade AI</Name>
-    <Account>BZ1234567890</Account>
+    <Name>NovaTrade AI Global</Name>
+    <Account>AE50024000101041234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-10</Date>
-    <Amount>15000</Amount>
+    <Date>2024-02-20</Date>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <SourceAccount>LT12100001110123451</SourceAccount>
-    <SourceName>NovaTrade AI</SourceName>
+    <DestinationAccount>DE25744501010005102388</DestinationAccount>
+    <DestinationName>Hans Schmidt</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Transfers to offshore account with no apparent business purpose. Potential money laundering.</Findings>
+  <Findings>Significant inflow of funds from multiple sources. Account used for potential fraudulent investment activities.</Findings>
 </SAR>

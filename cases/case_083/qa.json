@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_3.xml, what is the registered address of Altcoin Global Ltd?",
+    "answer": "A virtual office space."
+  },
+  {
+    "question": "What is the purpose stated for the transactions between the victim and Altcoin Global Ltd, as indicated in the SAR files?",
+    "answer": "Investment."
+  },
+  {
+    "question": "Based on email_3.txt, what reason is provided for the delay in processing withdrawal requests?",
+    "answer": "A slight delay in processing withdrawal requests is occurring, and the team is working to resolve it, with possible further verification needed."
+  },
+  {
+    "question": "According to bank_statement_2.csv, what is the destination of the outgoing transfers from Altcoin Global Ltd?",
+    "answer": "A Seychelles account."
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the AlgoProfit AI dashboard?",
+    "answer": "The dashboard shows a user account with a balance of \u20ac14,500 and steadily increasing profits."
+  },
+  {
+    "question": "Which promotional text emphasizes a guarantee of profits from AlgoProfit AI?",
+    "answer": "promotional_2.txt"
+  },
+  {
+    "question": "What is the email address used by the AlgoProfit AI support team in the email correspondence with the victim?",
+    "answer": "support@algoprofit.fake"
+  },
+  {
+    "question": "How does SAR_2.xml describe the victim's experience with Altcoin Global Ltd?",
+    "answer": "Victim expressed difficulty accessing funds and reported communication issues with the recipient."
+  },
+  {
+    "question": "Which file describes the appearance of the AlgoProfit AI dashboard?",
+    "answer": "screenshot_1.txt"
+  },
+  {
+    "question": "Based on the bank statement_1.csv, how much did the victim receive in salary on 2023-12-08?",
+    "answer": "3500 EUR"
+  }
+]

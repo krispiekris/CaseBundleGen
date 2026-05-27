@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>ES2023-0123</ReportID>
+  <ReportingInstitution>Banco Santander</ReportingInstitution>
+  <Subject>
+    <Name>Maria Rodriguez</Name>
+    <Account>ES1400000000000000000123</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-15</Date>
+    <Amount>2500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LC061234567890123456</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Similar activity to previously reported fraud. Destination account flagged for investigation.</Findings>
+</SAR>

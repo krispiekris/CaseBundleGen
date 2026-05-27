@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2023-0123</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+    <Account>GB26BARC00000000000001234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1503000000000012345678</DestinationAccount>
+    <DestinationName>QuantumLeap AI Investments</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual inbound transfer from Germany. Further investigation required due to potential link to investment fraud.</Findings>
+  <ReportDate>2024-01-15</ReportDate>
+</SAR>

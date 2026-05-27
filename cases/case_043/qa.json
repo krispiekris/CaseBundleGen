@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the purpose of the initial transaction from Karl Schmidt?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "What is the account number associated with the entity 'Global Apex Ventures' according to sar_2.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "What is the reported reason given in email_3 for requiring Karl Schmidt to transfer additional funds?",
+    "answer": "Due to recent security concerns, we require you to verify your account"
+  },
+  {
+    "question": "According to sar_3.xml, what is a concerning aspect of the activity associated with the 'Global Apex Ventures' account?",
+    "answer": "High volume of incoming transfers from various international locations"
+  },
+  {
+    "question": "What verification fee is requested from Karl Schmidt in email_4, and why?",
+    "answer": "500 EUR, to ensure a smooth and secure transaction"
+  },
+  {
+    "question": "What is the website URL mentioned in brochure_1 for QuantumLeap AI?",
+    "answer": "www.quantumleap-ai.net"
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what other transaction types does Karl Schmidt have besides transfers to QuantumLeap AI Investments?",
+    "answer": "Salary and ATM Withdrawal"
+  },
+  {
+    "question": "According to screenshot_1.txt, what phrase appears to encourage investment?",
+    "answer": "Limited Time Offer: 2x Your Investment!"
+  },
+  {
+    "question": "What currency is the transfer mentioned in bank_statement_2.csv to an 'Unknown' beneficiary?",
+    "answer": "USD"
+  },
+  {
+    "question": "What does sar_2.xml indicate about the receiving account (LT12100001110123451)?",
+    "answer": "It is a receiving account for initial investment linked to QuantumLeap AI Investments."
+  }
+]

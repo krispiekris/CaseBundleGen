@@ -1,7 +1,6 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-08-28,ATM,500,EUR,
-2023-09-01,NovaTrade AI Deposit,12000,EUR,NovaTrade AI
-2023-09-05,Interest,5.44,EUR,
-2023-11-08,Withdrawal,500,EUR,NovaTrade AI
-2023-11-15,Online Payment,-100,EUR,
-2023-12-01,Salary,3500,EUR,Company A
+2023-11-28,Transfer Out,-2000,EUR,NovaTrade AI Investments Ltd
+2023-12-05,Transfer Out,-2000,EUR,NovaTrade AI Investments Ltd
+2024-01-10,Transfer Out,-1500,EUR,NovaTrade AI Investments Ltd
+2024-02-15,Transfer Out,-800,EUR,NovaTrade AI Global
+2024-02-22,Salary,3500,EUR,Musterfirma GmbH

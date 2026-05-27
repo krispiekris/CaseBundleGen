@@ -1,0 +1,5 @@
+Date,Description,Amount,Currency,Beneficiary
+2022-11-10,Salary,3500,EUR,Employer GmbH
+2022-11-20,Wire Transfer,-1000,EUR,
+2022-11-27,ATM,-300,EUR,
+2022-12-05,Salary,3500,EUR,Employer GmbH

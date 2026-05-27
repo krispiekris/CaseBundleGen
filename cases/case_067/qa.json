@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the primary purpose stated for the transactions between Victim 1 and Altcoin Global Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to the email from nova.trading.support@securemail.biz, what is the key feature of Nova AI Trading?",
+    "answer": "Uses cutting-edge artificial intelligence to analyze market trends and execute trades."
+  },
+  {
+    "question": "Which bank filed the initial Suspicious Activity Report (SAR) related to Victim 1's account?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What is the amount of the 'processing fee' requested in the 'Urgent Action Required' email?",
+    "answer": "\u20ac2000"
+  },
+  {
+    "question": "Based on the telegram chat log, what did the broker tell the victim regarding their initial deposit?",
+    "answer": "They would start seeing profits almost immediately."
+  },
+  {
+    "question": "What is the destination account number for all the transfers mentioned in sar_1.xml and sar_2.xml?",
+    "answer": "NG471000000000000000001"
+  },
+  {
+    "question": "What reason is given in the 'Urgent Action Required' email for needing the victim to transfer an additional \u20ac2000?",
+    "answer": "To resolve a temporary hold on their withdrawal request."
+  },
+  {
+    "question": "According to the brochure_1.txt, what is a key feature marketed by Nova AI Trading?",
+    "answer": "Guaranteed ROI"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the displayed profit amounts on the Nova AI Trading platform?",
+    "answer": "Graphs showing rapidly increasing profit amounts over a short period (one week), with a 'Current Profit: \u20ac5,200.00' message."
+  },
+  {
+    "question": "Which financial institution filed the SAR (sar_3.xml) concerning Altcoin Global Ltd?",
+    "answer": "Correspondent Bank, Saint Vincent and the Grenadines"
+  }
+]

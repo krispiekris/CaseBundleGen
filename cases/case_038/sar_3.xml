@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CY2024-03-10</ReportID>
+  <ReportingInstitution>RCB Bank Ltd (Cyprus)</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap AI Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>2500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>AE1234567890</DestinationAccount>
+    <DestinationName>Unknown Recipient</DestinationName>
+    <Purpose>Transfer</Purpose>
+  </Transaction>
+  <Findings>Funds originating from the UK linked to suspected investment fraud being transferred to accounts in the UAE.</Findings>
+  <ReportDate>2024-03-10</ReportDate>
+</SAR>

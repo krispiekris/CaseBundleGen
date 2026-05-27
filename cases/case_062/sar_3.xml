@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>MH20240401-001</ReportID>
+  <ReportingInstitution>Marshall Islands Bank</ReportingInstitution>
+  <Subject>
+    <Name>NovaTrade AI</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-31</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG33080158297700000998</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Transfer</Purpose>
+  </Transaction>
+  <Findings>Unusual transaction patterns involving transfers to accounts registered in Nigeria.</Findings>
+</SAR>

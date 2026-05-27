@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INT2024-045</ReportID>
+  <ReportingInstitution>Intermediary Bank in Lithuania</ReportingInstitution>
+  <Subject>
+    <Name>NovaTrade AI</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>709812345678901234</DestinationAccount>
+    <DestinationName>David Miller</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from multiple accounts with similar investment patterns. Potential money laundering activity.</Findings>
+</SAR>

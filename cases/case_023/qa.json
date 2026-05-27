@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the purpose stated for the transfers from Victim 1's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account number where Victim 1 sent funds, as indicated in sar_1.xml?",
+    "answer": "NG7608994297687209818898"
+  },
+  {
+    "question": "Based on sar_2.xml, to what entity was Sterling Concepts Ltd transferring funds?",
+    "answer": "Marshall Islands Holding Co."
+  },
+  {
+    "question": "What type of file contains the promotional brochure for QuantumAlgo, and what does it guarantee?",
+    "answer": "brochure_1.txt; Consistent profits, every time."
+  },
+  {
+    "question": "According to email_4.txt, what cryptocurrency and address are associated with the withdrawal process?",
+    "answer": "0.5 BTC to the address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+  },
+  {
+    "question": "What initial investment amount is mentioned in email_2.txt?",
+    "answer": "Not mentioned in the case files"
+  },
+  {
+    "question": "In sar_3.xml, what is the primary concern regarding the transactions observed in Another Victim's account?",
+    "answer": "Potential coordinated investment fraud."
+  },
+  {
+    "question": "According to the bank_statement_1.csv, what amount did Victim 1 pay to QuantumAlgo on 2023-11-20?",
+    "answer": "-1200 EUR"
+  },
+  {
+    "question": "What does the screenshot_1.txt indicate about the QuantumAlgo dashboard's design?",
+    "answer": "The site\u2019s design incorporates futuristic fonts and imagery."
+  },
+  {
+    "question": "What is the name of the reporting institution in sar_2.xml?",
+    "answer": "Barclays Bank"
+  }
+]

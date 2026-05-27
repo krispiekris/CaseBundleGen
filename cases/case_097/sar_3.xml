@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BLZ2024-003</ReportID>
+  <ReportingInstitution>Belbank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>US1234567890</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving large sums of money from multiple sources, potentially linked to investment fraud.</Findings>
+</SAR>

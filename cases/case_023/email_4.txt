@@ -1,0 +1,14 @@
+From: QuantumAlgo Support <support@quantumalgo.com>
+To: Victim 1 <victim1@email.com>
+Subject: Important: Verification Required for Withdrawal
+
+Dear [Victim Name],
+
+To complete your withdrawal process, please send 0.5 BTC to the following address:
+
+Wallet Address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+
+Once confirmed, your withdrawal will be processed immediately.
+
+Sincerely,
+The QuantumAlgo Support Team

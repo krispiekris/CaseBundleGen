@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INT2024-456</ReportID>
+  <ReportingInstitution>Luminor Bank</ReportingInstitution>
+  <Subject>
+    <Name>Algorithmic Edge Solutions</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>10000</Amount>
+    <Currency>USD</Currency>
+    <SourceAccount>1234567890</SourceAccount>
+    <SourceName>First National Bank</SourceName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Findings>Received large deposit from US bank. Account flagged for unusual activity.</Findings>
+</SAR>

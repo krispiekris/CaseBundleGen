@@ -1,0 +1,54 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-90000",
+    "country": "United Kingdom",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Serbia",
+    "languages_spoken": [
+      "English",
+      "Serbian"
+    ]
+  },
+  "destination_countries": [
+    "Serbia",
+    "North Macedonia"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim discovers 'NovaTrade AI' online"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Initial deposit of \u00a3500 made"
+    },
+    {
+      "date": "2023-10-15",
+      "event": "Victim experiences first 'withdrawal' - seemingly successful"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim attempts to withdraw larger sum - denied"
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim reports fraudulent activity"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.1-0.5"
+    },
+    {
+      "type": "GBP",
+      "amount_range": "500-10000"
+    }
+  ]
+}

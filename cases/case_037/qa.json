@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the account number associated with David Miller?",
+    "answer": "709812345678901234"
+  },
+  {
+    "question": "According to email_3.txt, what documents did NovaTrade AI request from David Miller?",
+    "answer": "Copy of Passport or Driver's License and Proof of Address (utility bill or bank statement)"
+  },
+  {
+    "question": "What was the purpose of the transaction on 2024-02-20 according to sar_2.xml?",
+    "answer": "Withdrawal Attempt"
+  },
+  {
+    "question": "Which bank filed the initial SAR report (sar_1.xml)?",
+    "answer": "Barclays Bank"
+  },
+  {
+    "question": "What is the destination account number for the transfers to NovaTrade AI?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "According to brochure_2.txt, what did Sarah J. say about NovaTrade AI?",
+    "answer": "I've doubled my money in just a few weeks!"
+  },
+  {
+    "question": "What did the screenshot_1.txt reveal about the website of NovaTrade AI?",
+    "answer": "It features a sleek, modern design with interactive charts and graphs displaying seemingly impressive trading performance. A prominent 'Withdraw Funds' button is visible."
+  },
+  {
+    "question": "What is the purpose of the transfer on 2023-12-05 as described in sar_3.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to email_4.txt, why was David Miller\u2019s withdrawal request delayed?",
+    "answer": "Due to ongoing system maintenance"
+  },
+  {
+    "question": "Based on bank_statement_2.csv, how much did David Miller transfer to NovaTrade AI in March 2024?",
+    "answer": "2500 EUR"
+  }
+]

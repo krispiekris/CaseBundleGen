@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the initial purpose of the transactions to NovaTrade AI Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the account number associated with Helmut Schmidt in the SAR files?",
+    "answer": "DE89370400440532013488"
+  },
+  {
+    "question": "Based on email_2.txt, what is the stated reason for the 250 EUR fee?",
+    "answer": "Processing and verification costs"
+  },
+  {
+    "question": "Which reporting institution filed the SARs related to Helmut Schmidt\u2019s activity?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What evidence suggests NovaTrade AI uses persuasive marketing tactics?",
+    "answer": "The promotional text guarantees ROI, boasts a simple interface, and features a fabricated testimonial."
+  },
+  {
+    "question": "According to sar_3.xml, to which offshore company were funds transferred, and where is it located?",
+    "answer": "Offshore Company Ltd in Belize"
+  },
+  {
+    "question": "What is the purpose of the transaction of 300 EUR recorded in sar_2.xml?",
+    "answer": "Fee Payment"
+  },
+  {
+    "question": "What transaction appears in bank_statement_2.csv that is not present in sar_1.xml or sar_2.xml?",
+    "answer": "Salary of 6500 EUR"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the NovaTrade AI dashboard?",
+    "answer": "The dashboard has a sleek and modern design with graphs showcasing \u2018daily profit growth\u2019, and prominent text displays \u2018Guaranteed ROI\u2019."
+  },
+  {
+    "question": "Which entities appear in the SAR files but are not mentioned in the bank_statement_1.csv?",
+    "answer": "Crypto Exchange XYZ"
+  }
+]

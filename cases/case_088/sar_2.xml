@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-456</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap AI Management Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ12345678901234567890</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-10</Date>
+    <Amount>2500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ12345678901234567890</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from multiple individuals; unusual activity, potentially linked to investment fraud.</Findings>
+</SAR>

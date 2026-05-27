@@ -1,12 +1,12 @@
-Subject: Important Security Alert - Account Verification Required
+From: support@innovai.com
+To: robert.harding@email.com
+Subject: Limited Time Offer: 25% Bonus on Your Next Deposit
 
-Dear Customer,
+Dear Robert,
 
-We have detected unusual activity on your QuantumLeap Investments account. To ensure the security of your funds, please verify your account details by clicking the link below:
+To celebrate a successful quarter, we're offering a 25% bonus on your next deposit! This offer expires in 48 hours. Don't miss out!
 
-[Fake verification link]
+Deposit now: www.innovai.com/deposit
 
-Failure to verify your account within 24 hours may result in suspension of your account.
-
-Sincerely,
-QuantumLeap Investments Support
+Best regards,
+The InnovAI Support Team

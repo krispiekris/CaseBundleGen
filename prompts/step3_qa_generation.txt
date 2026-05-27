@@ -16,17 +16,17 @@ Output a single JSON object with the following structure:
 }}
 
 QUESTION-ANSWER GENERATION RULES:
-- Generate exactly 5-10 question-answer pairs.
-- Each question must be answerable using ONLY the generated case data files.
+- Generate a random range of 8-10 question-answer pairs.
+- Ensure every answer can be verified from the file contents.
+- Do not hallucinate facts not present in the case.
 - Questions must cover different aspects of the case.
 - Questions must NOT be trivial or obvious.
 
 QUESTION DESIGN GUIDELINES:
-- Questions about cross-file relationships (e.g., entities appearing in multiple documents).
+- Questions about cross-file relationships (e.g., entities appearing in different files).
 - Questions about transaction details (amounts, recipients, dates).
-- Questions about timeline events and suspicious patterns.
-- Questions about victim or fraudster characteristics mentioned in files.
-- Questions about promotional claims made in narrative files.
+- Questions about timeline events.
+- Questions about case's entities characteristics mentioned in files.
 - Questions that require reading and connecting multiple files.
 
 ANSWER REQUIREMENTS:
@@ -35,13 +35,16 @@ ANSWER REQUIREMENTS:
 - Answers must NOT introduce new information not in the case files.
 - If no answer exists in the files, the answer should be "None" or "Not mentioned in the case files".
 
-GOOD QUESTION EXAMPLES:
-- "Which companies are mentioned in both emails and bank statements?"
-- "What was the highest transaction amount and who was the recipient?"
-- "When did the first suspicious activity occur according to the timeline?"
-- "What fraud type is described in the promotional material?"
-- "Are there any entity names that appear in emails but not in the SAR?"
-- "What countries are involved in the fraudulent scheme?"
-- "How much total funds were transferred to the fraudster accounts?"
+GOOD QUESTION-ANSWER EXAMPLES:
+  - Q: "Which companies are mentioned both in narrative files (emails or promotional text) and in the bank statements?"
+    A: "Entity" or "None" if no matches.
+  - Q: "Who is the recipient of the highest‑value transaction recorded in the bank statements?"
+    A: "Entity" or "None" if no matches.
+  - Q: "When did the victim first attempt withdrawal?"
+    A: "Date" or "None" if no matches.
+  - Q: "What company received the largest transfer?"
+    A: "Entity" or "None" if no matches.
+  - Q: "Is there any entity mentioned in narrative files (email, promo text, image description) that does not appear in the bank statements or the SAR?"
+    A: "Entity" or "None" if no matches.
 
 Output ONLY the JSON object. Do not include any text before or after it.

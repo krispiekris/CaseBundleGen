@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DEU2023-123</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <ReportID>LLOYD2024-005</ReportID>
+  <ReportingInstitution>Bank Lloyds</ReportingInstitution>
+  <DateFiled>2024-02-22</DateFiled>
   <Subject>
     <Name>Victim 1</Name>
     <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-20</Date>
-    <Amount>12000</Amount>
+    <Date>2023-10-01</Date>
+    <Amount>15000</Amount>
     <Currency>EUR</Currency>
     <DestinationAccount>LT12100001110123451</DestinationAccount>
     <DestinationName>Altcoin Global Ltd</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Unusual transaction amount and destination country. Further investigation recommended.</Findings>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Suspected investment fraud involving an AI trading platform.  Multiple transactions to Altcoin Global Ltd.  Victim claims to have been promised high returns but now unable to withdraw funds.</Findings>
 </SAR>

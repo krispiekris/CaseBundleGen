@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>KYC2024-018</ReportID>
+  <ReportingInstitution>Belizean Trust Company</ReportingInstitution>
+  <DateReported>2024-03-22</DateReported>
+  <Subject>
+    <Name>QuantumLeap AI Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>KE17210001110123451</SourceAccount>
+    <SourceName>QuantumLeap AI Ltd</SourceName>
+  </Transaction>
+  <Findings>Large sum of money transferred from Seychelles account. Origin of funds unclear. Company appears to be shell corporation.</Findings>
+  <Reporter>Mark Williams, Compliance Manager</Reporter>
+</SAR>

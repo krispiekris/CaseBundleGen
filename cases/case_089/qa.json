@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the Suspicious Activity Report (SAR) filed by Deutsche Bank?",
+    "answer": "DE2024-1234"
+  },
+  {
+    "question": "According to the promotional material, what does AlphaTrade AI guarantee?",
+    "answer": "Daily returns on investments"
+  },
+  {
+    "question": "What is the purpose of the transfers from Hans Schmidt's account to AlphaTrade Solutions Ltd, as stated in the SAR filed by Deutsche Bank?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What bonus was offered to users who deposited additional funds within 24 hours, according to email_2.txt?",
+    "answer": "A special bonus of 5% on their deposit"
+  },
+  {
+    "question": "What is the account number used by Hans Schmidt?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What is the Destination Account where AlphaTrade Solutions Ltd transfers funds to, as per the SAR filed by Atlantic Bank Belize?",
+    "answer": "KY1234567890"
+  },
+  {
+    "question": "Based on sar_3.xml, what is notable about the destination account linked to Global Investments Ltd?",
+    "answer": "It is difficult to trace"
+  },
+  {
+    "question": "What is the web address advertised in the promotional material for AlphaTrade AI?",
+    "answer": "www.alphatrade-ai.biz"
+  },
+  {
+    "question": "According to the email from AlphaTrade AI Support, what is the initial deposit amount from Hans Schmidt?",
+    "answer": "\u20ac5000"
+  },
+  {
+    "question": "What is the purpose of the transactions recorded in sar_3.xml?",
+    "answer": "Investment"
+  }
+]

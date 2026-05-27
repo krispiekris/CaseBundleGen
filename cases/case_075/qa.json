@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the promotional material, what is a key benefit of using the QuantumLeap AI Trader platform?",
+    "answer": "Automated trading: Let our AI do the work for you."
+  },
+  {
+    "question": "What is the email address used by David Johnson to communicate with Hans M\u00fcller?",
+    "answer": "david.johnson@quantumleap.net"
+  },
+  {
+    "question": "What is the destination account where Hans M\u00fcller initially transferred \u20ac15,000?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on the SAR from HSBC UK, what is the primary reason for concern regarding Altcoin Global Ltd?",
+    "answer": "Funds received from Germany. Potential link to investment fraud scheme."
+  },
+  {
+    "question": "In the email from David Johnson (email_2.txt), what additional amount is recommended for deposit to 'maximize potential returns'?",
+    "answer": "\u20ac10,000"
+  },
+  {
+    "question": "What currency was used for the transfer to Binance?",
+    "answer": "USD"
+  },
+  {
+    "question": "Which SAR identifies Altcoin Global Ltd as the subject?",
+    "answer": "SAR from HSBC UK (UK2024-003) and SAR from Bank of Ireland (IE2024-012)"
+  },
+  {
+    "question": "What is the purpose specified for the initial transaction of \u20ac15,000 from Hans M\u00fcller to Altcoin Global Ltd, as indicated in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to promotional_2.txt, what bonus is offered to new users?",
+    "answer": "A bonus 10% on your first deposit!"
+  },
+  {
+    "question": "Based on the screenshot description, what is a key visual characteristic of the QuantumLeap AI Trader login page?",
+    "answer": "A futuristic design with a dark blue background and glowing white accents."
+  }
+]

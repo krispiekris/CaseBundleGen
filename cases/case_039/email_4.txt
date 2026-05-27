@@ -1,0 +1,14 @@
+From: QuantumNexusAI@securemail.biz
+To: helmut.ziegler@example.de
+Subject: Your QuantumNexus Account is Overdue
+
+Dear Helmut,
+
+Your QuantumNexus account is currently overdue. To avoid suspension, please make a deposit of at least €10,000 immediately.
+
+Click here to deposit now: www.quantumnexus.fake
+
+Thank you for your continued patronage.
+
+Sincerely,
+QuantumNexus AI Team

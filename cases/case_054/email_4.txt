@@ -1,0 +1,7 @@
+Subject: Password Reset Request
+
+Dear User,
+
+A password reset has been requested for your Algorithmic Edge account. If you did not initiate this request, please ignore this email.
+
+[Reset Password Link]

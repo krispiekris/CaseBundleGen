@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-039</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Müller</Name>
+    <Account>DE87110100010000231200</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-20</Date>
+    <Amount>7500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1203010101000000001</DestinationAccount>
+    <DestinationName>QuantumTrade AI Ltd</DestinationName>
+    <Purpose>Withdrawal Attempt - Denied</Purpose>
+  </Transaction>
+  <Findings>Victim claims inability to withdraw funds. Possible investment fraud.</Findings>
+</SAR>

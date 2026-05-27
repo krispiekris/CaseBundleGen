@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-128</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-30</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Initial deposit to an account linked to potential investment fraud. Further investigation recommended.</Findings>
+</SAR>

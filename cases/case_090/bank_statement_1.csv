@@ -1,0 +1,9 @@
+Date,Description,Amount,Currency,Beneficiary
+2023-11-01,Salary,78000,AUD,Company A
+2023-11-15,Transfer to QuantumRise AI,15000,EUR,QuantumRise AI Investments Ltd
+2023-12-01,Salary,78000,AUD,Company A
+2024-01-05,Withdrawal,3750,EUR,John Smith
+2024-01-10,Salary,78000,AUD,Company A
+2024-02-01,Withdrawal,500,EUR,,
+2024-03-01,Salary,78000,AUD,Company A
+2024-03-15,Withdrawal,1000,EUR,,

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>AT2024-01289</ReportID>
+  <ReportingInstitution>Raiffeisenbank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE87370400440532013838</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BB120000000000000000001</DestinationAccount>
+    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
+    <Purpose>Withdrawal</Purpose>
+  </Transaction>
+  <Findings>Small withdrawal followed by significant deposits. Possible involvement in investment scheme.</Findings>
+</SAR>

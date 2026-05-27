@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SAR2024-039</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Withdrawal</Purpose>
+  </Transaction>
+  <Findings>Victim is receiving small payout while attempting to withdraw larger sums.</Findings>
+</SAR>

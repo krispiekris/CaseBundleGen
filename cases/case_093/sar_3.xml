@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-152</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>QuantumTrade AI Ltd</Name>
+    <Account>GB99LLOY00000000001234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-05</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1203010101000000001</DestinationAccount>
+    <DestinationName>QuantumTrade AI Ltd</DestinationName>
+    <Purpose>Receiving funds from overseas</Purpose>
+  </Transaction>
+  <Findings>High volume of incoming transfers with potential for money laundering.</Findings>
+</SAR>

@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>CY2024-050</ReportID>
-  <ReportingInstitution>Cyprus Global Bank</ReportingInstitution>
+  <ReportID>SYS2024-789</ReportID>
+  <ReportingInstitution>Seychelles International Bank</ReportingInstitution>
+  <DateFiled>2024-04-05</DateFiled>
   <Subject>
-    <Name>Automated Investments SRL</Name>
-    <Account>CY0100000100012345678</Account>
+    <Name>Altcoin Global Ltd</Name>
   </Subject>
   <Transaction>
     <Date>2023-12-01</Date>
-    <Amount>2500</Amount>
+    <Amount>50000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AT112011103511000000</DestinationAccount>
-    <DestinationName>Helmut Gruber</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
   </Transaction>
-  <Findings>Pattern of receiving funds from overseas and transferring to single accounts.</Findings>
+  <Findings>Large transactions from overseas.  Investigating further.</Findings>
 </SAR>

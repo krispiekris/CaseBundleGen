@@ -1,12 +1,12 @@
-Subject: Important Security Notification
+Subject: Important Account Verification Request
 
-Dear Helmut,
+Dear [Victim 1],
 
-Due to heightened security concerns, we have temporarily restricted withdrawals from your Automated Investments account.
+To ensure the security of your Quantum Leap AI Trader account, we kindly request that you verify your account details. Please click on the link below to confirm your information:
 
-This measure is in place to protect your funds and ensure the integrity of our platform.
+[malicious link disguised as verification link]
 
-Please be assured that your funds are safe. We appreciate your understanding.
+Failure to verify your account may result in temporary suspension.
 
 Sincerely,
-Automated Investments Security Team
+Quantum Leap AI Support

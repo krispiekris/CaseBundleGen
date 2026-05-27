@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>FR2024-0012</ReportID>
+  <ReportingInstitution>Bank Paribas</ReportingInstitution>
+  <Subject>
+    <Name>Hans Müller</Name>
+    <Account>DE87370400440532013588</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>HK12345678901234567890</DestinationAccount>
+    <DestinationName>Global Apex Holdings</DestinationName>
+    <Purpose>Withdrawal Request - Denied</Purpose>
+  </Transaction>
+  <Findings>Client experiencing difficulty withdrawing funds.  Potential investment scam involving offshore entities.</Findings>
+</SAR>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>ANZ2024-0057</ReportID>
+  <ReportingInstitution>ANZ Bank</ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY94000000000000000000123</DestinationAccount>
+    <DestinationName>QuantumRise AI Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>3750</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB88NWBK00000000001234</DestinationAccount>
+    <DestinationName>John Smith</DestinationName>
+    <Purpose>Profit Withdrawal</Purpose>
+  </Transaction>
+  <Findings>Unusual large deposit followed by smaller withdrawals to accounts in Cyprus and the UK.</Findings>
+  <ReportDate>2024-04-01</ReportDate>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of the victim?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What is the purpose stated for the EUR 2000 transaction in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on sar_2.xml, what is the destination account involved in transactions associated with Altcoin Global Ltd?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "What is the reported finding in sar_3.xml related to the transaction involving Altcoin Global Ltd and John Smith?",
+    "answer": "Funds transferred to another entity with a different name and location."
+  },
+  {
+    "question": "According to the email_2.txt, what is the incentive offered to the victim if they deposit funds?",
+    "answer": "A bonus 10% on their deposit"
+  },
+  {
+    "question": "What is the account number provided for the 'QuantumAI Recovery Fee' in email_3.txt?",
+    "answer": "GB82NWBK00000000001234"
+  },
+  {
+    "question": "What currency is the transfer in bank_statement_2.csv, going to the Marshall Islands?",
+    "answer": "USD"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the platform's login page disclaimer?",
+    "answer": "'Past performance is not indicative of future results'"
+  },
+  {
+    "question": "What is the stated purpose in sar_4.xml for the 3000 EUR transaction to Jane Doe?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which reporting institution flagged the unusual transaction activity involving Victim 1?",
+    "answer": "Deutsche Bank"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the SAR filed by Banco Santander?",
+    "answer": "ES2023-0123"
+  },
+  {
+    "question": "According to the brochure, what is a key feature of NovaTrade AI?",
+    "answer": "It analyzes the markets 24/7."
+  },
+  {
+    "question": "What destination account is consistently associated with transactions related to NovaTrade AI?",
+    "answer": "LC061234567890123456"
+  },
+  {
+    "question": "What action does the email from 'recovery.specialist@securefunds.net' suggest?",
+    "answer": "It suggests contacting them immediately to discuss recovering lost funds."
+  },
+  {
+    "question": "Which bank statement displays a salary of 3500 EUR?",
+    "answer": "bank_statement_1.csv and bank_statement_2.csv and bank_statement_3.csv"
+  },
+  {
+    "question": "What is the initial investment amount made by Helmut Schmidt into NovaTrade AI, as detailed in the SAR?",
+    "answer": "10000 EUR"
+  },
+  {
+    "question": "What is the purpose specified for Maria Rodriguez's transaction with NovaTrade AI?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to the screenshot, what button is prominently displayed on the NovaTrade AI website?",
+    "answer": "'Deposit Funds'"
+  },
+  {
+    "question": "What date did Jan Pieter van Dijk transfer 8000 EUR to NovaTrade AI?",
+    "answer": "2023-02-28"
+  },
+  {
+    "question": "What is the purpose mentioned in the SAR filed by Deutsche Zentralbank regarding Helmut Schmidt\u2019s initial transaction?",
+    "answer": "Initial Investment"
+  }
+]

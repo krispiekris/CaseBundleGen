@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-068</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 3</Name>
+    <Account>DE1211000070000245278551</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-01</Date>
+    <Amount>6000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ120000100010000012345</DestinationAccount>
+    <DestinationName>QuantumLeap AI Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds transferred to an offshore entity with concerning activity patterns.  Potential investment fraud.</Findings>
+</SAR>

@@ -1,0 +1,1 @@
+Description: The screenshot shows the ApexAI login page. The page has a futuristic design with a dark background and neon green accents. The ApexAI logo is prominently displayed at the top. There are fields for username and password, along with a 'Login' button. Below the login form, there is a link to 'Forgot Password?'.

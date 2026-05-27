@@ -1,0 +1,12 @@
+From: QuantumAlgo Support <support@quantumalgo.fake>
+To: helmut.schmidt@email.de
+Subject: Security Verification - QuantumAlgo
+
+Dear Helmut,
+
+To ensure the security of your account, please verify your personal details by clicking on the link below:
+
+[Suspicious Link]
+
+Thank you for your cooperation.
+QuantumAlgo Support

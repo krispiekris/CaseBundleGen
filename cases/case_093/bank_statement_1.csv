@@ -1,0 +1,4 @@
+Date,Description,Amount,Currency,Beneficiary
+2023-12-01,Incoming Transfer,15000,EUR,
+2024-01-05,Wire Transfer,-15000,EUR,QuantumTrade AI Ltd
+2024-03-20,Withdrawal Attempt,-7500,EUR,QuantumTrade AI Ltd

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the SAR filed by Barclays Bank, what was the initial purpose stated for the transfers to Bright Future Investments?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What amount of 'processing fee' was requested from John Smith to continue receiving profit distributions?",
+    "answer": "\u00a3500"
+  },
+  {
+    "question": "What is the URL provided in the email from 'investments@automatedwealth.fake'?",
+    "answer": "www.automatedwealth.fake"
+  },
+  {
+    "question": "Based on the screenshot, what is displayed on John Smith's AutomatedWealth AI account dashboard?",
+    "answer": "A graph charting 'daily profit' and a number '+\u00a31250.00'"
+  },
+  {
+    "question": "Which financial institution reported suspicious activity related to Bright Future Investments in SAR INV2024-009?",
+    "answer": "Dubai Islamic Bank"
+  },
+  {
+    "question": "What amount of salary did John Smith receive on 2023-09-01 according to the bank statement?",
+    "answer": "\u00a36000"
+  },
+  {
+    "question": "According to brochure_2.txt, what benefit is offered to members of the AutomatedWealth AI VIP program?",
+    "answer": "Personalized investment strategies"
+  },
+  {
+    "question": "What is the stated reason given by 'Financial Compliance Auditors' for requiring a verification fee?",
+    "answer": "To release funds after a final audit of John Smith\u2019s account"
+  },
+  {
+    "question": "What is the date of the earliest transaction in the SAR filed by Access Bank Nigeria?",
+    "answer": "2023-09-15"
+  },
+  {
+    "question": "What benefit, if any, is given to John Smith in the email from profits@automatedwealth.fake?",
+    "answer": "A profit of \u00a31250.00 in the last 24 hours"
+  }
+]

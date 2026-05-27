@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>GBR2024-002</ReportID>
+  <ReportingInstitution>HSBC</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-05</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Withdrawal</Purpose>
+  </Transaction>
+  <Findings>Funds received from Germany, unusual volume for the recipient.</Findings>
+</SAR>

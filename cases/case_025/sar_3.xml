@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-010</ReportID>
+  <ReportingInstitution>Access Bank Nigeria</ReportingInstitution>
+  <Subject>
+    <Name>Bright Future Investments</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>5000</Amount>
+    <Currency>GBP</Currency>
+    <DestinationAccount>00930019833812713800</DestinationAccount>
+    <DestinationName>John Smith</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    Receiving funds from overseas. Further investigation needed.
+  </SAR>

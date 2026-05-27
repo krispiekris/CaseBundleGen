@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-125</ReportID>
+  <ReportingInstitution>Bank Beta (Bulgaria)</ReportingInstitution>
+  <Subject>
+    <Name>InnovaTech Solutions</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>12500</Amount>
+    <Currency>USD</Currency>
+    <DestinationAccount>BG53BNBG96811025134567</DestinationAccount>
+    <DestinationName>Bulgarian Investment Group</DestinationName>
+    <Purpose>Business Operations</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Receiving significant transfers from multiple sources, including accounts linked to individuals reporting investment losses.  Funds being transferred to another entity with vague stated purpose.</SuspiciousActivity>
+    <RedFlags>Multiple transfers from potentially victimized accounts, lack of transparency regarding business operations</RedFlags>
+  </Findings>
+</SAR>

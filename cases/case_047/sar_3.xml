@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CH2024-001</ReportID>
+  <ReportingInstitution>UBS</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>LT12100001110123451</SourceAccount>
+    <SourceName>Altcoin Global Ltd</SourceName>
+  </Transaction>
+  <Findings>Small transfer from UK to Switzerland.  Further investigation warranted.</Findings>
+</SAR>

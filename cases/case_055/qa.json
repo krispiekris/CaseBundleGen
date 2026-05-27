@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the SAR from Deutsche Bank, what triggered the initial suspicion regarding Hans Kruger's activity?",
+    "answer": "Unusual activity - large transfer to offshore company with aggressive marketing claims. Subject appears to be under pressure to invest."
+  },
+  {
+    "question": "What is the URL listed on the ApexAI brochure?",
+    "answer": "www.apexai.fake"
+  },
+  {
+    "question": "What type of investment strategy does ApexAI claim to use, according to the promotional brochure?",
+    "answer": "Cutting-edge artificial intelligence to generate unprecedented returns."
+  },
+  {
+    "question": "Which bank submitted the SAR highlighting the influx of funds from Germany to Apex Investments LLC?",
+    "answer": "Panama Global Bank"
+  },
+  {
+    "question": "What is the stated purpose of the \u20ac1,000 transaction on January 10th, according to the SAR from Deutsche Bank?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "According to email_3, what is the total portfolio value shown to Hans Kruger?",
+    "answer": "\u20ac11,000.00"
+  },
+  {
+    "question": "What notable figure is used in brochure_2 to promote ApexAI, and what claim is made about him?",
+    "answer": "Michael Schumacher, Formula 1 Legend \u2013 claims ApexAI has revolutionized his investment strategy."
+  },
+  {
+    "question": "What is the purpose of the transfer of funds on March 1st, as described in SAR_3?",
+    "answer": "Transfer to Panama"
+  },
+  {
+    "question": "Based on the bank statements provided, when did Hans Kruger receive a salary?",
+    "answer": "2022-11-15"
+  },
+  {
+    "question": "What activity regarding the ApexAI account is requested in email_2?",
+    "answer": "Account verification"
+  }
+]

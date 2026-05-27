@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-018</ReportID>
+  <ReportingInstitution>Associated Trust Company (Belize)</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap Investments Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE89370400440532013000</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Increased scrutiny due to repeated transactions with high-risk individuals. Possible money laundering activities.</Findings>
+</SAR>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-789</ReportID>
+  <ReportingInstitution>Sparkasse</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE452000000000000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-03</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ12345678901234567890</DestinationAccount>
+    <DestinationName>QuantumLeap AI Management Ltd</DestinationName>
+    <Purpose>Small Transfer</Purpose>
+  </Transaction>
+  <Findings>Small, frequent transfers to an offshore company.  Further investigation warranted.</Findings>
+</SAR>

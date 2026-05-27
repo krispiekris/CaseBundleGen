@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BEL2024-001</ReportID>
+  <ReportingInstitution>Belize International Bank</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap Investment Ltd.</Name>
+    <Account>BZ12060110100000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>50000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BMU1234567890</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual activity. Large transfers with no apparent legitimate purpose.</Findings>
+</SAR>

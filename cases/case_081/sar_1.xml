@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE20231120-001</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Kruger</Name>
+    <Account>DE87370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>NovaTrade Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual investment activity. Large sum transferred to an offshore account with limited transparency.</Findings>
+</SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the ReportID for the Suspicious Activity Report (SAR) filed by ABN AMRO?",
-    "answer": "INV2024-027-001"
+    "question": "According to email_2.txt, what is the stated reason for the processing fee requested from Heinrich Schmidt?",
+    "answer": "To ensure a swift and successful transfer of funds from his QuantumLeap AI account."
   },
   {
-    "question": "What amount did Victim 1 initially invest with Altcoin Global Ltd, according to the bank statement?",
-    "answer": "5000 EUR"
-  },
-  {
-    "question": "According to promotional material, what is the main benefit offered by QuantumFX AI Trader?",
-    "answer": "Unparalleled returns"
-  },
-  {
-    "question": "What is the purpose stated for the transaction in the SAR filed by HSBC regarding Altcoin Global Ltd?",
-    "answer": "Investment"
-  },
-  {
-    "question": "What is the DestinationAccount where Altcoin Global Ltd transferred funds to according to the SAR filed by ABN AMRO?",
+    "question": "Based on sar_1.xml and sar_3.xml, what is the common account number involved in transactions related to Heinrich Schmidt and FinTech Solutions Ltd?",
     "answer": "LT12100001110123451"
   },
   {
-    "question": "What is the stated reason for the delay in Victim 1's withdrawal request, according to the fourth email?",
-    "answer": "High transaction volume"
+    "question": "What does the screenshot_1.txt describe regarding the website\u2019s design?",
+    "answer": "The website landing page displays a clean, modern design with a large hero image showing a futuristic cityscape and a button that says 'Get Started Now'."
   },
   {
-    "question": "What account did Hong Kong Company Ltd. transfer funds to, as stated in the SAR filed by Standard Chartered?",
-    "answer": "Belize Account"
+    "question": "According to brochure_1.txt, what is one of the key features of the QuantumLeap AI platform?",
+    "answer": "24/7 Automated Trading"
   },
   {
-    "question": "Besides the Netherlands, which other countries are involved in the money transfers?",
-    "answer": "United Kingdom and Belize"
+    "question": "What does website_analysis_1.txt reveal about the domain registration for QuantumLeap AI?",
+    "answer": "The domain registration is relatively recent and points to a server located in Saint Vincent and the Grenadines."
   },
   {
-    "question": "What did the screenshot of the QuantumFX website describe about its design?",
-    "answer": "Clean, modern interface intended to convey trustworthiness and sophistication"
+    "question": "Referring to bank_statement_1.csv, what was the purpose of the transaction involving 'Company A'?",
+    "answer": "Incoming Transfer"
   },
   {
-    "question": "What risk assessment was assigned to the transaction by ABN AMRO?",
-    "answer": "High"
+    "question": "According to sar_3.xml, what is the primary concern regarding the funds inflow to FinTech Solutions Ltd?",
+    "answer": "An unusual inflow of funds from an unknown source."
+  },
+  {
+    "question": "Based on email_3.txt, what kind of offer is presented to Heinrich Schmidt?",
+    "answer": "A limited-time offer to double his investment with a \u20ac2,000 bonus upon depositing another \u20ac2,000."
+  },
+  {
+    "question": "What is the reported purpose of the transaction in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the IBAN provided in email_2.txt for the processing fee transfer?",
+    "answer": "LT12100001110123451"
   }
 ]

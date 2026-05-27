@@ -1,0 +1,11 @@
+Subject: Security Alert: Account Verification Required
+
+Dear User,
+
+To ensure the security of your AlphaTrade AI account, please verify your account details by clicking the link below:
+
+[Verification Link]
+
+Thank you for your cooperation.
+
+The AlphaTrade AI Security Team

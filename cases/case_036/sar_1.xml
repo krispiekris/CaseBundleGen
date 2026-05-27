@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-1234</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE89370400440532013563</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>3500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Suspicious transaction; potential investment fraud.</Findings>
+</SAR>

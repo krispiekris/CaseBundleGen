@@ -1,0 +1,17 @@
+From: QuantumLeap AI <support@quantumleap.ai>
+To: Victim 1 <victim1@example.cz>
+Subject: Urgent: Your Withdrawal Request is Pending
+
+Dear [Victim 1],
+
+We are still awaiting the required verification documents for your withdrawal request.  We noticed a discrepancy in your account information. To prevent further delays, please transfer an additional 500 EUR to the following account to resolve the issue:
+
+Bank: Lloyds Bank
+Account Name: Altcoin Global Ltd
+Account Number: 00000000000000000000
+Sort Code: 300000
+
+Once the transfer is confirmed, your withdrawal will be processed immediately.
+
+Sincerely,
+The QuantumLeap AI Support Team

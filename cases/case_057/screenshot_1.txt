@@ -1,0 +1,1 @@
+Screenshot Description: The AlgoNova trading platform dashboard displays a clean, modern interface. A graph shows a steady upward trend with the caption 'AI-Powered Returns.'  There are buttons labeled 'Buy,' 'Sell,' and 'Auto-Trade.'  A running total displays a balance of €13,000 with a 'Profit' indicator showing €3,000.

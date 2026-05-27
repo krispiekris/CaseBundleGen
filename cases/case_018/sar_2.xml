@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SMB2024-002</ReportID>
+  <ReportingInstitution>Small Bank Inc.</ReportingInstitution>
+  <Subject>
+    <Name>Victim 2</Name>
+    <Account>DE87370400440532013570</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-10</Date>
+    <Amount>4000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY7301230000000012345678</DestinationAccount>
+    <DestinationName>QuantumLeap AI Management Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <Finding>Similar transaction patterns to other reports involving 'QuantumLeap AI'.</Finding>
+  </Findings>
+</SAR>

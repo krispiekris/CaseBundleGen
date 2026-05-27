@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE20231215-007</ReportID>
+  <ReportingInstitution>Sparkasse München</ReportingInstitution>
+  <Subject>
+    <Name>Hans Schmidt</Name>
+    <Account>DE87744001400819000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1200000000001234567</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>150</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1200000000001234567</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Profit Payout</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>4500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1200000000001234567</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
+  </Transaction>
+  <Findings>Unusual activity observed. Large transfer to offshore account with potential investment scheme.</Findings>
+</SAR>

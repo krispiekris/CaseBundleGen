@@ -1,14 +1,14 @@
-From: NovaTrade AI Support <support@novatrade.co>
-To: all@potentialvictims.com
-Subject: Claim Your Bonus - Limited Time Only!
+From: secure.verify@quantumleapfx.com
+To: victim1@email.com
+Subject: Important Security Verification
 
-Dear Investor,
+Dear [Victim Name],
 
-NovaTrade AI is offering a special bonus to new investors! Deposit now and receive a 15% bonus on your first deposit.
+To ensure the security of your QuantumLeap AI Trader account, please verify your credentials by clicking on the link below:
 
-Don't miss out on this incredible opportunity!
+[Malicious Link]
 
-Click here to claim your bonus: [fake link]
+Thank you for your cooperation.
 
 Sincerely,
-The NovaTrade AI Support Team
+QuantumLeap FX Security Team

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2023-0112</ReportID>
+  <ReportingInstitution>Atlantic Bank</ReportingInstitution>
+  <Subject>
+    <Name>NovaAI Trading Ltd</Name>
+    <Account>BM300110000000123456</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>DE8774490149000500123456</OriginAccount>
+    <OriginName>Hans Schmidt</OriginName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from Germany, potentially linked to investment scam.</Findings>
+  <ReportingDate>2024-02-07</ReportingDate>
+</SAR>

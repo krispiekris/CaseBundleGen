@@ -1,0 +1,1 @@
+// Malicious Javascript code used to collect user data and redirect to phishing websites.  Domain registration information traced to a shell company in the Eastern European region.

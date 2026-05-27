@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-032-SAR3</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <ReportID>DE2024-02-10-003</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>John Doe</Name>
+    <Name>Shell Company Owner</Name>
+    <Account>KY1234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-15</Date>
+    <Date>2023-12-10</Date>
     <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ1206005000000100000000</DestinationAccount>
-    <DestinationName>QuantumAI Solutions Ltd</DestinationName>
-    <Purpose>Consultancy Fees</Purpose>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>NovaTech AI</DestinationName>
+    <Purpose>Funds from Victim Account</Purpose>
   </Transaction>
-  <Findings>Frequent transfers received from various sources with varying descriptions but similar amounts. Destination account linked to Belize.</Findings>
+  <Findings>Funds received from victim's account were quickly transferred to an offshore shell company. Account owner’s identity is obscured.</Findings>
 </SAR>

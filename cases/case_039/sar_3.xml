@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>MH2024-0205</ReportID>
+  <ReportingInstitution>Marshall Islands Trust Company</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Receiving Funds</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Receiving Funds</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from Germany.  Account opened with minimal due diligence.</Findings>
+</SAR>

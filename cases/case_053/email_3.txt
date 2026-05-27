@@ -1,0 +1,20 @@
+From: Victim1@email.com
+To: QuantumFXAI@mail.fake
+Subject: Withdrawal Request
+
+I would like to request a withdrawal of 5000 EUR to my bank account.  Could you please confirm the process?
+
+Regards,
+Victim 1
+
+
+From: QuantumFXAI@mail.fake
+To: Victim1@email.com
+Subject: Re: Withdrawal Request
+
+Dear Victim 1,
+
+Your withdrawal request has been received. Please note that a 10% processing fee will be deducted before the funds are released. We need to verify your information. Please confirm your account number and address.
+
+Regards,
+QuantumFX Support

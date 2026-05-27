@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what was the stated purpose of the initial transaction from the victim's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account mentioned in SAR_2.xml for the transaction labeled 'Investment Returns'?",
+    "answer": "HK1234567890"
+  },
+  {
+    "question": "Based on the bank_statement_1.csv file, what was the amount and purpose of the first transaction recorded for Victim 1?",
+    "answer": "-100 EUR to Amazon"
+  },
+  {
+    "question": "Email_2.txt suggests an increase in portfolio value. What currency is used to represent this balance?",
+    "answer": "\u20ac7,500"
+  },
+  {
+    "question": "What type of verification document is requested by the 'QuantumLeap AI Verification Team' in email_3.txt?",
+    "answer": "Passport or driver's license"
+  },
+  {
+    "question": "What is the alleged monthly return percentage mentioned in the brochure_1.txt?",
+    "answer": "Up to 30%"
+  },
+  {
+    "question": "According to screenshot_1.txt, what are some features of the QuantumLeap AI website?",
+    "answer": "Sleek, modern design with animated charts and graphs, testimonials from alleged 'satisfied investors', a 'Deposit Now' button, and a live chat feature."
+  },
+  {
+    "question": "What is the role of Associated Trust Company (Belize) as described in SAR_3.xml?",
+    "answer": "It is the reporting institution for QuantumLeap Investments Ltd."
+  },
+  {
+    "question": "What is the total amount transferred to QuantumLeap Investments Ltd as per the provided files?",
+    "answer": "7000 EUR (5000 EUR in SAR_1 and 2000 EUR in bank_statement_2)"
+  },
+  {
+    "question": "Based on email_1.txt, what technology is supposedly used by QuantumLeap AI?",
+    "answer": "Artificial intelligence (AI)"
+  }
+]

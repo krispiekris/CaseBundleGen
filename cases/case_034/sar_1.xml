@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-123</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE89370400440532013500</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-18</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+    <Finding>Unusual transaction for a client with limited investment experience. Funds transferred to a foreign company with no apparent legitimate business purpose.</Finding>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-16</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment Withdrawal</Purpose>
+    <Finding>Small withdrawal, inconsistent with investment pattern.</Finding>
+  </Transaction>
+</SAR>

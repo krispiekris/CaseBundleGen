@@ -1,0 +1,14 @@
+From: verify@novaai.tech
+To: victim1@email.com
+Subject: Account Verification - Urgent Action Required
+
+Dear [Victim 1],
+
+We have detected unusual activity on your NovaAI account.  To ensure the security of your funds, please verify your identity immediately by clicking on the link below:
+
+[Phishing Link]
+
+Failure to verify your account within 24 hours may result in temporary suspension.
+
+Sincerely,
+The NovaAI Security Team

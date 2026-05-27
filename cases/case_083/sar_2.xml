@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SPK2024-03-05-002</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE87744500400000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Follow-up investigation revealed multiple transfers to the same destination account.  Victim expressed difficulty accessing funds and reported communication issues with the recipient.  Potential investment fraud.</Findings>
+  <ReportDate>2024-03-05</ReportDate>
+</SAR>

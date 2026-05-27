@@ -1,0 +1,5 @@
+Date,Description,Amount,Currency,Beneficiary
+2023-11-10,Deposit,5000,EUR,
+2023-11-20,Withdrawal,100,EUR,
+2023-12-15,Deposit,2000,EUR,
+2024-01-05,Withdrawal Attempt,5000,EUR,Intermediary Account

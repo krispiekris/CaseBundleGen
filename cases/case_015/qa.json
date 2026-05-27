@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of Hans Schmidt?",
+    "answer": "DE87750108100022501500"
+  },
+  {
+    "question": "What is the purpose indicated for the 5000 EUR transaction from Hans Schmidt\u2019s account on December 5, 2023, as stated in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on sar_2.xml, what is the account number associated with NovaTrade Global Investments Ltd.?",
+    "answer": "BZ12030016000000002000"
+  },
+  {
+    "question": "Which bank initially reported the suspicious activity involving Hans Schmidt (sar_1.xml)?",
+    "answer": "Sparkasse N\u00fcrnberg"
+  },
+  {
+    "question": "What additional fee, besides the initial investment, is Hans Schmidt requested to pay in email_3 to expedite his withdrawal?",
+    "answer": "200 EUR"
+  },
+  {
+    "question": "According to the screenshot_1.txt, what is the displayed profit on Hans Schmidt\u2019s NovaTrade AI account?",
+    "answer": "\u20ac3500"
+  },
+  {
+    "question": "What is the stated benefit of AI-powered trading, according to the brochure_1.txt?",
+    "answer": "Our algorithms handle the complexities of the crypto market."
+  },
+  {
+    "question": "Which entity, detailed in sar_3.xml, received a 3000 EUR transfer from Germany on March 15, 2024?",
+    "answer": "Hans Schmidt"
+  },
+  {
+    "question": "What is the destination account in sar_1.xml for the withdrawal of 1500 EUR?",
+    "answer": "DE52370400440019008600"
+  },
+  {
+    "question": "In email_4.txt, how much money does the sender request for transfer to unlock funds?",
+    "answer": "500 EUR"
+  }
+]

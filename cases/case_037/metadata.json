@@ -1,0 +1,55 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000",
+    "country": "United Kingdom",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Georgia",
+    "languages_spoken": [
+      "English",
+      "Georgian",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Lithuania",
+    "Hong Kong"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers 'NovaTrade AI' online"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Initial investment of 5000 EUR"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim receives fabricated profits"
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Victim attempts to withdraw funds, denied"
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Victim reports fraud to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "1-5"
+    },
+    {
+      "type": "EUR Bank Funds",
+      "amount_range": "5000-15000"
+    }
+  ]
+}

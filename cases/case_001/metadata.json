@@ -1,58 +1,56 @@
 {
-  "case_id": "INV2024-027",
-  "fraud_type": "Investment Fraud",
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Scam",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
-    "country": "Netherlands",
+    "income_range": "75000-100000",
+    "country": "United Kingdom",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Marshall Islands"
+    "Nigeria",
+    "United Arab Emirates",
+    "Seychelles"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumLeap Investments' via online advertisement."
+      "event": "Victim discovers 'InnovAI' trading platform via online ad."
     },
     {
       "date": "2023-12-01",
-      "event": "Initial investment of \u20ac5,000 made by victim."
+      "event": "Initial deposit made by victim."
     },
     {
       "date": "2024-01-10",
-      "event": "Victim receives fabricated profits, encouraging further investment."
+      "event": "First 'profit' withdrawal made by victim."
     },
     {
       "date": "2024-02-28",
-      "event": "Victim attempts to withdraw funds; request denied."
+      "event": "Victim attempts to withdraw a larger sum, met with obstacles."
     },
     {
       "date": "2024-03-15",
-      "event": "Victim reports suspicious activity to authorities."
+      "event": "Victim reports the incident to the authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "1.5 - 3 BTC"
     },
     {
-      "type": "EUR Bank Account",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
-    },
-    {
-      "type": "US Dollar Bank Account",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "EUR Bank Transfers",
+      "amount_range": "10000 - 25000 EUR"
     }
   ]
 }

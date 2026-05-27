@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SI2024-7890</ReportID>
+  <ReportingInstitution>Bank of Seychelles</ReportingInstitution>
+  <DateReported>2024-04-06</DateReported>
+  <Subject>
+    <Name>QuantumEdge AI</Name>
+    <Account>SC4567890123</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>GR1601101250000000012310695</OriginAccount>
+    <OriginName>Victim 1</OriginName>
+  </Transaction>
+    <Transaction>
+    <Date>2024-02-05</Date>
+    <Amount>300</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>GR1601101250000000012310695</OriginAccount>
+    <OriginName>Victim 1</OriginName>
+  </Transaction>
+  <Findings>Funds originating from Germany, related to potential investment fraud.</Findings>
+</SAR>

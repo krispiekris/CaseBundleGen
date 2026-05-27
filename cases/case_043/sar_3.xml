@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-065</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
+  <Subject>
+    <Name>Global Apex Ventures</Name>
+    <Account>NL76ABNA0223456789</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>XXXXX</DestinationAccount>
+    <DestinationName>XXXXX</DestinationName>
+    <Purpose>Investment Funds</Purpose>
+  </Transaction>
+  <Findings>Receiving account for funds originating from Germany.  High volume of incoming transfers from various international locations. Further investigation required to determine the legitimacy of the entity and the source of the funds.</Findings>
+</SAR>

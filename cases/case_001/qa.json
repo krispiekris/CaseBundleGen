@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the account number of Hendrik Jansen's bank account?",
-    "answer": "NL97ABNA0123456789"
+    "question": "According to sar_1.xml, what is the report ID associated with Robert Harding's initial suspicious activity?",
+    "answer": "INV2023-127"
   },
   {
-    "question": "According to the email from QuantumLeap Investments, what was Hendrik Jansen\u2019s initial investment?",
-    "answer": "\u20ac5,000"
-  },
-  {
-    "question": "Which bank initially reported the suspicious activity involving Hendrik Jansen?",
-    "answer": "ABN AMRO Bank N.V."
-  },
-  {
-    "question": "What is the destination account number used for the investment transfers?",
-    "answer": "BM3800000000000000001"
-  },
-  {
-    "question": "What concerns did Hendrik Jansen express, according to the SAR filed by ING Bank N.V.?",
-    "answer": "He expressed concern regarding withdrawal restrictions."
-  },
-  {
-    "question": "According to the promotional material, what is a key feature of QuantumLeap Investments\u2019 trading algorithms?",
-    "answer": "They consistently outperform the market."
-  },
-  {
-    "question": "What type of imagery is used on the QuantumLeap Investments website?",
-    "answer": "Stock imagery of confident business people."
-  },
-  {
-    "question": "In which country is the QuantumLeap Investments website domain registered?",
-    "answer": "Belize"
-  },
-  {
-    "question": "What is the purpose consistently stated for the transactions involving Hendrik Jansen and QuantumLeap Investments?",
+    "question": "What is the purpose indicated for the EUR 12,000 transfer in sar_1.xml?",
     "answer": "Investment"
   },
   {
-    "question": "What seemingly positive result is claimed in the email to Hendrik Jansen?",
-    "answer": "His portfolio has significantly increased in value to over \u20ac8,000."
+    "question": "Based on email_3.txt, what action was Robert Harding asked to take for account verification?",
+    "answer": "Reply to the email with a copy of his passport or driver's license."
+  },
+  {
+    "question": "What is the destination account mentioned in both sar_1.xml and sar_2.xml?",
+    "answer": "NL82INGB0001234567"
+  },
+  {
+    "question": "According to the promotional_2.txt, what hashtags were used when describing InnovAI's trading platform?",
+    "answer": "#InnovAI #AItrading #passiveincome"
+  },
+  {
+    "question": "What date does sar_3.xml indicate the transfer of EUR 12,000 from InnovAI Investments to Robert Harding occurred?",
+    "answer": "2023-12-15"
+  },
+  {
+    "question": "What is the amount of the bonus offered to Robert Harding in email_2.txt?",
+    "answer": "25%"
+  },
+  {
+    "question": "According to bank_statement_2.csv, how much did InnovAI transfer to Robert Harding on January 10, 2024?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the InnovAI website's design?",
+    "answer": "It features a sleek design with a logo depicting a stylized AI brain, blue and white color scheme, and fields for username and password."
+  },
+  {
+    "question": "Based on email_4.txt, what issue was Robert Harding experiencing when attempting to withdraw his funds?",
+    "answer": "He was encountering difficulties and had been asked to pay additional fees."
   }
 ]

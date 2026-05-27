@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>SPK2023-12-10-004</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE87744500400000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual transfer to a foreign company with limited online presence.  Amount consistent with investment scheme warning signs.</Findings>
+  <ReportDate>2023-12-10</ReportDate>
+</SAR>

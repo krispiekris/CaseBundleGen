@@ -1,0 +1,64 @@
+{
+  "case_id": "CR2024-0078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish",
+      "Mandarin"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "Hong Kong",
+    "Seychelles"
+  ],
+  "timeline": [
+    {
+      "date": "2023-09-15",
+      "event": "Victim contacts QuantumLeap AI Trading platform."
+    },
+    {
+      "date": "2023-10-01",
+      "event": "First initial deposit by victim."
+    },
+    {
+      "date": "2023-11-10",
+      "event": "Victim receives initial, seemingly positive, returns."
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim attempts to withdraw funds; faces technical difficulties."
+    },
+    {
+      "date": "2024-02-05",
+      "event": "Victim realizes significant losses and reports."
+    },
+    {
+      "date": "2024-02-12",
+      "event": "Initial SAR filing."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac20,000 - \u20ac50,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.2 - 0.8"
+    },
+    {
+      "type": "ETH",
+      "amount_range": "1 - 5"
+    }
+  ]
+}

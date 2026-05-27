@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-0256</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>00000000000000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-20</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>1111111111/2222</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
+  </Transaction>
+  <Findings>Significant withdrawal request denied due to unusual account activity. Potential fraud.</Findings>
+</SAR>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-09-22</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY93001000000000000000000</DestinationAccount>
+    <DestinationName>QuantumLeap AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Suspicious transaction to a company registered in Cyprus with unclear business activity. Potential investment fraud.</Findings>
+  <ReportDate>2023-09-22</ReportDate>
+</SAR>

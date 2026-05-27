@@ -1,0 +1,55 @@
+{
+  "case_id": "2024-CC-0789",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-80000",
+    "country": "United Kingdom",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Arab Emirates"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim contacts AI Trader platform"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial deposit made"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim receives first 'profit' payout"
+    },
+    {
+      "date": "2024-03-20",
+      "event": "Victim attempts to withdraw funds, denied"
+    },
+    {
+      "date": "2024-03-25",
+      "event": "Victim reports fraud"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "1.5 - 3"
+    },
+    {
+      "type": "EUR",
+      "amount_range": "12000 - 18000"
+    }
+  ]
+}

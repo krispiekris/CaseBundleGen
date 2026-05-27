@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-01-15</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>HK5678901234</DestinationAccount>
+    <DestinationName>NovaAI Technologies Ltd</DestinationName>
+    <Purpose>Withdrawal attempt - unsuccessful</Purpose>
+  </Transaction>
+  <Findings>Victim reports difficulty in withdrawing funds from platform. Suspicious activity related to initial investment.</Findings>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the primary reason John Smith initially transferred funds to NovaTrade AI?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "What is the destination account number associated with both transactions to NovaTrade AI, as detailed in sar_1.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on email_2.txt, what incentive was offered to John Smith to encourage further investment?",
+    "answer": "Double his initial deposit for the next 24 hours only"
+  },
+  {
+    "question": "sar_3.xml reports a transaction involving John Smith. What was the purpose of this transaction?",
+    "answer": "Withdrawal Attempt"
+  },
+  {
+    "question": "According to the brochure_1.txt, what is the claim made regarding the risk associated with NovaTrade AI\u2019s investment strategy?",
+    "answer": "Minimal risk"
+  },
+  {
+    "question": "What currency was used for the withdrawal attempt described in sar_3.xml?",
+    "answer": "EUR"
+  },
+  {
+    "question": "Based on the screenshot_1.txt, what type of information is displayed on the NovaTrade AI platform to seemingly showcase the platform's success?",
+    "answer": "Fabricated headlines like 'NovaTrade AI Drives Record Profits' and 'AI Trading Revolutionizes Markets'"
+  },
+  {
+    "question": "What is the purpose of the link in email_3.txt?",
+    "answer": "To verify account details"
+  },
+  {
+    "question": "According to sar_2.xml, what is the primary concern raised by Luminos Bank regarding the funds received from Australia?",
+    "answer": "Funds received from Australia associated with potential investment fraud scheme targeting vulnerable individuals."
+  },
+  {
+    "question": "What vulnerability does sar_1.xml attribute to John Smith?",
+    "answer": "Age and lack of investment experience"
+  }
+]

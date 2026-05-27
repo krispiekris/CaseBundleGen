@@ -1,0 +1,10 @@
+Subject: Account Verification Required
+
+Dear Hans Schmidt,
+
+We've detected unusual activity on your account. To ensure your security, please verify your login details and banking information.
+
+Click here to verify: [phishing link]
+
+Best Regards,
+Security Department

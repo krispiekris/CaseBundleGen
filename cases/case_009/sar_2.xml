@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-032-SAR2</ReportID>
-  <ReportingInstitution>Lloyds Bank (UK)</ReportingInstitution>
+  <ReportID>DE2024-01-15-002</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Altcoin Global Ltd</Name>
+    <Name>Victim 1</Name>
+    <Account>DE89370400440532013000</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-10</Date>
-    <Amount>15000</Amount>
+    <Date>2023-12-10</Date>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GB27LYB10010001234567</DestinationAccount>
-    <DestinationName>John Doe</DestinationName>
-    <Purpose>Consultancy Fees</Purpose>
+    <DestinationAccount>KY0000000000</DestinationAccount>
+    <DestinationName>Global Solutions Ltd</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
   </Transaction>
-  <Findings>Large, frequent transfers received from various sources across Europe.  Beneficiary residing in Belize, operating under an ambiguous business model.</Findings>
+  <Findings>Victim reporting difficulties withdrawing funds. Funds being transferred to an offshore account in the Cayman Islands. Possible money laundering activity.</Findings>
 </SAR>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DEU2024-02-15-003</ReportID>
+  <ReportingInstitution>Sparkasse</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+    <Account>DE98775100200012345678</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+  </Transaction>
+  <Findings>Previous transaction linked to suspicious activity involving fraudulent investment schemes.</Findings>
+</SAR>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-789</ReportID>
+  <ReportingInstitution>Bank of Panama</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap AI</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    The recipient is flagged for potential involvement in fraudulent investment schemes.</Findings>
+</SAR>

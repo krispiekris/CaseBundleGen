@@ -1,0 +1,11 @@
+From: John Smith <john.smith@brokerage.com>
+To: Victim 1 <victim1@email.com>
+Subject: Account Access Request
+
+Dear [Victim 1],
+
+To ensure the security of your QuantumLeap AI account, we require you to verify your identity. Please provide us with access to your account settings so we can complete this process. Thank you for your cooperation.
+
+Sincerely,
+John Smith
+Brokerage Services

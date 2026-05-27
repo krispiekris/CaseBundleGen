@@ -1,0 +1,54 @@
+{
+  "case_id": "CF2024-007",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac90,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim begins researching AI trading platforms"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Victim contacts 'QuantumLeap AI' through online advertisement"
+    },
+    {
+      "date": "2023-09-15",
+      "event": "Initial deposit made by victim"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim attempts to withdraw funds - denied"
+    },
+    {
+      "date": "2023-12-10",
+      "event": "Victim reports fraud to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac20,000 - \u20ac40,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.5 - 1.0"
+    }
+  ]
+}

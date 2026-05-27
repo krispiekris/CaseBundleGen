@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>IRL2024-055</ReportID>
+  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BMU7890123456</DestinationAccount>
+    <DestinationName>Offshore Company</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from Germany. Destination account held by entity in Belize.</Findings>
+  <ReportDate>2023-09-15</ReportDate>
+</SAR>

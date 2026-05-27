@@ -1,0 +1,13 @@
+From: QuantumAlgo <support@quantumalgo.com>
+To: Victim 1 <victim1@email.com>
+Subject: Important Update Regarding Your Withdrawal Request
+
+Dear [Victim Name],
+
+We received your withdrawal request. Due to recent security enhancements, your account requires a brief verification process to prevent fraudulent activity.
+
+Please follow this link to complete the verification: www.quantumalgo.fake/verify
+
+Thank you for your understanding.
+
+The QuantumAlgo Support Team

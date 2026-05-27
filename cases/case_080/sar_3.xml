@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>MH2024-03-10-001</ReportID>
+  <ReportingInstitution>Marshall Islands Bank</ReportingInstitution>
+  <Subject>
+    <Name>Shell Company Ltd</Name>
+    <Account>001-000001-000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>7500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG7408201446350311</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Funds Transfer</Purpose>
+  </Transaction>
+  <Findings>Receiving substantial funds from a UK shell company, potential money laundering activity.</Findings>
+</SAR>

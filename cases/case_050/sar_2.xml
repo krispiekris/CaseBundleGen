@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>VC2024-0115</ReportID>
+  <ReportingInstitution>International Bank of St. Vincent and the Grenadines</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>Belizean Investments Corp</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>Belizean Investments Corp</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from Germany, onward transfer to Belize. Account activity suggests potential involvement in investment fraud.</Findings>
+</SAR>

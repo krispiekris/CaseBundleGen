@@ -1,0 +1,16 @@
+From: QuantumLeap AI <verification@quantumleap.ai>
+To: Victim 1 <victim1@example.cz>
+Subject: Identity Verification for Withdrawal
+
+Dear [Victim 1],
+
+To process your withdrawal request, we require verification of your identity. Please reply to this email with the following documents:
+
+*   A copy of your passport or government-issued ID
+*   Proof of address (utility bill or bank statement)
+
+This is a standard security procedure to protect your funds.
+
+Thank you for your cooperation.
+
+The QuantumLeap AI Team

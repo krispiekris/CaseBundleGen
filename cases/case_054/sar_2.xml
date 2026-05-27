@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2023-5678</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Global Investment Solutions Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ000123456</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-03-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ000123456</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual inflow of funds from Germany.  Company registration details appear suspicious.</Findings>
+</SAR>

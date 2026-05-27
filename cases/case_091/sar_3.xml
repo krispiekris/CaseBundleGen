@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>GBR2024-045</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap Investments Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>CY7501200011012345678901</SourceAccount>
+    <SourceName>Alpha Bank Cyprus</SourceName>
+    <DestinationAccount>GB88HSBC00001234567890</DestinationAccount>
+    <DestinationName>Global Trading Solutions</DestinationName>
+    <Purpose>Payment to Global Trading Solutions</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Large transfers to companies with opaque ownership structures.</SuspiciousActivity>
+    <RiskAssessment>High</RiskAssessment>
+  </Findings>
+</SAR>

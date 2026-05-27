@@ -1,0 +1,62 @@
+{
+  "case_id": "CF2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "St. Vincent and the Grenadines"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim contacts 'QuantumLeap AI' via online advertisement"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Initial deposit of \u20ac5,000 made by victim"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim receives fabricated profit statements"
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim attempts withdrawal; faces difficulties and further deposits requested"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim reports suspicious activity to bank"
+    },
+    {
+      "date": "2024-03-22",
+      "event": "SAR filed by bank"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
+    },
+    {
+      "type": "EUR (Bank Transfers)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
+    },
+    {
+      "type": "Bank Account (compromised)",
+      "amount_range": "\u20ac0 - \u20ac20,000"
+    }
+  ]
+}

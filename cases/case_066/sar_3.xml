@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-350</ReportID>
+  <ReportingInstitution>HypoVereinsbank</ReportingInstitution>
+  <Subject>
+    <Name>Franz Schmidt</Name>
+    <Account>DE45200177230005018608</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-02-28</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>VC1702610002</DestinationAccount>
+    <DestinationName>QuantumLeap Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    Similar transaction patterns observed as in SAR INV2023-125 and INV2023-287.  Beneficiary QuantumLeap Solutions Ltd is under scrutiny.
+  </Findings>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to email_2.txt, what was the initial investment made by Hans Schmidt?",
+    "answer": "\u20ac2000"
+  },
+  {
+    "question": "What is the purpose of the transaction involving the destination account GB59NWBK00000000001234, as indicated in sar_2.xml?",
+    "answer": "Withdrawal Processing Fee"
+  },
+  {
+    "question": "What is the account number of Hans Schmidt according to sar_1.xml?",
+    "answer": "DE1211000034000123456789"
+  },
+  {
+    "question": "Which bank is associated with the destination account BZ000123456, as detailed in sar_3.xml?",
+    "answer": "Atlantic Bank Belize"
+  },
+  {
+    "question": "Based on brochure_1.txt, what is the claim made about the AutomatedTradePro system regarding volatile markets?",
+    "answer": "It generates consistent returns, even in volatile markets."
+  },
+  {
+    "question": "According to sar_1.xml, what is the Reporting Institution?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What does email_4.txt suggest Hans Schmidt should do regarding information about his account?",
+    "answer": "Disregard any rumors or misinformation."
+  },
+  {
+    "question": "What is the amount of the attempted withdrawal mentioned in the bank_statement_1.csv file?",
+    "answer": "1500 EUR"
+  },
+  {
+    "question": "Which entity is named as the 'Payment Processor' in multiple files?",
+    "answer": "Payment Processor"
+  },
+  {
+    "question": "Based on email_3.txt, what is the account number provided for the withdrawal processing fee?",
+    "answer": "GB59NWBK00000000001234"
+  }
+]

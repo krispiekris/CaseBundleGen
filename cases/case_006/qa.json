@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the report ID for the suspicious activity related to Hans Schmidt?",
-    "answer": "DE2024-0089"
-  },
-  {
-    "question": "What is the destination account used for the investments according to the SAR files?",
-    "answer": "BZ010000000000000000"
-  },
-  {
-    "question": "According to the brochure, what technology does NovaTrade AI claim to use?",
-    "answer": "Artificial intelligence"
-  },
-  {
-    "question": "What is the purpose of the email sent from verification@novatrade.co?",
-    "answer": "To request additional verification documents, specifically a passport and utility bill."
-  },
-  {
-    "question": "Besides Hans Schmidt, who else is identified as a potential victim in the case files?",
-    "answer": "Anna Weber and Boris Volkov"
-  },
-  {
-    "question": "What amount did NovaTrade AI suggest Hans Schmidt deposit according to email_2.txt?",
-    "answer": "\u20ac3,000"
-  },
-  {
-    "question": "What does the website screenshot_1.txt mention about NovaTrade AI's returns?",
-    "answer": "It promises \u2018Guaranteed ROI\u2019"
-  },
-  {
-    "question": "Which institution filed the report with ID AT2024-0123?",
-    "answer": "Raiffeisenbank International"
-  },
-  {
-    "question": "What is the stated purpose for the transactions observed in the SAR files?",
+    "question": "According to sar_1.xml, what was the purpose of the initial transaction from Victim 1 to Altcoin Global Ltd?",
     "answer": "Investment"
   },
   {
-    "question": "What bonus is advertised in the email sent to all potential victims?",
-    "answer": "A 15% bonus on their first deposit"
+    "question": "Based on sar_2.xml, what concerns were raised regarding Altcoin Global Ltd's company registration details?",
+    "answer": "Questionable"
+  },
+  {
+    "question": "What does the screenshot_1.txt file depict concerning the trading platform?",
+    "answer": "A sleek, modern trading platform interface displaying upward trends and significant gains."
+  },
+  {
+    "question": "Which email address was used to send the 'Profit Update' email to the victim?",
+    "answer": "support@quantumleapfx.com"
+  },
+  {
+    "question": "According to sar_3.xml, what is the primary concern regarding Altcoin Global Ltd\u2019s account activity?",
+    "answer": "The account lacks legitimate business activity."
+  },
+  {
+    "question": "In email_4.txt, what action is the victim prompted to take?",
+    "answer": "Verify their credentials by clicking on a link."
+  },
+  {
+    "question": "What is the destination account in sar_1.xml and sar_2.xml for transactions involving Victim 1 and Altcoin Global Ltd?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "According to the brochure_1.txt, what is one key feature that differentiates QuantumFX AI Trader?",
+    "answer": "Automated Trading"
+  },
+  {
+    "question": "Which file details the initial transaction of 2000 EUR from Victim 1 to Altcoin Global Ltd?",
+    "answer": "sar_1.xml and sar_2.xml"
+  },
+  {
+    "question": "What reason was provided in email_3.txt for the temporary delay in withdrawals?",
+    "answer": "Ongoing system maintenance"
   }
 ]

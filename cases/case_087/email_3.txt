@@ -1,0 +1,15 @@
+From: withdrawals@novatradeai.com
+To: david.miller@email.com
+Subject: Withdrawal Confirmation - Transaction ID #789456
+
+Dear David,
+
+Your withdrawal request of £2000 has been processed and is en route to your account.
+
+Transaction ID: #789456
+Amount: £2000
+Date: 2023-11-01
+
+Thank you for using NovaTrade AI.
+
+The NovaTrade AI Team

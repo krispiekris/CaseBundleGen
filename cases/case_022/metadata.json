@@ -1,0 +1,62 @@
+{
+  "case_id": "CY2024-1127",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000-\u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "Saint Vincent and the Grenadines"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers 'AutomatedWealth AI'"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial deposit made"
+    },
+    {
+      "date": "2024-01-15",
+      "event": "Victim experiences first 'profit' payout"
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Victim requests withdrawal, encounters issues"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim realizes scam and reports"
+    },
+    {
+      "date": "2024-04-20",
+      "event": "Initial SAR filing"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
+    },
+    {
+      "type": "EUR Bank Transfers",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
+    },
+    {
+      "type": "Gift Cards (Amazon)",
+      "amount_range": "\u20ac100 - \u20ac500"
+    }
+  ]
+}

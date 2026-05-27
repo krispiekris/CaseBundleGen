@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2023-112</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE89370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-22</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC27004300000000001</DestinationAccount>
+    <DestinationName>QuantumInvest AI</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-10-05</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC27004300000000001</DestinationAccount>
+    <DestinationName>QuantumInvest AI</DestinationName>
+    <Purpose>Investment Top-up</Purpose>
+  </Transaction>
+  <Findings>Unusual activity; recipient based in Seychelles with no apparent business registration in Germany.</Findings>
+</SAR>

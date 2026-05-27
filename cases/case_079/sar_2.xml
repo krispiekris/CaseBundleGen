@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2023-457</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <DateOfReport>2023-04-05</DateOfReport>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2022-12-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Hans Müller</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-01-10</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Hans Müller</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-02-15</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Hans Müller</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Findings>Company registered in Lithuania receiving multiple transfers from individuals with suspicious transaction patterns.  Further investigation warranted.</Findings>
+  <ReportType>Suspicious Transaction Report</ReportType>
+</SAR>

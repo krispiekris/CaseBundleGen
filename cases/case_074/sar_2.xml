@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-0123</ReportID>
+  <ReportingInstitution>HSBC London</ReportingInstitution>
+  <Subject>
+    <Name>GlobalTech Solutions Ltd</Name>
+    <Account>GB82HSBC40400000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>US1234567890</DestinationAccount>
+    <DestinationName>CryptoGenius AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Frequent transfers to entities with unclear business activities. Suspiciously high volume of transactions for a shell company.</Findings>
+</SAR>

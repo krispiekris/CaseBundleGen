@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DEU2024-002</ReportID>
+  <ReportingInstitution>Sparkasse</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE1211000000000000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-15</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Smaller transfer activity consistent with larger pattern, indicative of potential investment fraud.</Findings>
+</SAR>

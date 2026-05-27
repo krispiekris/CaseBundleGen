@@ -1,0 +1,59 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-90000",
+    "country": "United Kingdom",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Serbia",
+    "languages_spoken": [
+      "English",
+      "Serbian",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Lithuania",
+    "Hungary"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers 'AlgoTradePro' website"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Initial investment of 2000 EUR"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim withdraws a small amount (1000 EUR) - 'profit'"
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Victim invests additional 8000 EUR"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim requests withdrawal \u2013 denied"
+    },
+    {
+      "date": "2024-04-01",
+      "event": "Victim reports the incident"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "10000-20000"
+    },
+    {
+      "type": "EUR",
+      "amount_range": "10000-15000"
+    }
+  ]
+}

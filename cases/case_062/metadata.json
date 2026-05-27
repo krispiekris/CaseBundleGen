@@ -1,0 +1,64 @@
+{
+  "case_id": "20241115-AI-SCAM-007",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Arab Emirates",
+    "Marshall Islands"
+  ],
+  "timeline": [
+    {
+      "date": "2023-10-20",
+      "event": "Victim sees promotional material for 'NovaTrade AI'"
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim makes initial investment of \u20ac1,000"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim attempts to withdraw funds \u2013 refused"
+    },
+    {
+      "date": "2024-02-01",
+      "event": "Victim contacts \u2018support\u2019 \u2013 pressured to deposit more"
+    },
+    {
+      "date": "2024-03-25",
+      "event": "Victim loses total of \u20ac12,000"
+    },
+    {
+      "date": "2024-04-10",
+      "event": "Victim files a police report"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac8,000"
+    },
+    {
+      "type": "EUR Bank Balance",
+      "amount_range": "\u20ac4,000 - \u20ac6,000"
+    },
+    {
+      "type": "EUR Cash",
+      "amount_range": "\u20ac1,000 - \u20ac2,000"
+    }
+  ]
+}

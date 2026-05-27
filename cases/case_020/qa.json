@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the account number of Hans Schmidt?",
+    "answer": "DE1272150000001234567890"
+  },
+  {
+    "question": "According to the first SAR (DE2023-123), what was the purpose of the transactions from Hans Schmidt's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account for the transactions involving NovaTrade AI Ltd.?",
+    "answer": "BZ12010000010000001234"
+  },
+  {
+    "question": "Which email address was used by NovaTrade AI Ltd. to communicate with Hans Schmidt?",
+    "answer": "novaTradeAI@securemail.biz"
+  },
+  {
+    "question": "What ROI did NovaTrade AI promise in the initial email to Hans Schmidt?",
+    "answer": "20% monthly"
+  },
+  {
+    "question": "According to the brochure, what is one of the key features of the NovaTrade AI platform?",
+    "answer": "AI-Powered Trading"
+  },
+  {
+    "question": "What does the screenshot description highlight about the NovaTrade AI platform login page?",
+    "answer": "A sleek, modern design with a prominent logo and SSL encryption."
+  },
+  {
+    "question": "What amount did Arabian Holdings LLC transfer to NovaTrade AI Ltd. on November 15, 2023?",
+    "answer": "12000 EUR"
+  },
+  {
+    "question": "Based on SAR_4, which previous SAR reports are linked to this case?",
+    "answer": "DE2023-123, LU2023-789, LU2024-456"
+  },
+  {
+    "question": "What amount of profits were supposedly generated for Hans Schmidt according to the email?",
+    "answer": "\u20ac2,500"
+  }
+]

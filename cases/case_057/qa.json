@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of the subject, Hans Schmidt?",
+    "answer": "DE87370400440532013000"
+  },
+  {
+    "question": "What is the purpose stated for the transaction in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which institution flagged the initial transaction involving Hans Schmidt?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What amount did Altcoin Global Ltd receive from Hans Schmidt on 2023-09-01?",
+    "answer": "12000 EUR"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the AlgoNova trading platform's performance?",
+    "answer": "A graph shows a steady upward trend with the caption 'AI-Powered Returns' and a 'Profit' indicator showing \u20ac3,000."
+  },
+  {
+    "question": "What is the URL mentioned in brochure_1.txt?",
+    "answer": "www.algovfx.fake"
+  },
+  {
+    "question": "What additional fee was Hans Schmidt prompted to pay according to email_3.txt?",
+    "answer": "\u20ac500"
+  },
+  {
+    "question": "According to bank_statement_2.csv, to whom did Hans Schmidt make a payment of 500 EUR?",
+    "answer": "Secure Payment Solutions"
+  },
+  {
+    "question": "Besides Altcoin Global Ltd., which other entity\u2019s name appears in both sar_2.xml and sar_3.xml?",
+    "answer": "Belizean Investment Firm"
+  },
+  {
+    "question": "What is the reported date of the suspicious activity report (SAR) filed by Deutsche Bank?",
+    "answer": "2023-09-05"
+  }
+]

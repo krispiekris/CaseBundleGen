@@ -1,13 +1,11 @@
-From: profits@quantumleapinvestments.net
-To: hendrik.jansen@email.nl
-Subject: Profit Distribution - QuantumLeap Investments
+From: security@innovai.com
+To: robert.harding@email.com
+Subject: InnovAI Account Verification
 
-Dear Hendrik,
+Dear Robert,
 
-We’re pleased to announce your profit distribution for the period of January 1st to March 31st. Your total profit is €3,000.
+To ensure the security of your account, please verify your identity by replying to this email with a copy of your passport or driver's license.
 
-To receive your profit, please follow this link and confirm your withdrawal details:
-[Fake withdrawal link]
+Thank you for your cooperation.
 
-Sincerely,
-The QuantumLeap Investments Team
+The InnovAI Security Team

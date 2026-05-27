@@ -1,0 +1,59 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers 'AutomatedTradePro' online."
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Initial investment of \u20ac2,000 made."
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim receives fabricated profit notifications."
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim requests withdrawal; faces processing fees."
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim realizes the scam after repeated delays."
+    },
+    {
+      "date": "2024-03-22",
+      "event": "Report filed with German authorities."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac2,000 - \u20ac5,000"
+    },
+    {
+      "type": "EUR Bank Funds",
+      "amount_range": "\u20ac10,000 - \u20ac15,000"
+    }
+  ]
+}

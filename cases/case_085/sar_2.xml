@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>FIN2024-050</ReportID>
+  <ReportingInstitution>Luminos Bank (Lithuania)</ReportingInstitution>
+  <Subject>
+    <Name>NovaTrade AI</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-05</Date>
+    <Amount>5000</Amount>
+    <Currency>AUD</Currency>
+    <SourceAccount>06300000000000000000</SourceAccount>
+    <SourceName>Commonwealth Bank (Australia)</SourceName>
+    <Purpose>Deposit from John Smith</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-10-15</Date>
+    <Amount>2000</Amount>
+    <Currency>AUD</Currency>
+    <SourceAccount>06300000000000000000</SourceAccount>
+    <SourceName>Commonwealth Bank (Australia)</SourceName>
+    <Purpose>Deposit from John Smith</Purpose>
+  </Transaction>
+  <Findings>Funds received from Australia associated with potential investment fraud scheme targeting vulnerable individuals. Further investigation recommended.</Findings>
+</SAR>

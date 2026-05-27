@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-007</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Account>000000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG48BNES99491100004444</DestinationAccount>
+    <DestinationName>Global Investments Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual transfer to a foreign entity with no apparent business relationship.  High-risk investment scheme involved. Suspected AI trading scam.</Findings>
+</SAR>

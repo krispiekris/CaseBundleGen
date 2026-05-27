@@ -1,0 +1,4 @@
+Date,Description,Amount,Currency,Beneficiary
+2023-09-01,Incoming Transfer,5000,EUR,
+2023-11-10,Outgoing Transfer,1500,EUR,Banque Raiffeisen
+2023-12-15,Outgoing Transfer,2000,EUR,Banque Raiffeisen

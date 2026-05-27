@@ -1,0 +1,17 @@
+From: QuantumAI Solutions Support <support@quantumaisolutions.fake>
+To: Victim1@email.com
+Subject: Important Account Verification
+
+Dear [Victim Name],
+
+To ensure the security of your QuantumAI Solutions account, we require you to verify your identity. Please provide the following information:
+
+* Full Name
+* Date of Birth
+* Copy of Government-Issued ID
+
+Reply to this email with the requested information.
+
+Thank you for your cooperation.
+
+The QuantumAI Solutions Support Team

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_3.xml, what is the stated purpose of the transfer of 5000 EUR from Phoenix Global Holdings to Victim 1?",
+    "answer": "Withdrawal"
+  },
+  {
+    "question": "What is the Report ID for the SAR filed by Commerzbank regarding Victim 1?",
+    "answer": "CM2024-0008"
+  },
+  {
+    "question": "Based on email_2.txt, what reason does QuantumAI give for encouraging Victim 1 to increase their investment?",
+    "answer": "An upcoming market surge - doubling potential returns."
+  },
+  {
+    "question": "Which bank initially raised concerns about Victim 1's transactions?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What is the account number for Victim 1 as reported in the SAR filed by Deutsche Bank?",
+    "answer": "GR1601101250000000012310695"
+  },
+  {
+    "question": "What is the purpose stated for the transfer of 2000 EUR in SAR_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to the brochure_1.txt, what is the main selling point of QuantumAI?",
+    "answer": "AI-Powered Trading"
+  },
+  {
+    "question": "What is the date of the withdrawal request denial reported in SAR_2.xml?",
+    "answer": "2024-02-20"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the simulated trading platform?",
+    "answer": "A prominent graph displays a rapid upward trend, showing a daily profit of 12.5%."
+  },
+  {
+    "question": "What finding is noted in SAR_3.xml regarding Phoenix Global Holdings?",
+    "answer": "Account activity inconsistent with stated business purpose."
+  }
+]

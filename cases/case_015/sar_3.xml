@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-030</ReportID>
+  <ReportingInstitution>Marshall Islands Bank</ReportingInstitution>
+  <Subject>
+    <Name>Global Financial Solutions Ltd.</Name>
+    <Account>MH1234567890123456</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-15</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87750108100022501500</DestinationAccount>
+    <DestinationName>Hans Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from Germany, unusual transfer activity.</Findings>
+</SAR>

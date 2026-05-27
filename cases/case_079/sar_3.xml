@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>NG2023-123</ReportID>
+  <ReportingInstitution>Zenith Bank Nigeria</ReportingInstitution>
+  <DateOfReport>2023-04-05</DateOfReport>
+  <Subject>
+    <Name>Wealthy Links Limited</Name>
+    <Account>1000123456789</Account>
+  </Subject>
+  <Transaction>
+    <Date>2022-12-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87370400440532013000</DestinationAccount>
+    <DestinationName>Hans Müller</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-01-10</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87370400440532013000</DestinationName>
+    <DestinationName>Hans Müller</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-02-15</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87370400440532013000</DestinationName>
+    <DestinationName>Hans Müller</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Findings>Account receiving multiple deposits of EUR from individuals located in Germany.  Further investigation warranted to determine source of funds and potential connection to fraudulent activity.</Findings>
+  <ReportType>Suspicious Transaction Report</ReportType>
+</SAR>

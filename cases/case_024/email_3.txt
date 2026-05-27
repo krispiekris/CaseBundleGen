@@ -1,0 +1,13 @@
+From: Withdrawal Department <withdrawal@quantumfx.fake>
+To: Victim1@email.com
+Subject: Withdrawal Processing – Confirmation Required
+
+Dear Victim 1,
+
+Your withdrawal request has been received and is currently being processed. To finalize the transfer, please confirm your transaction details by clicking on the link below:
+
+www.quantumfx.fake/confirm
+
+Thank you for your patience.
+
+The Withdrawal Department

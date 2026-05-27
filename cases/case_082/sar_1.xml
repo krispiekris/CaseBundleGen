@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DB2024-0037</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <DateFiled>2024-04-05</DateFiled>
+  <Subject>
+    <Name>Karl Schmidt</Name>
+    <Account>DE89370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
+    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-12</Date>
+    <Amount>250</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
+    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <Purpose>Investment Return</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-01</Date>
+    <Amount>300</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
+    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <Purpose>Investment Return</Purpose>
+  </Transaction>
+  <Findings>Client reports difficulty withdrawing funds. Unusual activity pattern consistent with potential investment fraud.</Findings>
+</SAR>

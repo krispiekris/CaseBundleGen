@@ -1,0 +1,52 @@
+{
+  "case_id": "CF2024-11-007",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Hausa",
+      "Pidgin English"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Kingdom",
+    "Belize"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim contacted by 'investment manager'"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Initial investment made"
+    },
+    {
+      "date": "2023-11-10",
+      "event": "Victim requests withdrawal; faces obstacles"
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Victim reports fraud"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.5 - 1.5 BTC"
+    }
+  ]
+}

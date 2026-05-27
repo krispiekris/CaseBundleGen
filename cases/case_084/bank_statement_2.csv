@@ -1,0 +1,4 @@
+Date,Description,Amount,Currency,Beneficiary
+2023-12-05,Incoming Transfer,1000,EUR,Victim 1
+2024-02-20,Incoming Transfer,5000,EUR,Victim 1
+2024-03-10,Outgoing Transfer,1500,EUR,Another Entity

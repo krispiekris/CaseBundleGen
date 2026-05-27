@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_3.xml, what is the overall assessment of the activity involving QuantumLeap AI Ltd?",
+    "answer": "Strong indication of investment fraud."
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what was the purpose of the transactions to QuantumLeap AI Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the purpose of the email_4.txt?",
+    "answer": "To prompt the victim to deposit 1000 EUR to maintain their account and avoid closure."
+  },
+  {
+    "question": "According to sar_2.xml, what is the main finding concerning Victim 1's transactions?",
+    "answer": "Pattern suggests possible investment fraud."
+  },
+  {
+    "question": "What is the amount of the salary received by Victim 1 on 2024-02-15 according to bank_statement_1.csv?",
+    "answer": "3500 EUR"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the website's display?",
+    "answer": "It shows a website interface displaying a live trading chart with a rapidly increasing line graph and testimonials praising the platform."
+  },
+  {
+    "question": "According to sar_4.xml, what is the purpose of the transaction to QuantumLeap AI Ltd. on 2024-03-10?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What specific destinations, beyond Belize, are funds being transferred to according to bank_statement_2.csv?",
+    "answer": "Offshore Investments Panama"
+  },
+  {
+    "question": "What does the brochure_1.txt claim about the returns experienced by users of QuantumLeap AI?",
+    "answer": "Experience consistent profits with daily payout opportunities."
+  },
+  {
+    "question": "Based on email_3.txt, what action did the victim request?",
+    "answer": "A withdrawal of 2000 EUR from their account."
+  }
+]

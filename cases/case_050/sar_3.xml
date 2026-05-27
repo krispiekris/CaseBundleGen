@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2024-0088</ReportID>
+  <ReportingInstitution>Atlantic Bank, Belize</ReportingInstitution>
+  <Subject>
+    <Name>Belizean Investments Corp</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>Unspecified</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>Unspecified</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from St. Vincent and the Grenadines. Account activity suggests potential involvement in investment fraud.</Findings>
+</SAR>

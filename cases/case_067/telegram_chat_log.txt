@@ -1,0 +1,10 @@
+[11/15/2023 14:32] Broker: Hello! Welcome to Nova AI Trading! I'm David, your personal broker. How can I help you get started?
+[11/15/2023 14:35] Victim: Hi David, I'm interested in learning more about the AI trading.
+[11/15/2023 14:38] Broker: Great! Our AI consistently outperforms the market. We have a limited-time offer for new clients.
+[12/01/2023 10:00] Victim: I’ve made my initial deposit.
+[12/01/2023 10:05] Broker: Excellent! Your account is now active. You'll start seeing profits almost immediately.
+[01/10/2024 16:22] Broker: Your account is showing significant potential! We have new opportunities...
+[02/28/2024 10:15] Victim: I’d like to withdraw some funds.
+[02/28/2024 10:20] Broker: There's been a slight processing delay. Please deposit another €2000 to expedite the process.
+[02/28/2024 10:30] Victim: Why do I need to deposit more to withdraw?
+[02/28/2024 10:35] Broker: It’s a standard procedure.  Please cooperate to avoid further delays.

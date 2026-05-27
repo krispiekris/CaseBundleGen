@@ -1,0 +1,1 @@
+The dashboard displays a fake account balance and trading history with fabricated profit numbers. Graphs are colorful and misleading, suggesting consistent and high returns. There's a prominent button labeled 'Deposit Funds' to encourage further investment.

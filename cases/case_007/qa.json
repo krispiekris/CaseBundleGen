@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the report ID of the SAR filed by Erste Bank?",
-    "answer": "INV2024-017-SAR2"
+    "question": "According to SAR_1.xml, what activity was initially flagged as unusual?",
+    "answer": "Unusual investment activity."
   },
   {
-    "question": "According to the brochure, what is a key feature of NovaTrade AI's trading?",
-    "answer": "AI-Powered Trading: Our advanced algorithms work 24/7 to maximize your profits."
+    "question": "What was the stated purpose of the transactions to InnovAI Solutions Ltd, as indicated in the SAR files?",
+    "answer": "Investment."
   },
   {
-    "question": "What was the purpose of the transaction on 2023-09-01?",
-    "answer": "Investment"
+    "question": "Based on bank_statement_2.csv, what was the date of the transfer to SecureTrust International?",
+    "answer": "2024-03-02"
   },
   {
-    "question": "What additional investment was requested from Hans Gruber according to email_3?",
-    "answer": "500 EUR"
+    "question": "What is the main message conveyed in email_2.txt?",
+    "answer": "Encouraging the customer to invest an additional \u20ac5,000 with a 10% bonus."
   },
   {
-    "question": "Which bank initially reported the suspicious activity?",
-    "answer": "Volksbank Wien"
+    "question": "Which account number is consistently used as the destination account for transfers to InnovAI Solutions Ltd and SecureTrust International?",
+    "answer": "BZ12010100010102030405"
   },
   {
-    "question": "What is the destination account for the initial deposit of 12000 EUR?",
-    "answer": "CY7000300000000000"
+    "question": "What potential action is offered by the legal recovery firm in email_4.txt?",
+    "answer": "Reclaiming funds lost due to the InnovAI platform."
   },
   {
-    "question": "What entity is associated with the withdrawal request of 1000 EUR?",
-    "answer": "Altcoin Global Ltd"
+    "question": "What does the screenshot_1.txt indicate regarding potential returns on the InnovAI platform?",
+    "answer": "Up to 25% monthly returns possible!"
   },
   {
-    "question": "What is the ROI promised by NovaTrade AI in email_2?",
-    "answer": "An average ROI of 20% per week."
+    "question": "According to SAR_3.xml, which demographic group is potentially targeted by the investment fraud?",
+    "answer": "Elderly individuals."
   },
   {
-    "question": "What does SAR 3 identify as the destination of funds transferred from Altcoin Global Ltd?",
-    "answer": "Unknown"
+    "question": "Based on the provided files, what does the reporting institution in SAR_3.xml represent?",
+    "answer": "Anonymous Tip"
   },
   {
-    "question": "According to website_screenshot_1, what are the testimonials on the NovaTrade AI website?",
-    "answer": "Testimonials from 'satisfied users' with generic stock photos."
+    "question": "What action did the customer attempt to perform that triggered a notification in SAR_2.xml?",
+    "answer": "Attempted withdrawal failed."
   }
 ]

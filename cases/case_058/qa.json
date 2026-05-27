@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the SAR filed by Deutsche Bank concerning Victim 1's initial deposit?",
+    "answer": "INV2023-128"
+  },
+  {
+    "question": "According to the email from investment.opportunities@quantumfx.fake, what technology does Apex Intelligence supposedly use?",
+    "answer": "Cutting-edge AI technology"
+  },
+  {
+    "question": "What is the purpose of the transaction between Altcoin Global Ltd and Victim 1 on 2023-11-30?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the amount of the processing fee requested by QuantumFX Support in email_3.txt?",
+    "answer": "500 EUR"
+  },
+  {
+    "question": "Which institution filed the SAR (Report ID INV2024-022) and who is the subject of that SAR?",
+    "answer": "LHV Pank; Altcoin Global Ltd"
+  },
+  {
+    "question": "What is the Destination Account mentioned in sar_4.xml, and what is its associated purpose?",
+    "answer": "NG25208186880508638; Payment"
+  },
+  {
+    "question": "What is the daily ROI reported to Victim 1 in the email from support@quantumfx.fake?",
+    "answer": "12.5%"
+  },
+  {
+    "question": "What amount does the screenshot_1.txt indicate as the daily profit?",
+    "answer": "+15.8%"
+  },
+  {
+    "question": "According to brochure_2.txt, what is the message regarding other crypto trading platforms?",
+    "answer": "All other platforms are unreliable."
+  },
+  {
+    "question": "What is Victim 1's account number?",
+    "answer": "GR1601101250000000012310695"
+  }
+]

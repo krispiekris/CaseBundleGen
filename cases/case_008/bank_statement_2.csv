@@ -1,6 +1,4 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-09-10,Transfer,20000,EUR,
-2023-09-15,Wire Transfer,10000,EUR,
-2023-10-05,Transfer,5000,EUR,
-2023-11-20,Wire Transfer,8000,EUR,
-2023-12-10,Transfer,3000,EUR,
+2023-12-01,Incoming Transfer,50000,EUR,
+2024-01-10,Incoming Transfer,2000,EUR,
+2024-03-15,Outgoing Transfer,10000,USD,Unknown

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR INV2023-125, what is the purpose stated for the initial transaction to QuantumLeap Solutions Ltd?",
+    "answer": "Investment in AI Trading Platform"
+  },
+  {
+    "question": "What is the destination account number used for transactions to QuantumLeap Solutions Ltd, as identified in SAR INV2023-287?",
+    "answer": "VC1702610002"
+  },
+  {
+    "question": "Which bank filed SAR INV2023-350, and what is the name of the subject in that SAR?",
+    "answer": "HypoVereinsbank; Franz Schmidt"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the QuantumLeap AI Trader website's design?",
+    "answer": "The website features a sleek, modern design with charts and graphs displaying (likely fabricated) profit trends."
+  },
+  {
+    "question": "Based on the email_2.txt, what suggestion is made to Helmut Weber regarding maximizing returns?",
+    "answer": "Consider increasing your investment"
+  },
+  {
+    "question": "According to the bank_statement_1.csv, what amount did Helmut Weber receive as salary in February 2023?",
+    "answer": "3500 EUR"
+  },
+  {
+    "question": "What is the primary concern raised in the 'Findings' section of SAR INV2023-287?",
+    "answer": "Ongoing transactions to the same beneficiary with a similar purpose."
+  },
+  {
+    "question": "What type of service does QuantumLeap AI Trader claim to offer, as described in brochure_2.txt?",
+    "answer": "Automated trading"
+  },
+  {
+    "question": "What action is Helmut Weber asked to take in email_3.txt?",
+    "answer": "Provide account verification details"
+  },
+  {
+    "question": "Which document explicitly mentions a 15% bonus for first-time investors?",
+    "answer": "brochure_1.txt"
+  }
+]

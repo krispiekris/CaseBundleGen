@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>AUS2024-007</ReportID>
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <Subject>
+    <Name>John Smith</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>12000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY7501200011012345678901</DestinationAccount>
+    <DestinationName>QuantumLeap Investments Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY7501200011012345678901</DestinationAccount>
+    <DestinationName>QuantumLeap Investments Ltd</DestinationName>
+    <Purpose>Additional Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusually large transfers to an overseas entity with an unverified business purpose.</SuspiciousActivity>
+    <RiskAssessment>High</RiskAssessment>
+  </Findings>
+</SAR>

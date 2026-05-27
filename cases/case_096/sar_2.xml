@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UAE2024-012</ReportID>
+  <ReportingInstitution>Abu Dhabi Commercial Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-28</Date>
+    <Amount>6000</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>GR1601101250000000012310695</OriginAccount>
+    <OriginName>Victim 1</OriginName>
+    <DestinationAccount>NG591455010392285342079</DestinationAccount>
+  </Transaction>
+  <Findings>Receiving funds from UK account. High volume of incoming transactions. Potential money laundering.</Findings>
+</SAR>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>IE2024-012</ReportID>
+  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-19</Date>
+    <Amount>2000</Amount>
+    <Currency>USD</Currency>
+    <OriginAccount>LT12100001110123451</OriginAccount>
+  </Transaction>
+  <Findings>Unusual outflow of funds. Further investigation warranted.</Findings>
+</SAR>

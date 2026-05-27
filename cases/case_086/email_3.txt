@@ -1,0 +1,14 @@
+From: support@quantumfx.co
+To: klaus.schmidt@email.de
+Subject: Important: Withdrawal Processing Fee
+
+Dear Klaus,
+
+Due to recent system upgrades, a small processing fee is required to complete your withdrawal request. Please transfer 500 EUR to the following account to finalize the process:
+
+Account: HK1234567890
+
+We apologize for any inconvenience. Your funds will be released immediately after payment.
+
+Sincerely,
+QuantumFX Support Team

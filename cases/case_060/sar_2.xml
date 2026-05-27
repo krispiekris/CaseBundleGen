@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CM2024-0008</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY900000000000000001</DestinationAccount>
+    <DestinationName>Phoenix Global Holdings</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
+  </Transaction>
+  <Findings>Withdrawal request denied due to unusual activity and potential fraud. The destination account is linked to suspicious transactions.</Findings>
+</SAR>

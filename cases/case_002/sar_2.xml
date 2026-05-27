@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AUT2024-045</ReportID>
-  <ReportingInstitution>Erste Bank</ReportingInstitution>
+  <ReportID>WISE2024-012</ReportID>
+  <ReportingInstitution>Wise</ReportingInstitution>
+  <DateFiled>2024-02-25</DateFiled>
   <Subject>
     <Name>Victim 1</Name>
     <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>-12000</Amount>
+    <Date>2023-11-15</Date>
+    <Amount>3000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Withdrawal Attempt</Purpose>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Withdrawal attempt denied due to insufficient funds.  Suspicious activity regarding previous deposits.</Findings>
+  <Findings>Transfer flagged due to destination being associated with potentially fraudulent investment schemes.</Findings>
 </SAR>

@@ -1,0 +1,1 @@
+The screenshot shows a web page with a dashboard. The dashboard displays a graph showing fluctuating numbers. The heading reads "AlphaTrade AI - Performance Dashboard".  There are buttons labeled "Deposit", "Withdraw", and "Account Details".

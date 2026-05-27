@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>KN2023-4321</ReportID>
+  <ReportingInstitution>Royal Caribbean Bank</ReportingInstitution>
+  <Subject>
+    <Name>Global Investments Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>XX1234567890</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-08</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>XX1234567890</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from offshore accounts. Destination account difficult to trace.</Findings>
+</SAR>

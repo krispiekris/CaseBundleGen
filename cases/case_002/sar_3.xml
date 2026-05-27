@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>LTU2024-007</ReportID>
-  <ReportingInstitution>Šiaulių bankas</ReportingInstitution>
+  <ReportID>BANKC2024-003</ReportID>
+  <ReportingInstitution>GlobalTrust Bank</ReportingInstitution>
+  <DateFiled>2024-03-10</DateFiled>
   <Subject>
-    <Name>Altalytics GmbH</Name>
-    <Account>LT12100001110123451</Account>
+    <Name>Victim 2</Name>
+    <Account>US47012345678901234567890</Account>
   </Subject>
   <Transaction>
-    <Date>2023-10-20</Date>
-    <Amount>12000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
+    <Date>2023-12-15</Date>
+    <Amount>10000</Amount>
+    <Currency>USD</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>Receiving significant funds from multiple foreign accounts. Company registration information incomplete and suspicious.</Findings>
+  <Findings>Similar activity to reports involving 'QuantumLeap AI'.  Victim claims to have been lured by promises of high returns. Investigation ongoing.</Findings>
 </SAR>

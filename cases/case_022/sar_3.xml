@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-0989</ReportID>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <Subject>
+    <Name>AutomatedWealth AI Ltd</Name>
+    <Account>BZ74000000000000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE8711000070070012345678</DestinationAccount>
+    <DestinationName>Heinrich Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE8711000070070012345678</DestinationAccount>
+    <DestinationName>Heinrich Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Receiving multiple deposits from different individuals.</SuspiciousActivity>
+    <Recommendation>Enhanced due diligence recommended for this entity.</Recommendation>
+  </Findings>
+</SAR>

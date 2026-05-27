@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what initial concern was raised regarding the destination account?",
+    "answer": "Concerns were raised due to the origin of the receiving account in Belize."
+  },
+  {
+    "question": "What is the purpose listed for the 2024-01-05 transaction in sar_2.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what was the source of Helmut Schmidt's initial funds?",
+    "answer": "Salary"
+  },
+  {
+    "question": "What does the brochure_1.txt highlight as a benefit of using AlphaTrade AI?",
+    "answer": "AI-Powered Trading: Let our algorithms do the work."
+  },
+  {
+    "question": "What does email_3.txt state is the reason for a potential delay in withdrawal processing?",
+    "answer": "A slightly higher-than-usual volume of withdrawal requests."
+  },
+  {
+    "question": "In sar_3.xml, what is the purpose listed for the transfer from AlphaTrade Investments Ltd to Helmut Schmidt on 2023-10-01?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to screenshot_1.txt, what type of information is readily available to users on the AlphaTrade AI website?",
+    "answer": "A prominent graph showing simulated trading performance with consistently upward trends."
+  },
+  {
+    "question": "What is the nature of the email sent to Helmut Schmidt in email_4.txt?",
+    "answer": "An important security alert, prompting the user to verify their identity."
+  },
+  {
+    "question": "What does sar_2.xml indicate about the connection to the Belizean company?",
+    "answer": "Further investigation revealed connection to Belizean company with questionable regulatory status."
+  },
+  {
+    "question": "Which entity is mentioned in sar_3.xml as potentially being linked to investment fraud?",
+    "answer": "AlphaTrade Investments Ltd"
+  }
+]

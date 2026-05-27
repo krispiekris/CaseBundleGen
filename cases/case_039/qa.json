@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what was the purpose of the transactions from Helmut Ziegler's account to Altcoin Global Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account number used for both transactions described in sar_1.xml and sar_2.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on email_2.txt, what bonus was offered to Helmut Ziegler if he deposited another \u20ac5,000 before midnight?",
+    "answer": "A 15% bonus"
+  },
+  {
+    "question": "Which reporting institution highlighted the receiving of large amounts of funds from various sources with an unclear ultimate beneficiary in sar_2.xml?",
+    "answer": "HSBC UK"
+  },
+  {
+    "question": "What document does email_3.txt request from Helmut Ziegler?",
+    "answer": "A copy of his passport or national ID card"
+  },
+  {
+    "question": "What was the salary amount Helmut Ziegler received according to bank_statement_1.csv?",
+    "answer": "3500 EUR"
+  },
+  {
+    "question": "According to report_1.xml, what is the potential connection suggested between Altcoin Global Ltd. and Nigeria?",
+    "answer": "Links to Nigeria"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the design of the QuantumNexus website?",
+    "answer": "A modern, professional design with a large graph of rising values and testimonials from 'satisfied' users."
+  },
+  {
+    "question": "Based on bank_statement_2.csv, who was the beneficiary of the outgoing transfer of 6000 EUR?",
+    "answer": "Bayo Adebayo"
+  },
+  {
+    "question": "What action is recommended by the German Financial Intelligence Unit in report_1.xml?",
+    "answer": "Further investigation of recipient company and associated individuals."
+  }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>AUS2024-0078</ReportID>
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Account>0621234567890123</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB16NWBK20300058749000</DestinationAccount>
+    <DestinationName>AlphaTrade AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>2500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB16NWBK20300058749000</DestinationAccount>
+    <DestinationName>AlphaTrade AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Suspicious transaction pattern involving cryptocurrency investment with potential Ponzi scheme characteristics. Destination account registered in the UK, but potential links to Nigeria.</Findings>
+</SAR>

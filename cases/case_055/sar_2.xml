@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>PA2023-056</ReportID>
+  <ReportingInstitution>Panama Global Bank</ReportingInstitution>
+  <Subject>
+    <Name>Apex Investments LLC</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-02-28</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>DE12110000000000000000</OriginAccount>
+    <OriginName>Hans Kruger</OriginName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-01-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>DE12110000000000000000</OriginAccount>
+    <OriginName>Hans Kruger</OriginName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Findings>Multiple incoming transfers from Germany.  Recipient company registered shortly before initial deposit.  Funds likely being laundered.</Findings>
+</SAR>

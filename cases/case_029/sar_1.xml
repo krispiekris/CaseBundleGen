@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2023-0045</ReportID>
+  <ReportingInstitution>Deutsche Zentralbank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE87370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-05</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LC061234567890123456</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Findings>Initial investment made by victim into an AI trading platform.  Further investigation recommended due to unusual activity patterns.</Findings>
+</SAR>

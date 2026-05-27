@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the reporting institution for the initial report?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What is the purpose of the EUR 1000 transaction on 2023-09-22, as indicated in sar_1.xml?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "Based on email_3.txt, what is the stated reason for requiring a processing fee for withdrawals?",
+    "answer": "To verify the authenticity of the request and ensure the security of funds"
+  },
+  {
+    "question": "What is the SWIFT code provided in email_3.txt for the 'Secure Processing Services' account?",
+    "answer": "SEIBSEYS"
+  },
+  {
+    "question": "Referring to the screenshot_1.txt, what phrase appears in the logo of the QuantumInvest AI website?",
+    "answer": "Your Path to Financial Freedom"
+  },
+  {
+    "question": "What is the account number mentioned in email_3.txt for Secure Processing Services?",
+    "answer": "0012345678"
+  },
+  {
+    "question": "According to sar_3.xml, what is the account number of Victim 2?",
+    "answer": "CH6208700855200100"
+  },
+  {
+    "question": "What is the initial investment amount made by Victim 2, as detailed in sar_3.xml?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what is the salary amount received by Victim 1?",
+    "answer": "3500 EUR"
+  },
+  {
+    "question": "According to sar_2.xml, what is the purpose of the -500 EUR transaction?",
+    "answer": "Withdrawal Attempt Fee"
+  }
+]

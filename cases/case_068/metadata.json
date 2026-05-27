@@ -1,0 +1,56 @@
+{
+  "case_id": "CC2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Seychelles",
+    "United Arab Emirates",
+    "Saint Vincent and the Grenadines"
+  ],
+  "timeline": [
+    {
+      "date": "2023-09-15",
+      "event": "Victim contacts QuantumInvest AI via online advertisement"
+    },
+    {
+      "date": "2023-09-22",
+      "event": "Initial investment of \u20ac1,000 made"
+    },
+    {
+      "date": "2023-10-15",
+      "event": "Victim receives fabricated profit statements"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim attempts to withdraw funds; request denied"
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim reports the incident to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
+    },
+    {
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac1,000 - \u20ac5,000"
+    }
+  ]
+}

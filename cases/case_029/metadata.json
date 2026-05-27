@@ -1,0 +1,52 @@
+{
+  "case_id": "CR2023-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Seychelles",
+    "Belize",
+    "Saint Vincent and the Grenadines"
+  ],
+  "timeline": [
+    {
+      "date": "2022-11-15",
+      "event": "Victim discovers 'NovaTrade AI' website"
+    },
+    {
+      "date": "2023-01-05",
+      "event": "Initial investment made by victim"
+    },
+    {
+      "date": "2023-03-10",
+      "event": "Victim attempts withdrawal, faces issues"
+    },
+    {
+      "date": "2023-03-18",
+      "event": "Victim reports fraudulent activity"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.2 - 0.6"
+    }
+  ]
+}

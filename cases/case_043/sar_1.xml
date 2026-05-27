@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-042</ReportID>
+  <ReportingInstitution>Sparkasse München</ReportingInstitution>
+  <Subject>
+    <Name>Karl Schmidt</Name>
+    <Account>DE87744005080000242111</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>QuantumLeap AI Investments</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Findings>Initial deposit to a platform promising high returns on AI trading. Account activity appears consistent with typical investment behavior initially, but subsequent attempts at withdrawal have been unsuccessful. Further investigation warranted due to the unregulated nature of the destination entity.</Findings>
+</SAR>

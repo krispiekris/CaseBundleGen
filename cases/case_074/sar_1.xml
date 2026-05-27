@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-0057</ReportID>
+  <ReportingInstitution>Sparkasse Duisburg</ReportingInstitution>
+  <Subject>
+    <Name>Hans Schmidt</Name>
+    <Account>DE8730400080001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>US1234567890</DestinationAccount>
+    <DestinationName>CryptoGenius AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>250</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>US1234567890</DestinationAccount>
+    <DestinationName>CryptoGenius AI</DestinationName>
+    <Purpose>Profit Payout</Purpose>
+  </Transaction>
+  <Findings>Unusual activity detected. Large sums transferred to overseas entity with vague purpose. Potential investment fraud.</Findings>
+</SAR>

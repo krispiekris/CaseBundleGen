@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-027-001</ReportID>
-  <ReportingInstitution>ABN AMRO</ReportingInstitution>
+  <ReportID>INV2024-123</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
+    <Name>Heinrich Schmidt</Name>
+    <Account>DE89370400440532013500</Account>
   </Subject>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>5000</Amount>
+    <Date>2024-01-20</Date>
+    <Amount>2000</Amount>
     <Currency>EUR</Currency>
     <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <DestinationName>FinTech Solutions Ltd</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Unusual large transfer to an offshore company with vague investment purpose.</SuspiciousActivity>
-    <RiskAssessment>High</RiskAssessment>
-  </Findings>
+  <Findings>Initial investment made by customer to what appears to be an AI trading platform. Account activity is unusual given customer's profile.</Findings>
 </SAR>

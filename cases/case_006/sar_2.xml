@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AT2024-0123</ReportID>
-  <ReportingInstitution>Raiffeisenbank International</ReportingInstitution>
+  <ReportID>UK2024-03-20-001</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
   <Subject>
-    <Name>Anna Weber</Name>
-    <Account>AT453111505310000000</Account>
+    <Name>Altcoin Global Ltd</Name>
   </Subject>
   <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>1000</Amount>
+    <Date>2023-09-22</Date>
+    <Amount>2000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ010000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
   </Transaction>
-  <Findings>Similar transaction pattern as reported case INV2024-017</Findings>
+  <Transaction>
+    <Date>2023-10-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Findings>Large influx of funds from Germany.  Multiple transactions to the same account.  Company registration details questionable.</Findings>
 </SAR>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CITIB2024-0123</ReportID>
+  <ReportingInstitution>Citibank</ReportingInstitution>
+  <Subject>
+    <Name>Robert Davies</Name>
+    <Account>US1234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>20000</Amount>
+    <Currency>USD</Currency>
+    <DestinationAccount>CY94000000000000000000123</DestinationAccount>
+    <DestinationName>QuantumRise AI Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Similar activity to case ANZ2024-0057, potentially linked.</Findings>
+  <ReportDate>2024-03-15</ReportDate>
+</SAR>

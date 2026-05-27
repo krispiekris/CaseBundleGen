@@ -1,0 +1,14 @@
+From: support@quantumleap.fake
+To: victim1@email.com
+Subject: Regarding Your Account and Recent Activity
+
+Dear [Victim Name],
+
+We've noticed an unusual activity on your account. To ensure the security of your funds, please confirm your deposit details.
+
+To verify, please provide your bank statement and a copy of your ID.
+
+Thank you for your cooperation.
+
+Sincerely,
+QuantumLeap AI Support

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_3.xml, what was the purpose of the transaction involving 500 EUR?",
+    "answer": "Verification Fee"
+  },
+  {
+    "question": "What is the DestinationAccount associated with the initial investment in NovaAI Technologies Ltd, as recorded in SAR_1.xml?",
+    "answer": "BZ1234567890"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the NovaAI login page?",
+    "answer": "The NovaAI login page features a sleek, modern design with a stylized 'A' logo composed of interconnected nodes, prominent username and password fields, and a background gradient of blue and green."
+  },
+  {
+    "question": "Based on email_3.txt, what was the reason given for requiring a verification fee from the victim?",
+    "answer": "Due to recent security updates."
+  },
+  {
+    "question": "What cryptocurrency did the victim purchase, as indicated in bank_statement_1.csv?",
+    "answer": "BTC and ETH"
+  },
+  {
+    "question": "What is the reporting institution mentioned in SAR_2.xml?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What amount of EUR did the victim attempt to withdraw, as indicated in SAR_2.xml?",
+    "answer": "2000"
+  },
+  {
+    "question": "Which file explicitly states that NovaAI leverages artificial intelligence to generate profits?",
+    "answer": "email_1.txt"
+  },
+  {
+    "question": "According to brochure_2.txt, what is the claim made regarding NovaAI's algorithms?",
+    "answer": "Our AI algorithms are working 24/7 to maximize your returns."
+  },
+  {
+    "question": "What is the email address used for sending verification related email in the case?",
+    "answer": "verify@novaai.tech"
+  }
+]

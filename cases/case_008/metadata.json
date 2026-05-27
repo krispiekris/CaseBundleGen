@@ -1,55 +1,54 @@
 {
-  "case_id": "INV2024-042",
+  "case_id": "CY2024-077",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Austria",
+    "income_range": "60000-90000 USD",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "German"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Serbia",
-    "Cyprus"
+    "Belize",
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Initial contact from 'Automated Investments'"
-    },
-    {
-      "date": "2023-10-01",
-      "event": "Victim deposits initial \u20ac5,000"
-    },
-    {
       "date": "2023-11-15",
-      "event": "Victim encouraged to deposit more, citing exceptional profits"
+      "event": "Victim contacted via email about AI trading opportunity"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial deposit made by victim"
     },
     {
       "date": "2024-01-10",
-      "event": "Withdrawal request denied, citing 'security protocol'"
+      "event": "Victim experiences first 'profit' withdrawal"
     },
     {
-      "date": "2024-03-20",
+      "date": "2024-02-28",
+      "event": "Victim attempts larger deposit, flagged by bank"
+    },
+    {
+      "date": "2024-03-15",
       "event": "Victim reports fraudulent activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Bank Account",
+      "amount_range": "50000-100000 USD"
     },
     {
-      "type": "EUR Bank Account",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.5-2 BTC"
     }
   ]
 }

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-123</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE452000000000000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-22</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ12345678901234567890</DestinationAccount>
+    <DestinationName>QuantumLeap AI Management Ltd</DestinationName>
+    <Purpose>Withdrawal Attempt - Suspicious</Purpose>
+  </Transaction>
+  <Findings>Multiple large transfers to offshore accounts; victim reported difficulty withdrawing funds; potential investment fraud.</Findings>
+</SAR>

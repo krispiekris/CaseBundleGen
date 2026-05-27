@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-0256</ReportID>
+  <ReportingInstitution>NatWest Bank</ReportingInstitution>
+  <Subject>
+    <Name>GlobalTech Solutions Ltd</Name>
+    <Account>GB82HSBC40400000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>7500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BMU2555555555</DestinationAccount>
+    <DestinationName>Island Holdings Ltd</DestinationName>
+    <Purpose>Consultancy Fees</Purpose>
+  </Transaction>
+  <Findings>Funds being transferred to a shell corporation in the Marshall Islands. Account activity inconsistent with stated business purpose.</Findings>
+</SAR>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2023-9876</ReportID>
+  <ReportingInstitution>Atlantic Bank Belize</ReportingInstitution>
+  <Subject>
+    <Name>AlphaTrade Solutions Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>KY1234567890</DestinationAccount>
+    <DestinationName>Global Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>KY1234567890</DestinationAccount>
+    <DestinationName>Global Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving large sums from various sources. Destination account linked to offshore investment scheme.</Findings>
+</SAR>

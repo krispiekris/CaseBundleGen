@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-456</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE89370400440532013500</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-02</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+    <Finding>Large transaction attempted withdrawal blocked due to lack of funds and suspicious activity. Possible investment fraud.</Finding>
+  </Transaction>
+</SAR>

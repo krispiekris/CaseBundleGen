@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-025</ReportID>
+  <ReportingInstitution>Bank ABC</ReportingInstitution>
+  <DateReported>2024-03-29</DateReported>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Findings>Ongoing monitoring of account activity due to previous suspicious transactions.  Victim contacted bank expressing concerns about investment.</Findings>
+  <Reporter>Sarah Chen, Financial Crime Analyst</Reporter>
+</SAR>

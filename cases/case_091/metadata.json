@@ -1,0 +1,59 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000",
+    "country": "Australia",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Hausa",
+      "Pidgin English"
+    ]
+  },
+  "destination_countries": [
+    "Cyprus",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers QuantumLeap AI Trader online"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial deposit made by victim"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim experiences initial 'profits'"
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim requests withdrawal of funds"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim\u2019s withdrawal request is denied, citing 'verification issues'"
+    },
+    {
+      "date": "2024-04-05",
+      "event": "Victim reports the incident"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "10000-25000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1-0.5"
+    }
+  ]
+}

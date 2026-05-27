@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-123</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>John Smith</Name>
+    <Account>0000000000000000001234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>AlgoTradePro Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>8000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>AlgoTradePro Ltd</DestinationName>
+    <Purpose>Additional Investment</Purpose>
+  </Transaction>
+  <Findings>Multiple transactions to a company registered in Lithuania with a high-risk investment strategy.</Findings>
+</SAR>

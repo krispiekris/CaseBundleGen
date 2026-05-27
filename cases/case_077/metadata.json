@@ -1,0 +1,56 @@
+{
+  "case_id": "2024-CYB-007",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "United Arab Emirates",
+    "Marshall Islands"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim contacts 'investment advisor' via online advertisement"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial deposit made into AI trading platform"
+    },
+    {
+      "date": "2024-01-15",
+      "event": "First 'profit' withdrawal"
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Victim requests full withdrawal; request denied"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim reports incident to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "25000-50000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.5-1.0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-038</ReportID>
+  <ReportingInstitution>Banque Cantonale Valaisanne</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Significant inflow of funds from Germany.  Purpose unclear.  Company appears to be operating with limited verifiable information.</Findings>
+  <ReportDate>2023-12-10</ReportDate>
+</SAR>

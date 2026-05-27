@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-037</ReportID>
+  <ReportingInstitution>Lithuanian Bank ABC</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-22</Date>
+    <Amount>12500</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Findings>Suspicious high volume transactions; funds origin needs further investigation.</Findings>
+  <ReportDate>2024-02-17</ReportDate>
+</SAR>

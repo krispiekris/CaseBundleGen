@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of the victim?",
+    "answer": "DE452000000000000000001"
+  },
+  {
+    "question": "What is the purpose of the transaction involving \u20ac15,000 in sar_1.xml?",
+    "answer": "Withdrawal Attempt - Suspicious"
+  },
+  {
+    "question": "Which bank issued the report in sar_2.xml?",
+    "answer": "Commerzbank"
+  },
+  {
+    "question": "Based on sar_2.xml, what was the purpose of the \u20ac2,500 transaction to Victim 1?",
+    "answer": "Profit Distribution"
+  },
+  {
+    "question": "What is the Swift Code mentioned in the email requesting a withdrawal processing fee (email_3.txt)?",
+    "answer": "FGBSBZBK"
+  },
+  {
+    "question": "According to brochure_1.txt, what is the average monthly ROI promised by QuantumLeap AI?",
+    "answer": "15%"
+  },
+  {
+    "question": "What type of document is requested during the KYC verification process (email_2.txt)?",
+    "answer": "Copy of passport or government-issued ID"
+  },
+  {
+    "question": "Based on sar_3.xml, what amount was transferred by Victim 1 to QuantumLeap AI on 2024-01-03?",
+    "answer": "500"
+  },
+  {
+    "question": "What is the destination account in sar_1.xml?",
+    "answer": "BZ12345678901234567890"
+  },
+  {
+    "question": "What security feature is highlighted in the screenshot_1.txt description?",
+    "answer": "Encrypted connection"
+  }
+]

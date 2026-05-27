@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-456</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Unknown</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Unknown</Purpose>
+  </Transaction>
+  <Findings>Receiving multiple transfers from a German resident with unusual investment patterns. Company registered at a residential address.</Findings>
+</SAR>

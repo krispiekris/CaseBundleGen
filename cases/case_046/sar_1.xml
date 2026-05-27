@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DB2023-0045</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <DateFiled>2023-06-01</DateFiled>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-05</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumLeap Holdings Ltd</DestinationName>
+    <Purpose>Investment in AI Trading Platform</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-03-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumLeap Holdings Ltd</DestinationName>
+    <Purpose>Additional Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-05-08</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB56NWBK54014938035684</DestinationAccount>
+    <DestinationName>Wealth Management Solutions UK</DestinationName>
+    <Purpose>Transfer to Withdrawal Account</Purpose>
+  </Transaction>
+  <Findings>
+    <Finding>Unusual investment activity involving AI trading platform. Multiple transfers to Belize-based company.</Finding>
+    <Finding>Victim expressed concerns about inability to withdraw funds.</Finding>
+  </Findings>
+</SAR>

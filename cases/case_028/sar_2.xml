@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2024-045</ReportID>
+  <ReportingInstitution>Belize International Bank</ReportingInstitution>
+  <Subject>
+    <Name>Marcus Cole</Name>
+    <Account>0001234567</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ0001234567</DestinationAccount>
+    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ0001234567</DestinationAccount>
+    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Large deposit from overseas. Further investigation recommended.</Findings>
+</SAR>

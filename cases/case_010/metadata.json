@@ -1,55 +1,58 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "CF2024-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
+    "income_range": "\u20ac60,000-\u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Greek",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Lithuania",
-    "Belize"
+    "Belize",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact via email"
+      "date": "2023-11-15",
+      "event": "Victim discovers 'NovaTrade AI' promotional material online."
     },
     {
-      "date": "2023-09-01",
-      "event": "Victim deposits initial funds"
+      "date": "2023-12-01",
+      "event": "Victim makes initial investment of \u20ac2,000."
     },
     {
-      "date": "2023-11-10",
-      "event": "First 'withdrawal' processed (small amount)"
+      "date": "2024-01-15",
+      "event": "Victim receives fabricated 'profit' payouts."
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim attempts large withdrawal \u2013 rejected"
+      "date": "2024-03-01",
+      "event": "Victim attempts to withdraw funds and is denied."
     },
     {
-      "date": "2024-02-05",
-      "event": "Victim reports to authorities"
+      "date": "2024-03-15",
+      "event": "Victim reports the incident to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "10000-25000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1-0.5"
+      "type": "Bank Account Balance",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
+    },
+    {
+      "type": "Investment Account",
+      "amount_range": "\u20ac2,000 - \u20ac5,000"
     }
   ]
 }

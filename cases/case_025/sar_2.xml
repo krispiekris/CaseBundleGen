@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-009</ReportID>
+  <ReportingInstitution>Dubai Islamic Bank</ReportingInstitution>
+  <Subject>
+    <Name>Bright Future Investments</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>5000</Amount>
+    <Currency>GBP</Currency>
+    <DestinationAccount>NG350441362496785</DestinationAccount>
+    <DestinationName>John Smith</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    Funds received from UK; potential link to investment fraud activity.</Findings>
+  </SAR>

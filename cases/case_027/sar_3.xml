@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BMU20240215-901</ReportID>
+  <ReportingInstitution>Bank of Marshall Islands</ReportingInstitution>
+  <Subject>
+    <Name>Marshall Islands Investment Corp</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-01</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87370400440532013548</DestinationAccount>
+    <DestinationName>Hans Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving large transfers from Europe, potential involvement in investment fraud.</Findings>
+</SAR>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>VC2024-00876</ReportID>
+  <ReportingInstitution>Bank of St. Vincent and the Grenadines</ReportingInstitution>
+  <Subject>
+    <Name>NovaTrade Solutions Ltd</Name>
+    <Account>VC0000000000000000100</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-22</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87370400440532013838</DestinationAccount>
+    <DestinationName>Helmut Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds originating from Germany routed through shell company in St. Vincent and the Grenadines. Potential money laundering related to investment fraud.</Findings>
+</SAR>

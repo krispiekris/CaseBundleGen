@@ -1,0 +1,56 @@
+{
+  "case_id": "CR2023-047",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Russia",
+    "languages_spoken": [
+      "Russian",
+      "English",
+      "German"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "Saint Vincent and the Grenadines",
+    "Marshall Islands"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim contacts 'QuantumLeap AI' via online advertisement"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Initial deposit made by victim"
+    },
+    {
+      "date": "2023-10-15",
+      "event": "Victim receives fabricated profit distribution"
+    },
+    {
+      "date": "2023-11-20",
+      "event": "Victim attempts to withdraw funds, request denied"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Victim reports the incident to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.5"
+    }
+  ]
+}

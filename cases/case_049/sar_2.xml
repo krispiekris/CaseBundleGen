@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK-SAR-2024-035</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>12000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BMU1234567890</DestinationAccount>
+    <DestinationName>Marshall Islands Holding Corp</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds originating from Germany transferred to an entity in the Marshall Islands with no apparent business activity.</Findings>
+  <ReportDate>2024-01-15</ReportDate>
+</SAR>

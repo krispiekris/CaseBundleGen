@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>ALL2024-005</ReportID>
+  <ReportingInstitution>Bank Allianz</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-18</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY7301230000000012345678</DestinationAccount>
+    <DestinationName>QuantumLeap AI Management Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <Finding>Unusual large transaction to an offshore company with no clear purpose.</Finding>
+    <Finding>Victim has limited investment experience.</Finding>
+  </Findings>
+</SAR>

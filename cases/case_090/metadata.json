@@ -1,0 +1,55 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Scam",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000",
+    "country": "Australia",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Cyprus",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim contacts 'QuantumRise AI'"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Initial deposit made by victim"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "First 'profit' withdrawal"
+    },
+    {
+      "date": "2024-03-20",
+      "event": "Victim requests full withdrawal; denied"
+    },
+    {
+      "date": "2024-04-01",
+      "event": "Victim reports to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "15000-25000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.5-1.0"
+    }
+  ]
+}

@@ -1,4 +1,7 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-08-15,Transfer to QuantumAlgo,5000,EUR,QuantumAlgo Ltd
-2023-11-15,Withdrawal,300,EUR,
-2024-01-10,Transfer to QuantumAlgo,15000,EUR,QuantumAlgo Ltd
+2023-10-25,Incoming Transfer,7500,EUR,
+2023-11-01,Wire Transfer,-5000,EUR,Altcoin Global Ltd
+2024-01-05,Wire Transfer,-10000,EUR,Altcoin Global Ltd
+2024-02-15,Incoming Transfer,1500,EUR,
+2024-02-22,ATM,-100,EUR,
+2024-03-01,Incoming Transfer,2000,EUR,

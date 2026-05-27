@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-156</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>AlgoTradePro Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>HU4712345678901234</DestinationAccount>
+    <DestinationName>Global Investment Solutions</DestinationName>
+    <Purpose>Transfer to associated entity</Purpose>
+  </Transaction>
+  <Findings>Funds originating from victim’s account traced to a company registered in Hungary. Potentially linked to money laundering activities.</Findings>
+</SAR>

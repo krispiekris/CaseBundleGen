@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-072</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NL76ABNA0223456789</DestinationAccount>
+    <DestinationName>Global Apex Ventures</DestinationName>
+    <Purpose>Investment Deposit</Purpose>
+  </Transaction>
+  <Findings>Receiving account for initial investment linked to QuantumLeap AI Investments. Account shows several similar incoming transactions from various sources.</Findings>
+</SAR>

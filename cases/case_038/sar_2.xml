@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-12-15</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY93001000000000000000000</DestinationAccount>
+    <DestinationName>QuantumLeap AI Ltd</DestinationName>
+    <Purpose>Withdrawal</Purpose>
+  </Transaction>
+  <Findings>Follow-up investigation reveals the recipient company is registered at a residential address.  Further funds transferred to unknown destinations.</Findings>
+  <ReportDate>2023-12-15</ReportDate>
+</SAR>

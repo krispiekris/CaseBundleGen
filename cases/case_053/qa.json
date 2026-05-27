@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what was the initial purpose stated for the transaction of EUR 12,500?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the name of the bank reporting the suspicious activity in SAR_2.xml?",
+    "answer": "United Savings Bank"
+  },
+  {
+    "question": "Based on the bank statement_1.csv, what was the victim's salary amount and currency?",
+    "answer": "6500 USD"
+  },
+  {
+    "question": "What is the purpose of the email from QuantumFXAI@mail.fake sent to Victim1@email.com on an unspecified date?",
+    "answer": "To encourage Victim 1 to deposit additional funds and offering a 10% bonus."
+  },
+  {
+    "question": "What is the total balance displayed on the dashboard according to screenshot_1.txt?",
+    "answer": "$25,000"
+  },
+  {
+    "question": "According to SAR_3.xml, which bank reported Altcoin Global Ltd's transactions?",
+    "answer": "Lithuanian Bank ABC"
+  },
+  {
+    "question": "What type of verification does QuantumFX Support request from the Victim in email_3.txt?",
+    "answer": "Account number and address"
+  },
+  {
+    "question": "What is the daily profit shown on the screenshot?",
+    "answer": "+$2000"
+  },
+  {
+    "question": "What is the main difference in the transaction amounts for Victim 1, recorded in SAR_1 and SAR_2?",
+    "answer": "SAR_1 describes a transaction of 12500 EUR, while SAR_2 records a transaction of 8000 USD."
+  },
+  {
+    "question": "According to the brochure_1.txt, what experience is required to use QuantumFX AI Trader?",
+    "answer": "No prior crypto experience needed."
+  }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ20240415-001</ReportID>
+  <ReportingInstitution>Belize International Bank</ReportingInstitution>
+  <Subject>
+    <Name>GlobalTech Solutions Ltd.</Name>
+    <Account>BZ1234567890098765432</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>PA12345678901234567890</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>150</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>PA12345678901234567890</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Profit Payout</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>4500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>PA12345678901234567890</DestinationAccount>
+    <DestinationName>NovaTrade AI</DestinationName>
+    <Purpose>Withdrawal Request</Purpose>
+  </Transaction>
+  <Findings>Suspicious activity: Shell company receiving and transferring funds. Possible involvement in money laundering scheme related to investment fraud.</Findings>
+</SAR>

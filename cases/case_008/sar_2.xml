@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>CY2024-045</ReportID>
-  <ReportingInstitution>Cyprus Global Bank</ReportingInstitution>
+  <ReportID>IBT2024-456</ReportID>
+  <ReportingInstitution>International Trust Bank</ReportingInstitution>
+  <DateFiled>2024-03-22</DateFiled>
   <Subject>
-    <Name>Automated Investments SRL</Name>
-    <Account>CY0100000100012345678</Account>
+    <Name>Altcoin Global Ltd</Name>
   </Subject>
   <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>5000</Amount>
+    <Date>2023-12-01</Date>
+    <Amount>50000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AT112011103511000000</DestinationAccount>
-    <DestinationName>Helmut Gruber</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
   </Transaction>
   <Transaction>
-    <Date>2023-11-10</Date>
-    <Amount>3000</Amount>
+    <Date>2024-01-10</Date>
+    <Amount>2000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AT112011103511000000</DestinationAccount>
-    <DestinationName>Helmut Gruber</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
   </Transaction>
-  <Findings>Unusual activity involving frequent transfers to and from overseas accounts with no apparent business relationship.</Findings>
+  <Findings>High volume of incoming funds from multiple sources.  Possible money laundering activity.</Findings>
 </SAR>

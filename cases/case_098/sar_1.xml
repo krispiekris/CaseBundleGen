@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DB2023-1234</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <DateReported>2024-04-06</DateReported>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumEdge AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumEdge AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-05</Date>
+    <Amount>300</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumEdge AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Multiple transactions to offshore entity with high-pressure sales tactics observed. Potential investment fraud.</Findings>
+</SAR>

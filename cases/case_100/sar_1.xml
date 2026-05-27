@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-123</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY820020000100000000</DestinationAccount>
+    <DestinationName>QuantumNova Investments Ltd</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-22</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY820020000100000000</DestinationAccount>
+    <DestinationName>QuantumNova Investments Ltd</DestinationName>
+    <Purpose>Additional Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual large deposits followed by transfers to Cyprus.  Potential investment fraud.</Findings>
+</SAR>

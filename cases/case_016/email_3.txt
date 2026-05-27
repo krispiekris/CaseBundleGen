@@ -1,0 +1,15 @@
+From: QuantumLeap AI <security@quantumleap.ai>
+To: Victim 1 <victim1@email.com>
+Subject: Urgent: Security Alert - Account Recovery Required
+
+Dear [Victim Name],
+
+We have detected unusual activity on your QuantumLeap AI account. To protect your funds, we require you to verify your identity by providing your account recovery credentials (username, password, and security questions).
+
+Failure to do so may result in temporary account suspension.
+
+Click here to verify:
+[Link to Fake Verification Page]
+
+Sincerely,
+The QuantumLeap AI Security Team

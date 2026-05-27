@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of the victim, Hans Schmidt?",
+    "answer": "DE87370400440532013000"
+  },
+  {
+    "question": "What is the purpose stated for the transactions involving Hans Schmidt's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on sar_2.xml, what is a suspicious finding related to Global Investment Solutions Ltd?",
+    "answer": "Company registration details appear suspicious."
+  },
+  {
+    "question": "What is the amount of the first transaction from Hans Schmidt's account to Global Investment Solutions Ltd, according to bank_statement_1.csv?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the Algorithmic Edge login page?",
+    "answer": "It features a professional design with a company logo and fields for username and password, along with a 'Login' button and a blurred cityscape background."
+  },
+  {
+    "question": "According to email_2.txt, what does Algorithmic Edge suggest to users to achieve greater financial success?",
+    "answer": "Increasing their investment"
+  },
+  {
+    "question": "What reason, as stated in email_3.txt, is given for the delay in processing withdrawal requests?",
+    "answer": "Increased market volatility"
+  },
+  {
+    "question": "According to sar_3.xml, what is a concerning characteristic of Global Investment Solutions Ltd regarding its registration?",
+    "answer": "Opaque ownership"
+  },
+  {
+    "question": "Based on the provided files, what is the URL for Algorithmic Edge?",
+    "answer": "www.algorithmicedge.fake"
+  },
+  {
+    "question": "What does the email_4.txt regarding password reset mention?",
+    "answer": "It mentions a password reset request and provides a reset link."
+  }
+]

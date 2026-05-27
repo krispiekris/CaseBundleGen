@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by Commerzbank?",
-    "answer": "DEU2023-123"
+    "question": "What is the primary reason for the SAR filing regarding Victim 1?",
+    "answer": "Suspected investment fraud involving an AI trading platform, where the victim was promised high returns but is unable to withdraw funds."
   },
   {
-    "question": "According to the bank statement, what was the initial transfer amount into Victim 1's account?",
-    "answer": "12000 EUR"
+    "question": "According to the SAR filed by Wise, why was the transaction flagged?",
+    "answer": "The destination account was associated with potentially fraudulent investment schemes."
   },
   {
-    "question": "Which company name appears in the SAR filed by \u0160iauli\u0173 bankas (LTU2024-007)?",
-    "answer": "Altalytics GmbH"
+    "question": "What currency were the transactions to Altcoin Global Ltd conducted in?",
+    "answer": "EUR"
   },
   {
-    "question": "What did the email from support@athenaaitrader.com claim about the AI algorithms used by AthenaAI Trader?",
-    "answer": "They analyze complex data patterns to generate consistent profits \u2013 even in volatile market conditions."
+    "question": "What does the screenshot of the QuantumLeap AI platform display?",
+    "answer": "A graph with exaggerated upward spikes labeled 'Daily Profits,' a balance of \u20ac18,500, a 'Withdraw Funds' button, and a message stating 'Your investment is growing rapidly!'"
   },
   {
-    "question": "What was the purpose of the transaction on 2024-01-10 according to the SAR filed by Erste Bank?",
-    "answer": "Withdrawal Attempt"
+    "question": "What promotional tactic did QuantumLeap AI use to encourage increased investment?",
+    "answer": "They offered a 15% bonus on investments made during a limited-time opportunity."
   },
   {
-    "question": "What is the destination account mentioned in sar_1.xml?",
-    "answer": "LT12100001110123451"
+    "question": "Which bank filed the SAR concerning Victim 2?",
+    "answer": "GlobalTrust Bank"
   },
   {
-    "question": "What action did Erste Bank take regarding the withdrawal attempt on 2024-01-10?",
-    "answer": "Withdrawal attempt denied due to insufficient funds."
+    "question": "What is the purpose stated for the transactions to Altcoin Global Ltd in the SARs?",
+    "answer": "Investment"
   },
   {
-    "question": "According to the brochure, what is one of the guarantees provided by AthenaAI Trader?",
-    "answer": "Enjoy market-beating returns, guaranteed."
+    "question": "What potential red flag prompted Wise to flag the transactions related to Victim 1?",
+    "answer": "The destination being associated with potentially fraudulent investment schemes."
   },
   {
-    "question": "What subject line did the email claiming to be from a recovery specialist use?",
-    "answer": "Urgent: Potential Funds Recovery \u2013 AthenaAI Trader"
+    "question": "According to the brochure, what is one of the key features of QuantumLeap AI?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "What does the website screenshot suggest about the AthenaAI Trader website?",
-    "answer": "The website features prominently displayed graphics showcasing rapidly increasing graphs and charts."
+    "question": "What action did QuantumLeap AI request from Victim 1 in the email labeled 'Urgent: Account Verification Required'?",
+    "answer": "They requested a deposit of \u20ac2,000 to prevent account suspension."
   }
 ]

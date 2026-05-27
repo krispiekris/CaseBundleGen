@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-017-003</ReportID>
-  <ReportingInstitution>Europol</ReportingInstitution>
+  <ReportID>SVG2024-003</ReportID>
+  <ReportingInstitution>Bank of St. Vincent and the Grenadines</ReportingInstitution>
   <Subject>
-    <Name>Golden Horizon Ltd</Name>
-    <Account>RS12345678901234567890</Account>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>VC00000000000000000000</Account>
   </Subject>
-  <Findings>Linked to a network of fraudulent investment schemes operating in Serbia and Cyprus. Used to funnel funds internationally.  Investigative priority.</Findings>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>David Miller</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
+  </Transaction>
+  <Findings>
+    <Finding>Unusual outflow of funds to an account located in Australia.  Further investigation recommended.</Finding>
+  </Findings>
 </SAR>

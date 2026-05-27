@@ -1,10 +1,10 @@
-From: withdrawal_agent@novatrade.fake
-To: victim1@email.com
-Subject: NovaTrade AI Withdrawal Processing
+Subject: Important Notice Regarding Withdrawal Request
 
-Dear Victim 1,
+Dear Hans Schmidt,
 
-Your large withdrawal request has been approved. To finalize the process, please confirm your bank details and a small processing fee of 50 EUR.
+We received your withdrawal request. Due to unexpected technical issues with our processing system, there is currently a delay in processing all withdrawal requests. We are working diligently to resolve this issue as quickly as possible.
 
-Regards,
-Withdrawal Agent
+We appreciate your patience and understanding.
+
+Sincerely,
+The NovaTrade AI Support Team

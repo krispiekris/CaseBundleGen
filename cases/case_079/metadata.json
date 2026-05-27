@@ -1,0 +1,60 @@
+{
+  "case_id": "CR2023-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Kingdom",
+    "Seychelles"
+  ],
+  "timeline": [
+    {
+      "date": "2022-11-15",
+      "event": "Victim contacts 'QuantumLeap AI' via online advertisement."
+    },
+    {
+      "date": "2022-12-01",
+      "event": "Initial investment of \u20ac2,000 made by victim."
+    },
+    {
+      "date": "2023-01-15",
+      "event": "Victim receives small, seemingly profitable returns."
+    },
+    {
+      "date": "2023-02-28",
+      "event": "Victim attempts to withdraw funds; faces obstacles."
+    },
+    {
+      "date": "2023-03-10",
+      "event": "Victim reports fraud to authorities."
+    },
+    {
+      "date": "2023-04-05",
+      "event": "SAR filed by German bank."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac1,000 - \u20ac5,000"
+    },
+    {
+      "type": "EUR Bank Transfers",
+      "amount_range": "\u20ac2,000 - \u20ac15,000"
+    }
+  ]
+}

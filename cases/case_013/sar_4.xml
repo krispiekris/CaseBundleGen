@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>AU2024-125</ReportID>
+  <ReportingInstitution>Bank Alpha</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-10</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
+    <DestinationName>QuantumLeap AI Ltd</DestinationName>
+    <Purpose>Withdrawal Attempt</Purpose>
+  </Transaction>
+  <Findings>Customer attempted withdrawal that was declined due to insufficient funds and suspicious activity. </Findings>
+</SAR>

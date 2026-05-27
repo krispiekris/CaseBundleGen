@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>GB2024-0012</ReportID>
+  <ReportingInstitution>HSBC (UK)</ReportingInstitution>
+  <DateFiled>2024-02-15</DateFiled>
+  <Subject>
+    <Name>QuantumLeap AI</Name>
+    <Account>GB28NWBK00000000001234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Deposit</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE87110100012345678901</DestinationAccount>
+    <DestinationName>Heinrich Schmidt</DestinationName>
+    <Purpose>Withdrawal Attempt</Purpose>
+  </Transaction>
+  <Findings>High volume of deposits from various sources, potential money laundering scheme.</Findings>
+</SAR>

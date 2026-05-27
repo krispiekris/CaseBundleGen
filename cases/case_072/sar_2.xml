@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-124</ReportID>
+  <ReportingInstitution>Bank Alpha</ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Account>XXXXXXX1234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>7500</Amount>
+    <Currency>USD</Currency>
+    <DestinationAccount>LT3477770000000000001</DestinationAccount>
+    <DestinationName>InnovaTech Solutions</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Subsequent large transfer to the same offshore company. Victim continues to report "investment" purpose.</SuspiciousActivity>
+    <RedFlags>Recurring transfers to the same offshore company, consistent with potential layering of funds</RedFlags>
+  </Findings>
+</SAR>

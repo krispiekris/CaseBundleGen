@@ -1,0 +1,50 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim interacts with promotional material"
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Initial investment made by victim"
+    },
+    {
+      "date": "2024-03-10",
+      "event": "Victim attempts withdrawal, faces issues"
+    },
+    {
+      "date": "2024-04-22",
+      "event": "Suspicious activity reported by bank"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.5"
+    }
+  ]
+}

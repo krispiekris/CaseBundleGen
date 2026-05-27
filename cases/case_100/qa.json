@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the purpose of the initial investment made by Victim 1 to QuantumNova Investments Ltd?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "According to email_2.txt, what exclusive offer was presented to members of the QuantumNova community?",
+    "answer": "A 25% ROI for a limited time."
+  },
+  {
+    "question": "What action was taken regarding Victim 1's withdrawal request, and why was it denied according to sar_2.xml?",
+    "answer": "The withdrawal request was denied due to account inactivity and suspicious transaction patterns."
+  },
+  {
+    "question": "What is the URL associated with the QuantumNova AI Trading platform login page?",
+    "answer": "www.quantumnova.fake"
+  },
+  {
+    "question": "Which file indicates that Sterling Global Finance rapidly received and transferred funds?",
+    "answer": "sar_3.xml"
+  },
+  {
+    "question": "What is the stated purpose of the transfer of 5000 EUR from Sterling Global Finance to QuantumNova Investments Ltd, as detailed in sar_3.xml?",
+    "answer": "Funds Transfer"
+  },
+  {
+    "question": "What documents were requested from the victim under the guise of account verification?",
+    "answer": "Additional documentation to verify identity."
+  },
+  {
+    "question": "What is the purpose of the transaction on 2023-12-05?",
+    "answer": "Crypto Purchase"
+  },
+  {
+    "question": "Besides EUR, what other cryptocurrency is mentioned in the case files?",
+    "answer": "BTC"
+  },
+  {
+    "question": "What file provides information regarding a withdrawal request being temporarily suspended?",
+    "answer": "email_3.txt"
+  }
+]

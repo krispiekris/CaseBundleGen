@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of the victim?",
+    "answer": "DE9530070000000000000000"
+  },
+  {
+    "question": "What is the reported purpose of the transactions detailed in sar_1.xml and sar_2.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What name is consistently used in the email correspondence with the victim?",
+    "answer": "QuantumAI"
+  },
+  {
+    "question": "What did the screenshot_1.txt reveal about the functionality of the QuantumAI platform?",
+    "answer": "The 'Withdrawal' button was greyed out."
+  },
+  {
+    "question": "Based on sar_3.xml, which entity received the initial 5000 EUR transfer from the victim?",
+    "answer": "Altcoin Global Ltd"
+  },
+  {
+    "question": "What is the account number listed in sar_2.xml for Victim 1?",
+    "answer": "GB22HSBC10000000000000"
+  },
+  {
+    "question": "What does the email_4.txt indicate regarding the victim's ability to withdraw funds?",
+    "answer": "Their withdrawal is temporarily restricted, and they are asked to deposit an additional 10% of their account balance."
+  },
+  {
+    "question": "According to the brochure_2.txt, what kind of bonus is offered to new depositors?",
+    "answer": "A 20% bonus"
+  },
+  {
+    "question": "What does sar_3.xml indicate about Altcoin Global Ltd's potential involvement?",
+    "answer": "Receiving large sums of money from multiple sources, potentially linked to investment fraud."
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what was the victim's salary amount?",
+    "answer": "3500 EUR"
+  }
+]

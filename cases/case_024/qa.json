@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the reporting institution for SAR INV2024-025?",
+    "answer": "Westpac"
+  },
+  {
+    "question": "According to email_2.txt, what action is required from the victim to avoid forfeiture of potential profits?",
+    "answer": "Make a small deposit within the next 24 hours."
+  },
+  {
+    "question": "What is the destination account for the transactions involving Victim 1 and Altcoin Global Ltd?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "What purpose is assigned to the transaction of 5000 EUR on 2024-03-20, as reported in SAR INV2024-025?",
+    "answer": "Withdrawal Request"
+  },
+  {
+    "question": "What is the purpose of the transfer of 12000 EUR documented in SAR INV2024-038?",
+    "answer": "International Transfer"
+  },
+  {
+    "question": "What is the URL provided in the email_1.txt for the QuantumFX AI Trader?",
+    "answer": "www.quantumfx.fake"
+  },
+  {
+    "question": "According to screenshot_1.txt, what label is given to the values displayed on the graph?",
+    "answer": "Daily Profit"
+  },
+  {
+    "question": "Which entity receives funds originating from multiple accounts exhibiting suspicious investment activity, as stated in SAR INV2024-038?",
+    "answer": "Romanian Business Entity"
+  },
+  {
+    "question": "According to email_3.txt, what is the URL provided to confirm the withdrawal?",
+    "answer": "www.quantumfx.fake/confirm"
+  },
+  {
+    "question": "What is the date of the initial investment, as shown in bank_statement_1.csv?",
+    "answer": "2023-11-15"
+  }
+]

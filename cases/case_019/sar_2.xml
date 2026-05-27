@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>LUX2024-456</ReportID>
+  <ReportingInstitution>SpireBank Luxembourg S.A.</ReportingInstitution>
+  <Subject>
+    <Name>QuantumEdge Solutions Ltd</Name>
+    <Account>LU0900000000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-05</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>KY12345678</DestinationAccount>
+    <DestinationName>Seashell Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>KY12345678</DestinationAccount>
+    <DestinationName>Seashell Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds originating from Germany, rapidly transferred to the Cayman Islands.  Beneficiary Seashell Investments Ltd has limited public information.</Findings>
+</SAR>

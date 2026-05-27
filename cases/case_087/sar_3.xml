@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-312</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Petar Jovanovski</Name>
+    <Account>DE1234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>1200</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>MK00000000000001</DestinationAccount>
+    <DestinationName>Skopje Crypto Exchange</DestinationName>
+    <Purpose>Investment Profit</Purpose>
+  </Transaction>
+  <Findings>Receiving funds from suspected investment fraud activities. Potential money laundering.</Findings>
+</SAR>

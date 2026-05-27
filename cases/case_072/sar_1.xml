@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-123</ReportID>
+  <ReportingInstitution>Bank Alpha</ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Account>XXXXXXX1234</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>5000</Amount>
+    <Currency>USD</Currency>
+    <DestinationAccount>LT3477770000000000001</DestinationAccount>
+    <DestinationName>InnovaTech Solutions</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusual large transfer to an offshore company with limited online presence.  Victim stated purpose was 'investment' but no further details were provided.</SuspiciousActivity>
+    <RedFlags>Offshore destination, vague investment purpose</RedFlags>
+  </Findings>
+</SAR>

@@ -1,0 +1,50 @@
+{
+  "case_id": "CY2024-017",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-90000 EUR",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "Marshall Islands"
+  ],
+  "timeline": [
+    {
+      "date": "2023-09-15",
+      "event": "Victim discovers 'NovaTrade AI' promotional website"
+    },
+    {
+      "date": "2023-10-01",
+      "event": "Victim deposits initial funds into NovaTrade AI"
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim requests withdrawal, faces delays and 'fees'"
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim reports fraud to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.5 - 2"
+    },
+    {
+      "type": "EUR Bank Funds",
+      "amount_range": "5000 - 15000"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>US2024-0087</ReportID>
+  <ReportingInstitution>Bank of America</ReportingInstitution>
+  <DateFiled>2024-03-10</DateFiled>
+  <Subject>
+    <Name>Various Individuals</Name>
+    <Account>Multiple Accounts</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-22</Date>
+    <Amount>2500</Amount>
+    <Currency>USD</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Identical patterns of deposits and withdrawals observed across multiple accounts. Suspicion of coordinated investment scam.</Findings>
+</SAR>

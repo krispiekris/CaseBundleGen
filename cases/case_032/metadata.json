@@ -1,0 +1,54 @@
+{
+  "case_id": "2024-CYB-047",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-80000 EUR",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "Saint Vincent and the Grenadines"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim encounters online advertisement"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Initial investment made"
+    },
+    {
+      "date": "2023-11-10",
+      "event": "Victim withdraws a small amount"
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim attempts to withdraw larger amount, fails"
+    },
+    {
+      "date": "2024-02-05",
+      "event": "Victim reports fraud"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "20000-40000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.5-1.0"
+    }
+  ]
+}

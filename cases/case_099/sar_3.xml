@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-125</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+    <Account>BE6543215678901234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-20</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>NovaAI Trading Platform</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from victim's account (DE8710000000001234567890) and routed through a Belgian intermediary account (BE6543215678901234567890) to NovaAI Trading Platform.  Potential money laundering related to investment fraud.</Findings>
+</SAR>

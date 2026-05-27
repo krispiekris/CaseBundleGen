@@ -1,10 +1,10 @@
-From: QuantumAlgo Support <support@quantumalgo.fake>
-To: Victim 1 <victim1@email.at>
-Subject: Regarding Your Withdrawal Request
+Subject: Withdrawal Request - Pending Review
 
-Dear Victim 1,
+Dear Hans Schmidt,
 
-We've received your request to withdraw funds from your account.  Due to increased security measures, we require you to pay a processing fee of 10% of your withdrawal amount to complete the transaction.  This fee is refundable upon successful processing.
+Your recent withdrawal request is currently under review. Due to unexpected system maintenance, processing times are slightly delayed.
 
-Thank you for your understanding.
-The QuantumAlgo Team
+We appreciate your patience and understanding.
+
+Sincerely,
+QuantumEdge AI Support

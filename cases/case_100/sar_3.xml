@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-789</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>Sterling Global Finance</Name>
+    <Account>GB26NWBK000000000012345</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY820020000100000000</DestinationAccount>
+    <DestinationName>QuantumNova Investments Ltd</DestinationName>
+    <Purpose>Funds Transfer</Purpose>
+  </Transaction>
+  <Findings>Large sums of money flowing into and out of the account rapidly. Possible involvement in a fraud scheme.</Findings>
+</SAR>

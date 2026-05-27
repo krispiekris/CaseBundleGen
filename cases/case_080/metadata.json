@@ -1,0 +1,64 @@
+{
+  "case_id": "2024-11-15-AI-TRADING-007",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Kingdom",
+    "Marshall Islands"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-01",
+      "event": "Victim begins researching AI trading platforms."
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim contacts 'QuantumLeap AI' via online advertisement."
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial investment of \u20ac2,000 made by victim."
+    },
+    {
+      "date": "2024-01-15",
+      "event": "Victim receives simulated profits."
+    },
+    {
+      "date": "2024-02-01",
+      "event": "Victim attempts to withdraw funds, is told a 'tax' is required."
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Victim transfers additional \u20ac5,000 to cover 'tax'."
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Victim realizes they've been scammed and files a report."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac7,000 - \u20ac12,000"
+    },
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.05 - 0.1 BTC"
+    }
+  ]
+}

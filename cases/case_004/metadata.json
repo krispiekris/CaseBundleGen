@@ -1,51 +1,55 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "CX2024-078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000",
-    "country": "Netherlands",
+    "income_range": "75000-100000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "German"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Serbia",
-    "Cyprus"
+    "Cyprus",
+    "Saint Vincent and the Grenadines"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
+      "date": "2023-11-15",
       "event": "Initial contact via email"
     },
     {
-      "date": "2023-09-01",
-      "event": "First deposit made"
+      "date": "2023-12-05",
+      "event": "Victim deposits initial investment"
     },
     {
-      "date": "2023-11-10",
-      "event": "Victim requests withdrawal \u2013 denied"
+      "date": "2024-01-10",
+      "event": "Victim receives fabricated profit distributions"
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim reports fraud"
+      "date": "2024-03-22",
+      "event": "Victim attempts to withdraw funds, denied"
+    },
+    {
+      "date": "2024-04-05",
+      "event": "Suspicious Activity Report filed"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "10000-25000"
+      "amount_range": "15000-30000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1-0.5"
+      "type": "AUD",
+      "amount_range": "5000-10000"
     }
   ]
 }

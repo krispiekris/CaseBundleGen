@@ -1,0 +1,1 @@
+The QuantumLeap AI Trader login page features a clean, modern design with a large logo and prominent login fields. The background displays a blurred image of a city skyline. There is a 'Forgot Password' link below the login buttons. A small disclaimer reads '© 2023 QuantumLeap AI Trader. All rights reserved.'

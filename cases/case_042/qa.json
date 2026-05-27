@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_2.xml, what is the account number of the victim?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What is the purpose stated for the transactions to NovaTrade AI Ltd in sar_2.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the name of the entity that sent a transaction to Victim 1's account, as reported in sar_3.xml?",
+    "answer": "Third Party Contact"
+  },
+  {
+    "question": "According to email_2.txt, what percentage return was initially reported to the victim?",
+    "answer": "12%"
+  },
+  {
+    "question": "What is the processing fee requested in email_3.txt?",
+    "answer": "\u20ac500"
+  },
+  {
+    "question": "What is the destination account number for transactions to NovaTrade AI Ltd, as seen in sar_2.xml?",
+    "answer": "GB80BARC20400193751082"
+  },
+  {
+    "question": "Based on the brochure_1.txt, what is a key feature of the NovaTrade AI platform?",
+    "answer": "Automated Trading"
+  },
+  {
+    "question": "What amount of EUR did Victim 1 deposit on 2023-11-10, according to bank_statement_1.csv?",
+    "answer": "2000"
+  },
+  {
+    "question": "What is the initial deposit amount recorded in sar_2.xml?",
+    "answer": "5000"
+  },
+  {
+    "question": "According to screenshot_1.txt, what is a key visual characteristic of the NovaTrade AI platform dashboard?",
+    "answer": "Predominantly green and white color scheme"
+  }
+]

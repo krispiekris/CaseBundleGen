@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-103</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE89370400440532013488</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BM2000000000000000000000</DestinationAccount>
+    <DestinationName>Offshore Company Ltd</DestinationName>
+    <Purpose>Fee Payment</Purpose>
+  </Transaction>
+  <Findings>Subsequent transfer of funds to an offshore company in Belize.  Elevated risk of fraud and money laundering.</Findings>
+</SAR>

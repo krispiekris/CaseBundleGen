@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, which institution initially reported the suspicious activity?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What is the destination account number where the EUR 6000 transfer was sent according to sar_1.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on email_2.txt, what action is recommended to maximize returns in the NovaAI Trading account?",
+    "answer": "Increasing your investment"
+  },
+  {
+    "question": "What type of financial institution reported Altcoin Global Ltd. in sar_2.xml?",
+    "answer": "Barclays Bank"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding a live chat window?",
+    "answer": "A support agent is available"
+  },
+  {
+    "question": "According to email_3.txt, what is requested from the user to initiate the recovery process?",
+    "answer": "Proof of Identity, Bank Account Details, and a small processing fee"
+  },
+  {
+    "question": "What amount of funds did Hans Schmidt deposit in EUR, as confirmed by email_4.txt?",
+    "answer": "1000 EUR"
+  },
+  {
+    "question": "What is the purpose stated for the transactions in sar_3.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to the brochure_2.txt, what is the promised return for users?",
+    "answer": "Double Your Money in Just 7 Days!"
+  },
+  {
+    "question": "What specific date is reported in sar_1.xml?",
+    "answer": "2024-02-05"
+  }
+]

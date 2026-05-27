@@ -1,12 +1,15 @@
-From: security@novatradeai.com
-To: hans.gruber@email.at
-Subject: Important Security Upgrade Required
+From: withdrawal@innovai.com
+To: hans.mueller@email.de
+Subject: Important Notice Regarding Withdrawal Request
 
 Dear Hans,
 
-To ensure the security of your account, we are implementing a system upgrade.  To unlock your available funds, a small additional investment of 500 EUR is required.
+Your recent withdrawal request has been temporarily blocked due to verification issues. To resolve this, please transfer €500 to the following account:
 
-Click here to complete the upgrade: www.novatradeai.com/upgrade
+Account: SC1234567890
+Bank: SecureTrust International
+
+Once the transfer is confirmed, your withdrawal will be processed immediately.
 
 Sincerely,
-NovaTrade AI Security Team
+InnovAI Support Team

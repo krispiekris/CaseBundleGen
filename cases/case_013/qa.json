@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR AU2024-123, what was the initial purpose of the 2000 EUR transaction from Victim 1's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the IBAN provided in the welcome email from QuantumLeap AI?",
+    "answer": "CY800020000000000000000000"
+  },
+  {
+    "question": "What specific finding is noted in SAR AU2024-124 regarding Victim 1\u2019s transactions?",
+    "answer": "Multiple transactions to the same destination account, despite customer's inability to withdraw funds."
+  },
+  {
+    "question": "What is the name of the intermediary bank listed in SAR CY2024-456?",
+    "answer": "Bank Gamma"
+  },
+  {
+    "question": "What action does the 'Urgent Action Required' email from QuantumLeap AI instruct the victim to take?",
+    "answer": "Deposit an additional 1000 EUR"
+  },
+  {
+    "question": "What does the screenshot of the trading dashboard display regarding daily profit?",
+    "answer": "Daily Profit: +12.5%"
+  },
+  {
+    "question": "What is the purpose listed in SAR AU2024-125 for the 500 EUR transaction dated 2024-03-10?",
+    "answer": "Withdrawal Attempt"
+  },
+  {
+    "question": "What account type does the initial deposit of 10000 AUD listed in bank_statement_1 represent?",
+    "answer": "Salary"
+  },
+  {
+    "question": "Besides Victim 1, who else is mentioned as a subject in any of the SAR files?",
+    "answer": "Unknown"
+  },
+  {
+    "question": "According to the promotional brochure, what is a characteristic offered by QuantumLeap AI?",
+    "answer": "Guaranteed returns"
+  }
+]

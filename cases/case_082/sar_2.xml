@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BG2024-0012</ReportID>
+  <ReportingInstitution>First Bulgarian Bank</ReportingInstitution>
+  <DateFiled>2024-04-05</DateFiled>
+  <Subject>
+    <Name>NovaTrade AI Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE89370400440532013000</DestinationAccount>
+    <DestinationName>Karl Schmidt</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-12</Date>
+    <Amount>250</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE89370400440532013000</DestinationAccount>
+    <DestinationName>Karl Schmidt</DestinationName>
+    <Purpose>Investment Return</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-01</Date>
+    <Amount>300</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>DE89370400440532013000</DestinationAccount>
+    <DestinationName>Karl Schmidt</DestinationName>
+    <Purpose>Investment Return</Purpose>
+  </Transaction>
+  <Findings>High volume of international transfers.  Company appears to be engaged in questionable investment activities.</Findings>
+</SAR>

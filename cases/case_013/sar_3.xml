@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CY2024-456</ReportID>
+  <ReportingInstitution>Bank Gamma (Intermediary)</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BG800015000000000000000000</DestinationAccount>
+    <DestinationName>Bank Gamma</DestinationName>
+    <Purpose>Payment to QuantumLeap AI Ltd</Purpose>
+  </Transaction>
+  <Findings>Funds received from an account in Australia being transferred to an intermediary account in Bulgaria, subsequently directed to QuantumLeap AI Ltd.</Findings>
+</SAR>

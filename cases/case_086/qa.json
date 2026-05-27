@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the account number of Klaus Schmidt?",
+    "answer": "DE89370400440532013800"
+  },
+  {
+    "question": "According to sar_1.xml, what is the main reason given for the transfers to Altcoin Global Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which bank filed the initial Suspicious Activity Report (SAR) related to Klaus Schmidt\u2019s transactions?",
+    "answer": "Deutsche Bank AG"
+  },
+  {
+    "question": "What is the destination account for the 500 EUR transfer mentioned in sar_3.xml?",
+    "answer": "DE89370400440532013800"
+  },
+  {
+    "question": "Based on the brochure_1.txt, what is the primary selling point of the QuantumFX AI Trader?",
+    "answer": "Automated Trading \u2013 No Experience Needed"
+  },
+  {
+    "question": "What is the purpose of the 8000 EUR transfer from Luminor Bank to Klaus Schmidt according to sar_2.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What bonus was offered to new investors in email_2.txt?",
+    "answer": "15% bonus on their initial investment"
+  },
+  {
+    "question": "According to email_3.txt, where should Klaus Schmidt transfer funds to finalize his withdrawal?",
+    "answer": "Account: HK1234567890"
+  },
+  {
+    "question": "What is the purpose specified for the transaction in sar_3.xml related to Offshore Investments Ltd?",
+    "answer": "Fee Payment"
+  },
+  {
+    "question": "What date is mentioned in email_4.txt regarding system maintenance?",
+    "answer": "April 29th"
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-0988</ReportID>
+  <ReportingInstitution>Sparkasse</ReportingInstitution>
+  <Subject>
+    <Name>Heinrich Schmidt</Name>
+    <Account>DE8711000070070012345678</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ74000000000000000000</DestinationAccount>
+    <DestinationName>AutomatedWealth AI Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Initial deposit to AutomatedWealth AI Ltd.</SuspiciousActivity>
+    <Recommendation>Review ongoing activity.</Recommendation>
+  </Findings>
+</SAR>

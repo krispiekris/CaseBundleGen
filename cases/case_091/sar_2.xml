@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CYP2024-012</ReportID>
+  <ReportingInstitution>Alpha Bank Cyprus</ReportingInstitution>
+  <Subject>
+    <Name>QuantumLeap Investments Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>12000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Commonwealth Bank of Australia</SourceName>
+    <Purpose>Deposit from John Smith</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Commonwealth Bank of Australia</SourceName>
+    <Purpose>Deposit from John Smith</Purpose>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Large incoming transfers from Australia with limited outgoing transactions.</SuspiciousActivity>
+    <RiskAssessment>Medium</RiskAssessment>
+  </Findings>
+</SAR>

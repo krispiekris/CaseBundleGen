@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the primary investment strategy marketed by AlgoTradePro according to the promotional email?",
+    "answer": "Leverages cutting-edge AI algorithms to generate consistent profits in the cryptocurrency market."
+  },
+  {
+    "question": "According to SAR_2.xml, what is the significance of the small withdrawal amount received by the victim?",
+    "answer": "Indicating potential 'proof of profit'."
+  },
+  {
+    "question": "What is the purpose of the transaction on December 5th, 2023, as recorded in sar_1.xml?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "Based on screenshot_1.txt, what is prominently displayed on AlgoTradePro's website dashboard?",
+    "answer": "A real-time profit ticker displaying 'Current Profit: \u20ac3,500'."
+  },
+  {
+    "question": "Which SAR report indicates potential money laundering activities and involves a transfer to 'Global Investment Solutions'?",
+    "answer": "SAR_3.xml"
+  },
+  {
+    "question": "What amount of additional investment is requested from the victim in email_3.txt to reactivate their withdrawal?",
+    "answer": "1000 EUR"
+  },
+  {
+    "question": "What destination account is consistently used for transactions involving John Smith and AlgoTradePro Ltd?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "According to sar_3.xml, what is the purpose of the transaction involving funds originating from the victim\u2019s account?",
+    "answer": "Transfer to associated entity"
+  },
+  {
+    "question": "What does the brochure_1.txt mention about the experience needed to use AlgoTradePro?",
+    "answer": "No trading experience required."
+  },
+  {
+    "question": "According to bank_statement_2.csv, which entity initiated the transfer of 2000 EUR to John Smith\u2019s account?",
+    "answer": "AlgoTradePro Ltd"
+  }
+]

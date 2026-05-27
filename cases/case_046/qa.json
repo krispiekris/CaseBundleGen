@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what was the stated purpose of the initial \u20ac1000 transaction from Victim 1's account?",
+    "answer": "Investment in AI Trading Platform"
+  },
+  {
+    "question": "What is the name of the UK-based entity mentioned in sar_1.xml and sar_3.xml?",
+    "answer": "Wealth Management Solutions UK"
+  },
+  {
+    "question": "Based on the email_2.txt, what kind of incentive was offered to encourage further investment?",
+    "answer": "A [Percentage]% bonus on the next trading cycle"
+  },
+  {
+    "question": "Referring to sar_2.xml, which bank reported this activity?",
+    "answer": "Commerzbank"
+  },
+  {
+    "question": "What is the purpose of the transaction recorded in sar_3.xml, involving a transfer of \u20ac2000 to Wealth Management Solutions UK?",
+    "answer": "Withdrawal"
+  },
+  {
+    "question": "According to the bank_statement_1.csv, what was the date of Victim 1\u2019s salary deposit?",
+    "answer": "2023-03-22"
+  },
+  {
+    "question": "According to email_4.txt, why did QuantumLeap AI require the victim to verify their identity?",
+    "answer": "To prevent fraudulent withdrawals"
+  },
+  {
+    "question": "What is the destination account mentioned in both sar_1.xml and sar_2.xml?",
+    "answer": "BZ1234567890"
+  },
+  {
+    "question": "What information is included in the screenshot_1.txt?",
+    "answer": "The screenshot shows a dashboard with an account balance, graphs, and a 'Withdraw Funds' button."
+  },
+  {
+    "question": "Based on sar_1.xml, what concerns did the victim express?",
+    "answer": "Inability to withdraw funds"
+  }
+]

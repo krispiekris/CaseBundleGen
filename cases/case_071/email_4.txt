@@ -1,0 +1,12 @@
+Subject: Important Security Verification - Deutsche Bank
+
+Dear Valued Customer,
+
+We have detected unusual activity on your account. To ensure the security of your funds, please verify your account information by clicking the link below:
+
+[Phishing Link]
+
+Failure to verify your account may result in temporary suspension.
+
+Sincerely,
+The Deutsche Bank Security Team

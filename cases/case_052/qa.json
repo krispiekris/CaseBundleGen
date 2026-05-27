@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what was the stated purpose of the initial transaction of EUR 12000 from Victim 1?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account used by Altcoin Global Ltd, as shown in sar_1.xml and bank_statement_1.csv?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on sar_2.xml, where were funds being transferred following receipt from Victim 1's account?",
+    "answer": "Nigeria"
+  },
+  {
+    "question": "What is the URL associated with QuantumLeap AI mentioned in the email_1.txt and brochure_1.txt files?",
+    "answer": "www.quantumleap.fake"
+  },
+  {
+    "question": "According to sar_3.xml, what's the significance of the account DE98775100200012345678 in relation to other suspicious activity?",
+    "answer": "It is linked to suspicious activity involving fraudulent investment schemes."
+  },
+  {
+    "question": "In sar_4.xml, what characteristic of the UK Shell Company is highlighted as a potential red flag?",
+    "answer": "It is registered with a virtual office address."
+  },
+  {
+    "question": "Based on screenshot_1.txt, what are the concerns regarding the testimonials on the QuantumLeap AI website?",
+    "answer": "They are generic and lack verifiable details."
+  },
+  {
+    "question": "What incentive did QuantumLeap AI offer to new investors, as outlined in email_2.txt?",
+    "answer": "A 10% bonus on their initial investment."
+  },
+  {
+    "question": "What action did Barclays Bank take with Altcoin Global Ltd, as detailed in sar_2.xml?",
+    "answer": "Transferred funds to accounts in Nigeria."
+  },
+  {
+    "question": "According to sar_1.xml, what is the initial finding suggesting a potential Ponzi scheme?",
+    "answer": "Subsequent withdrawals"
+  }
+]

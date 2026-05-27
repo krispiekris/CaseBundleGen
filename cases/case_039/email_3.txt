@@ -1,0 +1,14 @@
+From: QuantumNexusSupport@quantumnexus.fake
+To: helmut.ziegler@example.de
+Subject: Important Account Verification
+
+Dear Helmut,
+
+To ensure the security of your QuantumNexus account, we require you to verify your identity.
+
+Please reply to this email with a copy of your passport or national ID card.
+
+Thank you for your cooperation.
+
+Sincerely,
+QuantumNexus Support Team

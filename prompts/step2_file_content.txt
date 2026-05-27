@@ -23,6 +23,13 @@ Output a single JSON object with the following structure:
   ]
 }}
 
+IMPORTANT JSON RULES:
+- Do not use triple-quoted strings or non-standard delimiters for content.
+- Every string must be a valid JSON string.
+- Escape any internal double quotes inside file content as `\"`.
+- Escape newlines as `\n` and tabs as `\t`.
+- Do not include raw `"` sequences that would break JSON syntax.
+
 FILE CONTENT RULES:
 
 XML Files (SAR - Suspicious Activity Reports):

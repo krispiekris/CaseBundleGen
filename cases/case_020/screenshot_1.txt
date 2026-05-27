@@ -1,0 +1,1 @@
+Screenshot Description: The NovaTrade AI platform login page displays a sleek, modern design with a prominent logo.  Fields for username and password are clearly visible, along with a 'Login' button and a link to 'Forgot Password?'  A small disclaimer reads: 'Secure Socket Layer Encryption Enabled.'

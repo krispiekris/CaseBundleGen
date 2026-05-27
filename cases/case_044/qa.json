@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what was the initial purpose stated for transfers to Apex Investments Ltd.?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What suspicious activity was noted in sar_1.xml regarding the transfers to Apex Investments Ltd.?",
+    "answer": "Unusual activity. Large transfers to offshore account. Possible investment scam."
+  },
+  {
+    "question": "What document did ApexAI request from Hans M\u00fcller to verify his account, as described in email_3.txt?",
+    "answer": "A copy of his passport or driver's license and a recent utility bill."
+  },
+  {
+    "question": "Which entity is mentioned in sar_3.xml as receiving transfers from Apex Investments Ltd.?",
+    "answer": "Global Apex Holdings"
+  },
+  {
+    "question": "Based on brochure_2.txt, what kind of support is promised to ApexAI investors?",
+    "answer": "Personalized support from dedicated account managers."
+  },
+  {
+    "question": "What is the destination account mentioned in sar_2.xml, and to which entity does it belong?",
+    "answer": "HK12345678901234567890, Global Apex Holdings"
+  },
+  {
+    "question": "According to sar_2.xml, what happened when Hans M\u00fcller attempted to withdraw funds?",
+    "answer": "Client experiencing difficulty withdrawing funds."
+  },
+  {
+    "question": "Which promotional file (email or brochure) promises a 25% return on investment?",
+    "answer": "email_2.txt"
+  },
+  {
+    "question": "What is the purpose of the transaction in bank_statement_2.csv for the transfer to Global Apex Holdings on 2023-11-02?",
+    "answer": "Transfer"
+  },
+  {
+    "question": "According to sar_3.xml, what potential activities are suggested by the significant outflow of funds to Hong Kong?",
+    "answer": "Potential structuring for tax evasion or illicit activities."
+  }
+]

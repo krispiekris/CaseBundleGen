@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial SAR (INV2023-112), what was the purpose of the transaction from Heinrich Schmidt's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What website address is prominently featured in the welcome email sent to Heinrich Schmidt?",
+    "answer": "www.quantumfx.ai"
+  },
+  {
+    "question": "What is the name of the entity that received the EUR 12,000 transfer from Heinrich Schmidt, as indicated in sar_1.xml?",
+    "answer": "Altcoin Global Ltd"
+  },
+  {
+    "question": "What did the promotional brochure (brochure_2.txt) offer regarding daily returns with QuantumFX Pro?",
+    "answer": "4% Daily ROI"
+  },
+  {
+    "question": "What is the purpose of the transfer recorded in sar_3.xml from Marshall Islands Holding Corp?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the account number of Heinrich Schmidt?",
+    "answer": "DE87370400440532013000"
+  },
+  {
+    "question": "What is the content of the testimonial mentioned in screenshot_1.txt?",
+    "answer": "I've made over 500% in just 3 months! - Klaus M."
+  },
+  {
+    "question": "What is the name of the person who received the EUR 10,000 transfer in sar_3.xml?",
+    "answer": "Oluwaseun Adebayo"
+  },
+  {
+    "question": "What service does RecoverFundsPro claim to provide?",
+    "answer": "Recovering lost cryptocurrency assets"
+  },
+  {
+    "question": "What is the destination account number in sar_2.xml for the transaction from Altcoin Global Ltd?",
+    "answer": "BMU1234567890"
+  }
+]

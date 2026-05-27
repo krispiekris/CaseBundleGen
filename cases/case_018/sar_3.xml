@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>CRB2024-003</ReportID>
+  <ReportingInstitution>Central Bank Regulator</ReportingInstitution>
+  <Subject>
+    <Name>Multiple Victims</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-18</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY7301230000000012345678</DestinationAccount>
+    <DestinationName>QuantumLeap AI Management Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    <Finding>Numerous reports involving similar transactions and destination accounts.</Finding>
+  </Findings>
+</SAR>

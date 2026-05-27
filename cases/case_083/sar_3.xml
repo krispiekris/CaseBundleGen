@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>LIEB2024-03-15-001</ReportID>
+  <ReportingInstitution>Lithuanian Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>DE87744500400000000000</SourceAccount>
+    <SourceName>Sparkasse Bank</SourceName>
+  </Transaction>
+  <Findings>Funds traced to a shell company with a registered address at a virtual office space. Company has no apparent business activity beyond receiving international transfers. Further investigation warranted.</Findings>
+  <ReportDate>2024-03-15</ReportDate>
+</SAR>

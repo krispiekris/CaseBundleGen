@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what purpose was given for the transactions involving Helmut Schmidt's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account in sar_2.xml where Altcoin Global Ltd. transferred funds?",
+    "answer": "BZ1234567890"
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what other company besides Altcoin Global Ltd. did Helmut Schmidt transfer funds to?",
+    "answer": "QuantumLeap AI"
+  },
+  {
+    "question": "What is the total amount transferred to Altcoin Global Ltd. according to sar_1.xml?",
+    "answer": "8000 EUR"
+  },
+  {
+    "question": "What is the email address used by QuantumLeap AI for sending withdrawal notices?",
+    "answer": "withdrawal@quantumleap-ai.net"
+  },
+  {
+    "question": "What is the purpose of the transactions described in sar_3.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to promotional_2.txt, what is one of the benefits of joining QuantumLeap AI?",
+    "answer": "Daily profits"
+  },
+  {
+    "question": "What is the finding mentioned in sar_2.xml concerning the activity of Altcoin Global Ltd.?",
+    "answer": "Account activity suggests potential involvement in investment fraud."
+  },
+  {
+    "question": "What did email_3.txt suggest would happen if Helmut Schmidt didn\u2019t make the additional investment?",
+    "answer": "The cancellation of his withdrawal request."
+  },
+  {
+    "question": "What does the screenshot_1.txt describe regarding the QuantumLeap AI platform's graphical representation?",
+    "answer": "The screenshot shows a graph chart with a steeply rising line labeled 'Daily Profit'."
+  }
+]

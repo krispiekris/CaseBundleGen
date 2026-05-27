@@ -1,12 +1,20 @@
-From: QuantumFX Support <support@quantumfx.tech>
-To: victim1@email.nl
-Subject: Important: Secure Your Investment - Limited Time Remaining
+From: QuantumLeapAI Support@securetrading.net
+To: heinrich.schmidt@email.com
+Subject: Important Update Regarding Your QuantumLeap AI Account
 
-Dear [Victim 1],
+Dear Heinrich,
 
-Your account shows promising potential, but to maintain access and maximize your returns, a minimum balance is required. 
+We've detected a small delay in processing your withdrawal request. To ensure a swift and successful transfer, a processing fee of €150 is required.
 
-Deposit additional funds within the next 72 hours to avoid account restrictions.
+Please transfer the amount to the following account:
 
-Regards,
-QuantumFX Support Team
+Account Name: FinTech Solutions Ltd
+IBAN: LT12100001110123451
+SWIFT: CBHIEL2H
+
+Once the payment is confirmed, your funds will be released immediately.
+
+Thank you for your cooperation.
+
+Sincerely,
+The QuantumLeap AI Support Team

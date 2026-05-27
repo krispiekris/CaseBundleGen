@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-001</ReportID>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Findings>Multiple transfers from German account to UK entity.  Further investigation warranted.</Findings>
+</SAR>

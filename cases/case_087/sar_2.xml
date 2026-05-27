@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2023-255</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Unknown</Name>
+    <Account>RS1234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>1200</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>MK00000000000001</DestinationAccount>
+    <DestinationName>Petar Jovanovski</DestinationName>
+    <Purpose>Investment Profit</Purpose>
+  </Transaction>
+  <Findings>Funds received from suspicious investment activity. Potential money laundering.</Findings>
+</SAR>

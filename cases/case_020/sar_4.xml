@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-999</ReportID>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Schmidt</Name>
+    <Account>DE1272150000001234567890</Account>
+  </Subject>
+  <Findings>Multiple suspicious transactions, significant losses incurred by the victim.  Likely involved in an investment fraud scheme.  Case referred to law enforcement.</Findings>
+  <RelatedReports>DE2023-123, LU2023-789, LU2024-456</RelatedReports>
+</SAR>

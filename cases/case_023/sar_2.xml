@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-0112</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Sterling Concepts Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>IM0000012345</DestinationAccount>
+    <DestinationName>Marshall Islands Holding Co.</DestinationName>
+    <Purpose>Transfer to holding company</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>IM0000012345</DestinationAccount>
+    <DestinationName>Marshall Islands Holding Co.</DestinationName>
+    <Purpose>Transfer to holding company</Purpose>
+  </Transaction>
+  <Findings>Funds received from German bank with unusual transaction patterns. Transfer to an entity in the Marshall Islands raises concerns.</Findings>
+</SAR>

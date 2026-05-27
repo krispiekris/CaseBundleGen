@@ -1,6 +1,6 @@
 Date,Description,Amount,Currency,Beneficiary
-2023-09-05,Salary,3500,EUR,Credomatic Bank Austria
-2023-09-25,Automated Investments,5000,EUR,Automated Investments SRL
-2023-10-20,Automated Investments,3000,EUR,Automated Investments SRL
-2023-11-15,Dividend,500,EUR,Investments A
-2023-12-01,Automated Investments,2500,EUR,Automated Investments SRL
+2023-11-20,Wire Transfer,-10000,EUR,Online Brokerage
+2023-12-01,Wire Transfer,-50000,EUR,Altcoin Global Ltd
+2024-01-10,Deposit,2000,EUR,Altcoin Global Ltd
+2024-02-15,Wire Transfer,-3000,EUR,Online Brokerage
+2024-03-01,Wire Transfer,-1000,EUR,Online Brokerage

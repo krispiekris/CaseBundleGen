@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial amount transferred by Victim 1 to Altcoin Global Ltd, and when did this transaction occur?",
+    "answer": "6000 EUR on 2023-11-28."
+  },
+  {
+    "question": "According to the SAR from Lloyds Bank, what action was Victim 1 attempting to take when receiving small payouts?",
+    "answer": "Victim 1 was attempting to withdraw larger sums."
+  },
+  {
+    "question": "What is the reported purpose of the transaction from Barclays Bank to Altcoin Global Ltd?",
+    "answer": "Investment."
+  },
+  {
+    "question": "Which email subject line promised a 20% return on investment?",
+    "answer": "Urgent: Secure Your 20% ROI with QuantumFX."
+  },
+  {
+    "question": "What is the URL associated with QuantumFX AI Trader according to the promotional materials?",
+    "answer": "www.quantumfx.fake"
+  },
+  {
+    "question": "What concerns were raised in the SAR filed by Wise regarding Altcoin Global Ltd's activity?",
+    "answer": "Unusual currency exchange activity and a high volume of transfers, potentially indicating money laundering."
+  },
+  {
+    "question": "What is the stated purpose of the transfer from Victim 1's account to Altcoin Global Ltd, as recorded in the Abu Dhabi Commercial Bank SAR?",
+    "answer": "Investment."
+  },
+  {
+    "question": "What did the screenshot of the QuantumFX AI Trader interface display as the balance, and how did that relate to the initial investment?",
+    "answer": "The interface displayed a balance of \u20ac12,000, significantly higher than the initial investment."
+  },
+  {
+    "question": "Based on the provided SARs, what are the potential concerns associated with Altcoin Global Ltd?",
+    "answer": "Potential investment fraud, money laundering, and unusual currency exchange activity."
+  },
+  {
+    "question": "What company provided Victim 1\u2019s salary?",
+    "answer": "Company A."
+  }
+]

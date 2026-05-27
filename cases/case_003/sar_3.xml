@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-9012</ReportID>
-  <ReportingInstitution>Deutsche Handelsbank</ReportingInstitution>
+  <ReportID>GB2024-0456</ReportID>
+  <ReportingInstitution>Barclays</ReportingInstitution>
   <Subject>
-    <Name>Affiliate Marketer</Name>
-    <Account>DE1234567890</Account>
+    <Name>Account XYZ</Name>
+    <Account>GB28BARC40000001234567</Account>
   </Subject>
   <Transaction>
     <Date>2023-11-01</Date>
-    <Amount>1800</Amount>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BM000000000000000000</DestinationAccount>
-    <DestinationName>QuantumAlgo Ltd</DestinationName>
-    <Purpose>Commission</Purpose>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Payment for services</Purpose>
   </Transaction>
-  <Findings>The affiliate marketer receives frequent payments from QuantumAlgo, suggesting a commission-based referral system.</Findings>
+   <Transaction>
+    <Date>2024-01-05</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Payment for services</Purpose>
+  </Transaction>
+  <Findings>Funds received from multiple foreign countries. Account lacks a clear business purpose and legitimate transaction history.  Potential intermediary account for illicit funds.</Findings>
 </SAR>

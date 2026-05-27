@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of Klaus Schmidt?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What is the purpose of the transactions from Klaus Schmidt's account to QuantumEdge Solutions Ltd, as stated in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which bank is listed as the reporting institution in sar_2.xml?",
+    "answer": "SpireBank Luxembourg S.A."
+  },
+  {
+    "question": "Based on the email_2.txt, what additional amount does David Miller suggest Klaus Schmidt invest?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "What processing fee is requested from Klaus Schmidt in email_3.txt, and where should he transfer the funds?",
+    "answer": "200 EUR to BZ98765432"
+  },
+  {
+    "question": "According to sar_3.xml, where are the funds from Seashell Investments Ltd ultimately transferred?",
+    "answer": "BZ1234567890 (QuantumEdge Solutions Ltd)"
+  },
+  {
+    "question": "What is the main claim made in brochure_1.txt about QuantumEdge AI?",
+    "answer": "It uses cutting-edge algorithms to maximize returns, 24/7."
+  },
+  {
+    "question": "According to bank_statement_1.csv, what was the description for the transaction on 2024-02-25?",
+    "answer": "Withdrawal"
+  },
+  {
+    "question": "Based on email_4.txt, what action is suggested to maintain investment returns?",
+    "answer": "Deposit additional funds"
+  },
+  {
+    "question": "What is the destination account listed in sar_1.xml for the transaction on 2024-01-05?",
+    "answer": "BZ1234567890"
+  }
+]

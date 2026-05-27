@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-0089</ReportID>
-  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <ReportID>INV2024-03-15-001</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE87750508000030003587</Account>
+    <Name>Victim 1</Name>
+    <Account>GR1601101250000000012310695</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
+    <Date>2023-09-22</Date>
     <Amount>2000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ010000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
     <Purpose>Investment</Purpose>
   </Transaction>
   <Transaction>
-    <Date>2023-10-10</Date>
+    <Date>2023-10-15</Date>
     <Amount>500</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ010000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
   </Transaction>
-  <Findings>Unusual investment activity. Large sum transferred to offshore account.</Findings>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>LT12100001110123451</DestinationAccount>
+    <DestinationName>Altcoin Global Ltd</DestinationName>
+    <Purpose>Investment Withdrawal Request (Denied)</Purpose>
+  </Transaction>
+  <Findings>Suspicious large transaction to offshore company with unclear purpose.  Multiple transactions consistent with investment fraud.</Findings>
 </SAR>

@@ -1,0 +1,11 @@
+Subject: Important Security Notice
+
+Dear [Victim Name],
+
+We have detected suspicious activity on your Deutsche Bank account. To ensure the security of your funds, we require you to verify your account details.
+
+Please click on the link below to confirm your information:
+[Link to Fake Phishing Page]
+
+Sincerely,
+Deutsche Bank Security Department

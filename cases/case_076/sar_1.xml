@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-0045</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE871101000000000123456789</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-10-01</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>AlphaTrade Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>200</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>AlphaTrade Investments Ltd</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
+  </Transaction>
+  <Findings>Initial investment followed by a small profit distribution. Concerns raised due to origin of receiving account in Belize.</Findings>
+</SAR>

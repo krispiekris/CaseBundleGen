@@ -1,0 +1,15 @@
+From: support@novatradeai.com
+To: john.smith@email.com
+Subject: Verify Your Account Details
+
+Dear John,
+
+For security purposes, we require you to verify your account details. Please click on the link below to confirm your identity:
+
+www.novatradeai.com/verify
+
+Failure to verify your account may result in restrictions on your access.
+
+Thank you for your cooperation.
+
+NovaTrade AI Support

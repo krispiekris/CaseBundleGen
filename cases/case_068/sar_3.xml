@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BS2023-125</ReportID>
+  <ReportingInstitution>Bank Bär</ReportingInstitution>
+  <Subject>
+    <Name>Victim 2</Name>
+    <Account>CH6208700855200100</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-28</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>SC27004300000000001</DestinationAccount>
+    <DestinationName>QuantumInvest AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Multiple reports of similar activity related to the Seychelles-based QuantumInvest AI. Recipient account subject to further investigation.</Findings>
+</SAR>

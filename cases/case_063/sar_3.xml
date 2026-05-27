@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>EE2023-0098</ReportID>
+  <ReportingInstitution>Swedbank</ReportingInstitution>
+  <DateFiled>2023-11-22</DateFiled>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-08-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>DE25100000002222333344</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Transaction>
+    <Date>2023-08-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>DE25100000002222333344</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Transaction>
+    <Date>2023-11-01</Date>
+    <Amount>8000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>DE25100000002222333344</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Findings>Multiple transactions with a high volume of funds transferred. Associated with a possible fraudulent investment scheme.</Findings>
+</SAR>

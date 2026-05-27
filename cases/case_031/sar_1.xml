@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-0034</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <DateFiled>2024-01-28</DateFiled>
+  <Subject>
+    <Name>Heinrich Schmidt</Name>
+    <Account>DE87110100012345678901</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Investment</Purpose>
+    <SuspiciousActivity>Unusually large transfer to an offshore account</SuspiciousActivity>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>100</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ1234567890</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
+    <SuspiciousActivity>Small, seemingly legitimate payout</SuspiciousActivity>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB28NWBK00000000001234</DestinationAccount>
+    <DestinationName>Intermediary Account</DestinationName>
+    <Purpose>Withdrawal</Purpose>
+    <SuspiciousActivity>Attempted large withdrawal blocked due to system issues</SuspiciousActivity>
+  </Transaction>
+  <Findings>Potential investment fraud targeting vulnerable individuals. Funds transferred to Belize and UK.</Findings>
+</SAR>

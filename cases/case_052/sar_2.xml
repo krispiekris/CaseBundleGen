@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>GBR2024-03-15-002</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>GB28BARC13000001234567890</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-01</Date>
+    <Amount>12000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-15</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <SourceName>Victim 1</SourceName>
+  </Transaction>
+  <Findings>Large sums of money received from Germany and transferred to accounts in Nigeria. Lack of legitimate business activity observed.</Findings>
+</SAR>

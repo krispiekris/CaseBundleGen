@@ -1,0 +1,55 @@
+{
+  "case_id": "CY2024-11-07-Alpha",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "Hong Kong",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-09-15",
+      "event": "Initial contact via email"
+    },
+    {
+      "date": "2023-10-20",
+      "event": "First investment made"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal, encounters difficulties"
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim reports fraud"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.5"
+    },
+    {
+      "type": "ETH",
+      "amount_range": "1 - 5"
+    }
+  ]
+}

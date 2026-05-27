@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what was the initial purpose of the 5000 EUR transfer from the Czech Republic to Chibuzo Okoro?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on email_2.txt, what is the account number used for depositing funds into Altcoin Global Ltd?",
+    "answer": "00000000000000000000"
+  },
+  {
+    "question": "What action did Lloyds Bank take regarding Victim 1\u2019s withdrawal request as documented in sar_3.xml?",
+    "answer": "Denied it due to unusual account activity."
+  },
+  {
+    "question": "Referring to the brochure_1.txt, what is the minimum investment required to join QuantumLeap AI?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "What additional information does email_4.txt request from the victim before processing the withdrawal request?",
+    "answer": "A copy of their passport or government-issued ID, and proof of address."
+  },
+  {
+    "question": "What is the account number for Victim 1 at \u010cesk\u00e1 spo\u0159itelna?",
+    "answer": "1111111111/2222"
+  },
+  {
+    "question": "What is the purpose described in sar_2.xml of the 1500 EUR transfer from Altcoin Global Ltd to Victim 1?",
+    "answer": "Profit Distribution"
+  },
+  {
+    "question": "According to screenshot_1.txt, what message is displayed above the portfolio value graph?",
+    "answer": "Current Portfolio Value: \u20ac8,750.00"
+  },
+  {
+    "question": "What does email_3.txt indicate is the reason for requesting additional verification documents?",
+    "answer": "To protect your funds"
+  },
+  {
+    "question": "Based on bank_statement_2.csv, how much money was requested to be withdrawn by Victim 1?",
+    "answer": "10000 EUR"
+  }
+]

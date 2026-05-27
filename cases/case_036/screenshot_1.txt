@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The image shows the QuantumAlgo login page. The page has a sleek, modern design with a large logo prominently displayed.  There are fields for username and password, and a button labeled 'Login'.  Below the login form is a link to 'Forgot Password?'.  A small disclaimer reads 'All rights reserved QuantumAlgo 2023'.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what was the stated purpose of the initial transfer of $5000 from David Miller's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account number used for both transactions described in SAR_1.xml and SAR_2.xml?",
+    "answer": "LT3477770000000000001"
+  },
+  {
+    "question": "What red flag is specifically mentioned in SAR_2.xml regarding the recurring transfers to InnovaTech Solutions?",
+    "answer": "Recurring transfers to the same offshore company, consistent with potential layering of funds"
+  },
+  {
+    "question": "Based on email_2.txt, what incentive was offered to David Miller to deposit an additional $7,500?",
+    "answer": "A bonus 10% increase in trading power"
+  },
+  {
+    "question": "What potential security risk is highlighted in email_4.txt?",
+    "answer": "A request to download and run a remote access application"
+  },
+  {
+    "question": "According to screenshot_1.txt, what type of information is displayed on the QuantumLeap AI website?",
+    "answer": "Prominent charts displaying purported investment growth and testimonials from 'satisfied clients'"
+  },
+  {
+    "question": "What is the purpose stated for the transaction recorded in SAR_3.xml involving InnovaTech Solutions and Bulgarian Investment Group?",
+    "answer": "Business Operations"
+  },
+  {
+    "question": "According to the bank_statement_2.csv file, what amount was transferred to InnovaTech Solutions on 2024-01-15?",
+    "answer": "$12500"
+  },
+  {
+    "question": "What is the stated reason in email_3.txt for a potential delay in David Miller\u2019s withdrawal?",
+    "answer": "A temporary issue with the account's withdrawal processing"
+  },
+  {
+    "question": "What is the name of the reporting institution in SAR_3.xml?",
+    "answer": "Bank Beta (Bulgaria)"
+  }
+]

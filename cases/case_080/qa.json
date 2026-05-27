@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what is the account number of the victim?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What purpose was given for the \u20ac5000 transaction from Victim 1's account to QuantumLeap AI on 2024-02-15, as detailed in SAR_1.xml?",
+    "answer": "Tax Payment"
+  },
+  {
+    "question": "Based on the email_2.txt, what is the bank account number used for the 'tax payment'?",
+    "answer": "NG7408201446350311"
+  },
+  {
+    "question": "Which bank did Lloyds Bank identify as receiving funds in SAR_2.xml?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What is the URL mentioned in the brochure_1.txt?",
+    "answer": "www.quantumleap.ai"
+  },
+  {
+    "question": "What does screenshot_1.txt describe about the website?",
+    "answer": "The website features a sleek, modern design with graphs and charts displaying impressive, but likely fabricated, investment gains."
+  },
+  {
+    "question": "What is the purpose of the funds transfer recorded in SAR_3.xml from Shell Company Ltd to QuantumLeap AI?",
+    "answer": "Funds Transfer"
+  },
+  {
+    "question": "Based on email_3.txt, what consequence is threatened if the 'tax payment' is not submitted?",
+    "answer": "Cancellation of the withdrawal request and potential loss of access to your account."
+  },
+  {
+    "question": "According to bank_statement_1.csv, what was the description for the -2000 EUR transaction?",
+    "answer": "QuantumLeap AI"
+  },
+  {
+    "question": "What is the website mentioned in brochure_2.txt?",
+    "answer": "www.stellartrade.fake"
+  }
+]

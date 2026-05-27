@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-11-15-001</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Victim 1</Name>
+    <Account>DE89370400440532013000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG7408201446350311</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-02-15</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG7408201446350311</DestinationAccount>
+    <DestinationName>QuantumLeap AI</DestinationName>
+    <Purpose>Tax Payment</Purpose>
+  </Transaction>
+  <Findings>Unusual outflow of funds to Nigeria, potentially linked to investment fraud.</Findings>
+</SAR>

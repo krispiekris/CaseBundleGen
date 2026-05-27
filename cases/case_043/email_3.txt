@@ -1,0 +1,17 @@
+From: recovery@quantumleap-ai.net
+To: karl.schmidt@email.de
+Subject: Urgent: Account Verification Required
+
+Dear Karl,
+
+Due to recent security concerns, we require you to verify your account by transferring 2000 EUR to the designated account below.
+
+Account Details:
+Bank: Barclays
+Account Number: 1234567890
+Sort Code: 11-22-33
+
+Failure to comply may result in temporary account suspension.
+
+Regards,
+QuantumLeap AI Recovery Department

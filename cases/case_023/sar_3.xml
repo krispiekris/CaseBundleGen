@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>IE2024-0045</ReportID>
+  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
+  <Subject>
+    <Name>Another Victim</Name>
+    <Account>IE35BOFI99999999999999</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-28</Date>
+    <Amount>1500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>NG7608994297687209818898</DestinationAccount>
+    <DestinationName>Sterling Concepts Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Similar transaction patterns observed in another account.  Potential coordinated investment fraud.  Cross-reporting recommended.</Findings>
+</SAR>

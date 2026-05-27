@@ -1,51 +1,54 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "CY2024-078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Austria",
-    "education_level": "University Degree"
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Greek",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
     "Belize",
-    "United Kingdom"
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact with 'NovaTrade AI'"
+      "date": "2023-11-15",
+      "event": "Victim discovers 'InnovAI' trading platform"
     },
     {
-      "date": "2023-09-01",
-      "event": "First deposit made"
+      "date": "2023-12-01",
+      "event": "Initial investment of \u20ac2,000"
     },
     {
-      "date": "2023-11-10",
-      "event": "Victim requests withdrawal; partially blocked."
+      "date": "2024-01-10",
+      "event": "Victim encouraged to invest further"
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim reports fraud"
+      "date": "2024-02-20",
+      "event": "Victim attempts to withdraw funds, unsuccessful"
+    },
+    {
+      "date": "2024-03-05",
+      "event": "Victim reports suspicious activity to bank"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.3"
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac2,000 - \u20ac8,000"
     }
   ]
 }

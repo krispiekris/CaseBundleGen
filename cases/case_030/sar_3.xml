@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-038</ReportID>
+  <ReportingInstitution>Belizean Investment Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <SourceAccount>GR1601101250000000012310695</SourceAccount>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Significant deposits from Germany linked to potential investment fraud.</Findings>
+</SAR>

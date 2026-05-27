@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>LIE2024-004</ReportID>
+  <ReportingInstitution>Liechtensteinische Landesbank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>LI00000000000000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount>7500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY0100000000000000012345</DestinationAccount>
+    <DestinationName>Hellenic Bank</DestinationName>
+    <Purpose>Investment Deposit</Purpose>
+  </Transaction>
+    <Findings>
+    <Finding>Funds originated from a seemingly legitimate source but are being transferred through multiple jurisdictions with no apparent business purpose.</Finding>
+  </Findings>
+</SAR>

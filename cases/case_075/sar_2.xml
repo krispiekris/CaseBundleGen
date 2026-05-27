@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-003</ReportID>
+  <ReportingInstitution>HSBC UK</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>15000</Amount>
+    <Currency>EUR</Currency>
+    <OriginAccount>DE89370400440532013578</OriginAccount>
+    <OriginName>Hans Müller</OriginName>
+  </Transaction>
+  <Findings>Funds received from Germany. Potential link to investment fraud scheme.</Findings>
+</SAR>

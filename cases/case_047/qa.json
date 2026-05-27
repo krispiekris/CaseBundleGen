@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what was the initial purpose stated for the EUR 5000 transfer from Victim 1's account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account number used for transactions related to Altcoin Global Ltd. as indicated in sar_1.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on bank_statement_1.csv, what date did Victim 1 transfer EUR 1500 to Altcoin Global Ltd?",
+    "answer": "2024-02-15"
+  },
+  {
+    "question": "Email_2.txt indicates a deadline for confirming the QuantumFX account. What is that deadline?",
+    "answer": "Within the next 24 hours"
+  },
+  {
+    "question": "Brochure_2.txt includes testimonials. What is the first testimonial?",
+    "answer": "\"I\u2019ve never seen returns like this! QuantumFX AI Trader has changed my life.\" \u2013 John S."
+  },
+  {
+    "question": "sar_3.xml reports a transfer from a UK entity to which country?",
+    "answer": "Switzerland"
+  },
+  {
+    "question": "According to sar_4.xml, which country did the funds ultimately reach after being transferred from the UK?",
+    "answer": "UAE (United Arab Emirates)"
+  },
+  {
+    "question": "What reason does Email_3.txt give for a temporary hold on the withdrawal request?",
+    "answer": "Due to recent platform maintenance and increased transaction volume"
+  },
+  {
+    "question": "What purpose is stated for the EUR 500 transfer recorded in sar_3.xml?",
+    "answer": "Not mentioned in the case files"
+  },
+  {
+    "question": "According to screenshot_1.txt, what is a prominent feature of the QuantumFX website?",
+    "answer": "A 'Start Trading' button"
+  }
+]

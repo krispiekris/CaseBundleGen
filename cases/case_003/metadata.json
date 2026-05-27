@@ -1,59 +1,60 @@
 {
-  "case_id": "INV2024-027",
+  "case_id": "CY2024-11-08-Phoenix",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
-    "country": "Austria",
+    "income_range": "60000-90000 EUR",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish",
-      "Russian"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Seychelles"
+    "Nigeria",
+    "United Kingdom",
+    "Belize"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacts 'QuantumAlgo' via online advertisement"
+      "date": "2023-10-15",
+      "event": "Victim contacts 'QuantumEdge AI' via online advertisement."
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial investment of 5000 EUR made"
+      "date": "2023-11-01",
+      "event": "Initial deposit of 5000 EUR made by the victim."
     },
     {
       "date": "2023-11-15",
-      "event": "Victim withdraws a small profit (300 EUR) to build trust"
+      "event": "Victim receives fabricated profit statements."
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim encouraged to deposit further funds (15000 EUR)"
+      "date": "2024-01-05",
+      "event": "Victim encouraged to deposit additional funds (10000 EUR)."
     },
     {
-      "date": "2024-03-20",
-      "event": "Victim requests withdrawal of remaining funds, denied"
+      "date": "2024-02-20",
+      "event": "Victim requests withdrawal, denied."
     },
     {
-      "date": "2024-04-05",
-      "event": "Victim files complaint"
+      "date": "2024-03-10",
+      "event": "Victim reports the incident to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "20000-30000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "5000-15000 EUR"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1-0.3"
+      "type": "EUR Bank Account",
+      "amount_range": "15000-25000 EUR"
     }
   ]
 }

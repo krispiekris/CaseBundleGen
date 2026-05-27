@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the report ID for the SAR filed by Deutsche Bank?",
+    "answer": "DE2024-123"
+  },
+  {
+    "question": "According to sar_3.xml, which country is Evergreen Solutions Ltd located in?",
+    "answer": "Belize"
+  },
+  {
+    "question": "What is the purpose stated for the transactions from Victim 1's account to Altcoin Global Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on email_3.txt, what reason is given for the temporary delay in the withdrawal request?",
+    "answer": "Ongoing maintenance on the platform"
+  },
+  {
+    "question": "What is the account number of Victim 1?",
+    "answer": "GR1601101250000000012310695"
+  },
+  {
+    "question": "Which bank submitted the SAR with ReportID DE2024-456?",
+    "answer": "Commerzbank"
+  },
+  {
+    "question": "What is the minimum deposit amount mentioned in email_1.txt?",
+    "answer": "\u20ac500"
+  },
+  {
+    "question": "What destination account did Altcoin Global Ltd use when transferring 3000 EUR according to sar_3.xml?",
+    "answer": "BZ1234567890"
+  },
+  {
+    "question": "According to bank_statement_1.csv, what was the beneficiary of the incoming transfer on 2023-12-20?",
+    "answer": ""
+  },
+  {
+    "question": "What alarming message does the Deutsche Bank email in email_4.txt convey?",
+    "answer": "Unusual activity detected on the account requiring verification via a link."
+  }
+]

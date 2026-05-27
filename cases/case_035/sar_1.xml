@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2024-00345</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Helmut Schmidt</Name>
+    <Account>DE87370400440532013838</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-20</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BB120000000000000000001</DestinationAccount>
+    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2024-03-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BB120000000000000000001</DestinationAccount>
+    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusually large transfers to offshore company. Account activity deviates significantly from established patterns. Potential investment fraud.</Findings>
+</SAR>

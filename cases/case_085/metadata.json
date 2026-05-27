@@ -1,0 +1,59 @@
+{
+  "case_id": "CY2024-017",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "60000-90000",
+    "country": "Australia",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Serbia",
+    "languages_spoken": [
+      "English",
+      "Serbian",
+      "Russian"
+    ]
+  },
+  "destination_countries": [
+    "Lithuania",
+    "Hong Kong"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim first encounters promotional material for 'NovaTrade AI'"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Victim deposits initial funds."
+    },
+    {
+      "date": "2023-11-10",
+      "event": "Victim experiences first withdrawal issue."
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim reports the fraud."
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Investigation initiated."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "5000-20000"
+    },
+    {
+      "type": "AUD",
+      "amount_range": "5000-15000"
+    },
+    {
+      "type": "Bitcoin",
+      "amount_range": "0.1-0.5"
+    }
+  ]
+}

@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-0246</ReportID>
-  <ReportingInstitution>HSBC</ReportingInstitution>
+  <ReportID>BZ2024-03-22-001</ReportID>
+  <ReportingInstitution>Belize Bank</ReportingInstitution>
   <Subject>
-    <Name>Boris Volkov</Name>
-    <Account>GB26NWBK00000000001234</Account>
+    <Name>Altcoin Global Ltd</Name>
   </Subject>
   <Transaction>
-    <Date>2023-08-28</Date>
-    <Amount>5000</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>BZ010000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2023-09-22</Date>
+    <Amount>2000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
   </Transaction>
-  <Findings>Account used to funnel funds received from other fraudulent investment schemes</Findings>
+  <Transaction>
+    <Date>2023-10-15</Date>
+    <Amount>500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+  </Transaction>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
+    <DestinationName>Victim 1</DestinationName>
+  </Transaction>
+  <Findings>Multiple deposits of EUR from Germany. Account lacks legitimate business activity.  Further investigation recommended.</Findings>
 </SAR>

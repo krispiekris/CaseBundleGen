@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-017-002</ReportID>
-  <ReportingInstitution>Alpha Bank Cyprus</ReportingInstitution>
+  <ReportID>CYP2024-002</ReportID>
+  <ReportingInstitution>Hellenic Bank</ReportingInstitution>
   <Subject>
-    <Name>NovaTech Investments Ltd</Name>
-    <Account>CY610020000100000000000000</Account>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>CY0100000000000000012345</Account>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>12000</Amount>
+    <Date>2023-11-15</Date>
+    <Amount>15000</Amount>
     <Currency>EUR</Currency>
     <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationName>David Miller</DestinationName>
+    <Purpose>Investment Deposit</Purpose>
   </Transaction>
   <Transaction>
-    <Date>2023-09-15</Date>
+    <Date>2024-01-10</Date>
     <Amount>3000</Amount>
     <Currency>EUR</Currency>
     <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
+    <DestinationName>David Miller</DestinationName>
+    <Purpose>Profit Distribution</Purpose>
   </Transaction>
-  <Transaction>
-    <Date>2023-10-06</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>High volume of incoming transfers from various sources.  Destination accounts are in the Netherlands.  Further investigation warranted.</Findings>
+    <Findings>
+    <Finding>Significant and rapid inflow of funds followed by smaller outgoing transfers. Account appears to be used for money laundering purposes.</Finding>
+  </Findings>
 </SAR>

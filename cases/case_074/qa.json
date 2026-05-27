@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the primary purpose initially stated for transactions to CryptoGenius AI according to SAR_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "According to email_2.txt, what is the reason given for requiring an additional deposit from Hans Schmidt?",
+    "answer": "To reactivate the account and proceed with a withdrawal due to a system maintenance issue."
+  },
+  {
+    "question": "What is the account number associated with GlobalTech Solutions Ltd, as reported in SAR_2.xml?",
+    "answer": "GB82HSBC40400000000001"
+  },
+  {
+    "question": "Based on promotional_2.txt, what return percentage is advertised by CryptoGenius AI?",
+    "answer": "15% daily returns"
+  },
+  {
+    "question": "Which entity is associated with the destination account BMU2555555555, and where is it located?",
+    "answer": "Island Holdings Ltd, located in the Marshall Islands."
+  },
+  {
+    "question": "What suspicious activity triggered the verification email sent to Hans Schmidt, as described in email_3.txt?",
+    "answer": "Suspicious activity on his CryptoGenius AI account"
+  },
+  {
+    "question": "According to screenshot_1.txt, what is prominently displayed on the CryptoGenius AI dashboard?",
+    "answer": "A 'Balance' indicator, 'Deposit', 'Withdrawal', and 'AI Trading' buttons, and a newsfeed section."
+  },
+  {
+    "question": "What is the purpose of the transaction of 7500 EUR from GlobalTech Solutions Ltd to Island Holdings Ltd, as indicated in SAR_3.xml?",
+    "answer": "Consultancy Fees"
+  },
+  {
+    "question": "According to sar_4.xml, what potential scheme is suspected given the consistent outflows of funds to the Marshall Islands?",
+    "answer": "Possible money laundering scheme"
+  },
+  {
+    "question": "What is the amount of the salary received by Hans Schmidt according to bank_statement_1.csv?",
+    "answer": "2500 EUR"
+  }
+]

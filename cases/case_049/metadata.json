@@ -1,0 +1,52 @@
+{
+  "case_id": "2024-11-15-Alpha-007",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Kingdom",
+    "Marshall Islands"
+  ],
+  "timeline": [
+    {
+      "date": "2023-10-20",
+      "event": "Victim initially contacted by QuantumAI"
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim makes first deposit"
+    },
+    {
+      "date": "2024-01-05",
+      "event": "Victim attempts withdrawal, denied"
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim reports fraudulent activity"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "10000-25000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1-0.5"
+    }
+  ]
+}

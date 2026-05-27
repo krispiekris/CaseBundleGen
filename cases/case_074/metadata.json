@@ -1,0 +1,56 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "Marshall Islands",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers 'CryptoGenius AI' promotional material."
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Victim deposits initial \u20ac500 into CryptoGenius AI platform."
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim receives first 'profit' payout."
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Victim attempts to withdraw a larger sum; faces obstacles and pressure to deposit more."
+    },
+    {
+      "date": "2024-03-10",
+      "event": "Victim reports the incident to authorities."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac500 - \u20ac12,000"
+    },
+    {
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac1,000 - \u20ac15,000"
+    }
+  ]
+}

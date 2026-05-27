@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to SAR_1.xml, what is the account number of Heinrich Schmidt?",
+    "answer": "DE8711000070070012345678"
+  },
+  {
+    "question": "What is the primary purpose stated for the transactions between Heinrich Schmidt and AutomatedWealth AI Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Based on email_3.txt, what action is Heinrich Schmidt required to take to proceed with a withdrawal?",
+    "answer": "Deposit \u20ac2,000 to cover processing fees"
+  },
+  {
+    "question": "Which reporting institution flagged the suspicious activity involving Heinrich Schmidt\u2019s transactions, as indicated in SAR_2.xml?",
+    "answer": "Sparkasse"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe about the website's design?",
+    "answer": "It has a sleek, modern design with graphs depicting exponential growth and a professional feel."
+  },
+  {
+    "question": "According to SAR_3.xml, what is the purpose of the transactions initiated by AutomatedWealth AI Ltd to Heinrich Schmidt?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the initial deposit amount Heinrich Schmidt made to AutomatedWealth AI Ltd, according to the bank_statement_1.csv?",
+    "answer": "-5000 EUR"
+  },
+  {
+    "question": "What is the first mention of AutomatedWealth AI Ltd in the provided files, and which file does it appear in?",
+    "answer": "SAR_2.xml"
+  },
+  {
+    "question": "What incentive is offered to Heinrich Schmidt in email_2.txt?",
+    "answer": "A 15% bonus on his initial investment"
+  },
+  {
+    "question": "According to bank_statement_2.csv, what is the currency of the withdrawal by AutomatedWealth AI Ltd?",
+    "answer": "USD"
+  }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-0389</ReportID>
+  <ReportingInstitution>NatWest Bank</ReportingInstitution>
+  <Subject>
+    <Name>GlobalTech Solutions Ltd</Name>
+    <Account>GB82HSBC40400000000001</Account>
+  </Subject>
+  <Transaction>
+    <Date>2024-03-05</Date>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BMU2555555555</DestinationAccount>
+    <DestinationName>Island Holdings Ltd</DestinationName>
+    <Purpose>Consultancy Fees</Purpose>
+  </Transaction>
+  <Findings>Significant outflow of funds to the Marshall Islands. Consistent with previous suspicious activity. Possible money laundering scheme.</Findings>
+</SAR>

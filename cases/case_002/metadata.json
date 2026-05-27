@@ -1,51 +1,59 @@
 {
-  "case_id": "INV2024-017",
+  "case_id": "CR2024-078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
-    "country": "Austria",
+    "income_range": "75000-100000",
+    "country": "United Kingdom",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Serbia",
     "languages_spoken": [
       "English",
-      "Greek",
+      "Serbian",
       "Russian"
     ]
   },
   "destination_countries": [
-    "Lithuania",
-    "United Kingdom"
+    "Serbia",
+    "Belize"
   ],
   "timeline": [
     {
       "date": "2023-09-15",
-      "event": "Victim receives initial email"
+      "event": "Victim contacts 'QuantumLeap AI'"
     },
     {
-      "date": "2023-10-20",
-      "event": "Victim deposits initial investment"
+      "date": "2023-10-01",
+      "event": "Initial deposit made"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim attempts withdrawal; denied"
+      "date": "2023-11-15",
+      "event": "First alleged profit withdrawal"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim reports to authorities"
+      "date": "2024-01-20",
+      "event": "Victim requests full withdrawal"
+    },
+    {
+      "date": "2024-02-01",
+      "event": "Withdrawal request denied, pressured to deposit more"
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
       "type": "EUR",
-      "amount_range": "10000-25000"
+      "amount_range": "15000-25000"
     },
     {
       "type": "BTC",
-      "amount_range": "0.1-0.5"
+      "amount_range": "0.1-0.3"
     }
   ]
 }

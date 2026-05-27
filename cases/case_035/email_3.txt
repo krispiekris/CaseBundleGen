@@ -1,0 +1,10 @@
+From: NovaTrade Security <security@novatrade.fake>
+To: helmut.schmidt@email.de
+Subject: Security Alert: Unusual Login Attempt
+
+Dear Helmut,
+
+We detected an unusual login attempt to your NovaTrade AI account.  To ensure your account's security, please verify your details and reset your password here: [malicious_link.fake]
+
+Sincerely,
+The NovaTrade Security Team

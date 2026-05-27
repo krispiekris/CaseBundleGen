@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>EUROB2024-0456</ReportID>
+  <ReportingInstitution>UniCredit Bank</ReportingInstitution>
+  <Subject>
+    <Name>Elena Rossi</Name>
+    <Account>IT12Z0000000000000000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-12</Date>
+    <Amount>22000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>CY94000000000000000000123</DestinationAccount>
+    <DestinationName>QuantumRise AI Investments Ltd</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Suspiciously large transaction to an entity with limited online presence.</Findings>
+  <ReportDate>2024-03-20</ReportDate>
+</SAR>

@@ -1,12 +1,14 @@
-From: support@novatechtrading.com
-To: Victim 1 <victim1@email.com>
-Subject: Regarding Your Withdrawal Request
+From: NovaTech Support <support@novatechtrader.com>
+To: david.miller@example.com.au
+Subject: Verification Required - NovaTech AI Trader
 
-Dear [Victim 1],
+Dear David,
 
-We received your withdrawal request. Due to increased security measures, your withdrawal is currently undergoing verification. This process may take up to 72 hours.
+To maintain the security of your account, we require you to verify your identity. Please reply to this email with a copy of your passport or driver's license.
 
-We appreciate your patience and understanding.
+We also noticed that you haven't reinvested your profits yet.  Another deposit of 7500 EUR will significantly boost your returns.
+
+Thank you for your cooperation.
 
 Sincerely,
-The NovaTech AI Trading Support Team
+The NovaTech Support Team

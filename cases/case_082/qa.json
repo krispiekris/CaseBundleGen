@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the SAR filed by Deutsche Bank, what is Karl Schmidt's bank account number?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What is the stated purpose of the initial EUR 500 transfer from Karl Schmidt's account to NovaTrade AI Ltd?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which bank filed the SAR related to NovaTrade AI Ltd, and what was their primary finding?",
+    "answer": "First Bulgarian Bank. The company appears to be engaged in questionable investment activities."
+  },
+  {
+    "question": "What does the promotional brochure for NovaTrade AI highlight as a key feature of their platform?",
+    "answer": "Automated Trading"
+  },
+  {
+    "question": "What is the stated purpose of the transfers from Karl Schmidt to NovaTrade AI Ltd in the SAR filed by Deutsche Bank?",
+    "answer": "Investment and Investment Return"
+  },
+  {
+    "question": "Based on the email from support@novatradeai.fake, what is the perceived benefit for investors joining NovaTrade AI?",
+    "answer": "Consistent profits with minimal effort"
+  },
+  {
+    "question": "What does the screenshot of the NovaTrade AI login page display, and what is noticeable about the 'Withdraw Funds' button?",
+    "answer": "It displays a login page with the NovaTrade AI logo and a disclaimer stating 'AI Trading - Results Not Guaranteed'. The 'Withdraw Funds' button is greyed out and unresponsive."
+  },
+  {
+    "question": "What significant transfers (in USD) were made from NovaTrade AI Ltd\u2019s account to an offshore account, according to the bank statement for First Bulgarian Bank?",
+    "answer": "USD 1500 and USD 2000"
+  },
+  {
+    "question": "What does the email with the subject line 'Urgent: Potential Losses & Recovery Options' suggest to Karl Schmidt?",
+    "answer": "It suggests a strategic deposit is recommended to recover potential losses."
+  },
+  {
+    "question": "Which institution filed the SAR relating to transfers to NovaTrade AI Ltd from an unknown source and what was the purpose of those transfers?",
+    "answer": "Cyprus Popular Bank. The purpose was Investment."
+  }
+]

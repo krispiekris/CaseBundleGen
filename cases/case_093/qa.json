@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the promotional material, what is a key feature of QuantumTrade AI?",
+    "answer": "Automated Trading \u2013 No Experience Needed"
+  },
+  {
+    "question": "What is the purpose stated for the transaction to QuantumTrade AI on January 5, 2024, according to SAR_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the subject\u2019s account number mentioned in SAR_1.xml?",
+    "answer": "DE87110100010000231200"
+  },
+  {
+    "question": "What email address was used to send the welcome email to Hans M\u00fcller?",
+    "answer": "support@quantumtradeai.net"
+  },
+  {
+    "question": "What did the email from accounts@quantumtradeai.net request from Hans M\u00fcller?",
+    "answer": "To deposit funds within the next 7 days to maintain account profitability and secure a guaranteed 20% return"
+  },
+  {
+    "question": "Based on the screenshot description, what impression does the QuantumTrade AI website try to convey?",
+    "answer": "One of legitimacy and high-earning potential"
+  },
+  {
+    "question": "What is the stated purpose of the transaction recorded in SAR_3.xml?",
+    "answer": "Receiving funds from overseas"
+  },
+  {
+    "question": "What does the recovery specialist email claim?",
+    "answer": "That the victim may be entitled to compensation and that they can help recover lost funds"
+  },
+  {
+    "question": "What is the name of the legal recovery firm mentioned in email_3.txt?",
+    "answer": "Legal Recovery Specialist"
+  },
+  {
+    "question": "According to bank_statement_2.csv, what is the currency of the withdrawal attempts?",
+    "answer": "EUR"
+  }
+]

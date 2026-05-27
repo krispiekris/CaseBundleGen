@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the report ID for the SAR filed by Deutsche Bank?",
+    "answer": "DE2024-0034"
+  },
+  {
+    "question": "According to email_3, what is requested from Heinrich Schmidt to expedite his payment?",
+    "answer": "Account Name and Account Number"
+  },
+  {
+    "question": "Which account received a 5000 EUR transaction on 2023-11-15 according to sar_2.xml?",
+    "answer": "DE87110100012345678901"
+  },
+  {
+    "question": "What is the purpose stated for the 100 EUR transaction to QuantumLeap AI on 2023-12-01?",
+    "answer": "Profit Distribution"
+  },
+  {
+    "question": "What is the primary finding of the SAR filed by Bank of America (US2024-0087)?",
+    "answer": "Identical patterns of deposits and withdrawals observed across multiple accounts. Suspicion of coordinated investment scam."
+  },
+  {
+    "question": "What promotional tactic is mentioned in email_2 to encourage further deposits?",
+    "answer": "A 15% bonus is offered for depositing another \u20ac2,000 before the end of the week."
+  },
+  {
+    "question": "According to sar_3.xml, where are funds being transferred to?",
+    "answer": "BZ1234567890"
+  },
+  {
+    "question": "What is claimed in the brochure_1 regarding the investment strategy?",
+    "answer": "Guaranteed ROI \u2013 See your investment grow daily!"
+  },
+  {
+    "question": "What personal information is requested from Heinrich Schmidt in email_4?",
+    "answer": "A scanned copy of his passport or driver's license"
+  },
+  {
+    "question": "What is the destination account for the attempted withdrawal blocked due to system issues, according to sar_1.xml?",
+    "answer": "GB28NWBK00000000001234"
+  }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>DE2023-1234</ReportID>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Subject>
+    <Name>Hans Kruger</Name>
+    <Account>DE12110000000000000000</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-02-28</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>PA12345678901234567890</DestinationAccount>
+    <DestinationName>Apex Investments LLC</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-01-10</Date>
+    <Amount>1000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>PA12345678901234567890</DestinationAccount>
+    <DestinationName>Apex Investments LLC</DestinationName>
+    <Purpose>Initial Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual activity - large transfer to offshore company with aggressive marketing claims. Subject appears to be under pressure to invest.</Findings>
+</SAR>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2023-045</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+    <Account>LT12100001110123451</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB17NWBK00010012345678</DestinationAccount>
+    <DestinationName>Sterling Investments</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+   <Transaction>
+    <Date>2023-03-15</Date>
+    <Amount>3000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB17NWBK00010012345678</DestinationAccount>
+    <DestinationName>Sterling Investments</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Receiving large transfers from Germany. Destination account linked to potentially suspicious investment activities.</Findings>
+</SAR>

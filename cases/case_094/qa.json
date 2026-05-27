@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the initial purpose of the first transaction from Victim 1's account?",
+    "answer": "Initial Investment"
+  },
+  {
+    "question": "Based on bank_statement_2.csv, to which entity did Golden Dragon Investments transfer funds?",
+    "answer": "Victim 1"
+  },
+  {
+    "question": "What does the screenshot_1.txt indicate about the QuantumAI Solutions website?",
+    "answer": "The website features a clean, modern design with prominent visuals of charts and graphs and displays testimonials from alleged satisfied investors."
+  },
+  {
+    "question": "sar_3.xml mentions a transaction involving Altcoin Global Ltd. To what account did these funds get transferred?",
+    "answer": "BZ001234567890"
+  },
+  {
+    "question": "What information does email_3.txt request from the victim?",
+    "answer": "Full Name, Date of Birth, and a Copy of Government-Issued ID"
+  },
+  {
+    "question": "What is the main concern raised in sar_4.xml regarding Golden Dragon Investments?",
+    "answer": "The destination of the funds is unclear."
+  },
+  {
+    "question": "According to the brochure_1.txt, what is one of the key features of QuantumAI Solutions' trading platform?",
+    "answer": "AI-Powered Trading"
+  },
+  {
+    "question": "What is the reporting institution for the SAR detailing Altcoin Global Ltd\u2019s transactions?",
+    "answer": "Bank of Belize"
+  },
+  {
+    "question": "In email_2.txt, what reason is provided for the limited-time opportunity?",
+    "answer": "To celebrate our recent successes"
+  },
+  {
+    "question": "What is the destination account mentioned in sar_3.xml for Altcoin Global Ltd\u2019s transaction?",
+    "answer": "HK123456789012"
+  }
+]

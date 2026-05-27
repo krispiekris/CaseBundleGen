@@ -1,0 +1,16 @@
+Subject: Important Notice Regarding Your Withdrawal Request
+
+Dear [Victim Name],
+
+We've received your recent withdrawal request. Due to increased security measures, a small verification fee of [Amount] is required to process your withdrawal.
+
+This fee is necessary to ensure the safety of your funds. Please transfer [Amount] to the following account:
+
+Account Name: [Fraudster Name]
+Bank: [Bank Name]
+IBAN: [IBAN]
+
+Once the verification fee has been received, your withdrawal will be processed immediately.
+
+Sincerely,
+The QuantumLeap AI Withdrawal Department

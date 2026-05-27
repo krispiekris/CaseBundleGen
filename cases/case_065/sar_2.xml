@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-015</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Altcoin Global Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-10-20</Date>
+    <Amount>6000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>GB12BOKG20175000160743</DestinationAccount>
+    <DestinationName>Individual Account</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Funds received from Germany linked to potential investment fraud.</Findings>
+  <ReportDate>2024-02-10</ReportDate>
+</SAR>

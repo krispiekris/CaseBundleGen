@@ -1,0 +1,19 @@
+Subject: Important Notice Regarding Withdrawal Request
+
+Dear [Victim Name],
+
+We received your withdrawal request. Due to recent security enhancements, a processing fee of EUR 500 is required to complete the transaction.
+
+This fee is necessary to verify the authenticity of your request and ensure the security of your funds.
+
+Please transfer EUR 500 to the following account:
+
+Account Name: Secure Processing Services
+Bank: Seychelles International Bank
+Account Number: 0012345678
+SWIFT Code: SEIBSEYS
+
+Once the fee is received, your withdrawal will be processed within 24-48 hours.
+
+Sincerely,
+The QuantumInvest AI Support Team

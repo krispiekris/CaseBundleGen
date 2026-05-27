@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2023-9012</ReportID>
+  <ReportingInstitution>Belize International Bank</ReportingInstitution>
+  <Subject>
+    <Name>Global Investment Solutions Ltd</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-01-05</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>BZ000123456</DestinationAccount>
+    <DestinationName>Unknown</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Company registered in Belize with opaque ownership. High volume of incoming funds from Germany.</Findings>
+</SAR>

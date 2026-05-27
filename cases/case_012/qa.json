@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to sar_1.xml, what is the account number of Victim 1?",
+    "answer": "DE1211000000000000000000"
+  },
+  {
+    "question": "What is the purpose stated for the transactions involving Victim 1 and Altcoin Global Ltd, as detailed in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What specific action does email_3.txt suggest Victim 1 must take, and why?",
+    "answer": "Transfer [Amount] to the account details provided, to cover a verification fee for their withdrawal request."
+  },
+  {
+    "question": "Based on screenshot_1.txt, what features are prominently displayed on the QuantumLeap AI website?",
+    "answer": "Daily profit charts, a button to 'Start Trading Now,' and testimonials praising the platform\u2019s ease of use and high returns."
+  },
+  {
+    "question": "What red flag regarding the QuantumLeap AI website's registration is highlighted in website_analysis.txt?",
+    "answer": "The domain was registered recently using a privacy service, and there is no verifiable owner information."
+  },
+  {
+    "question": "What amount of money did Victim 1 initially transfer to Altcoin Global Ltd, according to sar_1.xml?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "According to sar_2.xml, what is the subject of the report?",
+    "answer": "Altcoin Global Ltd"
+  },
+  {
+    "question": "What is the primary concern raised in email_4.txt, and what action is the victim urged to take?",
+    "answer": "The email states that unusual activity has been detected and the victim is urged to deposit [Amount] to secure their funds and prevent losses."
+  },
+  {
+    "question": "Based on bank_statement_2.csv, what is the date of the first wire transfer to Victim 1?",
+    "answer": "2023-12-01"
+  },
+  {
+    "question": "According to sar_3.xml, what broader pattern of transfers involving Victim 1 is noted?",
+    "answer": "Smaller transfer activity consistent with a larger pattern, indicative of potential investment fraud."
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "case_id": "2024-CZ-017",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000 CZK",
+    "country": "Czech Republic",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Pidgin English",
+      "Hausa"
+    ]
+  },
+  "destination_countries": [
+    "Nigeria",
+    "United Kingdom"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Victim contacts 'QuantumLeap AI' via online advertisement."
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Initial deposit made by victim."
+    },
+    {
+      "date": "2023-11-15",
+      "event": "Victim receives first 'profit' payout."
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim attempts to withdraw significant funds; request denied."
+    },
+    {
+      "date": "2024-02-10",
+      "event": "Victim reports fraud to authorities."
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Bank Account",
+      "amount_range": "5000-15000 EUR"
+    },
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.1-0.5"
+    },
+    {
+      "type": "Promotional Website",
+      "amount_range": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "CY2024-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Russia",
+    "languages_spoken": [
+      "Russian",
+      "English",
+      "German"
+    ]
+  },
+  "destination_countries": [
+    "Lithuania",
+    "Cyprus"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim interacts with promotional material for 'NovaTrade AI'"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Victim deposits initial investment into NovaTrade AI"
+    },
+    {
+      "date": "2024-01-15",
+      "event": "First 'profit withdrawal' made by victim"
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Victim attempts to withdraw larger sum, faces obstacles"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim reports fraud to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac5,000 - \u20ac20,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.5"
+    }
+  ]
+}

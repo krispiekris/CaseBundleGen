@@ -1,0 +1,1 @@
+The NovaTrade AI dashboard displays a clean, modern interface with graphs showing fluctuating crypto prices. A large button reads 'Deposit Funds' prominently. Below, there's a section displaying 'Daily Profit Summary' with an encouraging number (150 EUR). A timer indicates 'Next Trading Cycle in 2 Hours'.

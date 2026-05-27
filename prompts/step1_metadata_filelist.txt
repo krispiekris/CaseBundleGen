@@ -1,8 +1,7 @@
-You are generating metadata and file structure for a synthetic investment-fraud case.
+You are generating metadata and file structure for a synthetic but realistic cybercrime case.
 
 IMPORTANT:
-- You must create a completely new fraud case design.
-- Do NOT reuse any names, IBANs, dates, amounts from previous cases.
+- You must create a completely new cybercrime case design.
 - This step is DESIGN ONLY - no file content generation yet.
 
 Output a SINGLE JSON object with the following structure:
@@ -46,26 +45,25 @@ FILE STRUCTURE RULES:
 - Choose 1–4 bank CSV files.
 - Choose 1–4 promotional files (txt format).
 - Choose 1–4 email files (txt).
-- Optionally include 1–2 website screenshot descriptions (txt).
+- Optionally include 1–2 screenshot descriptions in txt that could be included in the case, for example screenshots of websites or platforms.
 - Randomize the exact number and types for variety.
 
 RANDOMIZATION RULES:
 - Choose a fraud subtype randomly (crypto scam, forex scam, boiler room, NFT scam, AI trading scam, recovery scam).
-- Choose 1–3 destination countries randomly.
+- Choose 1, 2 or 3 destination countries randomly.
 - Generate new IBANs matching the selected countries.
 - Generate new victim and fraudster profiles.
 - Generate new transaction patterns.
 - Randomize dates within the last 1–5 years (never future dates).
 
-NAME GENERATION RULES (EUROPE ONLY):
-- Use names exclusively from European Union and nearby European countries.
+PERSON NAME GENERATION RULES:
+- For each entity name create a random pool of 20 names and chose what you need.
 - Prefer uncommon or regionally specific surnames.
-- Use a wide variety of European naming traditions.
+- Use a wide variety of naming traditions.
 - Use at least three distinct given names within the case.
-- Avoid the most common surnames (Schmidt, Müller, Smith, Kowalski, etc.).
 
-COMPANY NAME GENERATION RULES (EUROPE ONLY):
-- Create unique, regionally specific European-style company names.
+COMPANY NAME GENERATION RULES:
+- Create a random pool of 20 unique company names and chose what you need.
 - Use local languages and realistic corporate suffixes (Ltd, GmbH, AG, SA, BV, Sp. z o.o., etc.).
 - Avoid generic "techy" names.
 

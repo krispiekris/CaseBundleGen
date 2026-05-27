@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the report ID for the SAR filed by Credomatic Bank Austria?",
-    "answer": "AT2024-123"
+    "question": "According to SAR_1.xml, what is the account number of the victim?",
+    "answer": "GR1601101250000000012310695"
   },
   {
-    "question": "What is the destination account used for the investments according to the SARs?",
-    "answer": "RS1000100100123456789"
-  },
-  {
-    "question": "According to the bank statement of Helmut Gruber, what was the purpose of the transactions with Automated Investments SRL?",
+    "question": "What is the purpose indicated for the initial EUR 50,000 transaction to Altcoin Global Ltd, as stated in SAR_1.xml?",
     "answer": "Investment"
   },
   {
-    "question": "What does the brochure claim about Automated Investments\u2019 technology?",
-    "answer": "Secure & Transparent Technology"
+    "question": "What key phrase is used to describe the Quantum Leap AI Trader's platform in the brochure_1.txt?",
+    "answer": "Effortless Daily Income"
   },
   {
-    "question": "What action did Automated Investments propose to Helmut in email_2?",
-    "answer": "To complete a simple verification process to release profits."
+    "question": "Based on email_2.txt, what incentive is offered to victims who deposit additional funds?",
+    "answer": "A 15% bonus on their first withdrawal"
   },
   {
-    "question": "What security concern led to a temporary restriction on withdrawals, according to email_3?",
-    "answer": "Heightened security concerns"
+    "question": "What does the screenshot_1.txt describe about the Quantum Leap AI Trader platform's visual representation?",
+    "answer": "A graph displaying rapidly increasing values, indicating high profits"
   },
   {
-    "question": "What is the domain name mentioned in the brochure?",
-    "answer": "www.automatedinvestments.net"
+    "question": "Which reporting institution filed SAR_3.xml?",
+    "answer": "Seychelles International Bank"
   },
   {
-    "question": "According to the website screenshot, what is lacking regarding Automated Investments' team and location?",
-    "answer": "The 'About Us' section is vague and doesn't provide concrete details."
+    "question": "According to bank_statement_2.csv, what currency was used for the outgoing transfer of 10000 on 2024-03-15?",
+    "answer": "USD"
   },
   {
-    "question": "Which bank filed the SAR with report ID CY2024-050?",
-    "answer": "Cyprus Global Bank"
+    "question": "What is the subject of email_3.txt?",
+    "answer": "Important Account Verification Request"
   },
   {
-    "question": "What does email_4 claim to have detected regarding Helmut's account?",
-    "answer": "Unusual activity"
+    "question": "What findings did the International Trust Bank (IBT) report regarding Altcoin Global Ltd in SAR_2.xml?",
+    "answer": "High volume of incoming funds from multiple sources. Possible money laundering activity."
+  },
+  {
+    "question": "What does SAR_1.xml identify as the general suspicion regarding the transactions?",
+    "answer": "Possible investment fraud scheme."
   }
 ]

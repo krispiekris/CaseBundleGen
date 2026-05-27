@@ -1,0 +1,6 @@
+Date,Description,Amount,Currency,Beneficiary
+2023-11-20,Salary,3500,GBP,Acme Corp
+2023-11-25,Withdrawal,200,GBP,ATM
+2023-11-30,Transfer to QuantumLeap AI,5000,EUR,Global Investments Ltd
+2024-01-05,Withdrawal Attempt,,-,QuantumLeap AI
+2024-01-12,Transfer,1500,GBP,Personal Savings

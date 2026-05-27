@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>INV2024-008</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>John Smith</Name>
+    <Account>00930019833812713800</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-15</Date>
+    <Amount>5000</Amount>
+    <Currency>GBP</Currency>
+    <DestinationAccount>NG350441362496785</DestinationAccount>
+    <DestinationName>Bright Future Investments</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-09-22</Date>
+    <Amount>2000</Amount>
+    <Currency>GBP</Currency>
+    <DestinationAccount>NG350441362496785</DestinationAccount>
+    <DestinationName>Bright Future Investments</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>
+    Suspicious activity detected; large transfers to Nigeria with vague purpose. Further investigation recommended.</Findings>
+  </SAR>

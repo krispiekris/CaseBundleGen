@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the Report ID for the SAR filed by Deutsche Bank?",
+    "answer": "DE2024-123"
+  },
+  {
+    "question": "According to sar_2.xml, where is Altcoin Global Ltd. registered?",
+    "answer": "A residential address"
+  },
+  {
+    "question": "What is the stated purpose of the transfers from Victim 1 to Altcoin Global Ltd. according to sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which email subject line offers a 'guaranteed 15% ROI'?",
+    "answer": "Don't Miss Out - Limited Time Offer!"
+  },
+  {
+    "question": "Based on the brochure_1.txt, what is one of the purported benefits of CryptoGain AI?",
+    "answer": "Daily Profit Potential"
+  },
+  {
+    "question": "What does screenshot_1.txt highlight as a persuasive element of the CryptoGain AI website?",
+    "answer": "A prominent 'Start Trading' button"
+  },
+  {
+    "question": "According to sar_3.xml, what is the status of the Altcoin Global Ltd. account holder when inquiries were made?",
+    "answer": "Account holder unresponsive to inquiries"
+  },
+  {
+    "question": "What action did email_3.txt suggest Victim 1 take to reactivate their withdrawal request?",
+    "answer": "Make a small additional investment"
+  },
+  {
+    "question": "What is the purpose of email_4?",
+    "answer": "To inquire about the withdrawal request and express concern about an additional investment requirement"
+  },
+  {
+    "question": "Based on bank_statement_2.csv, how much did Victim 1 transfer in total to Altcoin Global Ltd?",
+    "answer": "6000 EUR"
+  }
+]

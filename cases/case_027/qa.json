@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the report ID for the SAR filed by HSBC UK?",
+    "answer": "UK20240120-789"
+  },
+  {
+    "question": "According to the email from QuantumLeapAI, what is the initial incentive offered to new investors?",
+    "answer": "A 15% bonus on their investment."
+  },
+  {
+    "question": "Which account did Hans Schmidt withdraw 1000 EUR to?",
+    "answer": "DE09370400440532013548"
+  },
+  {
+    "question": "What is the purpose listed for the 10000 EUR transaction from Hans Schmidt\u2019s account?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What is the destination account for the 10000 EUR transaction originating from Deutsche Bank, as documented in sar_1.xml?",
+    "answer": "LT12100001110123451"
+  },
+  {
+    "question": "Based on screenshot_1.txt, what is a key visual element of the QuantumLeap AI website?",
+    "answer": "A sleek, modern design with a dark background and vibrant graphs."
+  },
+  {
+    "question": "What is the purpose given for the 3000 EUR deposit into Hans Schmidt\u2019s account, according to bank_statement_1.csv?",
+    "answer": "Salary"
+  },
+  {
+    "question": "What is the processing fee demanded in the 'Important Security Notification' email?",
+    "answer": "500 EUR"
+  },
+  {
+    "question": "Which entity appears in the SARs from Deutsche Bank and Bank of Marshall Islands?",
+    "answer": "Hans Schmidt"
+  },
+  {
+    "question": "According to email_3.txt, what reason is provided for encouraging further investment?",
+    "answer": "To access your profits and explore further investment opportunities."
+  }
+]

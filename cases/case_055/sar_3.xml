@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BZ2023-077</ReportID>
+  <ReportingInstitution>Belize International Bank</ReportingInstitution>
+  <Subject>
+    <Name>Apex Investments LLC</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-03-01</Date>
+    <Amount>6000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>PA12345678901234567890</DestinationAccount>
+    <DestinationName>Apex Investments LLC</DestinationName>
+    <Purpose>Transfer to Panama</Purpose>
+  </Transaction>
+  <Findings>Significant outflow of funds to Panama. Source of funds questionable. Company lacks substantial business activity.</Findings>
+</SAR>

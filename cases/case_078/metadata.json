@@ -1,0 +1,59 @@
+{
+  "case_id": "2024-CC-078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "75000-100000",
+    "country": "Australia",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Nigeria",
+    "languages_spoken": [
+      "English",
+      "Hausa",
+      "Pidgin English"
+    ]
+  },
+  "destination_countries": [
+    "United Kingdom",
+    "St. Vincent and the Grenadines"
+  ],
+  "timeline": [
+    {
+      "date": "2023-11-15",
+      "event": "Victim discovers 'AlphaTrade AI' via online advertisement"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Initial investment of 5000 EUR made"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim receives fabricated profits and encouraged to reinvest"
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim attempts to withdraw funds and faces delays"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim realizes the scam and reports to authorities"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "5000-10000"
+    },
+    {
+      "type": "EUR",
+      "amount_range": "10000-20000"
+    },
+    {
+      "type": "Bank Account",
+      "amount_range": "5000-20000"
+    }
+  ]
+}

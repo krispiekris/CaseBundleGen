@@ -1,0 +1,50 @@
+{
+  "case_id": "2024-CN-0078",
+  "fraud_type": "Investment Fraud",
+  "fraud_subtype": "AI Trading Scam",
+  "victim_profile": {
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
+    "education_level": "Bachelor's Degree"
+  },
+  "fraudster_profile": {
+    "location": "Belize",
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "destination_countries": [
+    "Belize",
+    "United Arab Emirates"
+  ],
+  "timeline": [
+    {
+      "date": "2023-08-15",
+      "event": "Initial contact via email"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Victim deposits initial investment"
+    },
+    {
+      "date": "2023-11-10",
+      "event": "First withdrawal request made"
+    },
+    {
+      "date": "2024-01-25",
+      "event": "Victim reports suspicious activity"
+    }
+  ],
+  "assets_involved": [
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
+    },
+    {
+      "type": "BTC",
+      "amount_range": "0.1 - 0.5"
+    }
+  ]
+}

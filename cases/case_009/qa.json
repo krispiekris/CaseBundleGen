@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by Sparkasse Bank?",
-    "answer": "INV2024-032-SAR1"
+    "question": "According to sar_1.xml, what was the initial investment amount made by Victim 1?",
+    "answer": "15000 EUR"
   },
   {
-    "question": "According to email_2.txt, what is the claimed monthly return potential of the QuantumAI Solutions trading system?",
-    "answer": "Up to 35% per month"
+    "question": "What is the purpose of the transaction recorded in sar_2.xml involving Victim 1?",
+    "answer": "Withdrawal Request"
   },
   {
-    "question": "Which account number was used for the initial transfer from Hans Schmidt to QuantumAI Solutions?",
-    "answer": "DE8770020290000000000123"
+    "question": "What currency was used for the initial investment and subsequent deposits made by Victim 1?",
+    "answer": "EUR"
   },
   {
-    "question": "What is the purpose stated for the transaction from John Doe to QuantumAI Solutions in SAR_3.xml?",
-    "answer": "Consultancy Fees"
+    "question": "Which destination account appears in both sar_1.xml and sar_3.xml?",
+    "answer": "BZ1234567890"
   },
   {
-    "question": "Besides QuantumAI Solutions Ltd, which other entities are listed in the bank statements?",
-    "answer": "Company B"
+    "question": "According to email_3.txt, what action is the victim urged to take to 'unlock' their profits?",
+    "answer": "Make an additional deposit of 2000 EUR"
   },
   {
-    "question": "What is the subject line of the email offering fund recovery?",
-    "answer": "Urgent: Potential Recovery of Lost Funds"
+    "question": "What offshore location is associated with Global Solutions Ltd. according to sar_2.xml?",
+    "answer": "Cayman Islands"
   },
   {
-    "question": "According to promotional_1.txt, what experience level is required to use QuantumAI Solutions?",
-    "answer": "No experience needed"
+    "question": "According to sar_3.xml, what is the relationship between the funds received from the victim\u2019s account and the shell company?",
+    "answer": "Funds received from victim's account were quickly transferred to an offshore shell company."
   },
   {
-    "question": "What concerns are raised in the Findings section of INV2024-032-SAR1?",
-    "answer": "Unusually large transfer to Belize-based company. The stated purpose of investment is concerning given the limited interaction prior to the transfer."
+    "question": "What is the stated purpose of NovaTech AI according to brochure_1.txt?",
+    "answer": "Your Intelligent Investment Partner"
   },
   {
-    "question": "What website is promoted in the emails from QuantumAI Solutions?",
-    "answer": "www.quantumaisolutions.com"
+    "question": "What does screenshot_1.txt indicate about the user's account balance on the mock trading platform?",
+    "answer": "\u20ac22,500"
   },
   {
-    "question": "What type of business does Altcoin Global Ltd operate?",
-    "answer": "Not mentioned in the case files"
+    "question": "Based on bank_statement_2.csv, where did the 5000 EUR transferred from Victim 1's account ultimately go?",
+    "answer": "Unknown Recipient"
   }
 ]

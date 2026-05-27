@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the name of the reporting institution in SAR AT2024-1234?",
-    "answer": "Creditas Bank Austria"
+    "question": "According to sar_1.xml, what is the account number of Hans Schmidt?",
+    "answer": "DE89370400440532013600"
   },
   {
-    "question": "According to the promotional material, what technology is used by QuantumAlgo?",
-    "answer": "AI-powered trading platform"
-  },
-  {
-    "question": "What is the purpose of the transaction on 2024-01-10 involving Victim 1's account?",
+    "question": "What is the stated purpose of the transactions from Hans Schmidt\u2019s account to Altcoin Global Ltd, according to sar_1.xml?",
     "answer": "Investment"
   },
   {
-    "question": "What KYC documentation does QuantumAlgo request from Victim 1?",
-    "answer": "A copy of their passport or government-issued ID"
+    "question": "Which reporting institution flagged Altcoin Global Ltd for potential fraudulent activity, as stated in sar_1.xml?",
+    "answer": "Deutsche Bank"
   },
   {
-    "question": "What is the main reason for the processing fee mentioned in email_3?",
-    "answer": "Increased security measures"
+    "question": "Based on email_2.txt, what additional deposit does QuantumEdge AI recommend to maximize returns?",
+    "answer": "3000 EUR"
   },
   {
-    "question": "What is the purpose of the transactions involving the 'Affiliate Marketer' accounts?",
-    "answer": "Commission"
+    "question": "What country is listed as the registered office for Altcoin Global Ltd, according to company_registration_1.txt?",
+    "answer": "Belize"
   },
   {
-    "question": "What is the account number associated with Victim 1 in SAR AT2024-1234?",
-    "answer": "GR1601101250000000012310695"
+    "question": "What is the Registration Number of Altcoin Global Ltd as indicated in company_registration_1.txt?",
+    "answer": "203456"
   },
   {
-    "question": "Based on the website screenshot, what visual elements are used to portray QuantumAlgo?",
-    "answer": "Sleek, modern design with animated charts and graphs demonstrating impressive returns, prominent testimonials, and a 'Join Now' button."
+    "question": "According to sar_3.xml, which Barclays account is being investigated and what is its account number?",
+    "answer": "Account XYZ, GB28BARC40000001234567"
   },
   {
-    "question": "What is the destination account used for all transactions mentioned in the provided files?",
-    "answer": "BM000000000000000000"
+    "question": "Email_4 suggests that what action needs to be taken to prevent account suspension?",
+    "answer": "A swift deposit of 2000 EUR"
   },
   {
-    "question": "What is the link provided in the email regarding KYC verification?",
-    "answer": "www.quantumalgo.fake/kyc"
+    "question": "What is the date of incorporation of Altcoin Global Ltd?",
+    "answer": "2023-03-15"
+  },
+  {
+    "question": "What does the screenshot_1.txt describe concerning the dashboard's displayed graph?",
+    "answer": "The dashboard displays a graph showing exponential growth over the past few months, with daily profit percentages ranging from 1% to 3%."
   }
 ]

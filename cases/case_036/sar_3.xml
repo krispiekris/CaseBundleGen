@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>UK2024-8910</ReportID>
+  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  <Subject>
+    <Name>Chinedu Okoro</Name>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount>3500</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>US817100000000000000</DestinationAccount>
+    <DestinationName>Global Assets Holdings LLC</DestinationName>
+    <Purpose>Investment</Purpose>
+  </Transaction>
+  <Findings>Unusual transaction pattern; funds transferred to offshore shell company.</Findings>
+</SAR>

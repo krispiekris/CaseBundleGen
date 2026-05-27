@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportID>BUL2024-005</ReportID>
+  <ReportingInstitution>First Investment Bank</ReportingInstitution>
+  <Subject>
+    <Name>Global Investments Ltd</Name>
+    <Account>BG48BNES99491100004444</Account>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-01</Date>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <DestinationAccount>000000001234567890</DestinationAccount>
+    <DestinationName>David Miller</DestinationName>
+    <Purpose>Investment Withdrawal</Purpose>
+  </Transaction>
+  <Findings>High volume of incoming transfers from UK-based accounts.  Potentially linked to investment scam.</Findings>
+</SAR>

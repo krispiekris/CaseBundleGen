@@ -1,0 +1,1 @@
+Screenshot Description: Victim's captured screenshot of the QuantumAI dashboard.  Shows a graph trending upwards with a large number displayed, purportedly representing daily profits.  Displays the name 'Altcoin Global Ltd' as the recipient of funds.  Shows a 'Withdrawal' button, but is greyed out.

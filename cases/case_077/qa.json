@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the promotional material, what is a key benefit of using the QuantumLeap AI Trader?",
+    "answer": "Daily Profit Potential"
+  },
+  {
+    "question": "What is the purpose stated for the EUR 10,000 transaction from Hans Schmidt's account in sar_1.xml?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What action does QuantumLeap Compliance Team request from Hans Schmidt in email_2.txt?",
+    "answer": "Provide copies of identification documents (passport/ID card) and a recent bank statement"
+  },
+  {
+    "question": "Which destination account is repeatedly mentioned across multiple files (SARs and bank statements)?",
+    "answer": "BZ12060110100000000000"
+  },
+  {
+    "question": "What is the primary concern highlighted by the Belize International Bank in sar_3.xml?",
+    "answer": "Large transfers with no apparent legitimate purpose"
+  },
+  {
+    "question": "What specific reason does the account manager provide in email_3.txt for Hans Schmidt to deposit additional funds?",
+    "answer": "To fully capitalize on a significant trading opportunity"
+  },
+  {
+    "question": "Based on the screenshot_1.txt, what visual elements are present on the QuantumLeap AI Trader login page?",
+    "answer": "A clean, modern design, a large logo, prominent login fields, a blurred image of a city skyline, and a 'Forgot Password' link."
+  },
+  {
+    "question": "What amount triggers the verification requirement for withdrawals, as stated in email_2.txt?",
+    "answer": "Over 2500 EUR"
+  },
+  {
+    "question": "What is the reported amount of profit Markus78 claims to have made, according to the promotional_material_2.txt?",
+    "answer": "Over 1000 EUR"
+  },
+  {
+    "question": "According to sar_2.xml, what is the source of the EUR 15,000 transaction?",
+    "answer": "Unknown"
+  }
+]
