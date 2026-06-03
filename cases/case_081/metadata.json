@@ -1,54 +1,58 @@
 {
-  "case_id": "CR2024-078",
+  "case_id": "2024-CR-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
-    "country": "Germany",
+    "age_range": "60-65",
+    "income_range": "$75,000 - $100,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Serbia",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Serbian"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Kingdom"
+    "Hungary",
+    "Czech Republic"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim discovers 'NovaTrade AI' website"
+      "date": "2023-03-15",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-12-05",
-      "event": "Victim makes initial investment of \u20ac2,000"
+      "date": "2023-04-22",
+      "event": "Victim deposits first amount into trading account"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim receives fake 'profit' distribution of \u20ac500"
+      "date": "2023-07-10",
+      "event": "Victim withdraws a small profit to build trust"
     },
     {
-      "date": "2024-02-20",
-      "event": "Victim attempts to withdraw funds, denied"
+      "date": "2023-09-05",
+      "event": "Victim invests a larger sum"
     },
     {
-      "date": "2024-03-15",
-      "event": "Victim reports fraud to authorities"
+      "date": "2023-11-18",
+      "event": "Victim attempts to withdraw funds and is blocked"
+    },
+    {
+      "date": "2024-01-28",
+      "event": "Victim reports the incident"
     }
   ],
   "assets_involved": [
     {
       "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac2,000 - \u20ac5,000"
+      "amount_range": "$10,000 - $20,000"
     },
     {
-      "type": "EUR Bank Funds",
-      "amount_range": "\u20ac2,000 - \u20ac7,000"
+      "type": "Trading Account Funds",
+      "amount_range": "$15,000 - $30,000"
     }
   ]
 }

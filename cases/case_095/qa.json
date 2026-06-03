@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_3.xml, what is the overall assessment of the activity involving QuantumLeap AI Ltd?",
-    "answer": "Strong indication of investment fraud."
+    "question": "According to the initial welcome email, what is the primary function of the AI algorithms used by AI Profit Solutions?",
+    "answer": "To maximize investment returns."
   },
   {
-    "question": "Based on bank_statement_1.csv, what was the purpose of the transactions to QuantumLeap AI Ltd?",
-    "answer": "Investment"
+    "question": "What is the description associated with the initial investment transaction (TXN-001) in the first SAR file?",
+    "answer": "Initial Investment"
   },
   {
-    "question": "What is the purpose of the email_4.txt?",
-    "answer": "To prompt the victim to deposit 1000 EUR to maintain their account and avoid closure."
+    "question": "What date was the initial investment transaction (TXN-001) made?",
+    "answer": "2023-09-01"
   },
   {
-    "question": "According to sar_2.xml, what is the main finding concerning Victim 1's transactions?",
-    "answer": "Pattern suggests possible investment fraud."
+    "question": "What action was attempted by Markus Baumann in the second SAR file and why was it denied?",
+    "answer": "Withdrawal Attempt Denied; concerns raised about platform legitimacy."
   },
   {
-    "question": "What is the amount of the salary received by Victim 1 on 2024-02-15 according to bank_statement_1.csv?",
-    "answer": "3500 EUR"
+    "question": "According to promotional material, what is a key feature of AI Profit Solutions that differentiates it from traditional investing?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the website's display?",
-    "answer": "It shows a website interface displaying a live trading chart with a rapidly increasing line graph and testimonials praising the platform."
+    "question": "Based on the screenshot of the website, what is a prominent visual element used to promote AI Profit Solutions?",
+    "answer": "Charts displaying upward trends"
   },
   {
-    "question": "According to sar_4.xml, what is the purpose of the transaction to QuantumLeap AI Ltd. on 2024-03-10?",
-    "answer": "Investment"
+    "question": "What unusual activity prompted the verification email sent to Markus Baumann?",
+    "answer": "Unusual activity on his account."
   },
   {
-    "question": "What specific destinations, beyond Belize, are funds being transferred to according to bank_statement_2.csv?",
-    "answer": "Offshore Investments Panama"
+    "question": "What is the supposed balance of Markus Baumann\u2019s AI Profit Solutions account according to email_2.txt?",
+    "answer": "\u20ac7,850"
   },
   {
-    "question": "What does the brochure_1.txt claim about the returns experienced by users of QuantumLeap AI?",
-    "answer": "Experience consistent profits with daily payout opportunities."
+    "question": "Which entity sent a payment of 500 EUR to Markus Baumann, as described in SAR_3.xml?",
+    "answer": "AI Profit Solutions"
   },
   {
-    "question": "Based on email_3.txt, what action did the victim request?",
-    "answer": "A withdrawal of 2000 EUR from their account."
+    "question": "What is the intended outcome, as stated in promotional material_3.txt, for those who sign up for AI Profit Solutions?",
+    "answer": "Start building your financial empire"
   }
 ]

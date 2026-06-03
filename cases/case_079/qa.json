@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what is the account number of Hans M\u00fcller?",
-    "answer": "DE87370400440532013000"
+    "question": "What is the stated purpose of the initial transaction of \u20ac2500.00 made by Hans Meier?",
+    "answer": "Initial investment to AI Trading Platform"
   },
   {
-    "question": "What is the purpose indicated for the transfers from Hans M\u00fcller to Altcoin Global Ltd, as stated in SAR_1.xml?",
-    "answer": "Investment"
+    "question": "According to the email from AI Trading Pro, what benefit is offered to new sign-ups?",
+    "answer": "A free consultation with one of our financial advisors"
   },
   {
-    "question": "Which bank filed SAR_2.xml and what is its report ID?",
-    "answer": "Deutsche Bank; DE2023-457"
+    "question": "What suspicious indicator related to the transaction to SecurePay Solutions was noted in the SAR reports?",
+    "answer": "Unusual transfer destination (Nigeria)"
   },
   {
-    "question": "Based on email_2.txt, why does QuantumLeap AI claim a deposit is needed?",
-    "answer": "To boost the AI\u2019s performance and ensure continued returns."
+    "question": "What amount was initially deposited into Hans Meier's account via AI Trading Pro?",
+    "answer": "2500.00 EUR"
   },
   {
-    "question": "What is the destination account in all three transactions mentioned in SAR_3.xml?",
-    "answer": "DE87370400440532013000"
+    "question": "Based on the screenshot of the AI Trading Pro dashboard, what digital assets does Hans Meier appear to own?",
+    "answer": "BTC: 0.523 BTC, EUR: 1,480.00"
   },
   {
-    "question": "According to email_3.txt, what reason is given for requiring an additional deposit?",
-    "answer": "To verify identity, as a standard security procedure."
+    "question": "What action was taken regarding the attempted withdrawal of 3500.00 EUR?",
+    "answer": "Attempted withdrawal denied by platform"
   },
   {
-    "question": "What amount was deposited by Hans M\u00fcller on 2023-03-01 according to bank_statement_2.csv?",
-    "answer": "-500 EUR"
+    "question": "Which testimonial praises the accuracy of the AI trading platform?",
+    "answer": "Klaus Weber, Hamburg"
   },
   {
-    "question": "What is the domain name mentioned in the promotional email (email_1.txt)?",
-    "answer": "www.quantumleap.fake"
+    "question": "What is the subject of the email sent from SecurePay Solutions to Hans Meier?",
+    "answer": "SecurePay Account Verification"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the QuantumLeap AI website?",
-    "answer": "The 'QuantumLeap AI' website features a clean, modern design with graphs showing exponential profit growth, prominent buttons encouraging deposits, and testimonials."
+    "question": "What is the reported account balance and profit for the month mentioned in the AI Trading Pro account update email?",
+    "answer": "Account Balance: \u20ac7,850.00, Profit this Month: \u20ac2,350.00"
   },
   {
-    "question": "Which entity is identified as the reporting institution in SAR_1.xml?",
-    "answer": "Deutsche Bank"
+    "question": "Besides the initial deposit, what other amounts did Hans Meier deposit to AI Trading Pro?",
+    "answer": "1500.00 EUR"
   }
 ]

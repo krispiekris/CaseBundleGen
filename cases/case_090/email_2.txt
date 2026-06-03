@@ -1,13 +1,1 @@
-From: adebayo@quantumriseai.fake
-To: david.miller@example.com
-Subject: Maximizing Your Returns with QuantumRise AI
-
-Dear David,
-
-I'm Adebayo, your dedicated representative at QuantumRise AI. I'm excited to help you unlock the full potential of our platform.
-
-To accelerate your returns, consider adding another €5,000 to your account. Our AI predicts a significant market opportunity in the coming weeks, and this could increase your profits substantially.
-
-Sincerely,
-Adebayo
-QuantumRise AI Support
+From: mark.hamilton@example.ca\nTo: support@aionauticstrading.com\nSubject: Unable to access my account\n\nDear Aionautics Trading Support,\n\nI am unable to access my account. I have tried resetting my password multiple times, but I am still unable to log in. I have also tried contacting my account manager, Alex, but have not received a response.\n\nCould you please assist me in regaining access to my account as soon as possible?\n\nThank you,\nMark Hamilton

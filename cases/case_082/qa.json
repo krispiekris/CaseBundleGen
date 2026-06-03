@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR filed by Deutsche Bank, what is Karl Schmidt's bank account number?",
-    "answer": "DE89370400440532013000"
+    "question": "What was the initial investment amount Michael Schmidt made, according to the telegram chat?",
+    "answer": "\u20ac5000"
   },
   {
-    "question": "What is the stated purpose of the initial EUR 500 transfer from Karl Schmidt's account to NovaTrade AI Ltd?",
-    "answer": "Investment"
+    "question": "What is the date of the first Suspicious Activity Report (SAR) filed concerning Michael Schmidt?",
+    "answer": "2023-12-05"
   },
   {
-    "question": "Which bank filed the SAR related to NovaTrade AI Ltd, and what was their primary finding?",
-    "answer": "First Bulgarian Bank. The company appears to be engaged in questionable investment activities."
+    "question": "Which bank account was used as a recipient for the transfers related to this case?",
+    "answer": "GB21NWBK00000000001234"
   },
   {
-    "question": "What does the promotional brochure for NovaTrade AI highlight as a key feature of their platform?",
-    "answer": "Automated Trading"
+    "question": "According to the promotional email, what is the advertised potential return on investment for new investors?",
+    "answer": "Doubling their initial investments in as little as three weeks"
   },
   {
-    "question": "What is the stated purpose of the transfers from Karl Schmidt to NovaTrade AI Ltd in the SAR filed by Deutsche Bank?",
-    "answer": "Investment and Investment Return"
+    "question": "What reason was provided for the administrative fee request to Michael Schmidt?",
+    "answer": "To expedite the withdrawal process and ensure the security of funds"
   },
   {
-    "question": "Based on the email from support@novatradeai.fake, what is the perceived benefit for investors joining NovaTrade AI?",
-    "answer": "Consistent profits with minimal effort"
+    "question": "Which bank is associated with the account used for the administrative fee?",
+    "answer": "Zenith Bank"
   },
   {
-    "question": "What does the screenshot of the NovaTrade AI login page display, and what is noticeable about the 'Withdraw Funds' button?",
-    "answer": "It displays a login page with the NovaTrade AI logo and a disclaimer stating 'AI Trading - Results Not Guaranteed'. The 'Withdraw Funds' button is greyed out and unresponsive."
+    "question": "What is the recipient country associated with the initial transfers to CryptoTrade Solutions?",
+    "answer": "United Kingdom"
   },
   {
-    "question": "What significant transfers (in USD) were made from NovaTrade AI Ltd\u2019s account to an offshore account, according to the bank statement for First Bulgarian Bank?",
-    "answer": "USD 1500 and USD 2000"
+    "question": "Based on the SAR reports, what is the most significant pattern observed in Michael Schmidt\u2019s transactions?",
+    "answer": "Multiple transfers to CryptoTrade Solutions, followed by a request for an administrative fee."
   },
   {
-    "question": "What does the email with the subject line 'Urgent: Potential Losses & Recovery Options' suggest to Karl Schmidt?",
-    "answer": "It suggests a strategic deposit is recommended to recover potential losses."
+    "question": "What is the date of the last salary transaction recorded in Michael Schmidt\u2019s bank statement?",
+    "answer": "2024-02-15"
   },
   {
-    "question": "Which institution filed the SAR relating to transfers to NovaTrade AI Ltd from an unknown source and what was the purpose of those transfers?",
-    "answer": "Cyprus Popular Bank. The purpose was Investment."
+    "question": "According to the promotional email, what is offered to new investors?",
+    "answer": "A free consultation with an expert AI trading advisor"
   }
 ]

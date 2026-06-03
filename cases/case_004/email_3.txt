@@ -1,14 +1,11 @@
-From: NovaTech Support <support@novatechtrader.com>
-To: david.miller@example.com.au
-Subject: Verification Required - NovaTech AI Trader
+From: Adrian.Blake@quantumleap.ai
+To: david.miller@canadarisk.ca
+Subject: Important Update Regarding Your QuantumLeap AI Account
 
 Dear David,
 
-To maintain the security of your account, we require you to verify your identity. Please reply to this email with a copy of your passport or driver's license.
-
-We also noticed that you haven't reinvested your profits yet.  Another deposit of 7500 EUR will significantly boost your returns.
-
-Thank you for your cooperation.
+We've noticed some unusual activity on your account. To ensure the security of your investment, we've temporarily suspended your trading privileges. Please verify your identity and account details by clicking on the following link: [Suspicious Link]
 
 Sincerely,
-The NovaTech Support Team
+Adrian Blake
+QuantumLeap AI Support

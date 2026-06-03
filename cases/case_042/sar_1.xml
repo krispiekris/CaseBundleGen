@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-09-05</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <Account>
+    <AccountID>1234567890</AccountID>
+    <AccountHolder>Hans Meier</AccountHolder>
+    <Country>Germany</Country>
+  </Account>
+  <SuspiciousTransaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Recipient>
+      <Name>Quantum AI Trading LLC</Name>
+      <Country>Belize</Country>
+      <AccountID>9876543210</AccountID>
+    </Recipient>
+    <Description>Initial investment to Quantum AI Trading platform</Description>
+    <Findings>Unusual large transfer to an offshore company claiming AI trading services. Account holder's investment profile doesn't align with such high-risk activities.</Findings>
+  </SuspiciousTransaction>
+</SAR>

@@ -1,55 +1,54 @@
 {
-  "case_id": "CY2024-11-007",
+  "case_id": "2024-Alpha-Sierra-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac120,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Kingdom"
+    "Seychelles",
+    "Vanuatu"
   ],
   "timeline": [
     {
-      "date": "2023-10-15",
-      "event": "Victim discovers 'NovaTrade AI' online."
+      "date": "2023-08-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-11-01",
-      "event": "Initial deposit made by victim."
+      "date": "2023-09-01",
+      "event": "Investment of \u20ac5,000"
     },
     {
-      "date": "2023-11-15",
-      "event": "Victim sees fabricated profit reports."
+      "date": "2023-11-10",
+      "event": "Second investment of \u20ac10,000"
     },
     {
-      "date": "2024-01-05",
-      "event": "Victim attempts to withdraw funds, is denied."
+      "date": "2024-01-20",
+      "event": "Victim attempts withdrawal, unsuccessful"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim files a complaint with local authorities."
+      "date": "2024-02-05",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "Bank Account (EUR)",
+      "amount_range": "\u20ac0 - \u20ac500"
     }
   ]
 }

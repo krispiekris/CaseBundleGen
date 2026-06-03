@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the report ID for the SAR filed by Deutsche Bank?",
-    "answer": "DE2024-123"
+    "question": "According to the promotional material, what is a key feature of Quantum AI Investments?",
+    "answer": "Automated Trading \u2013 No experience needed!"
   },
   {
-    "question": "According to sar_3.xml, which country is Evergreen Solutions Ltd located in?",
-    "answer": "Belize"
+    "question": "What was the description given for the cryptocurrency purchase transaction in the SAR report from November 2023?",
+    "answer": "Cryptocurrency Purchase"
   },
   {
-    "question": "What is the purpose stated for the transactions from Victim 1's account to Altcoin Global Ltd?",
-    "answer": "Investment"
+    "question": "What was the amount of the cryptocurrency purchase in the SAR report from December 2023?",
+    "answer": "10000.00"
   },
   {
-    "question": "Based on email_3.txt, what reason is given for the temporary delay in the withdrawal request?",
-    "answer": "Ongoing maintenance on the platform"
+    "question": "What did Alex tell David about the AI's functionality?",
+    "answer": "It's proprietary, David. We can't disclose all the details, but trust me, it's top-of-the-line."
   },
   {
-    "question": "What is the account number of Victim 1?",
-    "answer": "GR1601101250000000012310695"
+    "question": "Based on the Telegram chatlog, what excuse did Alex provide for the delay in processing David's withdrawal request?",
+    "answer": "There appears to be a temporary security issue. We're working on it."
   },
   {
-    "question": "Which bank submitted the SAR with ReportID DE2024-456?",
-    "answer": "Commerzbank"
+    "question": "According to the screenshot of the trading platform, what is the 'Current Portfolio Value' displayed?",
+    "answer": "$35,780.00"
   },
   {
-    "question": "What is the minimum deposit amount mentioned in email_1.txt?",
-    "answer": "\u20ac500"
+    "question": "What type of activity was flagged as suspicious in the SAR report from February 2024?",
+    "answer": "Withdrawal request denied due to account restrictions."
   },
   {
-    "question": "What destination account did Altcoin Global Ltd use when transferring 3000 EUR according to sar_3.xml?",
-    "answer": "BZ1234567890"
+    "question": "What was the approximate range of time between the initial welcome email and the first mention of significant gains in the Telegram chatlog?",
+    "answer": "Approximately one month"
   },
   {
-    "question": "According to bank_statement_1.csv, what was the beneficiary of the incoming transfer on 2023-12-20?",
-    "answer": ""
+    "question": "Based on the provided information, what actions did David take leading up to the withdrawal request?",
+    "answer": "David funded his account, made cryptocurrency purchases, and added more funds."
   },
   {
-    "question": "What alarming message does the Deutsche Bank email in email_4.txt convey?",
-    "answer": "Unusual activity detected on the account requiring verification via a link."
+    "question": "What entities are mentioned in the promotional material and the screenshot of the trading platform?",
+    "answer": "Quantum AI Investments"
   }
 ]

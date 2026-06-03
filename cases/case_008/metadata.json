@@ -1,54 +1,55 @@
 {
-  "case_id": "CY2024-077",
+  "case_id": "2024-03-15-CS-0047",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-90000 USD",
-    "country": "United States",
+    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Seychelles"
+    "Nigeria",
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim contacted via email about AI trading opportunity"
+      "date": "2023-11-10",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial deposit made by victim"
+      "date": "2023-12-15",
+      "event": "Victim deposits initial investment"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim experiences first 'profit' withdrawal"
+      "date": "2024-01-20",
+      "event": "Promises of high returns begin"
     },
     {
       "date": "2024-02-28",
-      "event": "Victim attempts larger deposit, flagged by bank"
+      "event": "Victim attempts withdrawal, denied"
     },
     {
-      "date": "2024-03-15",
-      "event": "Victim reports fraudulent activity"
+      "date": "2024-03-10",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Account",
-      "amount_range": "50000-100000 USD"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac10,000 - \u20ac15,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.5-2 BTC"
+      "type": "Bank Transfers (EUR)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

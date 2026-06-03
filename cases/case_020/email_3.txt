@@ -1,15 +1,14 @@
-From: novaTradeAI@securemail.biz
-To: hans.schmidt@email.de
-Subject: NovaTrade AI: Your Monthly Profit Statement
+From: 'Support' <support@aitradingpro.com>
+To: David.Anderson@example.com.au
+Subject: Important Notice Regarding Your Withdrawal Request
 
-Dear Hans,
+Dear David,
 
-We're pleased to inform you that your NovaTrade AI account has generated significant profits this month!
+We've received your recent withdrawal request. Due to increased security measures and high transaction volume, there's a slight delay in processing your request.
 
-Your total earnings for the month: €2,500
+To expedite the process, please verify your account by clicking on the following link: [http://aitradingpro.verify](http://aitradingpro.verify)
 
-View your full statement and withdrawal options here: www.novatradeai.fake/statement
+Thank you for your patience.
 
-Keep up the great work!
-
-The NovaTrade AI Team
+Sincerely,
+The AI Trading Pro Support Team

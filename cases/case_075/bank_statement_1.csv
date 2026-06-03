@@ -1,5 +1,7 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-25,ATM Withdrawal,-500,EUR,
-2023-12-01,Transfer to Altcoin Global,-15000,EUR,Altcoin Global Ltd
-2023-12-08,Salary,3500,EUR,Company B
-2023-12-15,Transfer to Altcoin Global,-2000,EUR,Altcoin Global Ltd
+Date,Description,Amount (EUR),IBAN
+2023-11-17,Innovative AI Investments Deposit,5000.00,DE12345678901234567890
+2023-11-20,Service Fee,10.00,DE12345678901234567890
+2023-11-25,Interest,2.50,DE12345678901234567890
+2023-12-05,Service Fee,10.00,DE12345678901234567890
+2023-12-15,Interest,2.50,DE12345678901234567890
+2024-01-05,Withdrawal Attempt,3000.00,DE12345678901234567890

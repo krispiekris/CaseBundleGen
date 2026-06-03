@@ -1,12 +1,9 @@
-Subject: Your NovaTrade AI Portfolio Update - Significant Gains!
+From: David.Miller@example.com.au
+To: info@phoenixrise.ai
+Subject: Account Setup - David Miller
 
-Dear Hans,
+Dear Phoenix Rise AI Team,
 
-Great news! Your NovaTrade AI portfolio has experienced significant growth in the past week, thanks to our advanced trading strategies. Your current balance is showing a profit of 1500 EUR.
+I've just completed the registration process.  I'm very excited to get started.
 
-To maximize your gains, we recommend increasing your investment. A larger investment allows our AI to leverage even more opportunities.
-
-View your portfolio and deposit funds here: www.novatradeai.com/dashboard
-
-Sincerely,
-The NovaTrade AI Team
+David Miller

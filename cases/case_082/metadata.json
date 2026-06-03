@@ -1,55 +1,56 @@
 {
-  "case_id": "CY2024-078",
-  "fraud_type": "Investment Scam",
+  "case_id": "2024-ALPHA-078",
+  "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-90000",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "Russian"
+      "Pidgin English",
+      "Yoruba"
     ]
   },
   "destination_countries": [
-    "Bulgaria",
-    "Cyprus"
+    "Nigeria",
+    "Ghana",
+    "Cameroon"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim discovers 'NovaTrade AI' online."
+      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
     },
     {
       "date": "2023-12-01",
-      "event": "Initial investment of 500 EUR made."
+      "event": "Initial investment of \u20ac5,000 made"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim begins receiving 'profit' payouts."
+      "event": "Victim receives fabricated profits, encouraged to reinvest"
     },
     {
-      "date": "2024-03-20",
-      "event": "Victim attempts to withdraw larger sum, faces difficulty."
+      "date": "2024-02-28",
+      "event": "Victim attempts withdrawal, faces escalating fees and delays"
     },
     {
-      "date": "2024-04-05",
-      "event": "Victim reports incident to bank."
+      "date": "2024-03-15",
+      "event": "Victim reports fraud to German authorities"
     }
   ],
   "assets_involved": [
     {
       "type": "Cryptocurrency (BTC)",
-      "amount_range": "1-5"
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "EUR",
-      "amount_range": "5000-15000"
+      "type": "Bank Transfers (EUR)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     }
   ]
 }

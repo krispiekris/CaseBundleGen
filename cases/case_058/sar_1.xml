@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2023-128</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-30</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial deposit to an account linked to potential investment fraud. Further investigation recommended.</Findings>
-</SAR>
+<SAR xmlns="http://www.example.com/sar">\n  <Header>\n    <ReportDate>2023-05-25</ReportDate>\n    <FilerID>FirstNationalBank</FilerID>\n    <SuspiciousActivityType>Potential Investment Fraud</SuspiciousActivityType>\n  </Header>\n  <Transaction>\n    <TransactionID>TXN12345</TransactionID>\n    <TransactionDate>2023-04-01</TransactionDate>\n    <TransactionAmount>5000.00</TransactionAmount>\n    <Currency>USD</Currency>\n    <SenderName>David Miller</SenderName>\n    <SenderAccount>1234567890</SenderAccount>\n    <ReceiverName>AlgoTrade Pro</ReceiverName>\n    <ReceiverAccount>9876543210</ReceiverAccount>\n    <ReceiverCountry>Romania</ReceiverCountry>\n    <Description>Initial investment to AlgoTrade Pro platform</Description>\n  </Transaction>\n  <Findings>\n    <Finding>Unusual activity based on investment platform reputation and unsolicited contact.</Finding>\n  </Findings>\n</SAR>

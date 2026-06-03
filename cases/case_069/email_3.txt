@@ -1,10 +1,1 @@
-Subject: Account Verification Required
-
-Dear Hans Schmidt,
-
-We've detected unusual activity on your account. To ensure your security, please verify your login details and banking information.
-
-Click here to verify: [phishing link]
-
-Best Regards,
-Security Department
+From: Agent_001@ai-tradingpro.com\nTo: David.Miller@example.com\nSubject: Urgent: Regarding Your Withdrawal Request\n\nDear David,\n\nWe’re experiencing some technical difficulties processing your withdrawal request. To resolve this issue, please send us a small transaction of $1000 AUD to the following account:\n\nAccount Name: Global Investments Ltd\nBank: Zenith Bank Nigeria\nAccount Number: 1234567890\n\nOnce the transaction is confirmed, your withdrawal will be processed immediately.\n\nThank you for your patience.\n\nThe AI Trading Pro Team

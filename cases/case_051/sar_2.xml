@@ -1,19 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2023-0052</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE8780000000000001234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1503000000000012345678</DestinationAccount>
-    <DestinationName>QuantumLeap AI Investments</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Further deposits made into QuantumLeap AI platform. Victim claims inability to withdraw funds. Potential investment fraud.</Findings>
-  <ReportDate>2023-12-10</ReportDate>
+  <Header>
+    <SARReference>20230920-GER-002</SARReference>
+    <DateTime>2023-09-20T09:00:00Z</DateTime>
+    <SubmittedBy>Commerzbank</SubmittedBy>
+  </Header>
+  <TransactionDetails>
+    <TransactionID>TXN-56789</TransactionID>
+    <TransactionDate>2023-09-15</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <OriginatingBank>Commerzbank</OriginatingBank>
+    <BeneficiaryBank>Not Available</BeneficiaryBank>
+    <BeneficiaryAccount>Unknown</BeneficiaryAccount>
+  </TransactionDetails>
+  <PartyInformation>
+    <Sender>
+      <Name>Klaus Heinz</Name>
+      <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>AI Profit Solutions</Name>
+      <Location>Cyprus</Location>
+    </Receiver>
+  </PartyInformation>
+  <Findings>
+    <SuspiciousActivity>Large transfer to a potentially high-risk jurisdiction.  Transfer made following pressure from account manager.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

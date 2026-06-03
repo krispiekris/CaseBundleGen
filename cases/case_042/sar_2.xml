@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-042</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB80BARC20400193751082</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-11-10</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB80BARC20400193751082</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial deposit, consistent with known fraudulent activity. Destination account linked to UK-based entity with limited public information.</Findings>
+  <ReportDate>2024-02-03</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <Account>
+    <AccountID>1234567890</AccountID>
+    <AccountHolder>Hans Meier</AccountHolder>
+    <Country>Germany</Country>
+  </Account>
+  <SuspiciousTransaction>
+    <TransactionDate>2023-11-10</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Recipient>
+      <Name>Quantum AI Trading LLC</Name>
+      <Country>Belize</Country>
+      <AccountID>9876543210</AccountID>
+    </Recipient>
+    <Description>Second investment to Quantum AI Trading platform</Description>
+    <Findings>Further investment to the same offshore company, increasing concerns about potential fraudulent activity. Account holder reported inability to withdraw funds.</Findings>
+  </SuspiciousTransaction>
 </SAR>

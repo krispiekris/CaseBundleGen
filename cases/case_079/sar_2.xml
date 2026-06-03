@@ -1,35 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2023-457</ReportID>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-01-15</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <DateOfReport>2023-04-05</DateOfReport>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2022-12-01</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Hans Müller</DestinationName>
-    <Purpose>Deposit</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-01-10</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Hans Müller</DestinationName>
-    <Purpose>Deposit</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-02-15</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Hans Müller</DestinationName>
-    <Purpose>Deposit</Purpose>
-  </Transaction>
-  <Findings>Company registered in Lithuania receiving multiple transfers from individuals with suspicious transaction patterns.  Further investigation warranted.</Findings>
-  <ReportType>Suspicious Transaction Report</ReportType>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-10</TransactionDate>
+      <Amount>3500.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Hans Meier</Name>
+        <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>SecurePay Solutions</Name>
+        <Account>1234567890</Account>
+        <Bank>Zenith Bank</Bank>
+        <Country>Nigeria</Country>
+      </Beneficiary>
+      <Description>Attempted withdrawal from AI Trading Platform</Description>
+    </Transaction>
+    <Findings>
+      <SuspiciousIndicator>Attempted withdrawal denied by platform</SuspiciousIndicator>
+      <SuspiciousIndicator>Account activity inconsistent with user profile</SuspiciousIndicator>
+    </Findings>
+  </SuspiciousActivity>
 </SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the ReportID of the SAR filed by Deutsche Bank regarding Victim 1?",
-    "answer": "INV2024-025"
+    "question": "What initial investment amount was offered to David Miller by Global Investments?",
+    "answer": "$5,000"
   },
   {
-    "question": "According to email_2.txt, what is suggested to increase in order to amplify profits?",
-    "answer": "Investment capital"
+    "question": "According to the SAR, what was the primary reason for the initial suspicion regarding David Miller's transactions?",
+    "answer": "Potential investment fraud. Unusually high returns promised. Destination country is high risk."
   },
   {
-    "question": "Which bank filed the SAR (INV2024-038) concerning Altcoin Global Ltd?",
-    "answer": "Belizean Investment Bank"
+    "question": "What is the IBAN associated with the receiver\u2019s account in the transactions?",
+    "answer": "BG88UNCR7000140000001"
   },
   {
-    "question": "What is the purpose stated for the transaction of 5000 EUR on 2023-09-01 in sar_1.xml?",
-    "answer": "Investment"
+    "question": "What was the description associated with the transaction made on 2024-01-10?",
+    "answer": "Withdrawal Request Denial"
   },
   {
-    "question": "Based on the screenshot_1.txt, what is the proclaimed daily ROI?",
-    "answer": "1.5%"
+    "question": "Based on the promotional material, what is one advertised benefit of the Alpha AI Trading System?",
+    "answer": "Automated Trading: No experience needed."
   },
   {
-    "question": "What document does the victim appear to have been requested to provide in email_4.txt?",
-    "answer": "Passport"
+    "question": "What is the date of the screenshot provided, indicating the Alpha AI Trading System\u2019s performance?",
+    "answer": "Not mentioned in the case files"
   },
   {
-    "question": "What is the destination account in sar_2.xml?",
-    "answer": "VC34567890123"
+    "question": "What additional investment did David Miller make on 2024-02-22?",
+    "answer": "$15,000"
   },
   {
-    "question": "According to bank_statement_2.csv, which entity received a transfer of 3500 EUR?",
-    "answer": "St. Vincent and the Grenadines Company"
+    "question": "What action did the email from account.support@globalinvestments.tech request from David Miller?",
+    "answer": "To verify his information by clicking on a link."
   },
   {
-    "question": "What is the phone number listed for support in email_3.txt?",
-    "answer": "+1-800-QUANTUMFX"
+    "question": "Which bank teller flagged the transaction involving David Miller, raising concerns about a potential scam?",
+    "answer": "Branch Teller"
   },
   {
-    "question": "What does the brochure_1.txt claim about the QuantumFX AI Trader platform?",
-    "answer": "No prior experience required"
+    "question": "What was the amount of the electricity bill recorded in the bank statement?",
+    "answer": "-150.00"
   }
 ]

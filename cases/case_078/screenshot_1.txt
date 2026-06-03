@@ -1,1 +1,0 @@
-The AlphaTrade AI website interface displays a clean, modern design.  A large graph dominates the center of the screen, visually representing account balance growth.  Below the graph are buttons labeled 'Deposit,' 'Withdraw,' and 'Reinvest.'  The top right corner displays a countdown timer supposedly indicating the time remaining to claim a special bonus.

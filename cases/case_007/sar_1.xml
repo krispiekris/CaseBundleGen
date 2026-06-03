@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DEU2024-123</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Müller</Name>
-    <Account>DE45370300430010000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12010100010102030405</DestinationAccount>
-    <DestinationName>InnovAI Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual investment activity. High-pressure sales tactics suspected.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SARReferenceID>SAR-20231110-001</SARReferenceID>
+    <DateFiled>2023-11-10</DateFiled>
+    <ReportingBank>Deutsche Bank</ReportingBank>
+  </Header>
+  <Customer>
+    <CustomerID>123456789</CustomerID>
+    <Name>Hans Baumann</Name>
+    <Address>Musterstrasse 1, 10115 Berlin</Address>
+  </Customer>
+  <SuspiciousActivity>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <RecipientName>Crypto Innovations</RecipientName>
+    <RecipientAccount>X789012345</RecipientAccount>
+    <RecipientBank>United Bank of Singapore</RecipientBank>
+    <SWIFTCode>UBSBXXXX</SWIFTCode>
+    <Description>Investment in Crypto Innovations</Description>
+  </SuspiciousActivity>
+  <Findings>
+    The transaction appears consistent with a potential investment fraud scheme. Further investigation is warranted.
+  </Findings>
 </SAR>

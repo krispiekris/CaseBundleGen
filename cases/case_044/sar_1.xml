@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2024-0047</ReportID>
+<SAR id="SAR-20240310-001">
+  <ReportDate>2024-03-10</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Müller</Name>
-    <Account>DE87370400440532013588</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ0000001234567890</DestinationAccount>
-    <DestinationName>Apex Investments Ltd.</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ0000001234567890</DestinationAccount>
-    <DestinationName>Apex Investments Ltd.</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual activity. Large transfers to offshore account.  Possible investment scam.</Findings>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-01</TransactionDate>
+      <Amount currency="EUR">10000</Amount>
+      <SenderName>Helmut Klein</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Global Crypto Solutions Ltd.</ReceiverName>
+      <ReceiverAccount>GB67NWBK40302182397052</ReceiverAccount>
+      <Description>Transfer to Crypto Recovery Service</Description>
+    </Transaction>
+    <Findings>
+      <Finding>Potential investment fraud involving cryptocurrency recovery services.</Finding>
+      <Finding>Unusually large transfer to an overseas account with an ambiguous company name.</Finding>
+    </Findings>
+  </SuspiciousActivity>
 </SAR>

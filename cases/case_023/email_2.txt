@@ -1,12 +1,10 @@
-From: QuantumAlgo <support@quantumalgo.com>
-To: Victim 1 <victim1@email.com>
-Subject: Maximize Your QuantumAlgo Returns!
+From: hans.meier@email.de
+To: support@ai-elite-trading.com
+Subject: Withdrawal Problem
 
-Dear [Victim Name],
+Dear AI Elite Trading Support,
 
-Your initial investment is performing exceptionally well! To capitalize on this momentum and further accelerate your returns, consider adding to your portfolio.
+I attempted to withdraw €10,000 from my account today, but the transaction failed. Can you please investigate this and let me know what’s happening?
 
-Our AI models predict even greater opportunities in the near future. Don't miss out!
-
-Sincerely,
-The QuantumAlgo Support Team
+Thank you,
+Hans Meier

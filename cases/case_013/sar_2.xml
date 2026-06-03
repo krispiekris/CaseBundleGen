@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AU2024-124</ReportID>
-  <ReportingInstitution>Bank Beta</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-03-05</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple transactions to the same destination account, despite customer's inability to withdraw funds. </Findings>
+  <ReportDate>2023-10-25</ReportDate>
+  <ReportingInstitution>Globex Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>9876543210</TransactionID>
+      <TransactionDate>2023-10-20</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Withdrawal</TransactionType>
+      <OriginatingParty>
+        <Name>Profit Horizon Ltd</Name>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>Klaus Breitling</Name>
+        <Account>DE123456789012345678</Account>
+        <BankName>Sparkasse Nürnberg</BankName>
+        <Country>Germany</Country>
+      </Beneficiary>
+      <Description>Withdrawal request - processing</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Withdrawal attempt failed. Account flagged for review.</Finding>
+  </Findings>
 </SAR>

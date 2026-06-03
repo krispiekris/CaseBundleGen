@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-125</ReportID>
-  <ReportingInstitution>Bank of Belize</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>BZ001234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>7000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>HK123456789012</DestinationAccount>
-    <DestinationName>Golden Dragon Investments</DestinationName>
-    <Purpose>Investment Transfer</Purpose>
-  </Transaction>
-  <Findings>Large sum transferred to a company in Hong Kong with questionable business practices. Source of funds under investigation.</Findings>
+  <ReportDate>2023-07-18</ReportDate>
+  <FilerID>AustralianFinancialAuthority</FilerID>
+  <SuspiciousActivity>
+    <ActivityType>Potential Investment Fraud</ActivityType>
+    <TransactionDetails>
+      <TransactionDate>2023-03-15</TransactionDate>
+      <TransactionAmount>0</TransactionAmount>
+      <TransactionCurrency>N/A</TransactionCurrency>
+      <SenderName>David Miller</SenderName>
+      <RecipientName>AI Trading Solutions</RecipientName>
+    </TransactionDetails>
+    <Findings>
+      Based on multiple complaints and preliminary investigations, this entity is suspected of operating an investment fraud scheme targeting individuals with promises of high returns through AI trading.  The entity’s location and associated financial transfers to offshore jurisdictions warrant further scrutiny.
+    </Findings>
+  </SuspiciousActivity>
 </SAR>

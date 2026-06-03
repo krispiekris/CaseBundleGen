@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>LT2024-0567</ReportID>
-  <ReportingInstitution>Luminor Bank</ReportingInstitution>
+<SAR id="SAR-20240215-002">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Frankfurt</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Altcoin Global Ltd</Name>
+    <Name>Klaus Richter</Name>
+    <Address>Musterstrasse 12, Berlin</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount>3500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG40700001110123451</DestinationAccount>
-    <DestinationName>Chinedu Okoro</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2024-02-10</Date>
+    <Amount currency="EUR">1000.00</Amount>
+    <Type>Debit</Type>
+    <Description>Withdrawal Request - Denied by Platform</Description>
+    <Recipient>
+      <Name>AI Trading Solutions</Name>
+      <Account>XXXXXXXXXXXXXX</Account>
+      <IBAN>DExxxxxxxxxxxxxxxxx</IBAN>
+      <Country>Belize</Country>
+    </Recipient>
   </Transaction>
-  <Findings>Transaction originated from potentially fraudulent source; high-risk jurisdiction.</Findings>
+  <Findings>
+    <SuspiciousActivity>Withdrawal request denied; potential restriction on funds access; possible investment scam.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

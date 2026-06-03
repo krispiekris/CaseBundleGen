@@ -1,3 +1,5 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-12-01,Incoming Transfer,5000,EUR,David Miller
-2024-01-15,Incoming Transfer,2500,EUR,David Miller
+Date,Description,Amount (EUR),IBAN
+2023-09-01,Salary, 3500.00,DExxxxxxxxxxxxxxxxxxxx
+2023-09-15,Transfer to Innovative Investments, -1000.00,DExxxxxxxxxxxxxxxxxxxx
+2023-10-20,Withdrawal Attempt, -5000.00,DExxxxxxxxxxxxxxxxxxxx
+2023-10-25,Interest, 1.25,DExxxxxxxxxxxxxxxxxxxx

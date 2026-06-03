@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by Deutsche Bank?",
-    "answer": "DE2024-123"
+    "question": "According to the promotional material, what is a key benefit of using NovaTech AI for investors?",
+    "answer": "Maximize profits with consistent returns."
   },
   {
-    "question": "According to sar_2.xml, where is Altcoin Global Ltd. registered?",
-    "answer": "A residential address"
+    "question": "What is the account identifier (ID) mentioned in the withdrawal request email?",
+    "answer": "NM12345"
   },
   {
-    "question": "What is the stated purpose of the transfers from Victim 1 to Altcoin Global Ltd. according to sar_1.xml?",
-    "answer": "Investment"
+    "question": "What currency is specified for the transaction amounts in the SAR reports?",
+    "answer": "EUR"
   },
   {
-    "question": "Which email subject line offers a 'guaranteed 15% ROI'?",
-    "answer": "Don't Miss Out - Limited Time Offer!"
+    "question": "Based on the email follow-up, what action was Hans Meier encouraged to take?",
+    "answer": "Click here to secure your spot now."
   },
   {
-    "question": "Based on the brochure_1.txt, what is one of the purported benefits of CryptoGain AI?",
-    "answer": "Daily Profit Potential"
+    "question": "What is the stated governing law for the NovaTech AI platform's terms and conditions?",
+    "answer": "Belize"
   },
   {
-    "question": "What does screenshot_1.txt highlight as a persuasive element of the CryptoGain AI website?",
-    "answer": "A prominent 'Start Trading' button"
+    "question": "What was the Daily Profit displayed in the platform screenshot?",
+    "answer": "\u20ac2,542.37"
   },
   {
-    "question": "According to sar_3.xml, what is the status of the Altcoin Global Ltd. account holder when inquiries were made?",
-    "answer": "Account holder unresponsive to inquiries"
+    "question": "What is the description associated with the initial deposit transaction to NovaTech AI in the SAR report?",
+    "answer": "Initial deposit to AI trading platform"
   },
   {
-    "question": "What action did email_3.txt suggest Victim 1 take to reactivate their withdrawal request?",
-    "answer": "Make a small additional investment"
+    "question": "Besides Hans Meier, who else is mentioned in the SAR reports?",
+    "answer": "NovaTech AI Platform, Deutsche Bank, Barclays"
   },
   {
-    "question": "What is the purpose of email_4?",
-    "answer": "To inquire about the withdrawal request and express concern about an additional investment requirement"
+    "question": "What was the total amount deposited to NovaTech AI by Hans Meier, according to the provided transaction records?",
+    "answer": "\u20ac15,000"
   },
   {
-    "question": "Based on bank_statement_2.csv, how much did Victim 1 transfer in total to Altcoin Global Ltd?",
-    "answer": "6000 EUR"
+    "question": "What unusual activity was reported by Deutsche Bank regarding the initial deposit transaction?",
+    "answer": "Unusual transaction size for customer profile"
   }
 ]

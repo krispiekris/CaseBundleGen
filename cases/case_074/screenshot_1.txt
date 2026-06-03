@@ -1,1 +1,0 @@
-The dashboard displays a clean, modern design with animated charts and graphs. A prominent 'Balance' indicator shows the user's account balance.  Buttons for 'Deposit', 'Withdrawal', and 'AI Trading' are clearly visible.  A newsfeed section displays simulated trading results and testimonials.

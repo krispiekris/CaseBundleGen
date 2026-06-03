@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2024-001</ReportID>
-  <ReportingInstitution>Bank ABC</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment Returns</Purpose>
-  </Transaction>
-  <Findings>Suspicious transfer to a foreign entity with unclear investment purpose.  Further investigation recommended.</Findings>
-</SAR>
+<sar>
+  <report_date>2023-08-05</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Ulrich Baumann</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2023-08-02</transaction_date>
+  <transaction_amount>2500.00</transaction_amount>
+  <transaction_currency>EUR</transaction_currency>
+  <transaction_type>Wire Transfer</transaction_type>
+  <beneficiary_name>Innovative AIX</beneficiary_name>
+  <beneficiary_account>9876543210</beneficiary_account>
+  <beneficiary_country>United Arab Emirates</beneficiary_country>
+  <description>Wire transfer to Innovative AIX - potential investment</description>
+  <suspicious_activity>Potential investment scheme involving AI trading. Customer appears to be new to this type of investment.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

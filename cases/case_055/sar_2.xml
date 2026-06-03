@@ -1,25 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>PA2023-056</ReportID>
-  <ReportingInstitution>Panama Global Bank</ReportingInstitution>
+  <ReportDate>2024-01-25</ReportDate>
+  <OriginatingInstitution>Europäische Zentralbank</OriginatingInstitution>
   <Subject>
-    <Name>Apex Investments LLC</Name>
+    <Name>Global Investments Ltd.</Name>
+    <Location>Road Town, Tortola, British Virgin Islands</Location>
   </Subject>
-  <Transaction>
-    <Date>2023-02-28</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <OriginAccount>DE12110000000000000000</OriginAccount>
-    <OriginName>Hans Kruger</OriginName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-01-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <OriginAccount>DE12110000000000000000</OriginAccount>
-    <OriginName>Hans Kruger</OriginName>
-    <Purpose>Initial Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple incoming transfers from Germany.  Recipient company registered shortly before initial deposit.  Funds likely being laundered.</Findings>
+  <SuspiciousActivity>
+    <ActivityType>Money Laundering</ActivityType>
+    <Description>Receiving large sums of money from multiple individuals with no apparent business relationship. Funds being transferred to Belize.</Description>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount currency="EUR">5000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+    <Transaction>
+      <Date>2023-09-15</Date>
+      <Amount currency="EUR">8000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+    <Transaction>
+      <Date>2023-09-29</Date>
+      <Amount currency="EUR">2000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+    <Transaction>
+      <Date>2023-10-13</Date>
+      <Amount currency="EUR">3000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Possible money laundering operation linked to investment fraud.</Finding>
+  </Findings>
 </SAR>

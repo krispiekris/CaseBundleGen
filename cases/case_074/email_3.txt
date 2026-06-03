@@ -1,12 +1,14 @@
-Subject: Urgent: Verify Your CryptoGenius AI Account
+From: "AI Trading Solutions" <support@aitradingsolutions.com>
+To: David.Miller@example.ca
+Subject: Your AI Trading Account Update
 
-Dear Valued User,
+Dear David,
 
-We've detected suspicious activity on your CryptoGenius AI account. To prevent unauthorized access, please verify your login credentials immediately by clicking on the link below:
+We're pleased to inform you that your AI trading account has reached a new milestone! Your automated system has generated significant profits.
 
-[Phishing Link to Fake Login Page]
+To continue maximizing your returns, we recommend adding more funds to your account.
 
-Failure to verify may result in account suspension.
+Click here to deposit funds: [link to fake deposit page]
 
 Sincerely,
-The CryptoGenius AI Security Team
+The AI Trading Solutions Team

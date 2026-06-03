@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BMU-SAR-2024-007</ReportID>
-  <ReportingInstitution>Bank of Marshall Islands</ReportingInstitution>
-  <Subject>
-    <Name>Marshall Islands Holding Corp</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-01</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG4567890123</DestinationAccount>
-    <DestinationName>Oluwaseun Adebayo</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Funds originating from Europe being transferred to a Nigerian account with no apparent business connection.</Findings>
-  <ReportDate>2024-02-05</ReportDate>
-</SAR>
+<SuspiciousActivityReport>
+  <ReportDate>2024-02-29</ReportDate>
+  <ReportingInstitution>First Canadian Trust</ReportingInstitution>
+  <AccountName>David Miller</AccountName>
+  <AccountID>123456789</AccountID>
+  <TransactionDate>2023-12-05</TransactionDate>
+  <TransactionAmount>5000.00</TransactionAmount>
+  <TransactionCurrency>CAD</TransactionCurrency>
+  <TransactionType>Credit</TransactionType>
+  <BeneficiaryName>Zenith Bank</BeneficiaryName>
+  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
+  <Description>Customer reporting being blocked from withdrawing funds after initial deposit and subsequent smaller withdrawals.  Potentially linked to Quantum AI investment scheme.</Description>
+  <SuspicionLevel>High</SuspicionLevel>
+  <Investigator>Alice Brown</Investigator>
+</SuspiciousActivityReport>

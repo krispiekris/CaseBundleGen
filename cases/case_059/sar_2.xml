@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2023-250</ReportID>
-  <ReportingInstitution>Belize International Bank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from Germany, potential investment fraud.</Findings>
-</SAR>
+<SAR xmlns="http://www.example.com/sar">\n  <Header>\n    <SAR_ID>SAR-20240228-002</SAR_ID>\n    <SubmissionDate>2024-02-28</SubmissionDate>\n  </Header>\n  <BeneficialOwner>\n    <Name>David Miller</Name>\n    <Address>123 Main Street, Anytown, Canada</Address>\n    <DateOfBirth>1972-05-10</DateOfBirth>\n  </BeneficialOwner>\n  <Transaction>\n    <TransactionDate>2024-02-28</TransactionDate>\n    <TransactionAmount currency="CAD">10000.00</TransactionAmount>\n    <TransactionType>Credit</TransactionType>\n    <Description>Attempted Withdrawal - Denied</Description>\n    <Recipient>ProfitMatrix Ltd</Recipient>\n    <RecipientCountry>United Arab Emirates</RecipientCountry>\n  </Transaction>\n  <SuspiciousActivity>Victim reports difficulty withdrawing funds; potential fraudulent investment scheme.</SuspiciousActivity>\n  <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>\n</SAR>

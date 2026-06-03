@@ -1,14 +1,11 @@
-Subject: Urgent: Account Restriction Notice
+From: AI_Trader_Support@ai-trader.tech
+To: Klaus.Schmidt@email.de
+Subject: Account Suspension Notification
 
-Dear [Victim Name],
+Sehr geehrter Herr Schmidt,
 
-Your NovaTrade AI account has been temporarily restricted due to verification issues.
+Aufgrund von ungewöhnlichen Transaktionen wurde Ihr Konto temporär gesperrt.  Bitte kontaktieren Sie unseren Support unter +212-555-1212 um die Angelegenheit zu klären.
 
-To unlock your funds and continue trading, you must deposit an additional 1500 EUR to complete the verification process.
+Mit freundlichen Grüßen,
 
-Please follow this link to make the deposit: [Link to Fake Payment Page]
-
-Failure to comply will result in permanent account closure and loss of funds.
-
-Sincerely,
-NovaTrade AI Support
+Das AI-Trader Team

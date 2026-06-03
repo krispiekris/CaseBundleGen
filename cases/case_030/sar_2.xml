@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-025</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <SARReference>20240115-002</SARReference>
+    <BankName>Commonwealth Bank of Australia</BankName>
+    <Date>2024-01-15</Date>
+  </Header>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>VC34567890123</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal</Purpose>
+    <TransactionID>TXN-987654321</TransactionID>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <Amount>10000</Amount>
+    <Currency>USD</Currency>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Global Investments LTD</ReceiverName>
+    <ReceiverAccount>BG88UNCR7000140000001</ReceiverAccount>
+    <ReceiverBank>Unicredit Bank</ReceiverBank>
+    <ReceiverCountry>Bulgaria</ReceiverCountry>
+    <Description>Withdrawal Request Denial</Description>
   </Transaction>
-  <Findings>Partial withdrawal request, previous large deposits to offshore account.</Findings>
+  <Findings>
+    <SuspiciousActivity>Withdrawal request denied. Inconsistent with reported returns. Possible attempt to obstruct funds recovery.</SuspiciousActivity>
+    <ReportOriginator>Automated System</ReportOriginator>
+  </Findings>
 </SAR>

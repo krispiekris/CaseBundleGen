@@ -1,8 +1,6 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-09-15,ATM,-500,EUR,
-2023-10-20,Wire Transfer,-6000,EUR,Altcoin Global Ltd
-2023-10-27,Salary,3500,EUR,Musterfirma GmbH
-2023-11-03,Online Payment,-120,EUR,Amazon
-2023-11-10,Wire Transfer,2000,EUR,
-2023-11-17,ATM,-300,EUR,
-2023-11-24,Online Payment,-80,EUR,Netflix
+Date,Description,Amount,Balance
+2023-09-15,-5000.00,15000.00
+2023-09-22,Wire Transfer to SecureInvest,-5000.00,10000.00
+2023-10-01,Interest,10.00,10010.00
+2023-11-01,Wire Transfer to SecureInvest,-15000.00,-5000.00
+2023-11-15,Interest,10.00,-4990.00

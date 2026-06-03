@@ -1,30 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>UK2024-03-20-001</ReportID>
-  <ReportingInstitution>HSBC UK</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-22</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-  </Transaction>
-  <Transaction>
-    <Date>2023-10-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-  </Transaction>
-  <Findings>Large influx of funds from Germany.  Multiple transactions to the same account.  Company registration details questionable.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-18</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <SenderName>Klaus Richter</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxxxxxxxxxxx</RecipientAccount>
+      <Description>Withdrawal request attempt</Description>
+      <SuspiciousIndicators>
+        <Indicator>Large withdrawal request</Indicator>
+        <Indicator>Request denied due to verification issues</Indicator>
+      </SuspiciousIndicators>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingEmployee>Jane Doe</ReportingEmployee>
 </SAR>

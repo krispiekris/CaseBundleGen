@@ -1,9 +1,15 @@
-Subject: Urgent: Unlock Your Withdrawn Funds
+From: Nikola@traderai.com
+To: Mark.Peterson@email.com
+Subject: Urgent: Verification Required
 
-Dear John,
+Dear Mark,
 
-We noticed your recent withdrawal request was placed on hold due to system maintenance. To reactivate it and receive your funds, a small additional investment of 1000 EUR is required to cover processing fees.
+We've detected some unusual activity on your TraderAI account and need to verify your identity to ensure the security of your funds.
 
-Claim your funds now! www.algotradepro.fake
+Please click here to complete the verification process: [link]
 
-The AlgoTradePro Team
+Failure to verify your account within 24 hours may result in temporary account suspension.
+
+Regards,
+Nikola
+TraderAI Security Team

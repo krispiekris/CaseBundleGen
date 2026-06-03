@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary purpose initially stated for transactions to CryptoGenius AI according to SAR_1.xml?",
-    "answer": "Investment"
+    "question": "What was the initial amount of the first investment made by David Miller?",
+    "answer": "5000.00"
   },
   {
-    "question": "According to email_2.txt, what is the reason given for requiring an additional deposit from Hans Schmidt?",
-    "answer": "To reactivate the account and proceed with a withdrawal due to a system maintenance issue."
+    "question": "According to the promotional material, what is one benefit of using AI Trading Solutions' system?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "What is the account number associated with GlobalTech Solutions Ltd, as reported in SAR_2.xml?",
-    "answer": "GB82HSBC40400000000001"
+    "question": "What country is listed as the location of the receiver entity in the SAR reports?",
+    "answer": "Cyprus"
   },
   {
-    "question": "Based on promotional_2.txt, what return percentage is advertised by CryptoGenius AI?",
-    "answer": "15% daily returns"
+    "question": "Which suspicious activity was initially flagged in SAR-20230905?",
+    "answer": "Potential Investment Fraud - Unsolicited Contact"
   },
   {
-    "question": "Which entity is associated with the destination account BMU2555555555, and where is it located?",
-    "answer": "Island Holdings Ltd, located in the Marshall Islands."
+    "question": "What action did David Miller take after receiving the initial email from AI Trading Solutions?",
+    "answer": "He expressed interest in learning more."
   },
   {
-    "question": "What suspicious activity triggered the verification email sent to Hans Schmidt, as described in email_3.txt?",
-    "answer": "Suspicious activity on his CryptoGenius AI account"
+    "question": "Based on the provided bank statement, what happened to the account balance after the initial investment of 5000.00?",
+    "answer": "The balance was 5500.00"
   },
   {
-    "question": "According to screenshot_1.txt, what is prominently displayed on the CryptoGenius AI dashboard?",
-    "answer": "A 'Balance' indicator, 'Deposit', 'Withdrawal', and 'AI Trading' buttons, and a newsfeed section."
+    "question": "What is the primary purpose of the email sent from AI Trading Solutions after the account reached a new milestone?",
+    "answer": "To encourage David Miller to deposit more funds."
   },
   {
-    "question": "What is the purpose of the transaction of 7500 EUR from GlobalTech Solutions Ltd to Island Holdings Ltd, as indicated in SAR_3.xml?",
-    "answer": "Consultancy Fees"
+    "question": "What reason did David Miller give for contacting AI Trading Solutions in email_4?",
+    "answer": "Withdrawal Issue"
   },
   {
-    "question": "According to sar_4.xml, what potential scheme is suspected given the consistent outflows of funds to the Marshall Islands?",
-    "answer": "Possible money laundering scheme"
+    "question": "According to promotional material_2, what is one of the claims made about AI trading\u2019s ability to reduce financial risk?",
+    "answer": "AI eliminates emotional decision-making"
   },
   {
-    "question": "What is the amount of the salary received by Hans Schmidt according to bank_statement_1.csv?",
-    "answer": "2500 EUR"
+    "question": "Considering the transactions listed in the SAR reports, what is the total amount transferred to Global Investments Ltd. by David Miller?",
+    "answer": "20000.00"
   }
 ]

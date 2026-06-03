@@ -1,5 +1,5 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-Alpha-Omega-774",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -17,43 +17,43 @@
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Arab Emirates"
+    "Malta",
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Victim contacts 'investment advisor'"
+      "date": "2023-03-15",
+      "event": "Victim contacts 'AI Trading Platform'"
     },
     {
-      "date": "2023-09-22",
+      "date": "2023-04-22",
       "event": "Initial investment made"
     },
     {
-      "date": "2023-12-01",
-      "event": "Victim receives fabricated profit distributions"
+      "date": "2023-06-10",
+      "event": "Victim receives fabricated profits"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim requests withdrawal, faces obstacles"
+      "date": "2023-08-01",
+      "event": "Victim attempts withdrawal, faces obstacles"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim realizes fraud and reports to authorities"
+      "date": "2023-09-12",
+      "event": "Victim reports suspicious activity to bank"
+    },
+    {
+      "date": "2023-10-28",
+      "event": "Case initiated by financial intelligence unit"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
+      "type": "Cryptocurrency (Bitcoin)",
       "amount_range": "5000-15000"
     },
     {
-      "type": "Cryptocurrency (ETH)",
-      "amount_range": "2000-8000"
-    },
-    {
-      "type": "Bank Account Balance (GBP)",
-      "amount_range": "10000-25000"
+      "type": "Bank Transfers",
+      "amount_range": "10000-30000"
     }
   ]
 }

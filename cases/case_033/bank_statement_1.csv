@@ -1,6 +1,6 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-08-20,Payment,5000,USD,Grocery Store
-2023-08-25,Payment,1000,USD,Utilities
-2023-09-01,Algorithmic Edge,10000,USD,Algorithmic Edge Solutions
-2023-09-05,Payment,500,USD,Restaurant
-2023-09-10,Withdrawal,200,USD,ATM
+Date,Description,Amount (EUR),IBAN
+2023-08-10,Salary,5500.00,DE12345678901234567890
+2023-08-25,Bill Payment,150.00,DE12345678901234567890
+2023-09-01,Transfer to AI FX Capital,5000.00,GB98765432109876543210
+2023-09-05,Grocery Shopping,75.00,DE12345678901234567890
+2023-09-15,Online Purchase,120.00,DE12345678901234567890

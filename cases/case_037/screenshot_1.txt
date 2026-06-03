@@ -1,1 +1,3 @@
-The website features a sleek, modern design with interactive charts and graphs displaying seemingly impressive trading performance.  A prominent 'Withdraw Funds' button is visible, alongside testimonials from alleged satisfied users.  The address bar displays a generic domain name – novatradeai.com.
+Screenshot of Innovative AIX dashboard:
+
+[Image Description: The screenshot displays a trading dashboard with charts showing rapidly increasing values. The graph is labeled 'AIX Automated Trading System Performance.'  A large text box in the upper right corner reads: 'Current ROI: +478.3%'.  A small logo of Innovative AIX is visible in the top left corner.]

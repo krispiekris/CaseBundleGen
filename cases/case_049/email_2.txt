@@ -1,12 +1,19 @@
-From: QuantumFX Support
-To: heinrich.schmidt@email.de
-Subject: Urgent: Increase Your QuantumAI Investment
+From: support@quantumai.tech
+To: david.miller.ca@example.com
+Subject: Your Quantum AI Account is Active!
 
-Dear Heinrich,
+Dear David,
 
-Your recent QuantumAI investment is performing exceptionally well! To maximize your returns, we strongly recommend adding more funds.  Don't miss out on this opportunity!
+Welcome to Quantum AI! Your account has been successfully activated. 
 
-Deposit now to secure your position.
+To get started, please deposit a minimum of $5,000 CAD into your trading wallet using the following details:
 
-Best regards,
-QuantumFX Support
+Bank Name: Zenith Bank
+Account Number: 1234567890
+Swift Code: ZENO NG LA
+
+Once your deposit is confirmed, your AI trading will begin generating profits. You can track your progress and withdrawals on our platform.
+
+Happy Trading!
+
+The Quantum AI Team

@@ -1,10 +1,10 @@
-Subject: Important Notice Regarding Your Withdrawal Request
+From: ulrich.baumann@email.de
+To: info@ai-tradingpro.com
+Subject: Question about Account Setup
 
-Dear Hans Müller,
+Dear AI Trading Pro Team,
 
-We've detected a temporary technical issue affecting your recent withdrawal request. Our team is working diligently to resolve this matter and ensure your funds are processed securely.
+I recently signed up and made my initial deposit of €5,000.  I'm a bit confused about how to navigate the platform.  Could you provide some clarification?
 
-As a precaution, please verify your account details by replying to this email with a copy of your identification.  We appreciate your patience and understanding.
-
-Sincerely,
-QuantumLeap Support
+Thank you,
+Ulrich Baumann

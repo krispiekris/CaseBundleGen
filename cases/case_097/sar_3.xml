@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BLZ2024-003</ReportID>
-  <ReportingInstitution>Belbank</ReportingInstitution>
+<SAR id="SAR-20230922-003">
+  <Date>2023-09-22</Date>
+  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Address>Mainzer Landstr. 197, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Altcoin Global Ltd</Name>
+    <Name>Karl Meier</Name>
+    <Address>Musterstraße 10, 12345 Berlin, Germany</Address>
+    <DateOfBirth>1968-07-20</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>US1234567890</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2023-09-22</Date>
+    <Amount currency="EUR">0.00</Amount>
+    <Type>Withdrawal Request Attempt</Type>
+    <Description>Failed withdrawal request - insufficient funds</Description>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <ReceiverAccount>DExxxxxxxxxxxxx</ReceiverAccount>
   </Transaction>
-  <Findings>Receiving large sums of money from multiple sources, potentially linked to investment fraud.</Findings>
+  <Findings>
+    <SuspiciousActivity>Failed withdrawal request. Client reported inability to access funds. Potential fraud.</SuspiciousActivity>
+  </Findings>
 </SAR>

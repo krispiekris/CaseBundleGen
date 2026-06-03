@@ -1,34 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>PA20240310-003</ReportID>
-  <ReportingInstitution>Banco Universal, Panama</ReportingInstitution>
-  <Subject>
-    <Name>NovaTrade AI</Name>
-    <Account>PA12345678901234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE87744001400819000000</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>150</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE87744001400819000000</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Profit Payout</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>4500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE87744001400819000000</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Withdrawal Request</Purpose>
-  </Transaction>
-  <Findings>Suspicious activity: Repeated transfers of funds with minimal apparent economic activity. Account linked to potential investment fraud.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-15</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <Amount>50000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
+      <Description>Investment Deposit</Description>
+      <Location>Australia</Location>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>Jane Doe</Contact>
+    <Phone>1300 123 456</Phone>
+  </ReportingInstitution>
+  <Findings>
+    <Finding>Large investment deposit following initial profit withdrawal, warranting further investigation.</Finding>
+  </Findings>
 </SAR>

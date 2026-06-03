@@ -1,0 +1,5 @@
+Transaction ID,Date,Type,Amount (USD),Currency,Description,Recipient
+TXN001,2023-09-01,Debit,10000,USD,Initial Investment,AI Trading Pro Ltd
+TXN002,2023-10-01,Debit,5000,USD,Additional Investment,AI Trading Pro Ltd
+TXN003,2023-11-15,Debit,2000,USD,Additional Investment,AI Trading Pro Ltd
+TXN004,2023-12-01,Debit,10000,USD,Withdrawal Request,AI Trading Pro Ltd

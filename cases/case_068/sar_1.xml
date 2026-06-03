@@ -1,26 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2023-112</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
+<SAR id="SAR-20230901-001">
+  <Header>
+    <DateTime>2023-09-01T10:30:00Z</DateTime>
+    <Originator>Deutsche Bank</Originator>
+  </Header>
   <Transaction>
-    <Date>2023-09-22</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC27004300000000001</DestinationAccount>
-    <DestinationName>QuantumInvest AI</DestinationName>
-    <Purpose>Initial Investment</Purpose>
+    <Amount currency="EUR">10000</Amount>
+    <DateTime>2023-09-01</DateTime>
+    <Description>Transfer to NovaTech Solutions</Description>
+    <Sender>Marc Schneider</Sender>
+    <Receiver>NovaTech Solutions - Cyprus Branch</Receiver>
+    <ReceiverAccount>CY8800200001000000000012345</ReceiverAccount>
   </Transaction>
-  <Transaction>
-    <Date>2023-10-05</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC27004300000000001</DestinationAccount>
-    <DestinationName>QuantumInvest AI</DestinationName>
-    <Purpose>Investment Top-up</Purpose>
-  </Transaction>
-  <Findings>Unusual activity; recipient based in Seychelles with no apparent business registration in Germany.</Findings>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud – high-yield investment scheme</SuspiciousActivity>
+    <Justification>Large transfer to an offshore company with limited online presence.</Justification>
+  </Findings>
 </SAR>

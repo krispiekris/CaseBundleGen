@@ -1,0 +1,12 @@
+From: david.miller@example.com.au
+To: support@ai-tradingpro.com
+Subject: Withdrawal Request - Account #DM12345
+
+Dear AI Trading Pro Support,
+
+I would like to request a withdrawal of $10,000 USD from my account (Account #DM12345).
+
+Please process this request as soon as possible.
+
+Thank you,
+David Miller

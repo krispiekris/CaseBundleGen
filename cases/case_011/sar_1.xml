@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-007</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>David Miller</Name>
-    <Account>000000001234567890</Account>
-  </Subject>
+  <Header>
+    <ReferenceNumber>SAR-20231115-001</ReferenceNumber>
+    <DateFiled>2023-11-15</DateFiled>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BG48BNES99491100004444</DestinationAccount>
-    <DestinationName>Global Investments Ltd</DestinationName>
-    <Purpose>Initial Investment</Purpose>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Markus Richter</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>AI Trading Pro Ltd.</ReceiverName>
+    <ReceiverAccount>BBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Initial Investment</Description>
+    <SuspiciousActivity>Possible investment fraud - AI trading platform</SuspiciousActivity>
+    <Notes>Customer appears to be experiencing difficulties withdrawing funds. Further investigation recommended.</Notes>
   </Transaction>
-  <Findings>Unusual transfer to a foreign entity with no apparent business relationship.  High-risk investment scheme involved. Suspected AI trading scam.</Findings>
 </SAR>

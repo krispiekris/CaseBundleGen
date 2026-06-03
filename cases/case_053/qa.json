@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what was the initial purpose stated for the transaction of EUR 12,500?",
+    "question": "What initial amount did Hans Meier transfer to NovaTrade AI Limited on September 1st, 2023?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "According to the promotional material, what is the key benefit of using NovaTrade AI?",
+    "answer": "Effortless Income"
+  },
+  {
+    "question": "What was the described reason for the temporary suspension of Hans Meier's withdrawal request?",
+    "answer": "A processing fee"
+  },
+  {
+    "question": "What is the account number of 'Global Trade Solutions', the entity mentioned in email_3.txt?",
+    "answer": "MU07DTMB08030100000001"
+  },
+  {
+    "question": "Based on the SAR reports, what potential issue is associated with NovaTrade AI Limited?",
+    "answer": "Potential investment fraud"
+  },
+  {
+    "question": "What finding is recorded in the second SAR (CaseID 2023-10-20-DEF) regarding Hans Meier's investment?",
+    "answer": "Increased investment amount, potentially under duress or influenced by fabricated profits."
+  },
+  {
+    "question": "Which transaction types are associated with Hans Meier in the provided SARs?",
+    "answer": "Credit and Debit"
+  },
+  {
+    "question": "What date of birth is listed for Hans Meier in the SAR reports?",
+    "answer": "1968-03-10"
+  },
+  {
+    "question": "According to the website screenshot, what does the graph displayed show about the trading system\u2019s performance?",
+    "answer": "Steep upward trend labeled 'Monthly Profit Growth'"
+  },
+  {
+    "question": "What was the purpose code assigned to the transfers to NovaTrade AI Limited in the SARs?",
     "answer": "Investment"
-  },
-  {
-    "question": "What is the name of the bank reporting the suspicious activity in SAR_2.xml?",
-    "answer": "United Savings Bank"
-  },
-  {
-    "question": "Based on the bank statement_1.csv, what was the victim's salary amount and currency?",
-    "answer": "6500 USD"
-  },
-  {
-    "question": "What is the purpose of the email from QuantumFXAI@mail.fake sent to Victim1@email.com on an unspecified date?",
-    "answer": "To encourage Victim 1 to deposit additional funds and offering a 10% bonus."
-  },
-  {
-    "question": "What is the total balance displayed on the dashboard according to screenshot_1.txt?",
-    "answer": "$25,000"
-  },
-  {
-    "question": "According to SAR_3.xml, which bank reported Altcoin Global Ltd's transactions?",
-    "answer": "Lithuanian Bank ABC"
-  },
-  {
-    "question": "What type of verification does QuantumFX Support request from the Victim in email_3.txt?",
-    "answer": "Account number and address"
-  },
-  {
-    "question": "What is the daily profit shown on the screenshot?",
-    "answer": "+$2000"
-  },
-  {
-    "question": "What is the main difference in the transaction amounts for Victim 1, recorded in SAR_1 and SAR_2?",
-    "answer": "SAR_1 describes a transaction of 12500 EUR, while SAR_2 records a transaction of 8000 USD."
-  },
-  {
-    "question": "According to the brochure_1.txt, what experience is required to use QuantumFX AI Trader?",
-    "answer": "No prior crypto experience needed."
   }
 ]

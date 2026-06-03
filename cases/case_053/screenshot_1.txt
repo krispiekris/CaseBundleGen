@@ -1,1 +1,0 @@
-The screenshot shows a dashboard with charts displaying fluctuating values and a prominent 'Withdraw Funds' button. The interface is clean and modern, with a green color scheme and animated graphs. A total balance of $25,000 is displayed. There is also a 'Daily Profit' indicator showing +$2000.

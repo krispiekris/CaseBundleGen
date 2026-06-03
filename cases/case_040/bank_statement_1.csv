@@ -1,6 +1,6 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,AutomatedTradePro Deposit,2000,EUR,AutomatedTradePro Ltd
-2023-12-05,AutomatedTradePro Deposit,2000,EUR,AutomatedTradePro Ltd
-2024-01-05,AutomatedTradePro Profit Notification,1200,EUR,AutomatedTradePro Ltd
-2024-02-28,Withdrawal Processing Fee,500,EUR,Payment Processor
-2024-03-05,Attempted Withdrawal,1500,EUR,AutomatedTradePro Ltd
+Date,Description,Amount (EUR),IBAN
+2023-11-01,Incoming Transfer,1000.00,DE12345678901234567890
+2023-11-08,Grocery Shopping, -50.00,DE12345678901234567890
+2023-11-15,Online Payment, -120.00,DE12345678901234567890
+2023-11-22,Outgoing Transfer, -5000.00,DE12345678901234567890
+2023-11-29,Rent Payment, -800.00,DE12345678901234567890

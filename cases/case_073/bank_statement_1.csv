@@ -1,5 +1,1 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,Online Payment,-2000,EUR,AlgoTradePro Ltd
-2023-12-05,Wire Transfer,-2000,EUR,AlgoTradePro Ltd
-2024-01-10,Withdrawal,1000,EUR,AlgoTradePro Ltd
-2024-02-20,Wire Transfer,-8000,EUR,AlgoTradePro Ltd
+Date,Description,Amount (CAD),\n2023-03-01,Income Deposit,4500,\n2023-03-15,Transfer to Crypto Exchange,1000,\n2023-04-22,Crypto Payment - Belizean Investments,8800,\n2023-05-01,Income Deposit,4500,\n2023-05-15,Crypto Payment - St. Vincent Trading,4400,\n2023-06-01,Income Deposit,4500,\n2023-07-10,Withdrawal,10000,\n2023-07-31,Income Deposit,4500

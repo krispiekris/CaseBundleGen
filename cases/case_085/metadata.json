@@ -1,59 +1,59 @@
 {
-  "case_id": "CY2024-017",
+  "case_id": "2024-CX-1047",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-90000",
-    "country": "Australia",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "Russian"
+      "Pidgin English",
+      "Yoruba"
     ]
   },
   "destination_countries": [
-    "Lithuania",
-    "Hong Kong"
+    "Marshall Islands",
+    "Saint Vincent and the Grenadines"
   ],
   "timeline": [
     {
+      "date": "2023-03-15",
+      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
+    },
+    {
+      "date": "2023-04-01",
+      "event": "Initial deposit made by victim"
+    },
+    {
+      "date": "2023-05-10",
+      "event": "Victim receives first 'profit' payout"
+    },
+    {
+      "date": "2023-07-20",
+      "event": "Victim attempts to withdraw funds; encounter 'verification' issues"
+    },
+    {
       "date": "2023-08-15",
-      "event": "Victim first encounters promotional material for 'NovaTrade AI'"
+      "event": "Victim realizes the scam and reports to authorities"
     },
     {
       "date": "2023-09-01",
-      "event": "Victim deposits initial funds."
-    },
-    {
-      "date": "2023-11-10",
-      "event": "Victim experiences first withdrawal issue."
-    },
-    {
-      "date": "2024-01-20",
-      "event": "Victim reports the fraud."
-    },
-    {
-      "date": "2024-02-15",
-      "event": "Investigation initiated."
+      "event": "Initial investigation launched"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "5000-20000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "AUD",
-      "amount_range": "5000-15000"
-    },
-    {
-      "type": "Bitcoin",
-      "amount_range": "0.1-0.5"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac10,000 - \u20ac15,000"
     }
   ]
 }

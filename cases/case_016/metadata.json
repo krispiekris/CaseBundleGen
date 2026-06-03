@@ -1,7 +1,7 @@
 {
-  "case_id": "CF2024-078",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
     "income_range": "\u20ac60,000 - \u20ac80,000",
@@ -9,54 +9,47 @@
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "St. Vincent and the Grenadines"
+    "Nigeria",
+    "United Kingdom",
+    "Seychelles"
   ],
   "timeline": [
     {
+      "date": "2023-11-10",
+      "event": "Initial contact via email"
+    },
+    {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumLeap AI' via online advertisement"
+      "event": "First deposit made"
     },
     {
-      "date": "2023-12-05",
-      "event": "Initial deposit of \u20ac5,000 made by victim"
+      "date": "2024-01-20",
+      "event": "Victim requests withdrawal"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim receives fabricated profit statements"
+      "date": "2024-01-25",
+      "event": "Withdrawal request denied"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim attempts withdrawal; faces difficulties and further deposits requested"
-    },
-    {
-      "date": "2024-03-15",
-      "event": "Victim reports suspicious activity to bank"
-    },
-    {
-      "date": "2024-03-22",
-      "event": "SAR filed by bank"
+      "date": "2024-03-01",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "EUR (Bank Transfers)",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
-    },
-    {
-      "type": "Bank Account (compromised)",
-      "amount_range": "\u20ac0 - \u20ac20,000"
+      "type": "Bank Transfers (EUR)",
+      "amount_range": "\u20ac2,000 - \u20ac8,000"
     }
   ]
 }

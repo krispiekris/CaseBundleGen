@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what was the purpose of the transactions from Helmut Ziegler's account to Altcoin Global Ltd?",
-    "answer": "Investment"
+    "question": "What was the initial bonus offered to new members of NovaTrade AI, according to the first email?",
+    "answer": "100 EUR in trading credits"
   },
   {
-    "question": "What is the destination account number used for both transactions described in sar_1.xml and sar_2.xml?",
-    "answer": "LT12100001110123451"
+    "question": "According to the SAR report from March 22, 2023, what was the description associated with the transaction involving Klaus Heinz's account?",
+    "answer": "Transfer to NovaTrade AI"
   },
   {
-    "question": "Based on email_2.txt, what bonus was offered to Helmut Ziegler if he deposited another \u20ac5,000 before midnight?",
-    "answer": "A 15% bonus"
+    "question": "What was the balance in Klaus Heinz's account after the transfer to NovaTrade AI, as shown in the bank statement?",
+    "answer": "-5000.00"
   },
   {
-    "question": "Which reporting institution highlighted the receiving of large amounts of funds from various sources with an unclear ultimate beneficiary in sar_2.xml?",
-    "answer": "HSBC UK"
+    "question": "What are two potential benefits of using NovaTrade AI, as described in the promotional material?",
+    "answer": "Maximize your returns with our advanced algorithms and No trading experience required"
   },
   {
-    "question": "What document does email_3.txt request from Helmut Ziegler?",
-    "answer": "A copy of his passport or national ID card"
+    "question": "What reason did NovaTrade AI give for delaying Klaus Heinz\u2019s withdrawal request, according to email 2?",
+    "answer": "Ongoing system maintenance and security verification protocols"
   },
   {
-    "question": "What was the salary amount Helmut Ziegler received according to bank_statement_1.csv?",
-    "answer": "3500 EUR"
+    "question": "Based on SAR-2023-05-15-002, what was the main reason for the denied withdrawal request?",
+    "answer": "Withdrawal Request Denied - NovaTrade AI"
   },
   {
-    "question": "According to report_1.xml, what is the potential connection suggested between Altcoin Global Ltd. and Nigeria?",
-    "answer": "Links to Nigeria"
+    "question": "What action was Klaus Heinz instructed to take to expedite the verification process in email 2?",
+    "answer": "Reply to the email with a screenshot of his ID and a recent utility bill"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the design of the QuantumNexus website?",
-    "answer": "A modern, professional design with a large graph of rising values and testimonials from 'satisfied' users."
+    "question": "According to the third email, what consequence could Klaus face if he fails to verify his account within 24 hours?",
+    "answer": "Permanent account closure"
   },
   {
-    "question": "Based on bank_statement_2.csv, who was the beneficiary of the outgoing transfer of 6000 EUR?",
-    "answer": "Bayo Adebayo"
+    "question": "What additional amount was Klaus Heinz instructed to transfer to a specified account in email 4 to prevent account closure?",
+    "answer": "2,500 EUR"
   },
   {
-    "question": "What action is recommended by the German Financial Intelligence Unit in report_1.xml?",
-    "answer": "Further investigation of recipient company and associated individuals."
+    "question": "According to promotional material 2, what sentiment is expressed about the effectiveness of NovaTrade AI by Ingrid B.?",
+    "answer": "It has completely transformed my investment strategy!"
   }
 ]

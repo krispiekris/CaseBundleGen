@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the account number associated with David Miller?",
-    "answer": "709812345678901234"
+    "question": "According to the initial email, what did Dr. Aliko Okeke claim his team had developed?",
+    "answer": "A proprietary AI trading algorithm."
   },
   {
-    "question": "According to email_3.txt, what documents did NovaTrade AI request from David Miller?",
-    "answer": "Copy of Passport or Driver's License and Proof of Address (utility bill or bank statement)"
-  },
-  {
-    "question": "What was the purpose of the transaction on 2024-02-20 according to sar_2.xml?",
-    "answer": "Withdrawal Attempt"
-  },
-  {
-    "question": "Which bank filed the initial SAR report (sar_1.xml)?",
-    "answer": "Barclays Bank"
-  },
-  {
-    "question": "What is the destination account number for the transfers to NovaTrade AI?",
-    "answer": "LT12100001110123451"
-  },
-  {
-    "question": "According to brochure_2.txt, what did Sarah J. say about NovaTrade AI?",
-    "answer": "I've doubled my money in just a few weeks!"
-  },
-  {
-    "question": "What did the screenshot_1.txt reveal about the website of NovaTrade AI?",
-    "answer": "It features a sleek, modern design with interactive charts and graphs displaying seemingly impressive trading performance. A prominent 'Withdraw Funds' button is visible."
-  },
-  {
-    "question": "What is the purpose of the transfer on 2023-12-05 as described in sar_3.xml?",
+    "question": "What was the purpose stated for the wire transfers from Markus Weber to Innovative AIX?",
     "answer": "Investment"
   },
   {
-    "question": "According to email_4.txt, why was David Miller\u2019s withdrawal request delayed?",
-    "answer": "Due to ongoing system maintenance"
+    "question": "Which jurisdiction is listed as the originating jurisdiction for the Suspicious Activity Reports (SARs)?",
+    "answer": "Germany"
   },
   {
-    "question": "Based on bank_statement_2.csv, how much did David Miller transfer to NovaTrade AI in March 2024?",
-    "answer": "2500 EUR"
+    "question": "What was the approximate current ROI (Return on Investment) displayed on the Innovative AIX dashboard screenshot?",
+    "answer": "+478.3%"
+  },
+  {
+    "question": "What triggered the Suspicious Activity Report filed in January 2024?",
+    "answer": "Attempted withdrawal blocked by Innovative AIX and customer reports of difficulty accessing funds."
+  },
+  {
+    "question": "Based on the provided information, what is the location of Innovative AIX\u2019s offices?",
+    "answer": "Suite 180, 1st Floor, Nemea Building, 6 Isocrates Street, 2360 Strovolos, Cyprus"
+  },
+  {
+    "question": "Besides Markus Weber, which other entity is named as a party in the SAR reports?",
+    "answer": "Deutsche Bank AG"
+  },
+  {
+    "question": "What is one reason given in the promotional material why someone might be interested in Innovative AIX?",
+    "answer": "To experience profits they never thought possible."
+  },
+  {
+    "question": "What date did Markus Weber initially wire funds to Innovative AIX?",
+    "answer": "August 20, 2023"
+  },
+  {
+    "question": "Considering the SAR reports and bank statements, what is a potential red flag regarding Innovative AIX's communication and financial operations?",
+    "answer": "Inconsistent communication and difficulties accessing funds, alongside limited transparency."
   }
 ]

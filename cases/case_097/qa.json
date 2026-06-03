@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the account number of the victim?",
-    "answer": "DE9530070000000000000000"
+    "question": "What is the minimum investment amount required to participate in the Forex trading program, according to the initial email?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What is the reported purpose of the transactions detailed in sar_1.xml and sar_2.xml?",
-    "answer": "Investment"
+    "question": "What is the phone number provided for contacting the account manager, James?",
+    "answer": "+1-555-123-4567"
   },
   {
-    "question": "What name is consistently used in the email correspondence with the victim?",
-    "answer": "QuantumAI"
+    "question": "Based on the SARs, which jurisdiction is listed as the receiver's jurisdiction for the wire transfers?",
+    "answer": "Belize"
   },
   {
-    "question": "What did the screenshot_1.txt reveal about the functionality of the QuantumAI platform?",
-    "answer": "The 'Withdrawal' button was greyed out."
+    "question": "According to the promotional material, what is one potential benefit of leveraging capital in Forex trading?",
+    "answer": "Benefit from 24/7 market access"
   },
   {
-    "question": "Based on sar_3.xml, which entity received the initial 5000 EUR transfer from the victim?",
-    "answer": "Altcoin Global Ltd"
+    "question": "What is the performance fee charged on all profits, as stated in the Terms and Conditions?",
+    "answer": "10%"
   },
   {
-    "question": "What is the account number listed in sar_2.xml for Victim 1?",
-    "answer": "GB22HSBC10000000000000"
+    "question": "According to the screenshot of the website, what is prominently displayed as a headline?",
+    "answer": "Unlock Your Forex Potential"
   },
   {
-    "question": "What does the email_4.txt indicate regarding the victim's ability to withdraw funds?",
-    "answer": "Their withdrawal is temporarily restricted, and they are asked to deposit an additional 10% of their account balance."
+    "question": "What is the total amount of money Karl Meier transferred to Global Capital Group, according to the provided bank statements and SARs?",
+    "answer": "\u20ac25000"
   },
   {
-    "question": "According to the brochure_2.txt, what kind of bonus is offered to new depositors?",
-    "answer": "A 20% bonus"
+    "question": "In the email urgently advising further investment, what additional amount is Karl Meier advised to invest?",
+    "answer": "\u20ac10,000"
   },
   {
-    "question": "What does sar_3.xml indicate about Altcoin Global Ltd's potential involvement?",
-    "answer": "Receiving large sums of money from multiple sources, potentially linked to investment fraud."
+    "question": "What finding was included in SAR-20230922-003 regarding Karl Meier\u2019s actions?",
+    "answer": "Failed withdrawal request. Client reported inability to access funds. Potential fraud."
   },
   {
-    "question": "Based on bank_statement_1.csv, what was the victim's salary amount?",
-    "answer": "3500 EUR"
+    "question": "Which entity appears as the reporting institution in all three SAR reports?",
+    "answer": "Deutsche Bank"
   }
 ]

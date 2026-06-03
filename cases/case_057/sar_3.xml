@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>IRL2024-055</ReportID>
-  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
+<SAR id="SAR-20230820-003">
+  <ReportingInstitution>
+    <Name>Global Finance Solutions</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+  </ReportingInstitution>
   <Transaction>
-    <Date>2023-09-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BMU7890123456</DestinationAccount>
-    <DestinationName>Offshore Company</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2023-08-15</Date>
+    <Amount>1000.00</Amount>
+    <Currency>USD</Currency>
+    <TransactionType>Debit</TransactionType>
+    <Sender>Aionautica Investments Ltd.</Sender>
+    <Receiver>David Miller</Receiver>
+    <ReceiverAccount>AU1234567890</ReceiverAccount>
+    <Description>Withdrawal Attempt</Description>
+    <SuspiciousActivity>Client reporting difficulty with withdrawing funds. Frequent delays and high fees being applied.</SuspiciousActivity>
   </Transaction>
-  <Findings>Funds received from Germany. Destination account held by entity in Belize.</Findings>
-  <ReportDate>2023-09-15</ReportDate>
 </SAR>

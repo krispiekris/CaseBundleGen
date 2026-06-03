@@ -1,20 +1,18 @@
-From: QuantumLeapAI Support@securetrading.net
-To: heinrich.schmidt@email.com
-Subject: Important Update Regarding Your QuantumLeap AI Account
+From: "AlphaTrade AI - Withdrawal Department" <withdrawal@alphatradeai.com>
+To: werner.hoffmann@email.de
+Subject: Withdrawal Request - Pending Review
 
-Dear Heinrich,
+Dear Werner,
 
-We've detected a small delay in processing your withdrawal request. To ensure a swift and successful transfer, a processing fee of €150 is required.
+Your recent withdrawal request is currently under review.  For security purposes, we require additional verification.
 
-Please transfer the amount to the following account:
+Please provide the following information within 24 hours:
 
-Account Name: FinTech Solutions Ltd
-IBAN: LT12100001110123451
-SWIFT: CBHIEL2H
+*   Copy of your government-issued identification
+*   Proof of address (utility bill)
+*   Screenshot of your cryptocurrency wallet
 
-Once the payment is confirmed, your funds will be released immediately.
-
-Thank you for your cooperation.
+Thank you for your patience.
 
 Sincerely,
-The QuantumLeap AI Support Team
+The AlphaTrade AI Withdrawal Team

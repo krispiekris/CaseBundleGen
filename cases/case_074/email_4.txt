@@ -1,0 +1,8 @@
+From: David.Miller@example.ca
+To: support@aitradingsolutions.com
+Subject: Withdrawal Issue
+
+I am attempting to withdraw funds from my account, but the request is being denied. Can you please assist me?
+
+Regards,
+David Miller

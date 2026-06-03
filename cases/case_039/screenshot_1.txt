@@ -1,1 +1,4 @@
-The screenshot shows a website with a modern, professional design.  A large graph prominently displays rising values.  There are testimonials from 'satisfied' users. The overall impression is one of high-tech sophistication and guaranteed success. A large button reads 'Start Trading Now'.
+[This file contains a blurred screenshot of an ID card and a utility bill.  The ID card shows a name and address similar to those used elsewhere in the case.]
+
+Blurred Image Data (Simulated):
+[Data representing pixel values of a blurred image]

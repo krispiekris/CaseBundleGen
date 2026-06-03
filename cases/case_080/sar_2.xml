@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>UK2024-02-28-001</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>Shell Company Ltd</Name>
-    <Account>GB90LOYD1234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG7408201446350311</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Funds Transfer</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG7408201446350311</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Funds Transfer</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from Germany, potential involvement in money laundering.</Findings>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sar_schema.xsd">
+  <CaseID>2023-06-25-002</CaseID>
+  <BankName>First National Bank</BankName>
+  <BankLocation>Anytown, USA</BankLocation>
+  <Currency>USD</Currency>
+  <TransactionDate>2023-06-22</TransactionDate>
+  <TransactionAmount>10000.00</TransactionAmount>
+  <SenderName>Richard Henderson</SenderName>
+  <SenderAccount>XXXXXXX1234</SenderAccount>
+  <RecipientName>AI-Trade Solutions</RecipientName>
+  <RecipientAccount>YYYYYYYY5678</RecipientAccount>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspiciousActivity>Follow-up to previous SAR - Continued investment despite limited information.</SuspiciousActivity>
+  <ReportingOfficer>Jane Doe</ReportingOfficer>
+  <ReportingDate>2023-08-20</ReportingDate>
 </SAR>

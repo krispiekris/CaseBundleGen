@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-012</ReportID>
-  <ReportingInstitution>Commonwealth Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-06-28</ReportDate>
+    <InstitutionID>Deutsche Handelsbank</InstitutionID>
+    <ReportingPersonID>S-12345</ReportingPersonID>
+  </Header>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>12000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2023-04-05</TransactionDate>
+    <Amount currency="EUR">50000.00</Amount>
+    <TransactionType>Credit</TransactionType>
+    <Description>Deposit from Hans Meier</Description>
+    <Party>
+      <CustomerID>HM-12345</CustomerID>
+      <Name>Hans Meier</Name>
+      <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+    </Party>
+    <Beneficiary>
+      <AccountName>Forex Prime Global</AccountName>
+      <AccountNumber>DE[redacted]</AccountNumber>
+      <BankName>Commerzbank</BankName>
+      <Country>Germany</Country>
+    </Beneficiary>
+    <SuspiciousActivity>Potential investment fraud – unusually large deposit with limited transaction history.</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>3500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple transfers to a foreign account with an unusual investment purpose.</Findings>
 </SAR>

@@ -1,11 +1,11 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-CF-0078",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-90000",
-    "country": "United Kingdom",
+    "income_range": "$80,000 - $120,000",
+    "country": "Canada",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -17,38 +17,42 @@
   },
   "destination_countries": [
     "Serbia",
-    "North Macedonia"
+    "Marshall Islands"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim discovers 'NovaTrade AI' online"
+      "date": "2023-03-15",
+      "event": "Victim contacts Forex brokerage through online advertisement."
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial deposit of \u00a3500 made"
+      "date": "2023-04-01",
+      "event": "Initial investment made by victim."
     },
     {
-      "date": "2023-10-15",
-      "event": "Victim experiences first 'withdrawal' - seemingly successful"
+      "date": "2023-05-10",
+      "event": "Victim receives fabricated 'profits' to encourage further investment."
     },
     {
-      "date": "2023-11-01",
-      "event": "Victim attempts to withdraw larger sum - denied"
+      "date": "2023-07-22",
+      "event": "Victim requests withdrawal, met with delays and excuses."
     },
     {
-      "date": "2023-11-15",
-      "event": "Victim reports fraudulent activity"
+      "date": "2023-09-05",
+      "event": "Victim realizes funds are lost and files a complaint."
+    },
+    {
+      "date": "2024-01-18",
+      "event": "Investigation initiated."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.1-0.5"
+      "type": "Bank Account",
+      "amount_range": "$50,000 - $75,000"
     },
     {
-      "type": "GBP",
-      "amount_range": "500-10000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$5,000 - $10,000"
     }
   ]
 }

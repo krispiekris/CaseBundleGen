@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-123</ReportID>
-  <ReportingInstitution>First National Bank</ReportingInstitution>
-  <Subject>
-    <Name>Robert Miller</Name>
-    <Account>1234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>10000</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>LT3770440500010001001</DestinationAccount>
-    <DestinationName>Algorithmic Edge Solutions</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial investment to online trading platform.</Findings>
-</SAR>
+<SuspiciousActivityReport>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <CustomerName>Hans Meier</CustomerName>
+  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
+  <TransactionDate>2023-09-01</TransactionDate>
+  <TransactionAmount currency="EUR">5000</TransactionAmount>
+  <TransactionDescription>Transfer to AI FX Capital</TransactionDescription>
+  <RecipientName>AI FX Capital</RecipientName>
+  <RecipientAccount>1234567890</RecipientAccount>
+  <RecipientBank>Global Finance Ltd.</RecipientBank>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspicionDetails>Customer transferred funds to an entity with questionable legitimacy and a foreign banking location. Subsequent online research suggests possible fraudulent activity.</SuspicionDetails>
+  <ReportID>DB-SAR-20231115-001</ReportID>
+</SuspiciousActivityReport>

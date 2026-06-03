@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-068</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 3</Name>
-    <Account>DE1211000070000245278551</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-03-02</ReportDate>
+    <ReferenceNumber>SAR-20240302-003</ReferenceNumber>
+  </Header>
   <Transaction>
-    <Date>2024-02-01</Date>
-    <Amount>6000</Amount>
+    <TransactionDate>2024-01-25</TransactionDate>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ120000100010000012345</DestinationAccount>
-    <DestinationName>QuantumLeap AI Investments Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SenderAccount>DE89370400440532013000</SenderAccount>
+    <SenderName>Ulrich Baumann</SenderName>
+    <ReceiverAccount>GB25NWBK00000012345678</ReceiverAccount>
+    <ReceiverName>Global Investments LTD</ReceiverName>
+    <Description>Withdrawn and then blocked by Global Investments LTD</Description>
   </Transaction>
-  <Findings>Funds transferred to an offshore entity with concerning activity patterns.  Potential investment fraud.</Findings>
+  <SuspiciousActivity>
+    <Finding>Client reported scam, funds not released.</Finding>
+    <Justification>Client alleges fraudulent activity, withdrawal denial triggered investigation.</Justification>
+  </SuspiciousActivity>
 </SAR>

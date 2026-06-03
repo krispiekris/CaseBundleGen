@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the purpose of the initial transaction from Karl Schmidt?",
-    "answer": "Initial Investment"
+    "question": "According to the initial email, what is the primary benefit Quantum AI Trading offers to potential investors?",
+    "answer": "Unlock unprecedented returns with cutting-edge artificial intelligence algorithms."
   },
   {
-    "question": "What is the account number associated with the entity 'Global Apex Ventures' according to sar_2.xml?",
-    "answer": "LT12100001110123451"
+    "question": "What is the subject of the follow-up email sent to Hans Meier?",
+    "answer": "Last Chance: Claim Your Quantum AI Trading Bonus"
   },
   {
-    "question": "What is the reported reason given in email_3 for requiring Karl Schmidt to transfer additional funds?",
-    "answer": "Due to recent security concerns, we require you to verify your account"
+    "question": "What amount did Hans Meier request to withdraw from his account, as stated in the email?",
+    "answer": "\u20ac15,000"
   },
   {
-    "question": "According to sar_3.xml, what is a concerning aspect of the activity associated with the 'Global Apex Ventures' account?",
-    "answer": "High volume of incoming transfers from various international locations"
+    "question": "According to the SAR reports, what is the risk level assigned to the initial deposit to Quantum AI Trading?",
+    "answer": "High"
   },
   {
-    "question": "What verification fee is requested from Karl Schmidt in email_4, and why?",
-    "answer": "500 EUR, to ensure a smooth and secure transaction"
+    "question": "What country is listed for the beneficiary bank involved in the deposit transaction?",
+    "answer": "Belize"
   },
   {
-    "question": "What is the website URL mentioned in brochure_1 for QuantumLeap AI?",
-    "answer": "www.quantumleap-ai.net"
+    "question": "Based on the bank statements, what are the two dates of incoming transfers to Hans Meier's account?",
+    "answer": "2023-08-10 and 2023-08-25"
   },
   {
-    "question": "Based on bank_statement_1.csv, what other transaction types does Karl Schmidt have besides transfers to QuantumLeap AI Investments?",
-    "answer": "Salary and ATM Withdrawal"
+    "question": "What is the stated purpose of the transaction on 2023-09-01 according to the SAR?",
+    "answer": "Investment Deposit - Quantum AI Trading"
   },
   {
-    "question": "According to screenshot_1.txt, what phrase appears to encourage investment?",
-    "answer": "Limited Time Offer: 2x Your Investment!"
+    "question": "What indicator of the trading platform's performance is prominently displayed in the screenshot?",
+    "answer": "AI Confidence: 98%"
   },
   {
-    "question": "What currency is the transfer mentioned in bank_statement_2.csv to an 'Unknown' beneficiary?",
-    "answer": "USD"
+    "question": "What is the description of the customer interaction recorded in SAR 3?",
+    "answer": "Customer expressing concerns about account access and unusual account activity."
   },
   {
-    "question": "What does sar_2.xml indicate about the receiving account (LT12100001110123451)?",
-    "answer": "It is a receiving account for initial investment linked to QuantumLeap AI Investments."
+    "question": "In promotional material 2, what is the benefit of using Quantum AI Trading according to the client testimonial?",
+    "answer": "The returns are incredible!"
   }
 ]

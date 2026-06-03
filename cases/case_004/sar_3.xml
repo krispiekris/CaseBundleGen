@@ -1,20 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>SVG2024-003</ReportID>
-  <ReportingInstitution>Bank of St. Vincent and the Grenadines</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>VC00000000000000000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>David Miller</DestinationName>
-    <Purpose>Profit Distribution</Purpose>
-  </Transaction>
-  <Findings>
-    <Finding>Unusual outflow of funds to an account located in Australia.  Further investigation recommended.</Finding>
-  </Findings>
+<SAR id="SAR-2024-02-15-003">
+  <ReportDate>2024-02-15</ReportDate>
+  <BankName>Canadian Risk Bank</BankName>
+  <AccountName>David Miller</AccountName>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2024-01-18</TransactionDate>
+  <TransactionAmount currency="CAD">0.00</TransactionAmount>
+  <TransactionDescription>Withdrawal Request Denied</TransactionDescription>
+  <BeneficiaryName>David Miller</BeneficiaryName>
+  <BeneficiaryAccount>1234567890</BeneficiaryAccount>
+  <BeneficiaryBank>Canadian Risk Bank</BeneficiaryBank>
+  <Finding>Possible fraud; Account Activity Suspended</Finding>
+  <ReportSubmittedBy>Sarah Chen</ReportSubmittedBy>
 </SAR>

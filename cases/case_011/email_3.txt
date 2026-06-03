@@ -1,14 +1,13 @@
-From: QuantumLeap AI Support <support@quantumleap-ai.net>
-To: david.miller@email.com
-Subject: Verification Required - Important Account Update
+From: "AI Trading Platform" <support@aitradingpro.com>
+To: markus.richter@email.de
+Subject: Urgent: Withdrawal Processing Issues
 
-Dear David,
+Dear Markus,
 
-For security reasons, we require you to verify your account information. Please click on the following link to update your details:
+We're writing to inform you that there's a slight delay in processing your withdrawal request. Due to recent market volatility, an additional €5000 is required to cover transaction fees and regulatory compliance.
 
-www.quantumleap-ai.verification.com
+Without this additional deposit, we regret that we won't be able to process your withdrawal.
 
-Failure to verify your account may result in temporary suspension.
+Thank you for your understanding.
 
-Sincerely,
-The QuantumLeap AI Team
+The AI Trading Pro Team

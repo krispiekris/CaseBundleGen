@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-008</ReportID>
-  <ReportingInstitution>HSBC</ReportingInstitution>
-  <Subject>
-    <Name>Robert Harding</Name>
-    <Account>0093394317969652</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NL82INGB0001234567</DestinationAccount>
-    <DestinationName>InnovAI Investments</DestinationName>
-    <Purpose>Profit Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Follow-up to suspicious activity reported by Barclays Bank. Consistent activity patterns indicate potential fraudulent activity.</Findings>
-  <ReportDate>2024-03-22</ReportDate>
+  <ReportDate>2023-08-05</ReportDate>
+  <Institution>Commonwealth Bank of Australia</Institution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-07-01</TransactionDate>
+      <Amount>15000.00</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <ReceiverName>AI Extra Trading</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <ReceiverBank>Global Finance Corp</ReceiverBank>
+      <Description>Additional Investment</Description>
+      <SuspiciousIndicator>Large investment request after initial deposit</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingPerson>Bank Compliance Officer</ReportingPerson>
 </SAR>

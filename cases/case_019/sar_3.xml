@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>KY2024-789</ReportID>
-  <ReportingInstitution>Butterfield Bank (Cayman) Limited</ReportingInstitution>
-  <Subject>
-    <Name>Seashell Investments Ltd</Name>
-    <Account>KY12345678</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>QuantumEdge Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>QuantumEdge Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Funds received from Luxembourg bank, rapidly transferred to Belize.  Company appears to have no legitimate business operations.</Findings>
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Oliver Baumann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Innovative Trading AI</ReceiverName>
+      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
+      <Purpose>Investment</Purpose>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-11-01</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Oliver Baumann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Innovative Trading AI</ReceiverName>
+      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
+      <Purpose>Investment</Purpose>
+    </Transaction>
+    <Suspicion>
+      <Description>Victim unable to withdraw funds. Communication ceased abruptly. Potential investment fraud scheme.</Description>
+      <Reason>Investment Fraud</Reason>
+    </Suspicion>
+  </SuspiciousActivity>
 </SAR>

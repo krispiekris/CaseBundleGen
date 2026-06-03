@@ -1,12 +1,14 @@
-From: support@cryptogeniusai.fake
-To: hans.schmidt@email.de
-Subject: Welcome to CryptoGenius AI!
+From: "AI Trading Solutions" <support@aitradingsolutions.com>
+To: David.Miller@example.ca
+Subject: Exclusive Invitation: AI Trading Opportunity
 
-Dear Hans,
+Dear David,
 
-Welcome aboard! We're thrilled to have you join the CryptoGenius AI family.
+We're excited to offer you a unique opportunity to participate in our exclusive AI-powered trading program. Our proprietary algorithms analyze market trends with unparalleled accuracy, generating substantial returns for our members.
 
-To maximize your profits, we recommend increasing your initial deposit.  Start with just €3000 and watch your wealth grow!
+Imagine earning significant passive income while you focus on your other priorities. Our AI handles the complexities of trading, allowing you to reap the rewards.
+
+Click here to learn more and claim your spot: [link to fake website]
 
 Sincerely,
-The CryptoGenius AI Support Team
+The AI Trading Solutions Team

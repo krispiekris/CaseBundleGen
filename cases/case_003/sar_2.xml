@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>BZ2024-0123</ReportID>
-  <ReportingInstitution>HSBC</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>BZ0001234567</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013600</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013600</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from Germany with unclear business purpose.  Account holder unable to provide sufficient documentation.  Potential money laundering.</Findings>
+  <Header>
+    <SARReferenceID>20231125-SAR-002</SARReferenceID>
+    <DateTime>2023-11-25T14:30:00Z</DateTime>
+    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
+  </Header>
+  <TransactionDetails>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="EUR">0</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Karl Meier</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+      <Country>DE</Country>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>FX Pro Advisor</Name>
+      <AccountID>BZ21020100000000000001</AccountID>
+      <Country>BZ</Country>
+      <IBAN>BZ21020100000000000001</IBAN>
+    </BeneficiaryParty>
+  </TransactionDetails>
+  <Suspicion>
+    <Description>Withdrawal attempt denied due to account restrictions</Description>
+    <Reason>Potential investment fraud</Reason>
+  </Suspicion>
 </SAR>

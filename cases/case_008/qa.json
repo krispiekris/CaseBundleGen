@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what is the account number of the victim?",
-    "answer": "GR1601101250000000012310695"
+    "question": "What was the initial minimum investment required to join the AI trading platform?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What is the purpose indicated for the initial EUR 50,000 transaction to Altcoin Global Ltd, as stated in SAR_1.xml?",
-    "answer": "Investment"
+    "question": "According to the promotional material, what is one of the key benefits of using the AI Trader platform?",
+    "answer": "Risk-Free Returns"
   },
   {
-    "question": "What key phrase is used to describe the Quantum Leap AI Trader's platform in the brochure_1.txt?",
-    "answer": "Effortless Daily Income"
+    "question": "What was the date of the first Suspicious Activity Report (SAR) filed concerning Michael Weber's account?",
+    "answer": "2023-12-18"
   },
   {
-    "question": "Based on email_2.txt, what incentive is offered to victims who deposit additional funds?",
-    "answer": "A 15% bonus on their first withdrawal"
+    "question": "What cryptocurrency did Michael Weber purchase with his initial investment, and what was the amount in EUR?",
+    "answer": "BTC, \u20ac5000"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the Quantum Leap AI Trader platform's visual representation?",
-    "answer": "A graph displaying rapidly increasing values, indicating high profits"
+    "question": "Based on the email sent to Michael, what does AI Trader encourage him to do to maximize returns?",
+    "answer": "Increase his investment"
   },
   {
-    "question": "Which reporting institution filed SAR_3.xml?",
-    "answer": "Seychelles International Bank"
+    "question": "What is the Telegram ID provided to Michael for communication with his account manager?",
+    "answer": "@DavidMillerAI"
   },
   {
-    "question": "According to bank_statement_2.csv, what currency was used for the outgoing transfer of 10000 on 2024-03-15?",
-    "answer": "USD"
+    "question": "What was the described design and key elements of the AI Trader website?",
+    "answer": "Sleek, modern design with a predominantly blue and white color scheme. Rotating banner showcasing graphs trending upwards and testimonials. Prominent text proclaiming 'Unlock the Future of Investing with AI.' Call-to-action button encouraging visitors to 'Get Started Now.'"
   },
   {
-    "question": "What is the subject of email_3.txt?",
-    "answer": "Important Account Verification Request"
+    "question": "What is the status of Michael Weber's withdrawal request as reported in the third SAR?",
+    "answer": "Pending"
   },
   {
-    "question": "What findings did the International Trust Bank (IBT) report regarding Altcoin Global Ltd in SAR_2.xml?",
-    "answer": "High volume of incoming funds from multiple sources. Possible money laundering activity."
+    "question": "Which entities are associated with Michael Weber's account as named in the SAR reports?",
+    "answer": "Deutsche Bank, AI Trading Platform"
   },
   {
-    "question": "What does SAR_1.xml identify as the general suspicion regarding the transactions?",
-    "answer": "Possible investment fraud scheme."
+    "question": "Based on the promotional material, what is one potential advantage of signing up for AI Trader during the limited-time offer?",
+    "answer": "A FREE consultation with our expert investment team"
   }
 ]

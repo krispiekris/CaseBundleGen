@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DEU2024-002</ReportID>
-  <ReportingInstitution>Sparkasse</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE1211000000000000000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-15</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Smaller transfer activity consistent with larger pattern, indicative of potential investment fraud.</Findings>
-</SAR>
+<sar>
+  <report_date>2024-01-25</report_date>
+  <institution_id>DEUTSCHBANK</institution_id>
+  <reporter_name>Deutsche Bank</reporter_name>
+  <suspicious_activity>
+    <transaction>
+      <transaction_date>2023-12-20</transaction_date>
+      <amount currency="EUR">2500.00</amount>
+      <sender_account>DE78123456781234567890</sender_account>
+      <recipient_account>GB22NWBK20701724542814</recipient_account>
+      <recipient_name>Aetherium Alpha Investments</recipient_name>
+      <description>Investment - Aetherium Alpha -  Technical Issue Fee</description>
+    </transaction>
+    <activity_type>Unusual Transaction</activity_type>
+    <finding>Potential investment fraud - customer reporting difficulties with withdrawals and new fees</finding>
+    <reporter_comments>Customer is reporting difficulties withdrawing funds and being asked to pay a 'technical issue fee'.  Customer expresses concern about the legitimacy of the investment.</reporter_comments>
+  </suspicious_activity>
+</sar>

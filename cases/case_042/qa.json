@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_2.xml, what is the account number of the victim?",
-    "answer": "DE89370400440532013000"
+    "question": "What is the stated average monthly return promised by Quantum AI Trading according to the follow-up email?",
+    "answer": "18%"
   },
   {
-    "question": "What is the purpose stated for the transactions to NovaTrade AI Ltd in sar_2.xml?",
-    "answer": "Investment"
+    "question": "According to the SAR reports, what is the country of origin for Quantum AI Trading LLC?",
+    "answer": "Belize"
   },
   {
-    "question": "What is the name of the entity that sent a transaction to Victim 1's account, as reported in sar_3.xml?",
-    "answer": "Third Party Contact"
+    "question": "What description is provided for the initial transaction from Hans Meier's bank statement?",
+    "answer": "Transfer to Quantum AI"
   },
   {
-    "question": "According to email_2.txt, what percentage return was initially reported to the victim?",
-    "answer": "12%"
+    "question": "Based on the promotional materials, what is one of the key technologies utilized by Quantum AI Trading?",
+    "answer": "Artificial intelligence"
   },
   {
-    "question": "What is the processing fee requested in email_3.txt?",
-    "answer": "\u20ac500"
+    "question": "According to the SAR 3, what amount did Hans Meier attempt to withdraw?",
+    "answer": "EUR 15,000"
   },
   {
-    "question": "What is the destination account number for transactions to NovaTrade AI Ltd, as seen in sar_2.xml?",
-    "answer": "GB80BARC20400193751082"
+    "question": "Which entity\u2019s name appears as the recipient in both the initial and the second suspicious transaction reports?",
+    "answer": "Quantum AI Trading LLC"
   },
   {
-    "question": "Based on the brochure_1.txt, what is a key feature of the NovaTrade AI platform?",
-    "answer": "Automated Trading"
+    "question": "What is indicated in the screenshot description about the trading platform\u2019s design?",
+    "answer": "Modern and sophisticated"
   },
   {
-    "question": "What amount of EUR did Victim 1 deposit on 2023-11-10, according to bank_statement_1.csv?",
-    "answer": "2000"
+    "question": "What does the email initially sent to Hans Meier highlight about the trading strategy?",
+    "answer": "Utilizes cutting-edge artificial intelligence algorithms to identify and capitalize on market opportunities"
   },
   {
-    "question": "What is the initial deposit amount recorded in sar_2.xml?",
-    "answer": "5000"
+    "question": "According to the SAR reports, what is the main finding that sparked the suspicion regarding Hans Meier\u2019s transactions?",
+    "answer": "Unusual large transfer to an offshore company claiming AI trading services. Account holder's investment profile doesn't align with such high-risk activities"
   },
   {
-    "question": "According to screenshot_1.txt, what is a key visual characteristic of the NovaTrade AI platform dashboard?",
-    "answer": "Predominantly green and white color scheme"
+    "question": "What is the stated purpose of the consultation offered in the initial email?",
+    "answer": "To learn more and schedule a personalized consultation"
   }
 ]

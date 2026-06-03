@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>Marshall2024-007</ReportID>
-  <ReportingInstitution>Regulated Financial Institution - Marshall Islands</ReportingInstitution>
-  <Subject>
-    <Name>Orion Holdings Ltd</Name>
-  </Subject>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReportDate>2024-01-16</ReportDate>
+  <InstitutionName>Federal Trade Commission</InstitutionName>
+  <InstitutionIdentifier>FTC-2024-001</InstitutionIdentifier>
+  <SARContact>
+    <Name>Robert Smith</Name>
+    <Title>Investigator</Title>
+    <PhoneNumber>202-588-0200</PhoneNumber>
+    <Email>robert.smith@ftc.gov</Email>
+  </SARContact>
+  <Subject>Investment Fraud - AI Trading Scam</Subject>
+  <Customer>
+    <Name>Alexander Harding</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+  </Customer>
+  <Fraudster>
+    <Name>David Miller (Alias)</Name>
+    <Location>Belize</Location>
+  </Fraudster>
+  <Company>
+    <Name>SecureInvest LLC</Name>
+    <Location>Belize</Location>
+  </Company>
   <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>75000</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>XXXXXXXXXXXX</DestinationAccount>
-    <DestinationName>Various</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Description>Wire Transfers totaling $20,000 to SecureInvest LLC</Description>
+    <Amount>20000.00</Amount>
   </Transaction>
-  <Findings>Multiple large transfers originating from various accounts across Europe.
-
-</Findings>
-  <ReportDate>2024-03-01</ReportDate>
+  <SuspiciousActivity>Reported victim alleges being contacted via Telegram by an individual claiming to be an AI trading expert. Victim transferred funds to SecureInvest LLC, an entity located in Belize, under the false pretense of high-yield returns. Victim's subsequent withdrawal request was denied, and they are unable to access their funds. Suspected investment fraud scheme involving AI trading and offshore entities.</SuspiciousActivity>
+  <ReportType>Fraud</ReportType>
 </SAR>

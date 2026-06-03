@@ -1,19 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2023-0123</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>Unknown</Name>
-    <Account>GB26BARC00000000000001234</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1503000000000012345678</DestinationAccount>
-    <DestinationName>QuantumLeap AI Investments</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual inbound transfer from Germany. Further investigation required due to potential link to investment fraud.</Findings>
-  <ReportDate>2024-01-15</ReportDate>
+  <Header>
+    <SARReference>20231003-NGA-001</SARReference>
+    <DateTime>2023-10-03T14:30:00Z</DateTime>
+    <SubmittedBy>Zenith Bank Nigeria</SubmittedBy>
+  </Header>
+  <TransactionDetails>
+    <TransactionID>TXN-90123</TransactionID>
+    <TransactionDate>2023-09-18</TransactionDate>
+    <TransactionAmount currency="EUR">200</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <OriginatingBank>Commerzbank</OriginatingBank>
+    <BeneficiaryBank>Zenith Bank Nigeria</BeneficiaryBank>
+    <BeneficiaryAccount>5678901234</BeneficiaryAccount>
+  </TransactionDetails>
+  <PartyInformation>
+    <Sender>
+      <Name>Klaus Heinz</Name>
+      <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>Unclear</Name>
+      <Location>Nigeria</Location>
+    </Receiver>
+  </PartyInformation>
+  <Findings>
+    <SuspiciousActivity>Small transfer to Nigeria following previous large transfers.  Recipient account details unclear.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

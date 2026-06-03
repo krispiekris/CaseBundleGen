@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-0057</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE89370400440532013600</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple transfers to offshore account with vague investment purpose.  Beneficiary flagged for potential fraudulent activity.</Findings>
+  <Header>
+    <SARReferenceID>20230805-SAR-001</SARReferenceID>
+    <DateTime>2023-08-05T10:00:00Z</DateTime>
+    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
+  </Header>
+  <TransactionDetails>
+    <TransactionDate>2023-08-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <OriginatingParty>
+      <Name>Karl Meier</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+      <Country>DE</Country>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>FX Pro Advisor</Name>
+      <AccountID>BZ21020100000000000001</AccountID>
+      <Country>BZ</Country>
+      <IBAN>BZ21020100000000000001</IBAN>
+    </BeneficiaryParty>
+  </TransactionDetails>
+  <Suspicion>
+    <Description>Large credit to an overseas account with unusual activity</Description>
+    <Reason>Potential investment fraud</Reason>
+  </Suspicion>
 </SAR>

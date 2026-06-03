@@ -1,1 +1,0 @@
-The screenshot shows a simple dashboard.  The main display is a graph charting a fluctuating line representing 'daily profit'.  There's a large number displayed: '+£1250.00'.  Below the graph are buttons labeled 'Deposit' and 'Withdraw'. The header of the dashboard reads 'AutomatedWealth AI - John Smith's Account'.

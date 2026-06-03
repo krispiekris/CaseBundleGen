@@ -1,8 +1,14 @@
-Subject: Withdrawal Request
+From: victor.olufemi@ai-profit-solutions.com
+To: markus.baumann@email.de
+Subject: Urgent: Verification Required
 
-Dear QuantumLeap AI Support,
+Dear Markus,
 
-I would like to request a withdrawal of 2000 EUR from my account.
+We have detected unusual activity on your account. To prevent unauthorized access, we require you to verify your identity by confirming your account details. Please click on the link below to complete the verification process:
 
-Thank you,
-[Victim Name]
+[https://ai-profit-solutions.com/verify]
+
+Failure to verify your account within 24 hours may result in temporary suspension.
+
+Sincerely,
+The AI Profit Solutions Security Team

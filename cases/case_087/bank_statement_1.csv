@@ -1,7 +1,15 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-08-28,Standing Order,-500,GBP,Utilities
-2023-09-01,NovaTrade AI,500,GBP,NovaTrade AI
-2023-09-10,Salary,3500,GBP,ABC Corp
-2023-10-15,NovaTrade AI,200,GBP,NovaTrade AI
-2023-10-20,Debit Card Purchase,-50,GBP,Supermarket
-2023-11-01,Payment,-2000,GBP,NovaTrade AI
+Date,Description,Amount (CAD)
+2023-03-10,Grocery Store,50.00
+2023-03-15,Online Transfer,0.00
+2023-04-01,Forex Global Elite Deposit,25000.00
+2023-04-05,Restaurant,75.00
+2023-05-15,Forex Global Elite Deposit,10000.00
+2023-06-01,Movie Tickets,30.00
+2023-07-22,Withdrawal Request,25000.00
+2023-07-25,Utilities,150.00
+2023-08-01, ,,
+2023-08-15, ,,
+2023-09-01, ,,
+2023-09-15, ,,
+2023-10-01, ,,
+2023-10-15, ,,

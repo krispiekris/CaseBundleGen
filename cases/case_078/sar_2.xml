@@ -1,26 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-0032</ReportID>
-  <ReportingInstitution>NatWest Bank</ReportingInstitution>
-  <Subject>
-    <Name>AlphaTrade AI Ltd</Name>
-    <Account>GB16NWBK20300058749000</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-11-12</ReportDate>
+    <SuspiciousActivity>
+      <Description>Potential Investment Fraud - AI Trading Scam - Withdrawal Denial</Description>
+    </SuspiciousActivity>
+  </Header>
   <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-10-20</TransactionDate>
+    <Amount>5000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GB16NWBK20300058749000</DestinationAccount>
-    <DestinationName>David Miller</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SenderName>Karl Heinrich</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>Innovative Investments Ltd.</ReceiverName>
+    <ReceiverAccount>GBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <PurposeCode>1000</PurposeCode>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>2500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB16NWBK20300058749000</DestinationAccount>
-    <DestinationName>David Miller</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from Australian individual via wire transfers. Investigation warranted to determine origin of funds and legitimacy of AlphaTrade AI Ltd.</Findings>
+  <Parties>
+    <Party>
+      <Name>Karl Heinrich</Name>
+      <Address>Musterstraße 123, 12345 Musterstadt, Germany</Address>
+    </Party>
+    <Party>
+      <Name>Innovative Investments Ltd.</Name>
+      <Jurisdiction>United Kingdom</Jurisdiction>
+    </Party>
+  </Parties>
+  <Findings>
+    <Finding>Victim attempted withdrawal of funds; request denied by Innovative Investments Ltd. Possible fraudulent activity.</Finding>
+  </Findings>
 </SAR>

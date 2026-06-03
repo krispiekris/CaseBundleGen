@@ -1,12 +1,12 @@
-From: nova.trading.support@securemail.biz
-To: victim1@email.com
-Subject: Urgent Action Required
+From: support@globalforexsolutions.com
+To: klaus.heinz@email.de
+Subject: Regarding Your Withdrawal Request
 
-Dear [Victim Name],
+Dear Klaus,
 
-Due to unforeseen circumstances, your withdrawal request is being temporarily held. To resolve this issue, a small processing fee of €2000 is required. This fee is a standard procedure and will be automatically refunded once the transaction is complete.
+We received your withdrawal request. Due to increased security measures, we require additional verification. Please transfer 0.5 BTC to the following wallet address: 1BKzJq432WkGzS9q1Q23P6Y738497k77A.
 
-Please transfer the fee immediately to avoid cancellation of your withdrawal request.
+Once the verification is complete, your withdrawal will be processed immediately.
 
 Sincerely,
-The Nova AI Trading Team
+The Global Forex Solutions Support Team

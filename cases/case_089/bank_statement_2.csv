@@ -1,5 +1,11 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-09-01,Incoming Transfer,5000,EUR,Deutsche Bank
-2023-12-05,Incoming Transfer,3000,EUR,Deutsche Bank
-2023-09-05,Outgoing Transfer,5000,EUR,Global Investments Ltd
-2023-12-08,Outgoing Transfer,3000,EUR,Global Investments Ltd
+Date,Description,Amount (AUD),Recipient IBAN
+2023-03-10,-1000.00,,
+2023-03-15,Credit Card Payment,,-,
+2023-03-22,-5000.00,AI Prosper Investments Ltd,BZ1234567890
+2023-03-28,Groceries,,-,
+2023-04-05,Electricity Bill,,-,
+2023-04-12,Salary,3000.00,,
+2023-04-19,Online Transfer,,-,
+2023-04-26,Restaurant,,-,
+2023-05-03,Rent Payment,,-,
+2023-05-10,-2500.00,AI Prosper Investments Ltd,BZ1234567890

@@ -1,54 +1,55 @@
 {
-  "case_id": "CF2024-007",
+  "case_id": "2024-0112-CRN-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac90,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Yoruba",
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Belize",
+    "Cyprus",
     "United Kingdom"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Victim begins researching AI trading platforms"
+      "event": "Initial contact via Telegram"
     },
     {
       "date": "2023-09-01",
-      "event": "Victim contacts 'QuantumLeap AI' through online advertisement"
+      "event": "Victim deposits initial \u20ac5,000"
     },
     {
       "date": "2023-09-15",
-      "event": "Initial deposit made by victim"
+      "event": "Victim encouraged to deposit additional \u20ac10,000"
     },
     {
-      "date": "2023-11-01",
-      "event": "Victim attempts to withdraw funds - denied"
+      "date": "2023-10-01",
+      "event": "Withdrawal attempts fail"
     },
     {
-      "date": "2023-12-10",
-      "event": "Victim reports fraud to authorities"
+      "date": "2023-10-10",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac20,000 - \u20ac40,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.5 - 1.0"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     }
   ]
 }

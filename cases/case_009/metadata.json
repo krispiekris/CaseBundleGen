@@ -1,58 +1,59 @@
 {
-  "case_id": "CS2024-11-05-007",
+  "case_id": "2024-CZ-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac90,000",
-    "country": "Germany",
+    "income_range": "75,000 - 100,000 USD",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Russia",
     "languages_spoken": [
+      "Russian",
       "English",
-      "Spanish"
+      "German"
     ]
   },
   "destination_countries": [
     "Belize",
-    "St. Kitts and Nevis"
+    "St. Vincent and the Grenadines"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim encounters promotional material online."
+      "date": "2022-11-15",
+      "event": "Victim contacts 'AI Trading Platform' online."
     },
     {
-      "date": "2023-09-01",
-      "event": "Victim opens account with 'NovaTech AI'"
+      "date": "2023-01-20",
+      "event": "Initial investment made by victim."
     },
     {
-      "date": "2023-09-15",
-      "event": "First deposit made."
+      "date": "2023-03-10",
+      "event": "Victim witnesses fabricated 'profits' on platform."
     },
     {
-      "date": "2023-11-01",
-      "event": "Victim attempts to withdraw funds; faces difficulties."
+      "date": "2023-05-01",
+      "event": "Victim pressured to make additional investments."
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim officially reports fraud."
+      "date": "2023-07-12",
+      "event": "Victim attempts withdrawal; funds unavailable."
+    },
+    {
+      "date": "2023-09-28",
+      "event": "Victim reports incident to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac15,000 - \u20ac30,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "1.5 - 3 BTC"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.3"
-    },
-    {
-      "type": "ETH",
-      "amount_range": "0.5 - 1.5"
+      "type": "USD",
+      "amount_range": "5,000 - 15,000 USD"
     }
   ]
 }

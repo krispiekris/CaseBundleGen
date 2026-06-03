@@ -1,22 +1,12 @@
-From: QuantumLeap AI <support@quantumleap.ai>
-To: Victim 1 <victim1@example.cz>
-Subject: Get Started with QuantumLeap AI - Simple Steps
+From: hans.meier@email.de
+To: info@ai-globaltrading.com
+Subject: Question about AI Global Trading
 
-Dear [Victim 1],
+Dear AI Global Trading Team,
 
-Ready to start earning with QuantumLeap AI? Here’s how:
+I am interested in investing with your platform. Could you please provide me with more information about the minimum investment amount and the fees associated with withdrawing funds?
 
-1.  Log in to your account at www.quantumleap.fake
-2.  Select your desired investment package.
-3.  Transfer funds to the following account:
-    Bank: Lloyds Bank
-    Account Name: Altcoin Global Ltd
-    Account Number: 00000000000000000000
-    Sort Code: 300000
-
-Once your deposit is confirmed, our AI will begin working for you immediately.
-
-Have questions?  Reply to this email or call us at +44 20 3697 1234.
+Thank you for your time.
 
 Sincerely,
-The QuantumLeap AI Support Team
+Hans Meier

@@ -1,28 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CYP2024-002</ReportID>
-  <ReportingInstitution>Hellenic Bank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>CY0100000000000000012345</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>David Miller</DestinationName>
-    <Purpose>Investment Deposit</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>David Miller</DestinationName>
-    <Purpose>Profit Distribution</Purpose>
-  </Transaction>
-    <Findings>
-    <Finding>Significant and rapid inflow of funds followed by smaller outgoing transfers. Account appears to be used for money laundering purposes.</Finding>
-  </Findings>
+<SAR id="SAR-2024-01-10-002">
+  <ReportDate>2024-01-10</ReportDate>
+  <BankName>Canadian Risk Bank</BankName>
+  <AccountName>David Miller</AccountName>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2023-12-05</TransactionDate>
+  <TransactionAmount currency="CAD">25000.00</TransactionAmount>
+  <TransactionDescription>Wire Transfer to Crypto Exchange - Binance</TransactionDescription>
+  <BeneficiaryName>Binance</BeneficiaryName>
+  <BeneficiaryAccount>Binance Wallet</BeneficiaryAccount>
+  <BeneficiaryBank>Binance</BeneficiaryBank>
+  <Finding>Potential investment fraud. Funds transferred to cryptocurrency exchange after initial investment.</Finding>
+  <ReportSubmittedBy>Sarah Chen</ReportSubmittedBy>
 </SAR>

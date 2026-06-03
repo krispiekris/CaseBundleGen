@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the account number of Hans Schmidt?",
-    "answer": "DE87370400440532013000"
+    "question": "What is the stated average weekly return for members of the NovaTrade system, according to the initial invitation email?",
+    "answer": "18%"
   },
   {
-    "question": "What is the destination account for the EUR 5000 transaction from Hans Schmidt\u2019s account, as detailed in sar_1.xml?",
-    "answer": "LT12100001110123451"
+    "question": "What specific detail did Hans Baumann request from the Global Assets Team following the initial invitation?",
+    "answer": "More detail on the minimum investment required and the typical withdrawal process."
   },
   {
-    "question": "Based on email_2.txt, what profit did Hans Schmidt allegedly make on his initial investment of \u20ac5,000?",
-    "answer": "\u20ac1,500"
+    "question": "According to the SAR reports, what is the account number associated with the transactions to NovaTrade AG?",
+    "answer": "1234567890"
   },
   {
-    "question": "What type of document does email_3.txt request from Hans Schmidt?",
-    "answer": "A copy of his passport or driver\u2019s license."
+    "question": "What is the initial amount of the first transfer made by Hans Baumann to NovaTrade AG, as documented in the bank statement?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "According to sar_3.xml, which company received the EUR 5000 transaction originating from Altcoin Global Ltd's account?",
-    "answer": "Offshore Services LLC"
+    "question": "Based on the Telegram conversation, what is the minimum deposit amount David Sterling suggests to maximize Hans Baumann\u2019s gains?",
+    "answer": "2000 EUR"
   },
   {
-    "question": "What currency are the transactions recorded in the bank statements?",
-    "answer": "EUR"
+    "question": "Describe the overall impression conveyed by the NovaTrade platform login screen, as depicted in the screenshot.",
+    "answer": "Legitimate and trustworthy, designed to instill confidence in potential users."
   },
   {
-    "question": "What is the purpose stated for the transactions made by Hans Schmidt?",
-    "answer": "Investment"
+    "question": "What does the promotional material highlight as a key benefit of the NovaTrade system?",
+    "answer": "Consistent profits while users sleep"
   },
   {
-    "question": "What is the website address mentioned in the promotional materials for QuantumLeap AI?",
-    "answer": "www.quantumleap.fake"
+    "question": "What was the reason given for denying Hans Baumann\u2019s attempted withdrawal, according to SAR-2024-01-25-003?",
+    "answer": "Lack of clear explanation for denial"
   },
   {
-    "question": "What is the processing fee mentioned in email_4.txt that is required to unlock the profits?",
-    "answer": "\u20ac500"
+    "question": "Which bank is listed as the beneficiary bank for the transfers to NovaTrade AG?",
+    "answer": "Sterling Bank Nigeria Limited"
   },
   {
-    "question": "According to brochure_2.txt, what is the disclaimer regarding past performance?",
-    "answer": "Past performance is not indicative of future results."
+    "question": "Which entities are linked to both an investment opportunity and a wire transfer destination?",
+    "answer": "Global Assets Team, NovaTrade AG"
   }
 ]

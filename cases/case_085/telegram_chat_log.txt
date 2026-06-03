@@ -1,0 +1,10 @@
+[2023-03-15 14:32:00] AI Trading Expert: Hello Klaus! I’m Daniel, your dedicated AI trading expert. Excited to help you start your journey to financial freedom!
+[2023-03-15 14:35:00] Klaus Mueller: Hi Daniel! Great to hear.
+[2023-03-15 14:37:00] AI Trading Expert: First, let's discuss your investment goals. What’s your preferred investment amount?
+[2023-03-15 14:40:00] Klaus Mueller: I was thinking around €5000.
+[2023-03-15 14:42:00] AI Trading Expert: Excellent choice! This will allow you to see a substantial return quickly. Let's get started with the deposit process.
+[2023-04-01 11:15:00] AI Trading Expert: Deposit confirmed! Our AI is now working hard to generate profits for you.
+[2023-05-10 16:48:00] AI Trading Expert: Good news! Your first profit payout of €250 is ready for withdrawal.
+[2023-07-20 10:02:00] Klaus Mueller: Hi Daniel, I’d like to withdraw my funds now.
+[2023-07-20 10:05:00] AI Trading Expert: Great! Please complete the verification process first. We need to confirm your identity for security purposes.
+[2023-07-20 10:08:00] AI Trading Expert: Please send us a copy of your passport and proof of address.

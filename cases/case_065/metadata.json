@@ -1,52 +1,58 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-CYB-0789",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000-\u20ac80,000",
-    "country": "Germany",
+    "income_range": "$80,000 - $120,000",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Kingdom",
-    "Marshall Islands"
+    "Belize",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-09-15",
-      "event": "Victim receives initial promotional email"
+      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
     },
     {
-      "date": "2023-10-20",
-      "event": "Victim makes first investment"
+      "date": "2023-09-22",
+      "event": "Initial investment of $5,000 made"
+    },
+    {
+      "date": "2023-10-15",
+      "event": "Victim shown fabricated profits, encouraged to invest more"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim invests an additional $15,000"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Victim requests withdrawal of funds, encounters obstacles"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim attempts withdrawal, denied"
-    },
-    {
-      "date": "2024-02-05",
-      "event": "Victim reports the incident"
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$20,000 - $25,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "Bank Transfers",
+      "amount_range": "$20,000 - $25,000"
     }
   ]
 }

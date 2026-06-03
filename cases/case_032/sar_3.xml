@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>VC2023-0045</ReportID>
-  <ReportingInstitution>National Bank of Saint Vincent and the Grenadines</ReportingInstitution>
-  <Subject>
-    <Name>Apex Holdings Ltd</Name>
-    <Account>XXX-XXXXXXX</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-05</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <OriginAccount>BM300110000000123456</OriginAccount>
-    <OriginName>NovaAI Trading Ltd</OriginName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from Belize, potentially linked to investment scam.</Findings>
-  <ReportingDate>2024-02-12</ReportingDate>
+  <ReportDate>2024-02-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-02-10</TransactionDate>
+      <Amount>10000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Heinz</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <ReceiverName>Golden Future Investments</ReceiverName>
+      <ReceiverAccount>USxxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+      <PurposeCode>13 - Other</PurposeCode>
+      <Description>Additional deposit</Description>
+      <SuspicionReason>Victim reports potential investment fraud.</SuspicionReason>
+    </Transaction>
+  </SuspiciousActivity>
 </SAR>

@@ -1,0 +1,1 @@
+[Screenshot Description: The dashboard displays a graph showing upward trending profit over the past week.  The current balance is displayed as €55,360.00. A prominent button reads 'Automated Trading Enabled'. Below this is a small disclaimer: 'Simulated Results – Not Representative of Actual Trading Performance']

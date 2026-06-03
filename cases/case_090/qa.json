@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by ANZ Bank?",
-    "answer": "ANZ2024-0057"
+    "question": "According to the SAR reports, what is the primary reason for the initial suspicious activity?",
+    "answer": "Unusually large initial transfer to a newly established online investment platform."
   },
   {
-    "question": "According to the brochure, what is a key feature of QuantumRise AI Trader?",
-    "answer": "Automated Trading \u2013 No experience required!"
+    "question": "What was the initial deposit amount made by Mark Hamilton to Aionautics Trading, as indicated in the SAR reports?",
+    "answer": "$20,000.00"
   },
   {
-    "question": "What is the purpose stated for the initial transaction of \u20ac15,000 from David Miller\u2019s account?",
-    "answer": "Investment"
+    "question": "Based on the promotional material, what is the minimum investment required to utilize Aionautics Trading's AI technology?",
+    "answer": "$20,000"
   },
   {
-    "question": "What is the projected profit displayed on the screenshot of the trading platform?",
-    "answer": "\u20ac7,500"
+    "question": "What service did Mark Hamilton seek from Aionautics Trading support after experiencing issues accessing his account?",
+    "answer": "Regaining access to his account"
   },
   {
-    "question": "Which entity received a transaction of 20,000 USD according to the Citibank SAR?",
-    "answer": "QuantumRise AI Investments Ltd"
+    "question": "What is the subject line of the email Mark Hamilton sent to Aionautics Trading support?",
+    "answer": "Unable to access my account"
   },
   {
-    "question": "What does the email from Adebayo suggest David Miller do to accelerate his returns?",
-    "answer": "Consider adding another \u20ac5,000 to his account"
+    "question": "What date does the SAR report concerning Mark Hamilton\u2019s initial deposit (SAR-20230401-001) indicate?",
+    "answer": "2023-04-01"
   },
   {
-    "question": "What is the main concern highlighted in the UniCredit Bank SAR (EUROB2024-0456)?",
-    "answer": "Suspiciously large transaction to an entity with limited online presence"
+    "question": "What details are provided in the screenshot description regarding the appearance of the Aionautics Trading website?",
+    "answer": "Modern, clean design with a dark blue and white color scheme. Prominent use of AI and robotics imagery."
   },
   {
-    "question": "What does the recovery email from Global Funds Retrieval claim?",
-    "answer": "They believe the victim may be eligible for a partial refund"
+    "question": "Considering the telegram chat export and the SAR reports, what happened after Mark Hamilton\u2019s initial deposit and first withdrawal?",
+    "answer": "Mark Hamilton was unable to contact his account manager and experienced difficulties accessing the platform."
   },
   {
-    "question": "Besides David Miller, which other individual is mentioned in the SAR files as being connected to QuantumRise AI?",
-    "answer": "Robert Davies and Elena Rossi"
+    "question": "According to the promotional material, what is Aionautics Trading\u2019s claim about the win rate of its AI trading bots?",
+    "answer": "97%"
   },
   {
-    "question": "What is the purpose of the transaction of 3750 EUR from David Miller\u2019s account?",
-    "answer": "Profit Withdrawal"
+    "question": "What is the sequence of events described in the telegram chat export relating to Mark Hamilton\u2019s initial interaction with Alex?",
+    "answer": "Alex welcomed Mark, informed him of the $20,000 minimum deposit, confirmed the deposit receipt, and later mentioned exceptionally good bot performance before processing a withdrawal."
   }
 ]

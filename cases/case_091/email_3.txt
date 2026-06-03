@@ -1,12 +1,1 @@
-Subject: Important:  QuantumLeap AI Trader Account Verification
-
-Dear John,
-
-To ensure the security of your account and facilitate your withdrawal request, we require you to complete a quick verification process.  Please provide copies of your passport and recent bank statements.
-
-These documents will be securely processed and returned to you promptly.  Failure to comply may result in delays in your withdrawal.
-
-Click here to upload your documents: [link to fake verification site]
-
-Sincerely,
-QuantumLeap AI Trader Support
+From: Secure Investments <withdrawal@secureinvestments.co>\nTo: klaus.heinz@email.de\nSubject: Withdrawal Request Processing\n\nDear Klaus,\n\nWe've received your withdrawal request. Due to recent market volatility, your withdrawal is undergoing a standard verification process. To expedite this process, please confirm your transaction details by clicking on the link below:\n\n[invalid URL removed]\n\nThank you for your patience.\n\nThe Secure Investments Team

@@ -1,27 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CB2024-4567</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <DateReported>2024-04-06</DateReported>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SAR_ID>SAR-20240215-002</SAR_ID>
+    <SubmissionDate>2024-02-15</SubmissionDate>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC4567890123</DestinationAccount>
-    <DestinationName>Seychelles Trading Inc.</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-54321</TransactionID>
+    <TransactionDate>2023-11-10</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Sender>
+      <Name>Klaus Schmidt</Name>
+      <AccountID>DE1234567890</AccountID>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd.</Name>
+      <AccountID>LC012345678</AccountID>
+      <Country>Belize</Country>
+    </Receiver>
+    <Description>Withdrawal request</Description>
+    <SuspiciousActivity>Request for withdrawal denied by platform, customer unable to access funds.</SuspiciousActivity>
   </Transaction>
-   <Transaction>
-    <Date>2024-02-05</Date>
-    <Amount>300</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC4567890123</DestinationAccount>
-    <DestinationName>Seychelles Trading Inc.</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Funds routed through Seychelles trading company. Potential investment fraud.</Findings>
 </SAR>

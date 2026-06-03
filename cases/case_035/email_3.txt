@@ -1,10 +1,12 @@
-From: NovaTrade Security <security@novatrade.fake>
-To: helmut.schmidt@email.de
-Subject: Security Alert: Unusual Login Attempt
+From: support@ai-tradingpro.com
+To: ulrich.baumann@email.de
+Subject: Account Restrictions and Verification
 
-Dear Helmut,
+Dear Ulrich,
 
-We detected an unusual login attempt to your NovaTrade AI account.  To ensure your account's security, please verify your details and reset your password here: [malicious_link.fake]
+Due to a system update and enhanced security protocols, your account has been temporarily restricted. We require you to verify your identity and investment details to ensure the safety of your funds. Please click on the link below to complete the verification process:
+
+[Link to a phishing page]
 
 Sincerely,
-The NovaTrade Security Team
+The AI Trading Pro Support Team

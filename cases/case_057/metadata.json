@@ -1,52 +1,58 @@
 {
-  "case_id": "CF2024-11-007",
+  "case_id": "2024-CYB-0072",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
-    "country": "Germany",
+    "income_range": "$80,000 - $120,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Serbia",
     "languages_spoken": [
       "English",
-      "Hausa",
-      "Pidgin English"
+      "Serbian"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Kingdom",
-    "Belize"
+    "Serbia",
+    "Hong Kong"
   ],
   "timeline": [
     {
+      "date": "2023-03-15",
+      "event": "Victim contacted via targeted Facebook ad."
+    },
+    {
+      "date": "2023-04-01",
+      "event": "Victim invested initial $5,000."
+    },
+    {
+      "date": "2023-05-10",
+      "event": "Victim received first 'profit' payout."
+    },
+    {
+      "date": "2023-07-20",
+      "event": "Victim encouraged to invest further $20,000."
+    },
+    {
       "date": "2023-08-15",
-      "event": "Victim contacted by 'investment manager'"
+      "event": "Victim attempts to withdraw funds, met with delays and fees."
     },
     {
       "date": "2023-09-01",
-      "event": "Initial investment made"
-    },
-    {
-      "date": "2023-11-10",
-      "event": "Victim requests withdrawal; faces obstacles"
-    },
-    {
-      "date": "2024-02-20",
-      "event": "Victim reports fraud"
+      "event": "Victim realizes funds are lost and files a complaint."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$25,000 - $30,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.5 - 1.5 BTC"
+      "type": "Bank Transfers (USD)",
+      "amount_range": "$25,000 - $30,000"
     }
   ]
 }

@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-055</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 2</Name>
-    <Account>DE89370400440532013700</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-01-26</ReportDate>
+    <ReferenceNumber>SAR-20240126-002</ReferenceNumber>
+  </Header>
   <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>8000</Amount>
+    <TransactionDate>2024-01-20</TransactionDate>
+    <Amount>5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ120000100010000012345</DestinationAccount>
-    <DestinationName>QuantumLeap AI Investments Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SenderAccount>GB25NWBK00000012345678</SenderAccount>
+    <SenderName>Global Investments LTD</SenderName>
+    <ReceiverAccount>DE89370400440532013000</ReceiverAccount>
+    <ReceiverName>Ulrich Baumann</ReceiverName>
+    <Description>Withdrawal request</Description>
   </Transaction>
-  <Findings>Similar transfer patterns and destination account as reported by Sparkasse Bank.  Potential investment fraud.</Findings>
+  <SuspiciousActivity>
+    <Finding>Withdrawal request flagged due to account inactivity and prior positive balance.</Finding>
+    <Justification>Account balance significantly higher than initial deposit, no prior withdrawal requests.</Justification>
+  </SuspiciousActivity>
 </SAR>

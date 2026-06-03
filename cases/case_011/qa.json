@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR filed by Lloyds Bank, what was the stated purpose of the initial transaction from David Miller?",
-    "answer": "Initial Investment"
+    "question": "What was the initial amount Markus Richter transferred to AI Trading Pro?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "What website address is prominently featured in the QuantumLeap AI brochure?",
-    "answer": "www.quantumleap-ai.net"
+    "question": "According to promotional material, what is one of the advertised benefits of joining AI Trading Pro?",
+    "answer": "Potential for High Returns"
   },
   {
-    "question": "Which bank filed the SAR (BUL2024-005) and what is their primary concern regarding Global Investments Ltd?",
-    "answer": "First Investment Bank. Potentially linked to investment scam."
+    "question": "What is the name of the bank Markus Richter's account is with?",
+    "answer": "Deutsche Bank"
   },
   {
-    "question": "What does the screenshot_1.txt describe as a prominent feature of the QuantumLeap AI website?",
-    "answer": "Charts and graphs showcasing rapid growth."
+    "question": "Besides the initial investment, how much more money was requested from Markus Richter to 'Unlock Profits'?",
+    "answer": "2500.00 EUR"
   },
   {
-    "question": "What security measure, as described in email_3.txt, is QuantumLeap AI requesting from David Miller?",
-    "answer": "Account verification."
+    "question": "What reason did AI Trading Pro cite for needing an additional \u20ac5000 deposit to process Markus's withdrawal?",
+    "answer": "Transaction fees and regulatory compliance"
   },
   {
-    "question": "Besides David Miller, who else is mentioned in the SARs as having transferred funds to Global Investments Ltd?",
-    "answer": "John Smith"
+    "question": "What does the screenshot of the AI Trading Pro platform display?",
+    "answer": "A graph of fluctuating lines, an account balance of \u20ac7500.00, a 'Withdraw Funds' button, and a note about an unlocking fee."
   },
   {
-    "question": "What amount did email_2.txt suggest David Miller add to his account to maximize returns?",
-    "answer": "\u20ac3,000"
+    "question": "Which bank is listed in the SAR report relating to the second transfer of 2500 EUR?",
+    "answer": "Belize Bank International Limited"
   },
   {
-    "question": "According to bank_statement_2.csv, what currency was used for the outgoing transfer to a Third Party Account?",
-    "answer": "USD"
+    "question": "Based on the promotional material, what is one advantage of AI Trading Pro's technology?",
+    "answer": "Uses cutting-edge artificial intelligence to analyze market trends."
   },
   {
-    "question": "What is the purpose of the transfer from David Miller to Global Investments Ltd in bank_statement_3.csv?",
-    "answer": "Transfer from David Miller"
+    "question": "What appears to be the sequence of events related to Markus Richter's interactions with AI Trading Pro, starting with the first deposit?",
+    "answer": "Initial investment of 5000 EUR, additional investment of 2500 EUR, request for 2500 EUR to unlock profits, request for 5000 EUR to cover transaction fees and regulatory compliance."
   },
   {
-    "question": "What is the purpose of the transfer from Global Investments Ltd to David Miller in sar_2.xml?",
-    "answer": "Investment Withdrawal"
+    "question": "What is the email address used for communication with Markus Richter regarding his AI Trading Pro account?",
+    "answer": "markus.richter@email.de"
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what is the account number of the victim?",
-    "answer": "DE89370400440532013000"
+    "question": "According to the initial email, what is the name of the AI platform developed by AI-Trade Solutions?",
+    "answer": "Athena"
   },
   {
-    "question": "What purpose was given for the \u20ac5000 transaction from Victim 1's account to QuantumLeap AI on 2024-02-15, as detailed in SAR_1.xml?",
-    "answer": "Tax Payment"
+    "question": "Based on the portfolio update email, what was Richard Henderson's account balance on 2023-05-10?",
+    "answer": "$5,750.00"
   },
   {
-    "question": "Based on the email_2.txt, what is the bank account number used for the 'tax payment'?",
-    "answer": "NG7408201446350311"
+    "question": "What country is listed as the recipient country for the transactions detailed in the SAR reports?",
+    "answer": "Belize"
   },
   {
-    "question": "Which bank did Lloyds Bank identify as receiving funds in SAR_2.xml?",
-    "answer": "Deutsche Bank"
+    "question": "Which promotional material highlights the benefit of '24/7 monitoring'?",
+    "answer": "AI-Trade Solutions: Your Gateway to Automated Wealth"
   },
   {
-    "question": "What is the URL mentioned in the brochure_1.txt?",
-    "answer": "www.quantumleap.ai"
+    "question": "Based on the screenshot description, what metric indicates the AI\u2019s confidence level?",
+    "answer": "AI Confidence: 98%"
   },
   {
-    "question": "What does screenshot_1.txt describe about the website?",
-    "answer": "The website features a sleek, modern design with graphs and charts displaying impressive, but likely fabricated, investment gains."
+    "question": "What is the purpose of the email Richard Henderson sent to support@ai-trade-solutions.com?",
+    "answer": "To request a withdrawal of $5,000.00"
   },
   {
-    "question": "What is the purpose of the funds transfer recorded in SAR_3.xml from Shell Company Ltd to QuantumLeap AI?",
-    "answer": "Funds Transfer"
+    "question": "Which reporting officer filed the suspicious activity reports?",
+    "answer": "Jane Doe"
   },
   {
-    "question": "Based on email_3.txt, what consequence is threatened if the 'tax payment' is not submitted?",
-    "answer": "Cancellation of the withdrawal request and potential loss of access to your account."
+    "question": "Considering all files, what is the total amount Richard Henderson transferred to AI-Trade Solutions?",
+    "answer": "$15,000.00"
   },
   {
-    "question": "According to bank_statement_1.csv, what was the description for the -2000 EUR transaction?",
-    "answer": "QuantumLeap AI"
+    "question": "Based on the SAR reports, what initially triggered the suspicious activity reports related to Richard Henderson's transactions?",
+    "answer": "Unusual Investment \u2013 High-yield promise, limited information about company; Continued investment despite limited information"
   },
   {
-    "question": "What is the website mentioned in brochure_2.txt?",
-    "answer": "www.stellartrade.fake"
+    "question": "What is the purpose of the 'Disclaimer' mentioned in promotional material 2?",
+    "answer": "To state that past performance is not indicative of future results."
   }
 ]

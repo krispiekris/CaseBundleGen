@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2024-00345</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+<SAR id="SAR-20231117-001">
+  <ReportingInstitution>
+    <Name>Sparkasse Bank</Name>
+    <Address>München, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE87370400440532013838</Account>
+    <Name>Ulrich Baumann</Name>
+    <Address>Munich, Germany</Address>
+    <DateOfBirth>1968-05-20</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BB120000000000000000001</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2023-11-17</Date>
+    <Amount currency="EUR">5000.00</Amount>
+    <Description>Transfer to AI Trading Pro - Investment</Description>
+    <Recipient>
+      <Name>Global Investments Ltd.</Name>
+      <IBAN>DE89370400440532015000</IBAN>
+    </Recipient>
+    <SuspiciousActivity>Potential investment fraud - unusually high promised returns</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-03-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BB120000000000000000001</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusually large transfers to offshore company. Account activity deviates significantly from established patterns. Potential investment fraud.</Findings>
 </SAR>

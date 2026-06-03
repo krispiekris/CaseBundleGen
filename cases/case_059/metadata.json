@@ -1,56 +1,59 @@
 {
-  "case_id": "CR2023-047",
+  "case_id": "2024-Cyber-0789",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
-    "country": "Germany",
+    "income_range": "$80,000 - $120,000",
+    "country": "Canada",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Russia",
+    "location": "Nigeria",
     "languages_spoken": [
-      "Russian",
       "English",
-      "German"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Saint Vincent and the Grenadines",
-    "Marshall Islands"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacts 'QuantumLeap AI' via online advertisement"
-    },
-    {
-      "date": "2023-09-01",
-      "event": "Initial deposit made by victim"
-    },
-    {
-      "date": "2023-10-15",
-      "event": "Victim receives fabricated profit distribution"
-    },
-    {
-      "date": "2023-11-20",
-      "event": "Victim attempts to withdraw funds, request denied"
+      "date": "2023-11-15",
+      "event": "Victim contacted via Telegram about AI trading opportunity."
     },
     {
       "date": "2023-12-05",
-      "event": "Victim reports the incident to authorities"
+      "event": "Initial investment of $5,000 made by victim."
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim shown fabricated profits and encouraged to invest more."
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Victim attempts to withdraw funds; request denied."
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim reports incident to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "$5,000 - $20,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "Bank Transfers",
+      "amount_range": "$5,000 - $25,000"
+    },
+    {
+      "type": "Gift Cards",
+      "amount_range": "$100 - $500"
     }
   ]
 }

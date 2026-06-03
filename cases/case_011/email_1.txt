@@ -1,14 +1,16 @@
-From: QuantumLeap AI Support <support@quantumleap-ai.net>
-To: david.miller@email.com
-Subject: Welcome to QuantumLeap AI - Your AI Trading Journey Begins
+From: "AI Trading Platform" <support@aitradingpro.com>
+To: markus.richter@email.de
+Subject: Welcome to AI Trading Pro!
 
-Dear David,
+Dear Markus,
 
-Welcome aboard! We’re thrilled to have you join the QuantumLeap AI community.
+Welcome to the future of trading! We're thrilled to have you join the AI Trading Pro community.
 
-Get ready to experience the future of trading! Our AI algorithms are designed to identify and capitalize on market opportunities, delivering consistent profits.
+Our revolutionary AI algorithms analyze market trends and execute trades with unparalleled precision. You're just moments away from potentially generating significant returns.
 
-To get started, simply log in to your account at www.quantumleap-ai.net.
+To get started, simply log in to your account: [https://www.aitradingpro.com/login](https://www.aitradingpro.com/login)
+
+If you have any questions, please don't hesitate to contact our support team.
 
 Sincerely,
-The QuantumLeap AI Team
+The AI Trading Pro Team

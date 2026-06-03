@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>IRL2024-003</ReportID>
-  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB82NWBK00000000001234</DestinationAccount>
-    <DestinationName>John Smith</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Funds transferred to another entity with a different name and location.</Findings>
+  <Header>
+    <ReportDate>2023-10-03</ReportDate>
+    <SuspiciousActivity>
+      <TransactionType>Withdrawal Attempt</TransactionType>
+      <TransactionAmount>5000.00</TransactionAmount>
+      <Currency>USD</Currency>
+    </SuspiciousActivity>
+    <Party>
+      <SenderName>Richard Adams</SenderName>
+      <SenderAccount>XXXXXXXXXXXXXXX</SenderAccount>
+    </Party>
+    <Description>Withdrawal attempt failed, citing technical issues. Victim reports inability to access funds.</Description>
+  </Header>
 </SAR>

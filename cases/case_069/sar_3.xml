@@ -1,34 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BZ20240415-001</ReportID>
-  <ReportingInstitution>Belize International Bank</ReportingInstitution>
-  <Subject>
-    <Name>GlobalTech Solutions Ltd.</Name>
-    <Account>BZ1234567890098765432</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>PA12345678901234567890</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>150</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>PA12345678901234567890</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Profit Payout</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>4500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>PA12345678901234567890</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Withdrawal Request</Purpose>
-  </Transaction>
-  <Findings>Suspicious activity: Shell company receiving and transferring funds. Possible involvement in money laundering scheme related to investment fraud.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-01-22</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-15</TransactionDate>
+      <Amount>20000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
+      <Description>Withdrawal Attempt</Description>
+      <Location>Australia</Location>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>Jane Doe</Contact>
+    <Phone>1300 123 456</Phone>
+  </ReportingInstitution>
+  <Findings>
+    <Finding>Large withdrawal attempt following a substantial initial investment, potentially indicative of a desperate attempt to recover losses or evade detection. Further investigation required given prior activity.</Finding>
+  </Findings>
 </SAR>

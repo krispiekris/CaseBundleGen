@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BZ2023-9012</ReportID>
-  <ReportingInstitution>Belize International Bank</ReportingInstitution>
-  <Subject>
-    <Name>Global Investment Solutions Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-01-05</Date>
-    <Amount>5000</Amount>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sar_schema.xsd">
+  <ReportDate>2024-02-15</ReportDate>
+  <SuspiciousActivity>
+    <TransactionType>Multiple Deposits</TransactionType>
+    <Amount>30500.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ000123456</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Company registered in Belize with opaque ownership. High volume of incoming funds from Germany.</Findings>
+    <TransactionDate>2023-08-15 to 2023-09-20</TransactionDate>
+    <Account>
+      <AccountID>GFG12345</AccountID>
+      <AccountHolder>Klaus Meier</AccountHolder>
+    </Account>
+    <Description>Multiple large deposits from Klaus Meier followed by a failed withdrawal request. Investigation ongoing.  Communication attempts unsuccessful.</Description>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Contact>
+      <Phone>+49 30 12345678</Phone>
+      <Email>compliance@deutschebank.de</Email>
+    </Contact>
+  </ReportingInstitution>
 </SAR>

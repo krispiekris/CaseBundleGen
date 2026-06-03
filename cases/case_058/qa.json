@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by Deutsche Bank concerning Victim 1's initial deposit?",
-    "answer": "INV2023-128"
+    "question": "What was the initial investment amount made by David Miller to AlgoTrade Pro, according to the bank statement?",
+    "answer": "5000.00"
   },
   {
-    "question": "According to the email from investment.opportunities@quantumfx.fake, what technology does Apex Intelligence supposedly use?",
-    "answer": "Cutting-edge AI technology"
+    "question": "What type of activity did the Suspicious Activity Report (SAR) initially flag concerning David Miller's account?",
+    "answer": "Potential Investment Fraud"
   },
   {
-    "question": "What is the purpose of the transaction between Altcoin Global Ltd and Victim 1 on 2023-11-30?",
-    "answer": "Investment"
+    "question": "According to the promotional material, what is one benefit that AlgoTrade Pro offers to its members?",
+    "answer": "Generates consistent profits"
   },
   {
-    "question": "What is the amount of the processing fee requested by QuantumFX Support in email_3.txt?",
-    "answer": "500 EUR"
+    "question": "What was the described reason for the 1500.00 transaction from AlgoTrade Pro to David Miller in SAR 2?",
+    "answer": "Simulated profit payout"
   },
   {
-    "question": "Which institution filed the SAR (Report ID INV2024-022) and who is the subject of that SAR?",
-    "answer": "LHV Pank; Altcoin Global Ltd"
+    "question": "Based on the telegram conversation, what was the initial deposit amount suggested by the AI Trading Advisor?",
+    "answer": "5000"
   },
   {
-    "question": "What is the Destination Account mentioned in sar_4.xml, and what is its associated purpose?",
-    "answer": "NG25208186880508638; Payment"
+    "question": "What country was the receiving account for the initial investment transaction located in, according to the SAR?",
+    "answer": "Romania"
   },
   {
-    "question": "What is the daily ROI reported to Victim 1 in the email from support@quantumfx.fake?",
-    "answer": "12.5%"
+    "question": "What did the screenshot of the website depict in relation to profits?",
+    "answer": "Graphs showing steep upward trends labeled 'Profit Growth'"
   },
   {
-    "question": "What amount does the screenshot_1.txt indicate as the daily profit?",
-    "answer": "+15.8%"
+    "question": "What was the reason for the denied withdrawal attempt, according to SAR 3?",
+    "answer": "Attempted withdrawal denied"
   },
   {
-    "question": "According to brochure_2.txt, what is the message regarding other crypto trading platforms?",
-    "answer": "All other platforms are unreliable."
+    "question": "Which entities are associated with the 'AlgoTrade Pro' account (9876543210) as both a sender and a receiver in the provided documents?",
+    "answer": "AlgoTrade Pro Team, David Miller"
   },
   {
-    "question": "What is Victim 1's account number?",
-    "answer": "GR1601101250000000012310695"
+    "question": "What did the promotional material state about testimonials?",
+    "answer": "\"I've never seen profits like this before!\" - John S.\n\"AlgoTrade Pro is a game-changer!\" - Emily B."
   }
 ]

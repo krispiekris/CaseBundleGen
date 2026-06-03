@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the report ID associated with Robert Harding's initial suspicious activity?",
-    "answer": "INV2023-127"
+    "question": "What was the initial amount invested by David Miller, according to the bank statement?",
+    "answer": "5000.00"
   },
   {
-    "question": "What is the purpose indicated for the EUR 12,000 transfer in sar_1.xml?",
-    "answer": "Investment"
+    "question": "According to the promotional material, what is one of the key benefits of using the AI Extra trading platform?",
+    "answer": "Effortless Profits"
   },
   {
-    "question": "Based on email_3.txt, what action was Robert Harding asked to take for account verification?",
-    "answer": "Reply to the email with a copy of his passport or driver's license."
+    "question": "What was the purpose of the second transaction of 15000.00 AUD according to the SAR report?",
+    "answer": "Additional Investment"
   },
   {
-    "question": "What is the destination account mentioned in both sar_1.xml and sar_2.xml?",
-    "answer": "NL82INGB0001234567"
+    "question": "What type of document was requested from David Miller to expedite the withdrawal processing?",
+    "answer": "A copy of his government-issued ID"
   },
   {
-    "question": "According to the promotional_2.txt, what hashtags were used when describing InnovAI's trading platform?",
-    "answer": "#InnovAI #AItrading #passiveincome"
+    "question": "According to the screenshot of the website, what is a common phrase used in the testimonials?",
+    "answer": "Life-changing profits!"
   },
   {
-    "question": "What date does sar_3.xml indicate the transfer of EUR 12,000 from InnovAI Investments to Robert Harding occurred?",
-    "answer": "2023-12-15"
+    "question": "What was the amount of the profit distribution received by David Miller, as indicated in email_2.txt?",
+    "answer": "1250.00"
   },
   {
-    "question": "What is the amount of the bonus offered to Robert Harding in email_2.txt?",
-    "answer": "25%"
+    "question": "What is the primary reason given for requesting additional verification from David Miller in email_4.txt?",
+    "answer": "To ensure the security of his funds"
   },
   {
-    "question": "According to bank_statement_2.csv, how much did InnovAI transfer to Robert Harding on January 10, 2024?",
-    "answer": "5000 EUR"
+    "question": "Based on the SAR reports, which indicator of suspicious activity was flagged for the initial investment?",
+    "answer": "Unusual investment platform"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the InnovAI website's design?",
-    "answer": "It features a sleek design with a logo depicting a stylized AI brain, blue and white color scheme, and fields for username and password."
+    "question": "What type of communication was used to inform David about the processing of his withdrawal request?",
+    "answer": "Email"
   },
   {
-    "question": "Based on email_4.txt, what issue was Robert Harding experiencing when attempting to withdraw his funds?",
-    "answer": "He was encountering difficulties and had been asked to pay additional fees."
+    "question": "According to promotional material_2.txt, what characteristic is highlighted to create a sense of urgency?",
+    "answer": "Limited spots available"
   }
 ]

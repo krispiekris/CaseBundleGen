@@ -1,54 +1,55 @@
 {
-  "case_id": "2024-CYB-047",
+  "case_id": "2024-07-26-CC-0042",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000 EUR",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Saint Vincent and the Grenadines"
+    "Vietnam",
+    "Philippines"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim encounters online advertisement"
+      "date": "2023-11-15",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial investment made"
-    },
-    {
-      "date": "2023-11-10",
-      "event": "Victim withdraws a small amount"
+      "date": "2023-12-05",
+      "event": "First deposit made"
     },
     {
       "date": "2024-01-20",
-      "event": "Victim attempts to withdraw larger amount, fails"
+      "event": "Victim expresses concerns about withdrawals"
     },
     {
-      "date": "2024-02-05",
-      "event": "Victim reports fraud"
+      "date": "2024-02-10",
+      "event": "Victim reports suspected fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "20000-40000"
+      "type": "Bitcoin",
+      "amount_range": "0.5 - 1 BTC"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.5-1.0"
+      "type": "Ethereum",
+      "amount_range": "10 - 20 ETH"
+    },
+    {
+      "type": "EUR",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     }
   ]
 }

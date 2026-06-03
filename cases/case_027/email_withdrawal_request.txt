@@ -1,0 +1,19 @@
+Subject: Withdrawal Request - NovaAI Account
+
+Dear NovaAI Support,
+
+Please process a withdrawal of €18,000 from my NovaAI account. My account details are as follows:
+
+Account ID: 789456123
+
+Bank Name: Deutsche Bank
+Account Number: 1234567890
+IBAN: DE12 1000 0000 2222 3333 44
+SWIFT/BIC: DEUTDEFFXXX
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Helmut Schmidt
+helmut.schmidt@email.de

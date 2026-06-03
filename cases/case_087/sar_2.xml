@@ -1,18 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2023-255</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>Unknown</Name>
-    <Account>RS1234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>1200</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>MK00000000000001</DestinationAccount>
-    <DestinationName>Petar Jovanovski</DestinationName>
-    <Purpose>Investment Profit</Purpose>
-  </Transaction>
-  <Findings>Funds received from suspicious investment activity. Potential money laundering.</Findings>
+  <CaseID>2023-SAR-124</CaseID>
+  <Date>2023-09-10</Date>
+  <BankName>Global Finance International</BankName>
+  <BankLocation>Belgrade, Serbia</BankLocation>
+  <AccountName>Sergei Volkov</AccountName>
+  <AccountNum>9876543210</AccountNum>
+  <SuspiciousActivity>Receiving large sums from Canadian investor, minimal activity beyond deposits and transfers.</SuspiciousActivity>
+  <TransactionDetails>
+    <Transaction1>
+      <Date>2023-04-01</Date>
+      <Amount>25000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Deposit from David Miller</Description>
+      <Sender>David Miller</Sender>
+    </Transaction1>
+    <Transaction2>
+      <Date>2023-05-15</Date>
+      <Amount>10000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Deposit from David Miller</Description>
+      <Sender>David Miller</Sender>
+    </Transaction2>
+    <Transaction3>
+      <Date>2023-07-22</Date>
+      <Amount>35000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Transfer to Marshall Islands Holding Company</Description>
+      <Sender>Forex Global Elite</Sender>
+    </Transaction3>
+  </TransactionDetails>
+  <Findings>Potential involvement in investment fraud scheme.</Findings>
+  <ReportingBankOfficer>Ivan Petrov</ReportingBankOfficer>
 </SAR>

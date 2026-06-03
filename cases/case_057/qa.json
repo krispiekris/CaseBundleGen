@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the account number of the subject, Hans Schmidt?",
-    "answer": "DE87370400440532013000"
+    "question": "According to promotional material, what is a key benefit of using Aionautica's platform?",
+    "answer": "Guaranteed returns"
   },
   {
-    "question": "What is the purpose stated for the transaction in sar_1.xml?",
-    "answer": "Investment"
+    "question": "What was the initial investment amount made by David Miller?",
+    "answer": "$5,000"
   },
   {
-    "question": "Which institution flagged the initial transaction involving Hans Schmidt?",
-    "answer": "Deutsche Bank"
+    "question": "What is the minimum investment required to start using Aionautica's system?",
+    "answer": "$5,000"
   },
   {
-    "question": "What amount did Altcoin Global Ltd receive from Hans Schmidt on 2023-09-01?",
-    "answer": "12000 EUR"
+    "question": "Based on the SAR reports, which financial institution filed the suspicious activity reports?",
+    "answer": "Global Finance Solutions"
   },
   {
-    "question": "What does the screenshot_1.txt describe regarding the AlgoNova trading platform's performance?",
-    "answer": "A graph shows a steady upward trend with the caption 'AI-Powered Returns' and a 'Profit' indicator showing \u20ac3,000."
+    "question": "What was the description provided for the initial investment transaction in SAR-20230401-001?",
+    "answer": "Initial investment"
   },
   {
-    "question": "What is the URL mentioned in brochure_1.txt?",
-    "answer": "www.algovfx.fake"
+    "question": "What was the reported current balance of David Miller\u2019s account according to email_2.txt?",
+    "answer": "$6,500"
   },
   {
-    "question": "What additional fee was Hans Schmidt prompted to pay according to email_3.txt?",
-    "answer": "\u20ac500"
+    "question": "What additional investment was recommended to David Miller based on the AI's analysis?",
+    "answer": "$25,000"
   },
   {
-    "question": "According to bank_statement_2.csv, to whom did Hans Schmidt make a payment of 500 EUR?",
-    "answer": "Secure Payment Solutions"
+    "question": "According to the Facebook ad screenshot, who is the target audience for Aionautica's advertisements?",
+    "answer": "Users aged 55-64 interested in investing and finance"
   },
   {
-    "question": "Besides Altcoin Global Ltd., which other entity\u2019s name appears in both sar_2.xml and sar_3.xml?",
-    "answer": "Belizean Investment Firm"
+    "question": "In what month and year did David Miller attempt a withdrawal, based on the bank statement_2.csv?",
+    "answer": "August 2023"
   },
   {
-    "question": "What is the reported date of the suspicious activity report (SAR) filed by Deutsche Bank?",
-    "answer": "2023-09-05"
+    "question": "Based on promotional material_2.txt, what sentiment does David M. express about his experience with Aionautica?",
+    "answer": "He felt intimidated by investing before using Aionautica and now sees incredible results."
   }
 ]

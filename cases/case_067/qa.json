@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary purpose stated for the transactions between Victim 1 and Altcoin Global Ltd?",
-    "answer": "Investment"
+    "question": "What initial incentive did Global Forex Solutions offer to attract potential clients like Klaus Heinz?",
+    "answer": "Expert guidance and proven strategies to increase income and achieve financial goals."
   },
   {
-    "question": "According to the email from nova.trading.support@securemail.biz, what is the key feature of Nova AI Trading?",
-    "answer": "Uses cutting-edge artificial intelligence to analyze market trends and execute trades."
+    "question": "According to email_2.txt, what specific information did Klaus Heinz request from Global Forex Solutions?",
+    "answer": "More details and examples of successful trades related to their VIP program."
   },
   {
-    "question": "Which bank filed the initial Suspicious Activity Report (SAR) related to Victim 1's account?",
-    "answer": "Deutsche Bank"
+    "question": "What type of suspicious activity was initially reported in SAR_1.xml, and what financial behavior was observed?",
+    "answer": "Unusual Transaction involving large cash deposits followed by rapid transfers to overseas accounts."
   },
   {
-    "question": "What is the amount of the 'processing fee' requested in the 'Urgent Action Required' email?",
-    "answer": "\u20ac2000"
+    "question": "What currency was used for the initial deposit made by Klaus Heinz, as recorded in the bank statement?",
+    "answer": "EUR"
   },
   {
-    "question": "Based on the telegram chat log, what did the broker tell the victim regarding their initial deposit?",
-    "answer": "They would start seeing profits almost immediately."
+    "question": "What triggered the creation of SAR_2.xml?",
+    "answer": "Customer reporting difficulties in withdrawing funds from their account."
   },
   {
-    "question": "What is the destination account number for all the transfers mentioned in sar_1.xml and sar_2.xml?",
-    "answer": "NG471000000000000000001"
+    "question": "Which country is listed as the location of Global Forex Solutions in the SAR reports?",
+    "answer": "Nigeria"
   },
   {
-    "question": "What reason is given in the 'Urgent Action Required' email for needing the victim to transfer an additional \u20ac2000?",
-    "answer": "To resolve a temporary hold on their withdrawal request."
+    "question": "Based on promotional_material_2.txt, what is the central theme or promise that Global Forex Solutions is advertising?",
+    "answer": "Financial Freedom - earning passive income while you sleep."
   },
   {
-    "question": "According to the brochure_1.txt, what is a key feature marketed by Nova AI Trading?",
-    "answer": "Guaranteed ROI"
+    "question": "What additional verification method, involving cryptocurrency, was requested from Klaus Heinz in email_3.txt?",
+    "answer": "Transfer of 0.5 BTC to the wallet address: 1BKzJq432WkGzS9q1Q23P6Y738497k77A."
   },
   {
-    "question": "What does the screenshot_1.txt describe regarding the displayed profit amounts on the Nova AI Trading platform?",
-    "answer": "Graphs showing rapidly increasing profit amounts over a short period (one week), with a 'Current Profit: \u20ac5,200.00' message."
+    "question": "According to SAR_3.xml, which region was involved in the suspicious funds transfer?",
+    "answer": "United Arab Emirates"
   },
   {
-    "question": "Which financial institution filed the SAR (sar_3.xml) concerning Altcoin Global Ltd?",
-    "answer": "Correspondent Bank, Saint Vincent and the Grenadines"
+    "question": "What is the primary marketing focus highlighted in promotional_material_3.txt?",
+    "answer": "Limited spots available in an exclusive Forex VIP program."
   }
 ]

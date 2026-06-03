@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CY2024-0089</ReportID>
-  <ReportingInstitution>Cyprus Popular Bank</ReportingInstitution>
-  <DateFiled>2024-04-05</DateFiled>
-  <Subject>
-    <Name>Unknown</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-03-15</Date>
-    <Amount>1500</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-03-22</Date>
-    <Amount>2000</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple transfers to a Bulgarian bank account linked to NovaTrade AI Ltd.  Potentially related to investment fraud scheme.</Findings>
-</SAR>
+<sar>
+  <report_date>2024-03-20</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Michael Schmidt</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2024-03-10</transaction_date>
+  <transaction_amount currency="EUR">1500</transaction_amount>
+  <transaction_type>Transfer Out</transaction_type>
+  <recipient_name>Zenith Bank</recipient_name>
+  <recipient_account>4789234561</recipient_account>
+  <recipient_country>Nigeria</recipient_country>
+  <description>Transfer to Zenith Bank - requested by CryptoTrade Solutions</description>
+  <suspicious_activity>Customer reported being requested to pay an administrative fee to process a withdrawal.  Previous transfers to CryptoTrade Solutions are flagged as suspicious.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

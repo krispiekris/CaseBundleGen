@@ -1,15 +1,12 @@
-Subject: Withdrawal Request Confirmation
+From: AI_Bot_Pro@globaltechsolutions.co.uk
+To: MarkusWeber@email.de
+Subject: Important Account Update!
 
-Dear Heinrich,
+Dear Markus,
 
-Your withdrawal request for €5000 has been received and is being processed.
+Due to increased demand, we are temporarily suspending withdrawals to process all pending requests.  We appreciate your patience and understanding.
 
-We appreciate your continued trust in QuantumLeap AI. To ensure the security of your funds, please confirm the following details:
-
-Account Name:
-Account Number:
-
-Confirm now to expedite your payment.
+In the meantime, your AI is still working hard to generate profits for you.  We’ll be back online shortly!
 
 Sincerely,
-QuantumLeap AI Support
+The AI Trading Bot Pro Team

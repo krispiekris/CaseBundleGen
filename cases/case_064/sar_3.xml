@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-018</ReportID>
-  <ReportingInstitution>Associated Trust Company (Belize)</ReportingInstitution>
-  <Subject>
-    <Name>QuantumLeap Investments Ltd</Name>
-  </Subject>
+  <Header>
+    <ReportDate>2023-11-08</ReportDate>
+    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
+    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-09-05</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013000</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <TransactionAmount currency="EUR">0.00</TransactionAmount>
+    <TransactionType>Withdrawal Attempt</TransactionType>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+    <ReceiverName>Klaus Schmidt</ReceiverName>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Withdrawal Request - Declined</Description>
   </Transaction>
-  <Findings>Increased scrutiny due to repeated transactions with high-risk individuals. Possible money laundering activities.</Findings>
+  <Findings>
+    <SuspiciousActivity>Attempted withdrawal request blocked due to technical issues and subsequent requests for additional fees to process withdrawal.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud - refusal to release funds and additional demands for money.</PotentialFraud>
+  </Findings>
 </SAR>

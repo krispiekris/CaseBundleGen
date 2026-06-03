@@ -1,17 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>IB2024-022</ReportID>
-  <ReportingInstitution>International Bank of Belize</ReportingInstitution>
+<SAR id="SAR-20240125-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Nova AI Trading LLC</Name>
+    <Name>Michael Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
   </Subject>
-  <Transaction>
-    <Date>2024-02-15</Date>
-    <Amount>50000</Amount>
+  <SuspiciousActivity>
+    <Date>2024-01-05</Date>
+    <Amount>10000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>AE9801234567890123456789</DestinationAccount>
-    <DestinationName>Sunrise Investments FZE</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Large outflow of funds to United Arab Emirates.  Potentially linked to fraudulent investment scheme.</Findings>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Attempted withdrawal denied. Customer expresses concerns about investment.</Description>
+    <Beneficiary>
+      <Name>N/A</Name>
+    </Beneficiary>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Attempted withdrawal of funds denied, raising suspicions of potential investment fraud.</Finding>
+  </Findings>
+  <ReportingPerson>
+    <Name>Anna Schmidt</Name>
+    <Title>Compliance Officer</Title>
+  </ReportingPerson>
 </SAR>

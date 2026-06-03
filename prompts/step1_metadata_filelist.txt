@@ -33,8 +33,7 @@ Output a SINGLE JSON object with the following structure:
   "file_structure": [
       {
           "filename": "string (e.g., 'email_1.txt', 'sar_1.xml', 'bank_statement_1.csv')",
-          "type": "xml | csv | txt",
-          "description": "string (brief description of what this file should contain)"
+          "type": "xml | csv | txt"
       }
   ]
 }
@@ -47,6 +46,8 @@ FILE STRUCTURE RULES:
 - Choose 1–4 email files (txt).
 - Optionally include 1–2 screenshot descriptions in txt that could be included in the case, for example screenshots of websites or platforms.
 - Randomize the exact number and types for variety.
+
+Note: Do NOT include a separate brief description for each file in this step — file contents will be generated in Step 2.
 
 RANDOMIZATION RULES:
 - Choose a fraud subtype randomly (crypto scam, forex scam, boiler room, NFT scam, AI trading scam, recovery scam).

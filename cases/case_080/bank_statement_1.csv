@@ -1,5 +1,9 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-28,-2000,EUR,QuantumLeap AI
-2024-01-10,Salary,3500,EUR,Company A
-2024-02-05,-5000,EUR,QuantumLeap AI
-2024-03-15,-100,EUR,ATM Withdrawal
+Date,Description,Amount
+2023-03-10,Payment, -100.00
+2023-03-15,Transfer to AI-Trade Solutions, -5000.00
+2023-04-05,Grocery Store, -75.50
+2023-04-12,Online Purchase, -32.89
+2023-05-01,Utility Bill, -150.00
+2023-06-10,Restaurant, -60.00
+2023-06-20,Transfer to AI-Trade Solutions, -10000.00
+2023-07-01,Insurance Payment, -200.00

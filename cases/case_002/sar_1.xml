@@ -1,27 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>LLOYD2024-005</ReportID>
-  <ReportingInstitution>Bank Lloyds</ReportingInstitution>
-  <DateFiled>2024-02-22</DateFiled>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Suspected investment fraud involving an AI trading platform.  Multiple transactions to Altcoin Global Ltd.  Victim claims to have been promised high returns but now unable to withdraw funds.</Findings>
-</SAR>
+<sar>
+  <report>
+    <report_date>2023-09-20</report_date>
+    <institution_name>Deutsche Bank</institution_name>
+    <reporter_name>Compliance Officer</reporter_name>
+    <suspicious_activity>
+      <activity_date>2023-09-15</activity_date>
+      <transaction_amount currency="EUR">5000</transaction_amount>
+      <transaction_type>Debit</transaction_type>
+      <account_number>DExxxxxxxxxxxxxxxxxxxx</account_number>
+      <payer_name>Hans Meier</payer_name>
+      <payer_address>Musterstrasse 12, 12345 Musterstadt</payer_address>
+      <recipient_name>Innovative AIX</recipient_name>
+      <recipient_account>USxxxxxxxxxxxxxxxxxxxx</recipient_account>
+      <recipient_country>Belize</recipient_country>
+      <description>Initial deposit to automated trading platform</description>
+      <findings>Potential investment fraud - high-risk jurisdiction. Further investigation recommended.</findings>
+    </suspicious_activity>
+  </report>
+</sar>

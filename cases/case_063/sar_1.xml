@@ -1,35 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2023-0045</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <DateFiled>2023-11-17</DateFiled>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE25100000002222333344</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-11-05</ReportDate>
+    <InstitutionID>DeutscheBank</InstitutionID>
+    <ReportType>Suspicious Activity Report</ReportType>
+  </Header>
   <Transaction>
-    <Date>2023-08-01</Date>
-    <Amount>2000</Amount>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <TransactionAmount>5000.00</TransactionAmount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>AI Trading Elite Limited</ReceiverName>
+    <ReceiverAccount>CYxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Initial Investment - AI Trading System</Description>
+    <Suspicion>
+      <Finding>Unusual Investment - High Risk</Finding>
+      <Narrative>Client made a significant initial investment into an online trading platform with limited information about the company or its operations. Further investigation recommended.</Narrative>
+    </Suspicion>
   </Transaction>
-  <Transaction>
-    <Date>2023-08-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>8000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal Request</Purpose>
-  </Transaction>
-  <Findings>Unusual activity - large deposit followed by smaller withdrawals and a subsequent large withdrawal request.  Destination account linked to possible fraudulent activity.</Findings>
 </SAR>

@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AU2024-123</ReportID>
-  <ReportingInstitution>Bank Alpha</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-10-20</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>CY800020000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusually large single transaction for new account holder.  Destination account associated with entities of interest.</Findings>
+  <ReportDate>2023-08-22</ReportDate>
+  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>1234567890</TransactionID>
+      <TransactionDate>2023-09-05</TransactionDate>
+      <Amount>7500.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Klaus Breitling</Name>
+        <Address>Musterstraße 1, 90408 Nürnberg, Germany</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>Profit Horizon Ltd</Name>
+        <Account>1234567890</Account>
+        <BankName>Globex Bank</BankName>
+        <Country>St. Vincent &amp; the Grenadines</Country>
+      </Beneficiary>
+      <Description>Online investment platform deposit</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Unusual activity - large sum transferred to offshore account.</Finding>
+  </Findings>
 </SAR>

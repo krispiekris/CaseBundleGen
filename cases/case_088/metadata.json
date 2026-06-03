@@ -1,55 +1,55 @@
 {
-  "case_id": "CY2024-078",
-  "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "case_id": "CORSAIR-2024-07-27-001",
+  "fraud_type": "Business Email Compromise (BEC)",
+  "fraud_subtype": "Invoice Fraud",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
-    "country": "Germany",
+    "age_range": "35-45",
+    "income_range": "$100,000 - $150,000",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Saint Vincent and the Grenadines",
-    "Marshall Islands"
+    "Hong Kong",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumLeap AI' via online advertisement"
+      "event": "Initial phishing email sent"
     },
     {
-      "date": "2024-01-05",
-      "event": "Initial deposit of \u20ac5,000 made by victim"
+      "date": "2023-11-22",
+      "event": "Compromise of Corsair employee email account"
     },
     {
-      "date": "2024-02-10",
-      "event": "Victim receives first 'profit' distribution"
+      "date": "2023-12-05",
+      "event": "Fraudulent invoice sent to supplier"
     },
     {
-      "date": "2024-03-22",
-      "event": "Victim attempts to withdraw funds, faces obstacles"
+      "date": "2023-12-12",
+      "event": "Payment processed and funds transferred"
     },
     {
-      "date": "2024-04-05",
-      "event": "Victim reports incident to authorities"
+      "date": "2024-01-10",
+      "event": "Fraudulent activity discovered by supplier"
+    },
+    {
+      "date": "2024-07-27",
+      "event": "Case initiated"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
-    },
-    {
-      "type": "EUR Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Funds",
+      "amount_range": "$50,000 - $75,000"
     }
   ]
 }

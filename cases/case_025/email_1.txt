@@ -1,13 +1,18 @@
-From: investments@automatedwealth.fake
-To: john.smith@email.com
-Subject: Exclusive Investment Opportunity
+From: support@ai-trading-platform.com
+To: david.miller@example.com
+Subject: Welcome to AlphaTrade AI - Your Gateway to Automated Profits
 
-Dear John,
+Dear David,
 
-We've identified you as a potential investor with significant earning potential. AutomatedWealth AI offers a unique opportunity to generate substantial returns through our advanced AI trading system.  Our platform is simple to use and requires no prior investment experience.
+Welcome aboard AlphaTrade AI! We're thrilled to have you join our exclusive community of investors leveraging the power of artificial intelligence for exceptional returns.
 
-To learn more and get started, visit: www.automatedwealth.fake
+Our proprietary AI algorithms analyze market trends 24/7, identifying lucrative trading opportunities that would be impossible for human traders to detect. You can start small and scale up as you see your profits grow.
+
+To help you get started, we've prepared a short tutorial video:
+[Link to YouTube video - fictitious]
+
+Our team is here to support you every step of the way.  Please don't hesitate to contact us with any questions.
 
 Sincerely,
-David Miller
-Investment Advisor
+The AlphaTrade AI Team
+www.alphatradeai.com

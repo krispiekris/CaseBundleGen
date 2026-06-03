@@ -1,0 +1,8 @@
+Date,Transaction Type,Currency Pair,Volume,Profit/Loss (EUR)
+2023-08-16,Buy,EUR/USD,100,25.00
+2023-08-17,Sell,EUR/USD,100,-10.00
+2023-09-06,Buy,GBP/USD,200,50.00
+2023-09-07,Sell,GBP/USD,200,-20.00
+2023-09-21,Buy,USD/JPY,300,75.00
+2023-09-22,Sell,USD/JPY,300,-30.00
+2023-11-10,Withdrawal Attempt,N/A,N/A,0.00

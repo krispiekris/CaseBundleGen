@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>SAR2024-039</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Victim is receiving small payout while attempting to withdraw larger sums.</Findings>
-</SAR>
+<sar>
+  <header>
+    <sar_id>SAR-20240201-003</sar_id>
+    <submission_date>2024-02-01</submission_date>
+    <reporter_institution>Commonwealth Bank of Australia</reporter_institution>
+  </header>
+  <transaction>
+    <transaction_id>TXN-20230901-001</transaction_id>
+    <transaction_date>2023-09-01</transaction_date>
+    <amount>10000.00</amount>
+    <currency>USD</currency>
+    <transaction_type>Debit</transaction_type>
+    <description>Transfer to AI Trading Pro</description>
+    <originating_party>
+      <name>David Miller</name>
+      <account_number>123456789</account_number>
+      <country>AU</country>
+    </originating_party>
+    <beneficiary_party>
+      <name>AI Trading Pro Ltd</name>
+      <account_number>987654321</account_number>
+      <country>AE</country>
+    </beneficiary_party>
+    <suspicious_activity>Further investigation warranted regarding the recipient's business operations and legitimacy.</suspicious_activity>
+  </transaction>
+</sar>

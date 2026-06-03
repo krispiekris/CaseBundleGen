@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_2.xml, what was the purpose of the EUR 3000 transaction from Altcoin Global Ltd to David Miller on 2024-01-10?",
-    "answer": "Profit Distribution"
+    "question": "What is the stated purpose of QuantumLeap AI, according to its promotional brochure?",
+    "answer": "To utilize a proprietary artificial intelligence algorithm to analyze market trends and execute trades."
   },
   {
-    "question": "What does the screenshot_1.txt suggest about the performance of the NovaTech AI Trader platform?",
-    "answer": "It shows an account value increasing from 15,000 EUR to 25,000 EUR over the past week."
+    "question": "According to David Miller's email to Adrian Blake, what was David's initial interest in QuantumLeap AI?",
+    "answer": "Innovative investment strategies."
   },
   {
-    "question": "Based on sar_3.xml, where is the account of Altcoin Global Ltd located in St. Vincent and the Grenadines?",
-    "answer": "VC00000000000000000000"
+    "question": "What is the location listed for Adrian Blake on his LinkedIn profile?",
+    "answer": "Belize City, Belize"
   },
   {
-    "question": "What document does email_3.txt request from David Miller?",
-    "answer": "A copy of his passport or driver's license."
+    "question": "What cryptocurrency exchange did David Miller transfer funds to, as documented in SAR-2024-01-10-002?",
+    "answer": "Binance"
   },
   {
-    "question": "Which entity is mentioned in both sar_1.xml and sar_2.xml?",
-    "answer": "Altcoin Global Ltd"
+    "question": "What was the total gain shown in the trading performance screenshot for the period from 2023-09-28 to 2023-12-05?",
+    "answer": "$3500"
   },
   {
-    "question": "What is the purpose of the EUR 7500 transfer from Liechtensteinische Landesbank to Hellenic Bank as detailed in sar_4.xml?",
-    "answer": "Investment Deposit"
+    "question": "According to the SAR reports, what is a common finding associated with David Miller's transactions?",
+    "answer": "Potential investment fraud / Unusual transfer to offshore account / Funds transferred to cryptocurrency exchange after initial investment."
   },
   {
-    "question": "According to the brochure_1.txt, what is one of the key features of the NovaTech AI Trader platform?",
-    "answer": "AI-Powered Trading"
+    "question": "Based on the email from Adrian Blake (email_3.txt), what action has been taken regarding David Miller's account?",
+    "answer": "Trading privileges have been temporarily suspended."
   },
   {
-    "question": "What reason is given in sar_1.xml for the denial of David Miller\u2019s withdrawal request?",
-    "answer": "Suspicious activity"
+    "question": "What was the initial investment made by David Miller, based on the bank statements and SAR reports?",
+    "answer": "$50000.00"
   },
   {
-    "question": "What does email_2.txt suggest David Miller should do to maximize his earnings?",
-    "answer": "Reinvest his profits by depositing an additional 5000 EUR."
+    "question": "Besides Belize International Bank, which other financial institution is mentioned in the SAR reports related to David Miller's account?",
+    "answer": "Binance"
   },
   {
-    "question": "Which bank reported the suspicious activity involving David Miller, as described in sar_1.xml?",
-    "answer": "Commonwealth Bank of Australia"
+    "question": "What is the URL provided in the trading platform login details?",
+    "answer": "https://secure.quantumleap.ai/login"
   }
 ]

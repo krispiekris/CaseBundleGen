@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to email_2.txt, what was the initial investment made by Hans Schmidt?",
-    "answer": "\u20ac2000"
+    "question": "According to the promotional material, what is a key feature differentiating Aix Capital from traditional investment methods?",
+    "answer": "Aix Capital utilizes revolutionary AI algorithms to predict market movements."
   },
   {
-    "question": "What is the purpose of the transaction involving the destination account GB59NWBK00000000001234, as indicated in sar_2.xml?",
-    "answer": "Withdrawal Processing Fee"
+    "question": "What was the initial minimum deposit amount required to 'unlock Athena\u2019s full potential'?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What is the account number of Hans Schmidt according to sar_1.xml?",
-    "answer": "DE1211000034000123456789"
+    "question": "Based on the email correspondence, what reason did Aix Capital Support initially provide for the withdrawal delay?",
+    "answer": "Our team is working diligently to resolve the issue."
   },
   {
-    "question": "Which bank is associated with the destination account BZ000123456, as detailed in sar_3.xml?",
-    "answer": "Atlantic Bank Belize"
+    "question": "What is the account balance displayed in the screenshot of the trading platform?",
+    "answer": "\u20ac16,000"
   },
   {
-    "question": "Based on brochure_1.txt, what is the claim made about the AutomatedTradePro system regarding volatile markets?",
-    "answer": "It generates consistent returns, even in volatile markets."
+    "question": "Which entities were involved in the transaction of \u20ac10,000 on 2024-01-15?",
+    "answer": "Ulrich Baumann and Aix Capital Limited"
   },
   {
-    "question": "According to sar_1.xml, what is the Reporting Institution?",
-    "answer": "Deutsche Bank"
+    "question": "What date was the SAR report concerning Ulrich Baumann\u2019s initial \u20ac5,000 investment filed?",
+    "answer": "2023-11-29"
   },
   {
-    "question": "What does email_4.txt suggest Hans Schmidt should do regarding information about his account?",
-    "answer": "Disregard any rumors or misinformation."
+    "question": "Based on the Telegram chat log, how did Mark initially describe the performance of 'Athena' to Ulrich?",
+    "answer": "Athena is already working its magic \u2013 early adopters are seeing incredible results!"
   },
   {
-    "question": "What is the amount of the attempted withdrawal mentioned in the bank_statement_1.csv file?",
-    "answer": "1500 EUR"
+    "question": "According to the promotional material, what is offered to new sign-ups?",
+    "answer": "A FREE consultation with our AI investment specialist!"
   },
   {
-    "question": "Which entity is named as the 'Payment Processor' in multiple files?",
-    "answer": "Payment Processor"
+    "question": "What activity triggered the Suspicious Activity flag in the SAR report concerning the \u20ac10,000 deposit?",
+    "answer": "Large unusual deposit"
   },
   {
-    "question": "Based on email_3.txt, what is the account number provided for the withdrawal processing fee?",
-    "answer": "GB59NWBK00000000001234"
+    "question": "What was the description used for the transaction of \u20ac5,000 in the SAR?",
+    "answer": "Investment in AI Trading Platform"
   }
 ]

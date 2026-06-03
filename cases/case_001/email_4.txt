@@ -1,10 +1,16 @@
-From: robert.harding@email.com
-To: support@innovai.com
-Subject: Withdrawal Request Issue
+From: support@aiextrading.com
+To: David.Miller@example.com.au
+Subject: Important Account Update
 
-Dear InnovAI Support,
+Dear David,
 
-I am trying to withdraw my funds, but I am encountering difficulties. I have been asked to pay additional fees. Can you please investigate this issue and help me process my withdrawal?
+We've detected unusual activity on your account. To ensure the security of your funds, we require you to complete an additional verification process. Please click on the link below to confirm your identity:
+
+[link removed]
+
+Failure to verify your account may result in temporary suspension of your trading privileges.
 
 Sincerely,
-Robert Harding
+The AI Extra Trading Team
+
+www.aiextrading.com

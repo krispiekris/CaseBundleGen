@@ -1,1 +1,0 @@
-The NovaTrade AI website displays a clean, modern interface. The login page prominently features the NovaTrade AI logo and a secure login form. The trading dashboard shows live price charts, automated trading buttons, and a history of simulated trades with impressive percentage gains. A large button is labeled 'Deposit Funds'.

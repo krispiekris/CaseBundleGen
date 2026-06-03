@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-123</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE8710000000001234567890</Account>
-  </Subject>
+  <Header>
+    <SARReferenceID>20230822-001</SARReferenceID>
+    <FilingDate>2023-08-22</FilingDate>
+    <FilingInstitution>Deutsche Bank</FilingInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-11-28</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>NovaAI Trading Platform</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-12345</TransactionID>
+    <TransactionDate>2023-08-15</TransactionDate>
+    <TransactionAmount currency="EUR">15000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Ulrich Baumann</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Prime Global Investments Ltd.</Name>
+      <AccountID>ZA98765432109876543210</AccountID>
+      <Country>South Africa</Country>
+    </BeneficiaryParty>
+    <Description>International Money Transfer</Description>
   </Transaction>
-  <Findings>Initial deposit to NovaAI Trading Platform. Concerns regarding unusually high ROI promises and lack of verifiable information about the platform.</Findings>
+  <Findings>
+    <SuspiciousActivity>Unusual international transfer with no apparent business purpose.</SuspiciousActivity>
+    <RiskLevel>Medium</RiskLevel>
+  </Findings>
 </SAR>

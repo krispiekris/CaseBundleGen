@@ -1,5 +1,5 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -9,50 +9,47 @@
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "St. Vincent and the Grenadines"
+    "Malaysia",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim discovers 'NovaTrade AI' online."
+      "date": "2023-11-10",
+      "event": "Victim contacted via email promising high returns."
     },
     {
-      "date": "2023-12-01",
-      "event": "Victim makes initial investment of \u20ac1,000."
+      "date": "2023-11-17",
+      "event": "Victim deposits initial investment."
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim withdraws \u20ac500 profit."
+      "date": "2023-12-05",
+      "event": "Victim receives fabricated profit payouts."
     },
     {
-      "date": "2024-02-20",
-      "event": "Victim encouraged to reinvest and deposit \u20ac5,000."
+      "date": "2024-01-15",
+      "event": "Victim attempts to withdraw funds, denied."
     },
     {
-      "date": "2024-03-15",
-      "event": "Victim attempts withdrawal; account restricted."
-    },
-    {
-      "date": "2024-04-05",
-      "event": "Victim reports fraud."
+      "date": "2024-03-01",
+      "event": "Victim files complaint with local authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac1,000 - \u20ac6,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.01 - 0.05"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac2,000 - \u20ac10,000"
     }
   ]
 }

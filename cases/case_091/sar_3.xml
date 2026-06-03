@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>GBR2024-045</ReportID>
-  <ReportingInstitution>HSBC UK</ReportingInstitution>
+<SAR id="SAR-20240111-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Country>DE</Country>
+  </ReportingInstitution>
   <Subject>
-    <Name>QuantumLeap Investments Ltd</Name>
+    <Name>Klaus Heinz</Name>
+    <Address>Musterstrasse 123, 10115 Berlin, Germany</Address>
   </Subject>
   <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>CY7501200011012345678901</SourceAccount>
-    <SourceName>Alpha Bank Cyprus</SourceName>
-    <DestinationAccount>GB88HSBC00001234567890</DestinationAccount>
-    <DestinationName>Global Trading Solutions</DestinationName>
-    <Purpose>Payment to Global Trading Solutions</Purpose>
+    <Date>2024-01-10</Date>
+    <Amount currency="EUR">5000.00</Amount>
+    <Type>Debit</Type>
+    <Description>Withdrawal request denied - verification failure</Description>
+    <Counterparty>
+      <Name>Secure Investments Ltd.</Name>
+      <Country>Unknown</Country>
+    </Counterparty>
+    <SuspiciousActivity>Possible investment fraud - withdrawal denied after receiving profits, verification process appears suspicious</SuspiciousActivity>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Large transfers to companies with opaque ownership structures.</SuspiciousActivity>
-    <RiskAssessment>High</RiskAssessment>
-  </Findings>
 </SAR>

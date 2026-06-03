@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>UK20240225-001</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>Unknown</Name>
-    <Account>GB87BARC20400177827983</Account>
-  </Subject>
+<SAR xmlns="http://www.irs.gov/">
+  <Header>
+    <SARID>20240215-AU-003</SARID>
+    <FilingDate>2024-02-15</FilingDate>
+    <FilerID>Australian Securities and Investments Commission</FilerID>
+  </Header>
   <Transaction>
-    <Date>2024-02-10</Date>
-    <Amount>200</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>NovaTrade Investments Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-003</TransactionID>
+    <TransactionDate>2023-11-18</TransactionDate>
+    <Amount>45000</Amount>
+    <Currency>AUD</Currency>
+    <TransactionType>Withdrawal Attempt</TransactionType>
+    <Description>Attempted withdrawal from Apex Trading Solutions account</Description>
+    <OriginatingParty>
+      <Name>Robert Harding</Name>
+      <Address>12 Acacia Avenue, Sydney, NSW, 2000, Australia</Address>
+      <TaxpayerID>XXX-XXX-XXX</TaxpayerID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Apex Trading Solutions</Name>
+      <Address>Level 7, 152 Elizabeth Street, Sydney, NSW, 2000, Australia</Address>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Potential investment fraud, withdrawal blocked</SuspiciousActivity>
+    <SuspicionType>Unusual Transaction</SuspicionType>
+    <FilerComments><unused5279> reported inability to withdraw funds. Investigation initiated. Account flagged for potential fraudulent activity.</FilerComments>
   </Transaction>
-  <Findings>Receiving funds from potentially fraudulent activity. Account linked to Belizean offshore company.</Findings>
 </SAR>

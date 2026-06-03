@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DEU2024-001</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Unusual transaction activity. High-risk destination country (Lithuania).</Findings>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <SuspiciousActivity>
+      <TransactionType>Deposit</TransactionType>
+      <TransactionAmount>5000.00</TransactionAmount>
+      <Currency>USD</Currency>
+    </SuspiciousActivity>
+    <Party>
+      <SenderName>Richard Adams</SenderName>
+      <SenderAccount>XXXXXXXXXXXXXXX</SenderAccount>
+    </Party>
+    <Description>Possible investment fraud. Initial deposit to online trading platform.</Description>
+  </Header>
 </SAR>

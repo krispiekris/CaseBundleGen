@@ -1,17 +1,10 @@
-Subject: KYC Verification Required - QuantumLeap AI
+From: apex.trading.ltd@gmail.com
+To: vendor_relations@innovationsolutions.com
+Subject: Invoice 12345 - Payment Confirmation
 
-Dear [Victim Name],
+Dear Sarah,
 
-To ensure the security of your account and comply with regulatory requirements, we kindly request that you complete our KYC (Know Your Customer) verification process.
-
-Please upload the following documents:
-
-* Copy of your passport or government-issued ID
-* Proof of address (utility bill or bank statement)
-
-You can upload your documents here: [Fake Upload Link]
-
-Thank you for your cooperation.
+This email confirms receipt of payment for invoice 12345. Thank you for your prompt processing!
 
 Sincerely,
-QuantumLeap AI Support
+Apex Trading Ltd.

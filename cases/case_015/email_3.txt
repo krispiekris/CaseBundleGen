@@ -1,14 +1,11 @@
+From: support@phoenixrise.ai
+To: David.Miller@example.com.au
 Subject: Important Update Regarding Your Withdrawal Request
 
-Dear Hans,
+Dear David,
 
-We received your withdrawal request. Due to increased market volatility, withdrawals are currently undergoing a verification process. 
-
-To expedite this process and ensure your withdrawal is successful, we require a small verification fee of 200 EUR. This fee covers the processing costs and protects against fraudulent activity.
-
-Once the fee is processed, your withdrawal will be released immediately.
+We regret to inform you that your recent withdrawal request has been temporarily suspended due to a security verification process. For your protection, we require you to verify your account by completing a short questionnaire and submitting additional documentation.
 
 Thank you for your understanding.
 
-Sincerely,
-NovaTrade AI Support
+The Phoenix Rise AI Team

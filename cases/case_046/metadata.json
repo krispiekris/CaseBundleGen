@@ -1,5 +1,5 @@
 {
-  "case_id": "CR2023-078",
+  "case_id": "2024-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -12,43 +12,44 @@
     "location": "Belize",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Spanish",
+      "Mandarin"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Kingdom"
+    "Hong Kong",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2022-11-15",
-      "event": "Victim discovers 'QuantumLeap AI' online"
+      "date": "2023-03-15",
+      "event": "Victim contacts automated AI trading platform"
     },
     {
-      "date": "2023-01-05",
-      "event": "Victim makes first investment of \u20ac1,000"
+      "date": "2023-04-05",
+      "event": "Initial deposit made by victim"
     },
     {
-      "date": "2023-03-20",
-      "event": "Victim receives fabricated profit notifications"
+      "date": "2023-05-12",
+      "event": "Victim receives fabricated profit reports"
     },
     {
-      "date": "2023-05-10",
-      "event": "Victim attempts to withdraw funds - rejected"
+      "date": "2023-06-28",
+      "event": "Victim attempts withdrawal - denied"
     },
     {
-      "date": "2023-06-01",
-      "event": "Victim reports fraud to authorities"
+      "date": "2023-07-10",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     },
     {
-      "type": "EUR Bank Account",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

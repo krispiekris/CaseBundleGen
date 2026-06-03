@@ -1,54 +1,51 @@
 {
-  "case_id": "CR2024-078",
+  "case_id": "2024-CX-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "60000-80000",
-    "country": "Germany",
+    "income_range": "$80,000 - $120,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Panama"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim discovers 'NovaTrade AI' website"
+      "date": "2023-08-15",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-12-01",
-      "event": "Victim makes initial deposit of 500 EUR"
+      "date": "2023-09-22",
+      "event": "First 'profit' withdrawal"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim receives a small profit payout"
+      "date": "2023-11-10",
+      "event": "Victim deposits $50,000"
     },
     {
-      "date": "2024-02-20",
-      "event": "Victim attempts to withdraw larger sum - rejected"
-    },
-    {
-      "date": "2024-03-05",
-      "event": "Victim files complaint"
+      "date": "2024-01-18",
+      "event": "Victim reports fraudulent activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "5000-10000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$40,000 - $60,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1-0.5"
+      "type": "Bank Transfers",
+      "amount_range": "$50,000 - $70,000"
     }
   ]
 }

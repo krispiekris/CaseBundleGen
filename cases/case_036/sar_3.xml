@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>UK2024-8910</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
+<SAR id="SAR-20240229-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Frankfurt</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Chinedu Okoro</Name>
+    <Name>Klaus Richter</Name>
+    <Address>Musterstrasse 12, Berlin</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount>3500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>US817100000000000000</DestinationAccount>
-    <DestinationName>Global Assets Holdings LLC</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2024-02-28</Date>
+    <Amount currency="EUR">0.00</Amount>
+    <Type>Report</Type>
+    <Description>Suspicious activity report filed by client regarding denied withdrawal request and potential fraud.</Description>
   </Transaction>
-  <Findings>Unusual transaction pattern; funds transferred to offshore shell company.</Findings>
+  <Findings>
+    <SuspiciousActivity>Client reporting inability to access funds and suspecting fraudulent activity; potentially related to previous SAR regarding offshore platform.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

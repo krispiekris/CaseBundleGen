@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the account number of Victim 1?",
-    "answer": "DE1211000000000000000000"
+    "question": "What is the name of the AI trading platform being promoted?",
+    "answer": "Aetherium Alpha"
   },
   {
-    "question": "What is the purpose stated for the transactions involving Victim 1 and Altcoin Global Ltd, as detailed in sar_1.xml?",
-    "answer": "Investment"
+    "question": "What is the initial recommended investment amount for Aetherium Alpha, as suggested by the advisor?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What specific action does email_3.txt suggest Victim 1 must take, and why?",
-    "answer": "Transfer [Amount] to the account details provided, to cover a verification fee for their withdrawal request."
+    "question": "According to the SAR reports, what is the recipient account for the transfers related to Aetherium Alpha?",
+    "answer": "GB22NWBK20701724542814"
   },
   {
-    "question": "Based on screenshot_1.txt, what features are prominently displayed on the QuantumLeap AI website?",
-    "answer": "Daily profit charts, a button to 'Start Trading Now,' and testimonials praising the platform\u2019s ease of use and high returns."
+    "question": "What type of fee did Klaus Werner reportedly have to pay in January 2024, as mentioned in SAR 3?",
+    "answer": "Technical Issue Fee"
   },
   {
-    "question": "What red flag regarding the QuantumLeap AI website's registration is highlighted in website_analysis.txt?",
-    "answer": "The domain was registered recently using a privacy service, and there is no verifiable owner information."
+    "question": "Based on the promotional materials, what is a key benefit of using Aetherium Alpha?",
+    "answer": "AI-Powered Trading"
   },
   {
-    "question": "What amount of money did Victim 1 initially transfer to Altcoin Global Ltd, according to sar_1.xml?",
-    "answer": "5000 EUR"
+    "question": "What activity type is listed in the SAR reports related to Klaus Werner's transactions?",
+    "answer": "Unusual Transaction"
   },
   {
-    "question": "According to sar_2.xml, what is the subject of the report?",
-    "answer": "Altcoin Global Ltd"
+    "question": "What describes the aesthetic of the website for Aetherium Alpha?",
+    "answer": "modern, clean design with a dark blue and white color scheme"
   },
   {
-    "question": "What is the primary concern raised in email_4.txt, and what action is the victim urged to take?",
-    "answer": "The email states that unusual activity has been detected and the victim is urged to deposit [Amount] to secure their funds and prevent losses."
+    "question": "According to the first SAR report, what was the initial finding regarding the transfers to Aetherium Alpha Investments?",
+    "answer": "Potential investment fraud - overseas transfer to unknown entity"
   },
   {
-    "question": "Based on bank_statement_2.csv, what is the date of the first wire transfer to Victim 1?",
-    "answer": "2023-12-01"
+    "question": "What is the sender account used by Klaus Werner for the investments?",
+    "answer": "DE78123456781234567890"
   },
   {
-    "question": "According to sar_3.xml, what broader pattern of transfers involving Victim 1 is noted?",
-    "answer": "Smaller transfer activity consistent with a larger pattern, indicative of potential investment fraud."
+    "question": "What does promotional material 2 suggest about joining Aetherium Alpha?",
+    "answer": "Limited spots available, act fast!"
   }
 ]

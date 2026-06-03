@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>IE2024-012</ReportID>
-  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-19</Date>
-    <Amount>2000</Amount>
-    <Currency>USD</Currency>
-    <OriginAccount>LT12100001110123451</OriginAccount>
-  </Transaction>
-  <Findings>Unusual outflow of funds. Further investigation warranted.</Findings>
+  <ReportID>SAR-20240301-003</ReportID>
+  <Date>2024-03-01</Date>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <SuspiciousActivity>
+    <Type>Customer Complaint - Potential Investment Fraud</Type>
+    <Description>Customer Hans Schmidt filed a complaint alleging unauthorized investment activity and denial of withdrawal requests. Customer believes he may be a victim of investment fraud.</Description>
+    <TransactionDetails>
+      <Amount currency="EUR">8000.00</Amount>
+      <Currency>EUR</Currency>
+      <Date>2024-01-05</Date>
+      <Beneficiary>Innovative AI Investments</Beneficiary>
+      <IBAN/>
+    </TransactionDetails>
+    <PartyInformation>
+      <CustomerID>HS-12345</CustomerID>
+      <CustomerName>Hans Schmidt</CustomerName>
+      <CustomerAddress>Musterstraße 1, 10115 Berlin, Germany</CustomerAddress>
+    </PartyInformation>
+  </SuspiciousActivity>
 </SAR>

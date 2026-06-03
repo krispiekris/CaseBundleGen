@@ -1,10 +1,13 @@
-From: support@algoprofit.fake
-To: victim1@email.com
-Subject: Regarding Your Withdrawal Request
+From: AlexanderVolkov@innovativeaix.com
+To: RobertMiller@email.com
+Subject: Important Update Regarding Your Account
 
-Dear [Victim 1],
+Dear Robert,
 
-We are currently experiencing a slight delay in processing withdrawal requests. Our team is working diligently to resolve this issue.  Please be patient. Further verification may be required.
+We've noticed increased volatility in the market and to protect your investment, we've temporarily paused withdrawals while we recalibrate our AI models. This is a standard procedure and ensures optimal performance.
 
-Thank you for your understanding.
-The AlgoProfit AI Support Team
+We anticipate resuming withdrawals within 7-10 business days. We appreciate your understanding and continued investment.
+
+Sincerely,
+Alexander Volkov
+Innovative AIX

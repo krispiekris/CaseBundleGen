@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary investment strategy marketed by AlgoTradePro according to the promotional email?",
-    "answer": "Leverages cutting-edge AI algorithms to generate consistent profits in the cryptocurrency market."
+    "question": "What initial message did the TraderAI_Bot send to Mark Peterson, and what did it offer?",
+    "answer": "The TraderAI_Bot greeted Mark Peterson and offered to leverage artificial intelligence to maximize returns, inviting him to join an exclusive community and providing a link for a demo."
   },
   {
-    "question": "According to SAR_2.xml, what is the significance of the small withdrawal amount received by the victim?",
-    "answer": "Indicating potential 'proof of profit'."
+    "question": "According to the SAR report (SAR-20230805-001), what type of suspicious activity was reported regarding Mark Peterson?",
+    "answer": "Multiple cryptocurrency transactions to offshore accounts potentially linked to investment fraud."
   },
   {
-    "question": "What is the purpose of the transaction on December 5th, 2023, as recorded in sar_1.xml?",
-    "answer": "Initial Investment"
+    "question": "What amounts were transacted to Belizean Investments Ltd. and St. Vincent Trading Group, according to the SAR-20230805-001?",
+    "answer": "Belizean Investments Ltd. received $10,000 USD, and St. Vincent Trading Group received $5,000 USD."
   },
   {
-    "question": "Based on screenshot_1.txt, what is prominently displayed on AlgoTradePro's website dashboard?",
-    "answer": "A real-time profit ticker displaying 'Current Profit: \u20ac3,500'."
+    "question": "What benefit was promised to Mark Peterson in the promotional email, aside from the platform itself?",
+    "answer": "A FREE demo and personalized onboarding session."
   },
   {
-    "question": "Which SAR report indicates potential money laundering activities and involves a transfer to 'Global Investment Solutions'?",
-    "answer": "SAR_3.xml"
+    "question": "What action was Mark Peterson expected to take in response to Nikola's email (email_2.txt) to secure a place in a limited opportunity?",
+    "answer": "Reply with 'CONFIRM'."
   },
   {
-    "question": "What amount of additional investment is requested from the victim in email_3.txt to reactivate their withdrawal?",
-    "answer": "1000 EUR"
+    "question": "According to SAR-20230820-002, which entity received a transaction and what was the amount?",
+    "answer": "Belizean Investments Ltd. received a transaction of $3000 USD."
   },
   {
-    "question": "What destination account is consistently used for transactions involving John Smith and AlgoTradePro Ltd?",
-    "answer": "LT12100001110123451"
+    "question": "What does the screenshot of the trading platform (screenshot_trading_platform.txt) show regarding potential profits?",
+    "answer": "A pop-up window displays a message: 'Daily Profit +12.5%'."
   },
   {
-    "question": "According to sar_3.xml, what is the purpose of the transaction involving funds originating from the victim\u2019s account?",
-    "answer": "Transfer to associated entity"
+    "question": "Which entities are mentioned in promotional email_1.txt but not explicitly present in the SAR-20230805-001?",
+    "answer": "TraderAI Team"
   },
   {
-    "question": "What does the brochure_1.txt mention about the experience needed to use AlgoTradePro?",
-    "answer": "No trading experience required."
+    "question": "Based on SAR-20230815-003, what action did Mark Peterson take after repeated deposits?",
+    "answer": "Large cryptocurrency withdrawals."
   },
   {
-    "question": "According to bank_statement_2.csv, which entity initiated the transfer of 2000 EUR to John Smith\u2019s account?",
-    "answer": "AlgoTradePro Ltd"
+    "question": "What was the stated reason for requiring verification from Nikola in email_3.txt?",
+    "answer": "To ensure the security of funds due to unusual activity detected on Mark Peterson\u2019s account."
   }
 ]

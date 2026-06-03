@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what purpose was given for the transactions involving Helmut Schmidt's account?",
-    "answer": "Investment"
+    "question": "What is the primary method AI-Trading-Pro claims to use for identifying trading opportunities?",
+    "answer": "Artificial intelligence algorithms that analyze market trends."
   },
   {
-    "question": "What is the destination account in sar_2.xml where Altcoin Global Ltd. transferred funds?",
-    "answer": "BZ1234567890"
+    "question": "According to the first email, what is promised to the recipient if they visit the website?",
+    "answer": "An exclusive introductory bonus."
   },
   {
-    "question": "Based on bank_statement_1.csv, what other company besides Altcoin Global Ltd. did Helmut Schmidt transfer funds to?",
-    "answer": "QuantumLeap AI"
+    "question": "What was the description provided for the second transaction involving a credit of 10000 EUR?",
+    "answer": "Additional investment in AI Trading Platform"
   },
   {
-    "question": "What is the total amount transferred to Altcoin Global Ltd. according to sar_1.xml?",
-    "answer": "8000 EUR"
+    "question": "What suspicious activity was noted regarding the second transaction of 10000 EUR, as reported in SAR 2?",
+    "answer": "Customer exhibits signs of potential pressure."
   },
   {
-    "question": "What is the email address used by QuantumLeap AI for sending withdrawal notices?",
-    "answer": "withdrawal@quantumleap-ai.net"
+    "question": "Which company received the investment from Hans Schmidt?",
+    "answer": "Global Investment Solutions Ltd"
   },
   {
-    "question": "What is the purpose of the transactions described in sar_3.xml?",
-    "answer": "Investment"
+    "question": "What is the website URL promoted in the initial email from AI-Trading-Pro?",
+    "answer": "www.ai-trading-pro.net"
   },
   {
-    "question": "According to promotional_2.txt, what is one of the benefits of joining QuantumLeap AI?",
-    "answer": "Daily profits"
+    "question": "What phrase does promotional material 2 use to describe AI-Trading-Pro's trading opportunities?",
+    "answer": "Lucrative trading opportunities that you won't find anywhere else."
   },
   {
-    "question": "What is the finding mentioned in sar_2.xml concerning the activity of Altcoin Global Ltd.?",
-    "answer": "Account activity suggests potential involvement in investment fraud."
+    "question": "According to email 3, what is required from Hans Schmidt to maintain access to his account?",
+    "answer": "A mandatory contribution of EUR 2,000."
   },
   {
-    "question": "What did email_3.txt suggest would happen if Helmut Schmidt didn\u2019t make the additional investment?",
-    "answer": "The cancellation of his withdrawal request."
+    "question": "What was the description associated with the denied withdrawal request in SAR 3?",
+    "answer": "Withdrawal Request - Denied"
   },
   {
-    "question": "What does the screenshot_1.txt describe regarding the QuantumLeap AI platform's graphical representation?",
-    "answer": "The screenshot shows a graph chart with a steeply rising line labeled 'Daily Profit'."
+    "question": "Based on the screenshot of the website, what elements are prominently displayed?",
+    "answer": "A logo displaying a stylized circuit board, rapidly increasing line graphs, testimonials, and a button that reads 'Start Trading Now'."
   }
 ]

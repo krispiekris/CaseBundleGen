@@ -1,1 +1,0 @@
-Description: The screenshot shows a dashboard with a futuristic design.  Large font displays 'Account Balance: €[Amount]'.  Below are graphs labeled 'Daily Profit', 'Total Profit', and 'AI Confidence Level'. A button reads 'Withdraw Funds'.

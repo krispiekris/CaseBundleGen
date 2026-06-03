@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BZ2024-0005</ReportID>
-  <ReportingInstitution>Belizean Trust Bank</ReportingInstitution>
-  <Subject>
-    <Name>Apex Investments Ltd.</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>HK12345678901234567890</DestinationAccount>
-    <DestinationName>Global Apex Holdings</DestinationName>
-    <Purpose>Transfer</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>HK12345678901234567890</DestinationAccount>
-    <DestinationName>Global Apex Holdings</DestinationName>
-    <Purpose>Transfer</Purpose>
-  </Transaction>
-  <Findings>Significant outflow of funds to Hong Kong. Potential structuring for tax evasion or illicit activities.</Findings>
+<SAR id="SAR-20240310-003">
+  <ReportDate>2024-03-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-01</TransactionDate>
+      <Amount currency="EUR">5000</Amount>
+      <SenderName>Helmut Klein</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Global Crypto Solutions Ltd.</ReceiverName>
+      <ReceiverAccount>GB67NWBK40302182397052</ReceiverAccount>
+      <Description>Transfer to Crypto Recovery Service</Description>
+    </Transaction>
+    <Findings>
+      <Finding>Potential investment fraud involving cryptocurrency recovery services.</Finding>
+      <Finding>Continued transfers despite lack of evidence of recovery.</Finding>
+    </Findings>
+  </SuspiciousActivity>
 </SAR>

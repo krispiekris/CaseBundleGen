@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>KN2023-4321</ReportID>
-  <ReportingInstitution>Royal Caribbean Bank</ReportingInstitution>
-  <Subject>
-    <Name>Global Investments Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-05</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>XX1234567890</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-12-08</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>XX1234567890</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from offshore accounts. Destination account difficult to trace.</Findings>
-</SAR>
+<sar>
+  <header>
+    <sar_id>SAR-20230525-003</sar_id>
+    <submission_date>2023-05-25</submission_date>
+    <financial_institution>Global Bank Australia</financial_institution>
+  </header>
+  <customer>
+    <name>David Miller</name>
+    <address>12 Acacia Avenue, Sydney, NSW 2000, Australia</address>
+    <customer_id>DM12345</customer_id>
+  </customer>
+  <findings>
+    <finding>Customer reports being defrauded by AI Prosper Investments Ltd. Unable to withdraw funds. Investigation recommended. Multiple transfers to offshore accounts in Belize and Seychelles.</finding>
+    <finding>Potential involvement of cryptocurrency transactions.</finding>
+  </findings>
+</sar>

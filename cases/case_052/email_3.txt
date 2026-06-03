@@ -1,11 +1,20 @@
-From: John Smith <john.smith@brokerage.com>
-To: Victim 1 <victim1@email.com>
-Subject: Account Access Request
+From: support@alphagenesis.trade
+To: hans.schmidt@email.de
+Subject: Regarding Your Withdrawal Request
 
-Dear [Victim 1],
+Dear Hans,
 
-To ensure the security of your QuantumLeap AI account, we require you to verify your identity. Please provide us with access to your account settings so we can complete this process. Thank you for your cooperation.
+We've received your withdrawal request.  Due to increased security measures, we require a verification fee of €1000.00 to process your withdrawal.  This fee is standard practice and ensures the safety of your funds.
 
-Sincerely,
-John Smith
-Brokerage Services
+Once the verification fee is received, your funds will be released within 24 hours.
+
+Please transfer the fee to the following account:
+
+Account Name: AlphaGenesis Verification
+Account Number: XXXXXXXXXXXXXXXX
+Bank: Zenith Bank
+Country: Nigeria
+
+Thank you for your cooperation.
+
+The AlphaGenesis Support Team

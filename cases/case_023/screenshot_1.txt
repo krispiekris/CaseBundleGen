@@ -1,1 +1,1 @@
-The QuantumAlgo dashboard displays a graph showing exponential profit growth.  Large buttons prompt users to 'Add Funds' and 'Withdraw Profits'.  The site’s design incorporates futuristic fonts and imagery.
+Screenshot of AI Elite Trading dashboard showing a fabricated account balance of EUR 16,500. Graph shows steadily increasing value over time.  Timestamp: 2023-09-28 14:35 GMT+2

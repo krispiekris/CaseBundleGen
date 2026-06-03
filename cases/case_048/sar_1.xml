@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-101</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE89370400440532013488</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-12-05</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseNumber>DB-SAR-2023-12-001</CaseNumber>
+  </Header>
   <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>7500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BM3000000000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2023-12-01</TransactionDate>
+    <Amount currency="EUR">50000</Amount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Thomas Baumann</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Global Traders Limited</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Initial investment - Forex trading</Description>
+    <SuspiciousActivity>Potential investment fraud</SuspiciousActivity>
+    <Notes>Large initial deposit followed by aggressive trading recommendations.</Notes>
   </Transaction>
-  <Transaction>
-    <Date>2023-10-15</Date>
-    <Amount>1200</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BM3000000000000000000000</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial deposit into NovaTrade AI, an unregulated investment platform. High-risk investment, potential for fraud.</Findings>
 </SAR>

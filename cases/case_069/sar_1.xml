@@ -1,34 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE20231215-007</ReportID>
-  <ReportingInstitution>Sparkasse München</ReportingInstitution>
-  <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE87744001400819000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1200000000001234567</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>150</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1200000000001234567</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Profit Payout</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>4500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1200000000001234567</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Withdrawal Request</Purpose>
-  </Transaction>
-  <Findings>Unusual activity observed. Large transfer to offshore account with potential investment scheme.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-09-25</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-22</TransactionDate>
+      <Amount>10000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
+      <Description>Withdrawal - Initial Profit</Description>
+      <Location>Australia</Location>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>Jane Doe</Contact>
+    <Phone>1300 123 456</Phone>
+  </ReportingInstitution>
+  <Findings>
+    <Finding>Initial profit withdrawal shortly after account creation, potentially indicative of a 'honeypot' scheme.</Finding>
+  </Findings>
 </SAR>

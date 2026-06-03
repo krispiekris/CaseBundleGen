@@ -1,7 +1,7 @@
 {
-  "case_id": "CR2023-078",
+  "case_id": "2024-CYB-00789",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
     "income_range": "\u20ac50,000 - \u20ac80,000",
@@ -9,44 +9,42 @@
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "Belize",
-    "Saint Vincent and the Grenadines"
+    "St. Vincent and the Grenadines",
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2022-11-15",
-      "event": "Victim discovers 'NovaTrade AI' website"
+      "date": "2023-03-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-01-05",
-      "event": "Initial investment made by victim"
+      "date": "2023-04-01",
+      "event": "First deposit made"
     },
     {
-      "date": "2023-03-10",
-      "event": "Victim attempts withdrawal, faces issues"
+      "date": "2023-06-10",
+      "event": "Victim requests withdrawal, denied"
     },
     {
-      "date": "2023-03-18",
-      "event": "Victim reports fraudulent activity"
+      "date": "2023-08-22",
+      "event": "Victim reports suspicious activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac30,000 - \u20ac65,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.2 - 0.6"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.5 - 1.2 BTC"
     }
   ]
 }

@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>COM2024-456</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Müller</Name>
-    <Account>DE45370300430010000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12010100010102030405</DestinationAccount>
-    <DestinationName>InnovAI Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Attempted withdrawal failed. Customer reporting possible fraud.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SARReferenceID>SAR-20240108-002</SARReferenceID>
+    <DateFiled>2024-01-08</DateFiled>
+    <ReportingBank>Deutsche Bank</ReportingBank>
+  </Header>
+  <Customer>
+    <CustomerID>123456789</CustomerID>
+    <Name>Hans Baumann</Name>
+    <Address>Musterstrasse 1, 10115 Berlin</Address>
+  </Customer>
+  <SuspiciousActivity>
+    <TransactionDate>2024-01-05</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <RecipientName>Crypto Innovations</RecipientName>
+    <RecipientAccount>X789012345</RecipientAccount>
+    <RecipientBank>United Bank of Singapore</RecipientBank>
+    <SWIFTCode>UBSBXXXX</SWIFTCode>
+    <Description>Investment in Crypto Innovations</Description>
+  </SuspiciousActivity>
+  <Findings>
+    Customer expressed concerns regarding investment returns. Potential investment fraud scheme.
+  </Findings>
 </SAR>

@@ -1,19 +1,11 @@
-Subject: Important Notice Regarding Withdrawal Request
+From: support@novatechsolutions.com
+To: marc.schneider@example.de
+Subject: Regarding your Withdrawal Request
 
-Dear [Victim Name],
+Dear Marc,
 
-We received your withdrawal request. Due to recent security enhancements, a processing fee of EUR 500 is required to complete the transaction.
+We received your recent request to withdraw funds from your NovaTech Solutions account. Due to increased security measures, we require additional verification before processing your request. Please reply to this email with a copy of your passport and a recent utility bill.
 
-This fee is necessary to verify the authenticity of your request and ensure the security of your funds.
+Thank you for your cooperation.
 
-Please transfer EUR 500 to the following account:
-
-Account Name: Secure Processing Services
-Bank: Seychelles International Bank
-Account Number: 0012345678
-SWIFT Code: SEIBSEYS
-
-Once the fee is received, your withdrawal will be processed within 24-48 hours.
-
-Sincerely,
-The QuantumInvest AI Support Team
+The NovaTech Solutions Support Team

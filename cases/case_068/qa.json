@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the reporting institution for the initial report?",
-    "answer": "Deutsche Bank"
+    "question": "What initial impression did Alistair Huber aim to create with his email to Marc Schneider?",
+    "answer": "He aimed to create an impression of being a Senior AI Strategist at a rapidly growing firm specializing in automated trading."
   },
   {
-    "question": "What is the purpose of the EUR 1000 transaction on 2023-09-22, as indicated in sar_1.xml?",
-    "answer": "Initial Investment"
+    "question": "According to promotional material, what is a key advantage of NovaTech Solutions' AI-powered platform?",
+    "answer": "Consistently outperform traditional investment methods."
   },
   {
-    "question": "Based on email_3.txt, what is the stated reason for requiring a processing fee for withdrawals?",
-    "answer": "To verify the authenticity of the request and ensure the security of funds"
+    "question": "What specific document did NovaTech Solutions request from Marc Schneider when he attempted to withdraw funds?",
+    "answer": "A copy of his passport and a recent utility bill."
   },
   {
-    "question": "What is the SWIFT code provided in email_3.txt for the 'Secure Processing Services' account?",
-    "answer": "SEIBSEYS"
+    "question": "What action did Deutsche Bank take regarding Marc Schneider\u2019s withdrawal attempt?",
+    "answer": "The withdrawal attempt was rejected."
   },
   {
-    "question": "Referring to the screenshot_1.txt, what phrase appears in the logo of the QuantumInvest AI website?",
-    "answer": "Your Path to Financial Freedom"
+    "question": "What reason did Deutsche Bank initially provide for flagging the transaction involving Marc Schneider?",
+    "answer": "Large transfer to an offshore company with limited online presence."
   },
   {
-    "question": "What is the account number mentioned in email_3.txt for Secure Processing Services?",
-    "answer": "0012345678"
+    "question": "What is the IBAN associated with the transfers to NovaTech Solutions?",
+    "answer": "CY8800200001000000000012345"
   },
   {
-    "question": "According to sar_3.xml, what is the account number of Victim 2?",
-    "answer": "CH6208700855200100"
+    "question": "What did the screenshot of NovaTechSolutions.com highlight regarding the firm's technology?",
+    "answer": "AI-Powered Investing"
   },
   {
-    "question": "What is the initial investment amount made by Victim 2, as detailed in sar_3.xml?",
-    "answer": "5000 EUR"
+    "question": "What additional evidence would support the claim that Marc Schneider's initial interaction with Alistair Huber may be fraudulent?",
+    "answer": "The request for passport and utility bill copies, coupled with difficulties withdrawing funds."
   },
   {
-    "question": "Based on bank_statement_1.csv, what is the salary amount received by Victim 1?",
-    "answer": "3500 EUR"
+    "question": "According to SAR-20231110-002, what was the main reason for the blocked withdrawal request?",
+    "answer": "Client reported difficulties in withdrawing funds after recent deposits."
   },
   {
-    "question": "According to sar_2.xml, what is the purpose of the -500 EUR transaction?",
-    "answer": "Withdrawal Attempt Fee"
+    "question": "What was the total value of funds transferred to NovaTech Solutions by Marc Schneider, as reflected in the provided bank statement?",
+    "answer": "30000.00"
   }
 ]

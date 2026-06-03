@@ -1,11 +1,11 @@
 {
-  "case_id": "CR2023-078",
+  "case_id": "2024-01-CYB-0047",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Germany",
+    "income_range": "80,000 - 120,000 USD",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -17,35 +17,39 @@
     ]
   },
   "destination_countries": [
-    "Saint Vincent and the Grenadines",
-    "Belize"
+    "Cyprus",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2022-11-15",
-      "event": "Victim interacts with promotional material"
+      "date": "2023-08-15",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-01-20",
-      "event": "Initial investment made"
+      "date": "2023-09-01",
+      "event": "Victim invests initial sum of $5,000"
     },
     {
-      "date": "2023-03-10",
-      "event": "Withdrawal attempt initiated"
+      "date": "2023-10-10",
+      "event": "Fraudster initiates withdrawals"
     },
     {
-      "date": "2023-03-15",
-      "event": "Victim reports fraudulent activity"
+      "date": "2023-11-20",
+      "event": "Victim realizes funds are missing"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Report filed with local authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "10,000 - 20,000 USD"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "Bank Transfer",
+      "amount_range": "5,000 - 15,000 USD"
     }
   ]
 }

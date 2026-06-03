@@ -1,18 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-01-15-002</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>KY0000000000</DestinationAccount>
-    <DestinationName>Global Solutions Ltd</DestinationName>
-    <Purpose>Withdrawal Request</Purpose>
-  </Transaction>
-  <Findings>Victim reporting difficulties withdrawing funds. Funds being transferred to an offshore account in the Cayman Islands. Possible money laundering activity.</Findings>
+  <Header>
+    <ReportDate>2023-07-20</ReportDate>
+    <InstitutionID>First National Bank</InstitutionID>
+    <SuspiciousActivity>
+      <TransactionDate>2023-05-01</TransactionDate>
+      <TransactionAmount>10000.00</TransactionAmount>
+      <Currency>USD</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>123 Main Street, Anytown, USA</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>AIX Capital</Name>
+        <AccountID>XXXXXXXXXXXXXX</AccountID>
+        <Country>Belize</Country>
+      </Beneficiary>
+      <Description>Additional investment to AI Trading Platform - pressured by platform representative.</Description>
+      <SuspicionReason>Rapid increase in investment amounts coupled with reported pressure from platform representative.</SuspicionReason>
+    </SuspiciousActivity>
+  </Header>
 </SAR>

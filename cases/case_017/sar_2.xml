@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-015</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-28</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NL99INGB000000001234</DestinationAccount>
-    <DestinationName>Global Finance Solutions</DestinationName>
-    <Purpose>Payment Processing Fee</Purpose>
-  </Transaction>
-  <Findings>Linked to AI trading platform scheme. Small transaction potentially related to access or platform fees.</Findings>
-</SAR>
+<SuspiciousActivityReport>
+  <ReportDate>2023-10-08</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
+  <CustomerName>Klaus Heinz</CustomerName>
+  <CustomerAccount>1234567890</CustomerAccount>
+  <SuspiciousActivity>
+    <ActivityType>Attempted Withdrawal/Fund Restriction</ActivityType>
+    <TransactionDate>2023-10-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+    <TransactionDescription>Attempted Withdrawal - Denied due to System Maintenance</TransactionDescription>
+    <BeneficiaryName>Klaus Heinz</BeneficiaryName>
+    <SuspicionReason>Customer experiencing difficulty withdrawing funds; explanation provided by platform appears evasive.</SuspicionReason>
+  </SuspiciousActivity>
+  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
+</SuspiciousActivityReport>

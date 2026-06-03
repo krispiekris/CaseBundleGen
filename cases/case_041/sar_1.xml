@@ -1,18 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DB2024-003</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+<SAR id="SAR-20231205-001">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
+    <Name>Michael Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
   </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>10000</Amount>
+  <SuspiciousActivity>
+    <Date>2023-11-22</Date>
+    <Amount>5000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>US5312345678901234567890</DestinationAccount>
-    <DestinationName>Nova AI Trading LLC</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual transaction to offshore company, high value, inconsistent with customer profile.</Findings>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Wire transfer to offshore account - potentially linked to investment fraud.</Description>
+    <Beneficiary>
+      <Name>Global Investments Ltd.</Name>
+      <Account>1234567890</Account>
+      <Jurisdiction>Belize</Jurisdiction>
+    </Beneficiary>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Unusual wire transfer to an offshore jurisdiction. Potential investment fraud scheme.</Finding>
+  </Findings>
+  <ReportingPerson>
+    <Name>Anna Schmidt</Name>
+    <Title>Compliance Officer</Title>
+  </ReportingPerson>
 </SAR>

@@ -1,34 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BG2024-0012</ReportID>
-  <ReportingInstitution>First Bulgarian Bank</ReportingInstitution>
-  <DateFiled>2024-04-05</DateFiled>
-  <Subject>
-    <Name>NovaTrade AI Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013000</DestinationAccount>
-    <DestinationName>Karl Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-12</Date>
-    <Amount>250</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013000</DestinationAccount>
-    <DestinationName>Karl Schmidt</DestinationName>
-    <Purpose>Investment Return</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-01</Date>
-    <Amount>300</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013000</DestinationAccount>
-    <DestinationName>Karl Schmidt</DestinationName>
-    <Purpose>Investment Return</Purpose>
-  </Transaction>
-  <Findings>High volume of international transfers.  Company appears to be engaged in questionable investment activities.</Findings>
-</SAR>
+<sar>
+  <report_date>2024-02-15</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Michael Schmidt</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2024-02-10</transaction_date>
+  <transaction_amount currency="EUR">5000</transaction_amount>
+  <transaction_type>Transfer Out</transaction_type>
+  <recipient_name>CryptoTrade Solutions</recipient_name>
+  <recipient_account>GB21NWBK00000000001234</recipient_account>
+  <recipient_country>United Kingdom</recipient_country>
+  <description>Transfer to CryptoTrade Solutions</description>
+  <suspicious_activity>Second transfer to the same recipient. Customer inquired about withdrawal options and faced delays.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-1234</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE1211000034000123456789</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-11-29</ReportDate>
+    <ReportID>SAR-20231129-001</ReportID>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ000123456</DestinationAccount>
-    <DestinationName>AutomatedTradePro Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2023-11-22</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <SenderName>Ulrich Baumann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Aix Capital Limited</ReceiverName>
+    <ReceiverAccount>GB86 NWBK 9000 0000 1234 5678</ReceiverAccount>
+    <Description>Investment in AI Trading Platform</Description>
+    <SuspiciousActivity>Potential investment fraud - unverified platform</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB59NWBK00000000001234</DestinationAccount>
-    <DestinationName>Payment Processor</DestinationName>
-    <Purpose>Withdrawal Processing Fee</Purpose>
-  </Transaction>
-  <Findings>Unusual transaction activity, potential investment fraud.</Findings>
 </SAR>

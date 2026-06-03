@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE20241115-001</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG33080158297700000998</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial investment flagged due to destination account location and unregulated nature of 'NovaTrade AI'.</Findings>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-09-05</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <SuspiciousTransaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <OriginatingParty>
+      <Name>Klaus Schmidt</Name>
+      <Address>Musterstrasse 1, 12345 Musterstadt</Address>
+      <Country>Germany</Country>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>GlobalTech Investments Ltd.</Name>
+      <Account>1234567890</Account>
+      <BankName>Fidelity Bank</BankName>
+      <Country>Malta</Country>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Unusual transfer amount for the customer's profile. Lack of transparency regarding the purpose of the transfer.</SuspiciousActivity>
+    <ReportReferenceNumber>SAR-2023-09-001</ReportReferenceNumber>
+  </SuspiciousTransaction>
 </SAR>

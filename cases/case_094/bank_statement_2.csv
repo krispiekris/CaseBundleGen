@@ -1,4 +1,9 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-09-01,Wire Transfer,5000,EUR,Victim 1
-2023-10-15,Wire Transfer,2000,EUR,Victim 1
-2023-11-15,Wire Transfer,7000,EUR,Golden Dragon Investments
+Date,Description,Amount (AUD),Balance (AUD)
+2023-04-20,Salary,7000,50000
+2023-04-22,Wire Transfer to Global Investments Ltd,12000,-7000
+2023-04-29,Wire Transfer to Global Investments Ltd,8000,-15000
+2023-05-05,Interest,10, -14990
+2023-05-12,Withdrawal,500,-14490
+2023-05-20,Withdrawal,200,-14290
+2023-06-01,Withdrawal,500,-13790
+2023-06-15,Withdrawal,100,-13690

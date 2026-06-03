@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE20240118-002</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Kruger</Name>
-    <Account>DE87370400440532013000</Account>
-  </Subject>
+<SAR xmlns="http://www.irs.gov/">
+  <Header>
+    <SARID>20240115-AU-002</SARID>
+    <FilingDate>2024-01-15</FilingDate>
+    <FilerID>XYZ Bank Australia</FilerID>
+  </Header>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>NovaTrade Investments Ltd</DestinationName>
-    <Purpose>Profit Distribution</Purpose>
+    <TransactionID>TXN-002</TransactionID>
+    <TransactionDate>2023-09-05</TransactionDate>
+    <Amount>30000</Amount>
+    <Currency>AUD</Currency>
+    <TransactionType>Deposit</TransactionType>
+    <Description>Online transfer from personal account to trading account</Description>
+    <OriginatingParty>
+      <Name>Robert Harding</Name>
+      <Address>12 Acacia Avenue, Sydney, NSW, 2000, Australia</Address>
+      <TaxpayerID>XXX-XXX-XXX</TaxpayerID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Apex Trading Solutions</Name>
+      <Address>Level 7, 152 Elizabeth Street, Sydney, NSW, 2000, Australia</Address>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Potential investment fraud, unusual activity pattern</SuspiciousActivity>
+    <SuspicionType>Unusual Transaction</SuspicionType>
+    <FilerComments>Customer initiated a significant transfer to a trading platform after initial small profits.</FilerComments>
   </Transaction>
-  <Findings>Repeat transfers to offshore account. Consistent with previous suspicious activity report.</Findings>
 </SAR>

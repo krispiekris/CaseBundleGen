@@ -1,2 +1,5 @@
-Date,Description,Amount,Currency,Beneficiary
-2024-01-03,Online Transfer,-500,EUR,QuantumLeap AI
+Date,Description,Amount,Currency,IBAN
+2023-11-15,Vendor Invoice 12345,62500.00,USD,
+2023-12-05,Payment to Apex Trading Ltd,62500.00,USD,ZA71014700123456789
+2023-12-12,Payment to Apex Trading Ltd,62500.00,USD,ZA71014700123456789
+2024-01-10,Credit from Apex Trading Ltd,62500.00,USD,ZA71014700123456789

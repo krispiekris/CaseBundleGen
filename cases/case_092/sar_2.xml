@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>UK2024-0123</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>00000000000000000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>1111111111/2222</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>1111111111/2222</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Profit Distribution</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from Czech Republic. Account operating under unusual circumstances.</Findings>
-</SAR>
+<sar>
+  <report_date>2023-11-15</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <reporter_id>DB-20231115-002</reporter_id>
+  <beneficial_owner>
+    <name>Hans Meier</name>
+    <address>Musterstraße 123, 10115 Berlin, Germany</address>
+  </beneficial_owner>
+  <transaction>
+    <transaction_date>2023-11-10</transaction_date>
+    <amount currency="EUR">7500.00</amount>
+    <description>Withdrawal attempt</description>
+    <recipient_account>Hans Meier</recipient_account>
+    <recipient_bank>Deutsche Bank</recipient_bank>
+    <recipient_country>Germany</recipient_country>
+    <iban>DE89370400440532013000</iban>
+  </transaction>
+  <findings>Withdrawal request repeatedly denied. Customer reports difficulties accessing funds. Suspicious activity due to conflicting information from AI Global Trading.</findings>
+</sar>

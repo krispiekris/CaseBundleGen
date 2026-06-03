@@ -1,1 +1,0 @@
-The AlphaTrade AI website displays a clean, modern interface. A prominent graph shows simulated trading performance with consistently upward trends.  There are buttons for 'Deposit', 'Withdrawal', and 'Account Details'.  A live chat window is visible in the corner, with a message stating 'Agent Available'.

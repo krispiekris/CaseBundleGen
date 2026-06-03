@@ -1,14 +1,14 @@
-From: QuantumAI <support@quantumfx.fake>
-To: Victim 1 <victim1@email.com>
-Subject: Important: Deposit Now to Maximize Your QuantumAI Returns
+From: support@novatrade.ai
+To: richard.adams@example.com
+Subject: Welcome to NovaTrade AI - Your Account is Active!
 
-Dear [Victim Name],
+Dear Richard Adams,
 
-We've noticed that your QuantumAI account has been inactive for a period. To ensure you continue to receive maximum returns, please deposit funds within the next 24 hours.
+Welcome to the NovaTrade AI platform! Your account has been successfully created and is now active.
 
-Limited-time offer: Deposit now and receive a bonus 10% on your deposit!
+To get started, please review our brief tutorial video here: [https://novatrade.ai/tutorial]
 
-Click here to deposit: www.quantumfx.fake
+Your current balance is $5,000.00.
 
-Best regards,
-QuantumFX Support
+Best Regards,
+The NovaTrade AI Support Team

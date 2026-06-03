@@ -1,0 +1,5 @@
+Screenshot Description: Chronos Trading Platform Dashboard
+
+[Image Description: The screenshot shows a clean, modern dashboard. A large graph displays a steadily upward trending line labeled 'Chronos Portfolio Performance'. Below the graph are several widgets displaying metrics such as 'AI Confidence Level (98%)', 'Current Market Volatility (Low)', 'Next Trade Execution (Estimated: 1 minute)'.  A small map icon is visible near the top right, with a marker indicating 'Belize'.] 
+
+The platform's color scheme is primarily blue and white, conveying a sense of trust and professionalism.

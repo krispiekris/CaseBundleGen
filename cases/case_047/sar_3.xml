@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CH2024-001</ReportID>
-  <ReportingInstitution>UBS</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>LT12100001110123451</SourceAccount>
-    <SourceName>Altcoin Global Ltd</SourceName>
-  </Transaction>
-  <Findings>Small transfer from UK to Switzerland.  Further investigation warranted.</Findings>
-</SAR>
+<sar>
+  <report_date>2023-10-05</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Ulrich Baumann</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2023-09-28</transaction_date>
+  <transaction_amount>0.00</transaction_amount>
+  <transaction_currency>EUR</transaction_currency>
+  <transaction_type>Account Activity</transaction_type>
+  <beneficiary_name>N/A</beneficiary_name>
+  <beneficiary_account>N/A</beneficiary_account>
+  <beneficiary_country>N/A</beneficiary_country>
+  <description>Customer reports fraudulent activity and loss of funds.</description>
+  <suspicious_activity>Customer reports unauthorized transactions and inability to access funds.  Indicates a potential fraudulent scheme. Formal complaint filed.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

@@ -1,34 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-123</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-11-20</ReportDate>
+    <BankName>Royal Bank of Canada</BankName>
+    <SARID>RBC-SAR-20231120-001</SARID>
+  </Header>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>CAD</Currency>
+    <SenderAccount>David Miller - Account Number (Redacted)</SenderAccount>
+    <ReceiverAccount>CryptoExchange1 - Account Number (Redacted)</ReceiverAccount>
+    <ReceiverName>Global Crypto Solutions</ReceiverName>
+    <Description>Cryptocurrency Purchase</Description>
+    <SuspiciousActivity>Unusual amount for this customer, frequent cryptocurrency transactions.</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-02-15</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual activity, potential investment fraud</Findings>
+  <Party>
+    <PartyType>Customer</PartyType>
+    <Name>David Miller</Name>
+    <Address>(Redacted)</Address>
+  </Party>
 </SAR>

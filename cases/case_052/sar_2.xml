@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>GBR2024-03-15-002</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>GB28BARC13000001234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>12000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-  </Transaction>
-  <Transaction>
-    <Date>2023-12-15</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-  </Transaction>
-  <Findings>Large sums of money received from Germany and transferred to accounts in Nigeria. Lack of legitimate business activity observed.</Findings>
-</SAR>
+<sar>
+  <reportHeader>
+    <reportDate>2024-01-15</reportDate>
+    <reportingInstitution>Sparkasse Nürnberg</reportingInstitution>
+    <reporterId>12345</reporterId>
+  </reportHeader>
+  <transaction>
+    <transactionDate>2023-12-05</transactionDate>
+    <transactionAmount currency="EUR">3000.00</transactionAmount>
+    <transactionType>Wire Transfer</transactionType>
+    <sender>
+      <name>Hans Schmidt</name>
+      <accountNumber>DE89741105020001234567</accountNumber>
+    </sender>
+    <recipient>
+      <name>AlphaGenesis Global</name>
+      <accountNumber>ZA12345678901234567890</accountNumber>
+      <bankCountry>Nigeria</bankCountry>
+    </recipient>
+    <description>Additional Investment - AI Trading</description>
+    <suspiciousActivity>Multiple transfers to same recipient with limited interaction</suspiciousActivity>
+  </transaction>
+</sar>

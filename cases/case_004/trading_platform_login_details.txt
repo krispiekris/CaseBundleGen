@@ -1,0 +1,3 @@
+Username: davidmiller123
+Password: SecurePassword123
+Platform URL: https://secure.quantumleap.ai/login

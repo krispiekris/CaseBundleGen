@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>BUL2024-005</ReportID>
-  <ReportingInstitution>First Investment Bank</ReportingInstitution>
-  <Subject>
-    <Name>Global Investments Ltd</Name>
-    <Account>BG48BNES99491100004444</Account>
-  </Subject>
+  <Header>
+    <ReferenceNumber>SAR-20231115-002</ReferenceNumber>
+    <DateFiled>2023-11-15</DateFiled>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>000000001234567890</DestinationAccount>
-    <DestinationName>David Miller</DestinationName>
-    <Purpose>Investment Withdrawal</Purpose>
+    <TransactionDate>2023-10-01</TransactionDate>
+    <TransactionAmount currency="EUR">2500.00</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Markus Richter</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>AI Trading Pro Ltd.</ReceiverName>
+    <ReceiverAccount>BBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Additional Investment - Unlock Profits</Description>
+    <SuspiciousActivity>Possible investment fraud - AI trading platform</SuspiciousActivity>
+    <Notes>Customer appears to be experiencing difficulties withdrawing funds and has been pressured to invest more. Further investigation recommended.</Notes>
   </Transaction>
-  <Findings>High volume of incoming transfers from UK-based accounts.  Potentially linked to investment scam.</Findings>
 </SAR>

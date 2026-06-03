@@ -1,4 +1,8 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-09-05,Incoming Transfer,10000,EUR,Altcoin Global Ltd
-2023-09-10,Outgoing Transfer,5000,EUR,Another Company
-2023-09-15,Outgoing Transfer,2500,EUR,Yet Another Company
+Date,Description,Amount (CAD),Recipient IBAN
+2023-11-15,Grocery Shopping,-50.00,
+2023-12-01,Online Payment - ProfitMatrix,5000.00,AE45000000000000000000123456
+2023-12-15,Utilities Payment,-150.00,
+2024-01-05,Online Payment - ProfitMatrix,5000.00,AE45000000000000000000123456
+2024-02-01,Mortgage Payment,-1800.00,
+2024-02-20,Online Payment - ProfitMatrix,5000.00,AE45000000000000000000123456
+2024-03-10,Gift Card Purchase,-200.00,

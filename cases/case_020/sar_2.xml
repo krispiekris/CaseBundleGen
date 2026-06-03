@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>LU2024-456</ReportID>
-  <ReportingInstitution>BGL BNP Paribas</ReportingInstitution>
-  <Subject>
-    <Name>NovaTrade AI Ltd.</Name>
-    <Account>LU080001000001234567</Account>
-  </Subject>
+  <Header>
+    <ReferenceID>SAR-2023-0522</ReferenceID>
+    <Date>2023-07-01</Date>
+    <Bank>Commonwealth Bank of Australia</Bank>
+    <BranchID>12345</BranchID>
+  </Header>
   <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>12000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>AE77000000001234567890</DestinationAccount>
-    <DestinationName>Arabian Holdings LLC</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-002</TransactionID>
+    <Date>2023-05-10</Date>
+    <Amount>1500.00</Amount>
+    <Currency>AUD</Currency>
+    <SenderAccount>1234567890</SenderAccount>
+    <SenderName>David Anderson</SenderName>
+    <RecipientAccount>GB21NWBK202040082800</RecipientAccount>
+    <RecipientName>Apex Global Investments Ltd</RecipientName>
+    <Description>Withdrawal Attempt - Blocked</Description>
   </Transaction>
-  <Findings>Funds transferred to account in the United Arab Emirates. Potential money laundering.</Findings>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud - AI Trading Pro</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+    <Notes>Customer attempting to withdraw funds. Account flagged due to previous unusual activity and recipient location.  Customer reported difficulties withdrawing funds.</Notes>
+  </Findings>
 </SAR>

@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The screenshot depicts a web-based trading platform dashboard. The main area displays a graph showing rapidly increasing values labeled 'Account Balance'.  Below the graph, there are several boxes showcasing 'Daily Profit', 'Total Profit', and 'Open Orders'. The 'Daily Profit' box displays a value of €2,542.37.  The 'Total Profit' box shows a value of €18,765.12. The platform uses a dark blue and white color scheme.  The top navigation bar includes buttons for 'Dashboard', 'Trades', 'Settings', and 'Withdrawal'.  A prominent banner at the top states, 'NovaTech AI - Your Intelligent Trading Partner'.

@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-081</ReportID>
-  <ReportingInstitution>Marshall Islands Bank</ReportingInstitution>
-  <Subject>
-    <Name>Offshore Investments Ltd</Name>
-    <Account>MB1234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-03-29</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013800</DestinationAccount>
-    <DestinationName>Klaus Schmidt</DestinationName>
-    <Purpose>Fee Payment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds related to suspected investment fraud case. Unusual activity and rapid movement of funds to a potentially compromised account.</Findings>
+<SAR id="SAR-20240220-003">
+  <ReportDate>2024-02-20</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <TransactionDate>2024-01-10</TransactionDate>
+  <TransactionAmount currency="EUR">0</TransactionAmount>
+  <TransactionType>Debit</TransactionType>
+  <SenderName>Hans Meier</SenderName>
+  <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+  <RecipientName>Innovative Profits Limited</RecipientName>
+  <RecipientAccount>GBxxxxxxxxxxxxx</RecipientAccount>
+  <PurposeCode>14 - Other</PurposeCode>
+  <Description>Attempted withdrawal from online trading platform - rejected</Description>
+  <SuspiciousActivity>Potential investment fraud. Customer reports difficulty withdrawing funds. Platform unresponsive.</SuspiciousActivity>
+  <FiledBy>SuspicionMonitoringTeam</FiledBy>
 </SAR>

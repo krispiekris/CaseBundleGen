@@ -1,1 +1,1 @@
-Description: Screenshot of QuantumLeap AI Trading platform login page. Features a logo with a stylized gear and the text 'QuantumLeap AI Trading.' Fields for username and password are visible, along with a 'Login' button.  The background is dark blue with animated particles.
+Screenshot of AI Trading Pro platform showing a fake balance of €12,000 and a graph displaying rapidly increasing profits. The screenshot has a timestamp indicating 2023-09-10 14:30 GMT+1.

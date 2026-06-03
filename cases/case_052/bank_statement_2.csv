@@ -1,4 +1,5 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-05,Transfer Out,-10000,EUR,Nigeria Account 1
-2023-12-20,Transfer Out,-2000,EUR,Nigeria Account 2
-2024-01-10,Transfer Out,-5000,GBP,UK Shell Company
+Date,Description,Amount (EUR),IBAN
+2023-11-15,Transfer to AlphaGenesis, -5000.00,ZA12345678901234567890
+2023-11-18,Incoming Transfer, 100.00,DE89741105020001234567
+2023-11-22,Regular Expenses, -150.00,DE89741105020001234567
+2023-12-05,Transfer to AlphaGenesis, -3000.00,ZA12345678901234567890

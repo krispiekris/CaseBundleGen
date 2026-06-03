@@ -1,26 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2023-1234</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <ReportDate>2023-11-12</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
   <Subject>
-    <Name>Hans Kruger</Name>
-    <Account>DE12110000000000000000</Account>
+    <Name>Hans Meier</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
   </Subject>
-  <Transaction>
-    <Date>2023-02-28</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>PA12345678901234567890</DestinationAccount>
-    <DestinationName>Apex Investments LLC</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-01-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>PA12345678901234567890</DestinationAccount>
-    <DestinationName>Apex Investments LLC</DestinationName>
-    <Purpose>Initial Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual activity - large transfer to offshore company with aggressive marketing claims. Subject appears to be under pressure to invest.</Findings>
+  <SuspiciousActivity>
+    <ActivityType>Unusual Transaction Pattern</ActivityType>
+    <Description>Multiple transfers to an offshore account with no apparent business relationship.  Possible investment fraud.</Description>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount currency="EUR">5000.00</Amount>
+      <RecipientName>Global Investments Ltd.</RecipientName>
+      <RecipientAccount>SC0012345678</RecipientAccount>
+      <RecipientBank>Grace Bank (Seychelles)</RecipientBank>
+    </Transaction>
+    <Transaction>
+      <Date>2023-09-15</Date>
+      <Amount currency="EUR">8000.00</Amount>
+      <RecipientName>Global Investments Ltd.</RecipientName>
+      <RecipientAccount>SC0012345678</RecipientAccount>
+      <RecipientBank>Grace Bank (Seychelles)</RecipientBank>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Potential investment fraud scheme utilizing AI trading platform.</Finding>
+  </Findings>
 </SAR>

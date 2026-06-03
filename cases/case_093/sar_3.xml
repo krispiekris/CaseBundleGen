@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-152</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+<SuspiciousActivityReport>
+  <ReportDate>2024-03-22</ReportDate>
+  <ReportingInstitution>Sparkasse Münsterland-Ost</ReportingInstitution>
   <Subject>
-    <Name>QuantumTrade AI Ltd</Name>
-    <Account>GB99LLOY00000000001234</Account>
+    <Name>Klaus Hartmann</Name>
+    <Address>Musterstraße 12, 48151 Münster, Germany</Address>
+    <DateOfBirth>1968-07-10</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1203010101000000001</DestinationAccount>
-    <DestinationName>QuantumTrade AI Ltd</DestinationName>
-    <Purpose>Receiving funds from overseas</Purpose>
+    <TransactionDate>2024-02-25</TransactionDate>
+    <TransactionAmount currency="EUR">1000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Description>Transfer to Apex Trading Solutions</Description>
+    <Beneficiary>
+      <Name>Apex Trading Solutions</Name>
+      <AccountIBAN>SC05XXXXXXX</AccountIBAN>
+      <Country>Seychelles</Country>
+    </Beneficiary>
   </Transaction>
-  <Findings>High volume of incoming transfers with potential for money laundering.</Findings>
-</SAR>
+  <Findings>Suspected investment fraud involving an AI trading platform.  Victim reported high-pressure sales tactics and difficulty withdrawing funds.</Findings>
+  <Investigator>Anna Schmidt</Investigator>
+</SuspiciousActivityReport>

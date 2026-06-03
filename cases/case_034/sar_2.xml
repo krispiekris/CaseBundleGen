@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-456</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013500</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-03-02</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-    <Finding>Large transaction attempted withdrawal blocked due to lack of funds and suspicious activity. Possible investment fraud.</Finding>
-  </Transaction>
+  <CaseID>20231205-002</CaseID>
+  <DateFiled>2023-12-05</DateFiled>
+  <BankName>Deutsche Bank</BankName>
+  <BranchID>DB-MU-005</BranchID>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>TXN-67890</TransactionID>
+      <TransactionDate>2023-12-05</TransactionDate>
+      <Amount>2000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderAccount>DE45300100000000000000</SenderAccount>
+      <SenderName>Karl Heinz</SenderName>
+      <ReceiverAccount>0078901234</ReceiverAccount>
+      <ReceiverName>James Oluwafemi</ReceiverName>
+      <ReceiverBank>Sterling Bank</ReceiverBank>
+      <ReceiverCountry>Nigeria</ReceiverCountry>
+      <Description>Further Security Clearance</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Follow-up transaction to same recipient account with similar description. Potentially linked to previous suspicious activity.</Finding>
+  </Findings>
+  <ReportingBankEmployee>Anna Schmidt</ReportingBankEmployee>
 </SAR>

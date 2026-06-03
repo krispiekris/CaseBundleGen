@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>SPK2024-007</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <InstitutionID>Deutsche Bank</InstitutionID>
+    <SubmitterID>SAR-20230905-DB-1</SubmitterID>
+  </Header>
   <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12000001110123451</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-001</TransactionID>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Markus Baumann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>AI Profit Solutions</ReceiverName>
+    <ReceiverAccount>GB80NWBK017123456789</ReceiverAccount>
+    <Description>Initial Investment</Description>
+    <SuspiciousActivity>Possible Investment Fraud</SuspiciousActivity>
+    <Notes>Customer making an initial investment with a potentially fraudulent online platform.</Notes>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-12</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12000001110123451</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual large transfers to a Belizean company. Further investigation recommended.</Findings>
 </SAR>

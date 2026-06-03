@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-0256</ReportID>
-  <ReportingInstitution>NatWest Bank</ReportingInstitution>
-  <Subject>
-    <Name>GlobalTech Solutions Ltd</Name>
-    <Account>GB82HSBC40400000000001</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-01-15</ReportDate>
+    <ReferenceID>SAR-20240115-003</ReferenceID>
+    <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>
+  </Header>
   <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>7500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BMU2555555555</DestinationAccount>
-    <DestinationName>Island Holdings Ltd</DestinationName>
-    <Purpose>Consultancy Fees</Purpose>
+    <TransactionDate>2023-12-01</TransactionDate>
+    <TransactionAmount currency="CAD">10000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>CA1234567890123456</SenderAccount>
+    <ReceiverAccount>CY8912345678901234567890</ReceiverAccount>
+    <ReceiverName>Global Investments Ltd.</ReceiverName>
+    <Description>Online Investment</Description>
+    <SuspiciousActivity>Potential Investment Fraud - Unsuccessful Withdrawal Request</SuspiciousActivity>
   </Transaction>
-  <Findings>Funds being transferred to a shell corporation in the Marshall Islands. Account activity inconsistent with stated business purpose.</Findings>
+  <Parties>
+    <Sender>
+      <Name>David Miller</Name>
+      <Address>123 Main Street, Anytown, Canada</Address>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd.</Name>
+      <Country>Cyprus</Country>
+    </Receiver>
+  </Parties>
 </SAR>

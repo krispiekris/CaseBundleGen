@@ -1,3 +1,7 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-10,Reclaim Solutions,200,GBP,Reclaim Solutions Ltd
-2023-11-15,Salary,3500,GBP,ABC Corp
+Date,Description,Amount (CAD)
+2023-03-01,Initial Balance,100000.00
+2023-04-01,Deposit from Forex Global Elite,25000.00
+2023-05-15,Deposit from Forex Global Elite,10000.00
+2023-07-22,Transfer to Marshall Islands Holding Co,35000.00
+2023-08-15,Bank Fees,-10.00
+2023-09-05,Withdrawal to Personal Account,-5000.00

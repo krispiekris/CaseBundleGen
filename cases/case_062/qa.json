@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what was the initial purpose of the transaction from Victim 1's account?",
-    "answer": "Investment"
+    "question": "What was the initial investment amount Klaus Schmidt made?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What is the destination account number shared across multiple transactions and mentioned in SAR_1.xml and SAR_3.xml?",
-    "answer": "NG33080158297700000998"
+    "question": "According to the promotional material, what is a key benefit of using AI-Trader?",
+    "answer": "Profitable Renditen ohne Risiko! (Profitable returns without risk!)"
   },
   {
-    "question": "Based on email_2.txt, what incentive was offered to encourage further deposits into the NovaTrade AI platform?",
-    "answer": "A guaranteed 10% bonus upon depositing additional funds within 48 hours."
+    "question": "What country is Fidelity Bank located in?",
+    "answer": "Malta"
   },
   {
-    "question": "Which institution filed the report (SAR_2.xml) regarding transactions involving 'NovaTrade AI'?",
-    "answer": "Emirates National Bank"
+    "question": "What was the reason given for the temporary account suspension?",
+    "answer": "ungew\u00f6hnlichen Transaktionen (unusual transactions)"
   },
   {
-    "question": "What is the stated benefit of 'NovaTrade AI' mentioned in the brochure_1.txt?",
-    "answer": "Guaranteed Returns"
+    "question": "Based on the SAR reports, which entity consistently receives the funds from Klaus Schmidt?",
+    "answer": "GlobalTech Investments Ltd."
   },
   {
-    "question": "According to email_3.txt, what action was taken regarding the victim's account, and what was the proposed solution?",
-    "answer": "The account was temporarily restricted, and the solution was to deposit an additional 1500 EUR."
+    "question": "What type of verification process was requested from Klaus Schmidt, according to email_2?",
+    "answer": "further verification"
   },
   {
-    "question": "Referring to bank_statement_1.csv, what was the amount of the 'Salary' deposit received by Victim 1 on March 10, 2024?",
-    "answer": "3500 EUR"
+    "question": "What phone number is provided for contact regarding the account suspension?",
+    "answer": "+212-555-1212"
   },
   {
-    "question": "Based on screenshot_1.txt, what design elements were present on the NovaTrade AI website?",
-    "answer": "Sleek, modern design with charts displaying rapidly increasing values, a 'Deposit Now' button, customer testimonials, and a live chat feature."
+    "question": "What security measure was implemented that lead to a withdrawal request needing further verification?",
+    "answer": "increased security measures"
   },
   {
-    "question": "What is the primary concern highlighted in the 'Findings' section of SAR_3.xml?",
-    "answer": "Unusual transaction patterns involving transfers to accounts registered in Nigeria."
+    "question": "What is the website address mentioned in the promotional material?",
+    "answer": "www.ai-trader.tech"
   },
   {
-    "question": "According to email_4.txt, what reason was given for the request to verify the victim\u2019s account details?",
-    "answer": "To ensure the security of funds due to detected suspicious activity."
+    "question": "What does the website screenshot describe about the profit calculator?",
+    "answer": "promises exorbitant returns with minimal investment"
   }
 ]

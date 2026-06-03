@@ -1,26 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-123</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+<SAR id="SAR-20230805-001">
+  <ReportingInstitution>
+    <Name>Canadian Trust Bank</Name>
+    <Address>123 Main Street, Anytown, ON</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>John Smith</Name>
-    <Account>0000000000000000001234</Account>
+    <Name>Mark Peterson</Name>
+    <Address>456 Oak Avenue, Anytown, ON</Address>
+    <DateOfBirth>1968-07-22</DateOfBirth>
   </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>AlgoTradePro Ltd</DestinationName>
-    <Purpose>Initial Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>8000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>AlgoTradePro Ltd</DestinationName>
-    <Purpose>Additional Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple transactions to a company registered in Lithuania with a high-risk investment strategy.</Findings>
+  <SuspiciousActivity>
+    <Date>2023-08-05</Date>
+    <Type>Unusual Activity</Type>
+    <Description>Multiple cryptocurrency transactions to offshore accounts potentially linked to investment fraud.</Description>
+    <TransactionDetails>
+      <TransactionDate>2023-04-22</TransactionDate>
+      <TransactionAmount currency="USD">10000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <RecipientName>Belizean Investments Ltd.</RecipientName>
+      <RecipientAccount>1234567890</RecipientAccount>
+      <RecipientCountry>Belize</RecipientCountry>
+    </TransactionDetails>
+    <TransactionDetails>
+      <TransactionDate>2023-05-15</TransactionDate>
+      <TransactionAmount currency="USD">5000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <RecipientName>St. Vincent Trading Group</RecipientName>
+      <RecipientAccount>9876543210</RecipientAccount>
+      <RecipientCountry>Saint Vincent and the Grenadines</RecipientCountry>
+    </TransactionDetails>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Possible investment fraud scheme targeting Canadian citizens.</Finding>
+    <Finding>Funds transferred to offshore jurisdictions with limited regulatory oversight.</Finding>
+  </Findings>
 </SAR>

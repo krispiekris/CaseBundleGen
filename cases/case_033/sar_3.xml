@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CYP2024-089</ReportID>
-  <ReportingInstitution>RCB Bank</ReportingInstitution>
-  <Subject>
-    <Name>Algorithmic Edge Solutions</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-10</Date>
-    <Amount>8000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Withdrawal Request</Purpose>
-  </Transaction>
-  <Findings>Large withdrawal request from account linked to suspected fraudulent investment activity.</Findings>
-</SAR>
+<SuspiciousActivityReport>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <CustomerName>Hans Meier</CustomerName>
+  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
+  <TransactionDate>2023-11-01</TransactionDate>
+  <TransactionAmount currency="EUR">0.00</TransactionAmount>
+  <TransactionDescription>Attempted withdrawal - failed</TransactionDescription>
+  <RecipientName>AI FX Capital</RecipientName>
+  <RecipientAccount>1234567890</RecipientAccount>
+  <RecipientBank>Global Finance Ltd.</RecipientBank>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspicionDetails>Customer attempted to withdraw funds, but the transaction failed. Subsequent investigation reveals platform inaccessible and communication with AI FX Capital ceased.  All prior transfers are considered suspicious. </SuspicionDetails>
+  <ReportID>DB-SAR-20231115-003</ReportID>
+</SuspiciousActivityReport>

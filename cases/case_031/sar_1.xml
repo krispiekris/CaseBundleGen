@@ -1,38 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2024-0034</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <DateFiled>2024-01-28</DateFiled>
-  <Subject>
-    <Name>Heinrich Schmidt</Name>
-    <Account>DE87110100012345678901</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>5000</Amount>
+<SAR id="SAR-2023-10-27-001">
+  <ReportingInstitution>
+    <Name>Sparkasse Bank</Name>
+    <Address>München, Germany</Address>
+  </ReportingInstitution>
+  <SuspiciousActivity>
+    <Date>2023-10-27</Date>
+    <Type>Funds Transfer</Type>
+    <Amount>€5000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Unusually large transfer to an offshore account</SuspiciousActivity>
-  </Transaction>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>100</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Profit Distribution</Purpose>
-    <SuspiciousActivity>Small, seemingly legitimate payout</SuspiciousActivity>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB28NWBK00000000001234</DestinationAccount>
-    <DestinationName>Intermediary Account</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-    <SuspiciousActivity>Attempted large withdrawal blocked due to system issues</SuspiciousActivity>
-  </Transaction>
-  <Findings>Potential investment fraud targeting vulnerable individuals. Funds transferred to Belize and UK.</Findings>
+    <OriginatingParty>
+      <Name>Markus Weber</Name>
+      <Address>München, Germany</Address>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>GlobalTech Solutions Ltd</Name>
+      <IBAN>GB29NWBK20200830294159</IBAN>
+      <Country>United Kingdom</Country>
+    </BeneficiaryParty>
+    <Description>Funds transferred to a company in the UK claiming to offer AI trading services. Initial investment by customer.  Potential investment fraud.</Description>
+    <SuspicionIndicators>
+      <Indicator>Unusually high promised returns</Indicator>
+      <Indicator>Investment in a largely unregulated sector</Indicator>
+    </SuspicionIndicators>
+  </SuspiciousActivity>
 </SAR>

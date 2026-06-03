@@ -1,11 +1,14 @@
-From: security@innovai.com
-To: robert.harding@email.com
-Subject: InnovAI Account Verification
+From: withdrawal.request@aiextrading.com
+To: David.Miller@example.com.au
+Subject: Your Withdrawal Request – Processing
 
-Dear Robert,
+Dear David,
 
-To ensure the security of your account, please verify your identity by replying to this email with a copy of your passport or driver's license.
+Thank you for your withdrawal request. Our team is currently processing your request. Please allow 7-10 business days for your funds to be released.
 
-Thank you for your cooperation.
+For faster processing, verify your account by submitting a copy of your government-issued ID.
 
-The InnovAI Security Team
+Sincerely,
+The AI Extra Trading Team
+
+www.aiextrading.com

@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>BS2023-125</ReportID>
-  <ReportingInstitution>Bank Bär</ReportingInstitution>
-  <Subject>
-    <Name>Victim 2</Name>
-    <Account>CH6208700855200100</Account>
-  </Subject>
+<SAR id="SAR-20240120-003">
+  <Header>
+    <DateTime>2024-01-20T09:00:00Z</DateTime>
+    <Originator>Deutsche Bank</Originator>
+  </Header>
   <Transaction>
-    <Date>2023-09-28</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC27004300000000001</DestinationAccount>
-    <DestinationName>QuantumInvest AI</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Amount currency="EUR">15000</Amount>
+    <DateTime>2023-09-01</DateTime>
+    <Description>Transfer to NovaTech Solutions</Description>
+    <Sender>Marc Schneider</Sender>
+    <Receiver>NovaTech Solutions - Cyprus Branch</Receiver>
+    <ReceiverAccount>CY8800200001000000000012345</ReceiverAccount>
   </Transaction>
-  <Findings>Multiple reports of similar activity related to the Seychelles-based QuantumInvest AI. Recipient account subject to further investigation.</Findings>
+  <Findings>
+    <SuspiciousActivity>Reported fraud by client</SuspiciousActivity>
+    <Justification>Client claims inability to withdraw funds and suspects fraudulent activity.</Justification>
+  </Findings>
 </SAR>

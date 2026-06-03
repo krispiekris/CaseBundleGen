@@ -1,6 +1,7 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,Initial Investment,10000,EUR,Nova AI Trading LLC
-2023-12-01,Transaction Fee,-100,EUR,
-2023-12-05,Investment,10000,EUR,Nova AI Trading LLC
-2024-01-08,Withdrawal,2500,EUR,Nova AI Trading LLC
-2024-01-10,Salary,3200,EUR,Company A
+Date,Description,Amount (EUR),IBAN
+2023-11-01,Monthly Salary,5500.00,DE12345678901234567890
+2023-11-10,Grocery Shopping,50.00,DE12345678901234567890
+2023-11-15,Restaurant Dinner,75.00,DE12345678901234567890
+2023-11-22,Wire Transfer, -5000.00,DE12345678901234567890
+2023-11-25,Online Purchase,25.00,DE12345678901234567890
+2023-11-28,Utility Bill Payment,150.00,DE12345678901234567890

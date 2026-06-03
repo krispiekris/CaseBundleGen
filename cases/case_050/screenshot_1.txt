@@ -1,1 +1,0 @@
-Description: Screenshot depicts a user interface of the 'QuantumLeap AI' platform. The screenshot shows a graph chart with a steeply rising line labeled 'Daily Profit'. The Y-axis is labeled 'EUR' and ranges from 0 to 2000. The chart title reads 'Performance Overview'.

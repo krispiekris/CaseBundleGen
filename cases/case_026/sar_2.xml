@@ -1,26 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-456</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>2000</Amount>
+  <Header>
+    <SARReferenceNumber>20231201-002</SARReferenceNumber>
+    <DateFiled>2023-12-01</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
+  </Header>
+  <SuspectTransaction>
+    <TransactionDate>2023-09-12</TransactionDate>
+    <TransactionAmount>250.00</TransactionAmount>
     <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>1000</Amount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderName>NovaTrade Solutions</SenderName>
+    <SenderAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverName>Karl Schmidt</ReceiverName>
+    <ReceiverAccount>DE91370400440532014900</ReceiverAccount>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Investment Return</Description>
+  </SuspectTransaction>
+  <SuspectTransaction>
+    <TransactionDate>2023-09-19</TransactionDate>
+    <TransactionAmount>500.00</TransactionAmount>
     <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-    <Purpose>Reinvestment</Purpose>
-  </Transaction>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderName>NovaTrade Solutions</SenderName>
+    <SenderAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverName>Karl Schmidt</ReceiverName>
+    <ReceiverAccount>DE91370400440532014900</ReceiverAccount>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Investment Return</Description>
+  </SuspectTransaction>
   <Findings>
-    The company receives regular transfers from individuals in Germany. Further investigation is warranted.</Findings>
+    <SuspiciousActivity>Small returns following substantial initial investments.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud.</PotentialFraud>
+  </Findings>
 </SAR>

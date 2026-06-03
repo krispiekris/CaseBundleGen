@@ -1,50 +1,55 @@
 {
-  "case_id": "2024-CN-0078",
+  "case_id": "2024-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
-    "country": "Germany",
+    "income_range": "$75,000 - $100,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Georgia",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Georgian",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Arab Emirates"
+    "Bulgaria",
+    "Vietnam"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact via email"
+      "date": "2023-03-15",
+      "event": "Victim contacts 'AI Trading Pro' through Facebook ad."
     },
     {
-      "date": "2023-09-01",
-      "event": "Victim deposits initial investment"
+      "date": "2023-04-05",
+      "event": "Initial investment of $5,000 made."
     },
     {
-      "date": "2023-11-10",
-      "event": "First withdrawal request made"
+      "date": "2023-05-10",
+      "event": "Victim receives fabricated profits."
     },
     {
-      "date": "2024-01-25",
-      "event": "Victim reports suspicious activity"
+      "date": "2023-06-22",
+      "event": "Victim attempts to withdraw funds, faces obstacles."
+    },
+    {
+      "date": "2023-07-18",
+      "event": "Victim files a complaint with authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "$5,000 - $20,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "Bank Funds",
+      "amount_range": "$5,000 - $10,000"
     }
   ]
 }

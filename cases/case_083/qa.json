@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_3.xml, what is the registered address of Altcoin Global Ltd?",
-    "answer": "A virtual office space."
+    "question": "According to the initial email, what is Alexander Volkov\u2019s title at Innovative AIX?",
+    "answer": "Head of Investor Relations"
   },
   {
-    "question": "What is the purpose stated for the transactions between the victim and Altcoin Global Ltd, as indicated in the SAR files?",
-    "answer": "Investment."
+    "question": "What amount did Robert Miller initially indicate he wanted to invest?",
+    "answer": "$5,000"
   },
   {
-    "question": "Based on email_3.txt, what reason is provided for the delay in processing withdrawal requests?",
-    "answer": "A slight delay in processing withdrawal requests is occurring, and the team is working to resolve it, with possible further verification needed."
+    "question": "What is the SWIFT code associated with the recipient bank for the wire transfer documented in SAR-20230901-001?",
+    "answer": "OCBCCYCY"
   },
   {
-    "question": "According to bank_statement_2.csv, what is the destination of the outgoing transfers from Altcoin Global Ltd?",
-    "answer": "A Seychelles account."
+    "question": "What reason does Innovative AIX provide for pausing withdrawals, as stated in email_3.txt?",
+    "answer": "To protect the investment due to increased market volatility and to recalibrate AI models"
   },
   {
-    "question": "What does the screenshot_1.txt describe regarding the AlgoProfit AI dashboard?",
-    "answer": "The dashboard shows a user account with a balance of \u20ac14,500 and steadily increasing profits."
+    "question": "Based on promotional_material_2.txt, what is one of the promises made by Innovative AIX to potential investors?",
+    "answer": "Transparent Technology"
   },
   {
-    "question": "Which promotional text emphasizes a guarantee of profits from AlgoProfit AI?",
-    "answer": "promotional_2.txt"
+    "question": "What did the screenshot_website.txt reveal about the website's footer?",
+    "answer": "It includes contact information and legal disclaimers, seemingly generic."
   },
   {
-    "question": "What is the email address used by the AlgoProfit AI support team in the email correspondence with the victim?",
-    "answer": "support@algoprofit.fake"
+    "question": "What triggered the denial of the withdrawal request according to SAR-20231015-002?",
+    "answer": "Innovative AIX denied the request without a clear explanation"
   },
   {
-    "question": "How does SAR_2.xml describe the victim's experience with Altcoin Global Ltd?",
-    "answer": "Victim expressed difficulty accessing funds and reported communication issues with the recipient."
+    "question": "Considering all the files, what is a potential red flag regarding Innovative AIX's operation?",
+    "answer": "Lack of transparency regarding investment strategy, offshore bank involvement, and restrictions on withdrawals."
   },
   {
-    "question": "Which file describes the appearance of the AlgoProfit AI dashboard?",
-    "answer": "screenshot_1.txt"
+    "question": "What entity is mentioned in promotional_material_3.txt, in relation to providing personalized service?",
+    "answer": "Innovative AIX"
   },
   {
-    "question": "Based on the bank statement_1.csv, how much did the victim receive in salary on 2023-12-08?",
-    "answer": "3500 EUR"
+    "question": "What type of report did Robert Miller file, as documented in SAR-20231122-003?",
+    "answer": "A formal complaint with regulatory agencies"
   }
 ]

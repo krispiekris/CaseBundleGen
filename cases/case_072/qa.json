@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what was the stated purpose of the initial transfer of $5000 from David Miller's account?",
-    "answer": "Investment"
+    "question": "What is the primary function of AI Trading Solutions, according to its promotional materials?",
+    "answer": "To use proprietary artificial intelligence to identify and capitalize on trading opportunities 24/7."
   },
   {
-    "question": "What is the destination account number used for both transactions described in SAR_1.xml and SAR_2.xml?",
-    "answer": "LT3477770000000000001"
+    "question": "According to the initial welcome email, what does AI Trading Solutions claim to do?",
+    "answer": "Analyze market trends and execute trades with unparalleled precision, generating substantial returns for investors."
   },
   {
-    "question": "What red flag is specifically mentioned in SAR_2.xml regarding the recurring transfers to InnovaTech Solutions?",
-    "answer": "Recurring transfers to the same offshore company, consistent with potential layering of funds"
+    "question": "What is the minimum investment amount required to start using AI Trading Solutions?",
+    "answer": "EUR 500"
   },
   {
-    "question": "Based on email_2.txt, what incentive was offered to David Miller to deposit an additional $7,500?",
-    "answer": "A bonus 10% increase in trading power"
+    "question": "Based on the SAR reports, in which country is the recipient account for the funds transferred to AI Trading Solutions located?",
+    "answer": "Seychelles"
   },
   {
-    "question": "What potential security risk is highlighted in email_4.txt?",
-    "answer": "A request to download and run a remote access application"
+    "question": "What is the total amount Klaus Hartmann transferred to AI Trading Solutions, according to the bank statements?",
+    "answer": "EUR 15000"
   },
   {
-    "question": "According to screenshot_1.txt, what type of information is displayed on the QuantumLeap AI website?",
-    "answer": "Prominent charts displaying purported investment growth and testimonials from 'satisfied clients'"
+    "question": "What reason is provided in the promotional material for individuals to use AI Trading Solutions?",
+    "answer": "To stop trading and start investing."
   },
   {
-    "question": "What is the purpose stated for the transaction recorded in SAR_3.xml involving InnovaTech Solutions and Bulgarian Investment Group?",
-    "answer": "Business Operations"
+    "question": "What specific risk mitigation tools are highlighted in the promotional material for AI Trading Solutions?",
+    "answer": "Sophisticated risk management tools to protect your capital."
   },
   {
-    "question": "According to the bank_statement_2.csv file, what amount was transferred to InnovaTech Solutions on 2024-01-15?",
-    "answer": "$12500"
+    "question": "According to the telegram chat log, what reason did AI Trading Solutions initially provide for the failed withdrawal?",
+    "answer": "There's a temporary technical issue."
   },
   {
-    "question": "What is the stated reason in email_3.txt for a potential delay in David Miller\u2019s withdrawal?",
-    "answer": "A temporary issue with the account's withdrawal processing"
+    "question": "Which entities are involved in the transactions described in the SAR reports?",
+    "answer": "Klaus Hartmann, AI Trading Solutions, Deutsche Bank."
   },
   {
-    "question": "What is the name of the reporting institution in SAR_3.xml?",
-    "answer": "Bank Beta (Bulgaria)"
+    "question": "What is the disclaimer that appears in the welcome email and promotional material?",
+    "answer": "Past performance is not indicative of future results."
   }
 ]

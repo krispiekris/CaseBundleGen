@@ -1,6 +1,12 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-08-10,Incoming Transfer,5000,EUR,
-2023-09-01,Incoming Transfer,10000,EUR,QuantumLeap AI
-2023-10-01,Withdrawal,1000,EUR,
-2023-10-05,Wire Transfer,-10000,EUR,LT12100001110123451
-2023-11-01,Salary,3000,EUR,Company A
+Date,Description,Amount (EUR),Balance (EUR)
+2023-09-30,Opening Balance,,50000
+2023-10-15,Deposit,20000,70000
+2023-11-05,Deposit,20000,90000
+2023-11-10,Trading Fee,-500,89500
+2023-11-15,Trading Profit,12000,101500
+2023-11-20,Trading Fee,-250,101250
+2023-11-25,Trading Profit,3000,104250
+2023-12-05,Trading Fee,-100,104150
+2023-12-10,Trading Profit,4000,108150
+2023-12-20,Withdrawal Request,-18000,90150
+2023-12-31,Closing Balance,,90150

@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CB2023-098</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
+<SAR id="SAR-20231110-002">
+  <Header>
+    <DateTime>2023-11-10T14:15:00Z</DateTime>
+    <Originator>Deutsche Bank</Originator>
+  </Header>
   <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>-500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC27004300000000001</DestinationAccount>
-    <DestinationName>QuantumInvest AI</DestinationName>
-    <Purpose>Withdrawal Attempt Fee</Purpose>
+    <Amount currency="EUR">5000</Amount>
+    <DateTime>2023-11-10</DateTime>
+    <Description>Attempted withdrawal - Rejected</Description>
+    <Sender>Marc Schneider</Sender>
+    <Receiver>Deutsche Bank</Receiver>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
   </Transaction>
-  <Findings>Victim reported difficulty withdrawing funds.  Recipient account flagged for potential fraudulent activity.</Findings>
+  <Findings>
+    <SuspiciousActivity>Blocked withdrawal request - potential issue with account access or funds</SuspiciousActivity>
+    <Justification>Client reported difficulties in withdrawing funds after recent deposits.</Justification>
+  </Findings>
 </SAR>

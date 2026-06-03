@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the account number of Helmut Schmidt?",
-    "answer": "DE87370400440532013838"
+    "question": "What was the initial investment amount Ulrich Baumann made, as stated in email_2.txt?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What is the stated purpose of the transactions from Helmut Schmidt's account to NovaTrade Solutions Ltd, as indicated in sar_1.xml?",
-    "answer": "Investment"
+    "question": "According to sar_1.xml, what is Ulrich Baumann\u2019s date of birth?",
+    "answer": "1968-05-20"
   },
   {
-    "question": "Based on promotional_1.txt, what incentive is offered to new users of NovaTrade AI?",
-    "answer": "A bonus 20% on their first deposit"
+    "question": "Which bank is identified as the reporting institution in the SAR files?",
+    "answer": "Sparkasse Bank"
   },
   {
-    "question": "What does email_2.txt indicate about Helmut Schmidt\u2019s account access?",
-    "answer": "It has been temporarily restricted"
+    "question": "What reason is cited in sar_1.xml for the suspicious activity related to Ulrich Baumann\u2019s transaction?",
+    "answer": "Potential investment fraud - unusually high promised returns"
   },
   {
-    "question": "According to sar_3.xml, where is NovaTrade Solutions Ltd located?",
-    "answer": "St. Vincent and the Grenadines"
+    "question": "What event triggered Ulrich Baumann's account restrictions, as documented in sar_3.xml?",
+    "answer": "Customer filed a fraud complaint regarding unauthorized investment scheme"
   },
   {
-    "question": "What unusual activity triggered a security alert, as described in email_3.txt?",
-    "answer": "An unusual login attempt"
+    "question": "Based on the bank_statement_1.csv, what was the total amount of 'Profit Payouts' Ulrich Baumann received before 2024?",
+    "answer": "+2200.00"
   },
   {
-    "question": "What is the date of the transaction recorded in sar_2.xml, and what is its purpose?",
-    "answer": "2024-01-10; Withdrawal"
+    "question": "What is the purpose of the link sent to Ulrich Baumann in email_3.txt?",
+    "answer": "To complete verification of his identity and investment details."
   },
   {
-    "question": "What is the connection between Helmut Schmidt\u2019s account and the Bank of St. Vincent and the Grenadines, as described in sar_3.xml?",
-    "answer": "Funds originating from Germany were routed through the shell company in St. Vincent and the Grenadines"
+    "question": "According to promotional_material_2.txt, what technology is AI Trading Pro supposedly utilizing?",
+    "answer": "Advanced algorithms and machine learning"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the NovaTrade website\u2019s design?",
-    "answer": "It features a sleek, modern design with a dark blue and white color scheme, a prominent graph displaying simulated trading profits, testimonials, and a 'Deposit Now' button."
+    "question": "What potential security concern is highlighted in the disclaimer on the screenshot_platform_1.txt?",
+    "answer": "Past performance is not indicative of future results"
   },
   {
-    "question": "According to the bank_statement_2.csv, who received a wire transfer of 2000 EUR?",
-    "answer": "Unknown"
+    "question": "Which entity is listed as the recipient of Ulrich Baumann's initial investment in sar_1.xml?",
+    "answer": "Global Investments Ltd."
   }
 ]

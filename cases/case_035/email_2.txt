@@ -1,15 +1,12 @@
-From: NovaTrade Support <support@novatrade.fake>
-To: helmut.schmidt@email.de
-Subject: Important Notice Regarding Your Account
+From: ulrich.baumann@email.de
+To: automated.alerts@ai-tradingpro.com
+Subject: Webinar Confirmation and Initial Investment
 
-Dear Helmut,
+Dear AI Trading Pro Team,
 
-Due to ongoing security enhancements, your account access has been temporarily restricted. To verify your identity and reactivate your account, please transfer €500 to the following account:
+Thank you for the invitation. I attended the webinar and am very interested in joining your platform. I would like to make an initial investment of €5,000.
 
-Bank: Royal Bank of Belize
-Account Number: 1234567890
-
-Thank you for your cooperation.
+Please let me know the next steps.
 
 Sincerely,
-The NovaTrade Support Team
+Ulrich Baumann

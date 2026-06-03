@@ -1,33 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>VC2024-789</ReportID>
-  <ReportingInstitution>Correspondent Bank, Saint Vincent and the Grenadines</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG471000000000000000001</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG471000000000000000욜</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-15</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG471000000000000000욜</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from multiple accounts with vague investment purposes. Account activity warrants further investigation.</Findings>
+  <Header>
+    <ReportDate>2024-01-21</ReportDate>
+    <SuspiciousActivity>
+      <Type>Funds Transfer</Type>
+      <Description>Large funds transferred to an account in the United Arab Emirates.</Description>
+    </SuspiciousActivity>
+  </Header>
+  <Parties>
+    <Sender>
+      <Name>Global Forex Solutions</Name>
+      <Country>Nigeria</Country>
+    </Sender>
+    <Receiver>
+      <Name>Abdullah Al-Maktoum</Name>
+      <Country>United Arab Emirates</Country>
+    </Receiver>
+  </Parties>
+  <Transactions>
+    <Transaction>
+      <Date>2023-12-20</Date>
+      <Amount>40000 EUR</Amount>
+      <Currency>EUR</Currency>
+      <Description>Funds Transfer</Description>
+    </Transaction>
+  </Transactions>
+  <Findings>
+    <Finding>Suspicious transfer of funds to a foreign account.</Finding>
+  </Findings>
 </SAR>

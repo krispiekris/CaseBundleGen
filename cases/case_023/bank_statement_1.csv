@@ -1,6 +1,8 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-20,Online Payment,-1200,EUR,QuantumAlgo
-2023-12-01,Wire Transfer,-2000,EUR,Sterling Concepts Ltd
-2024-01-10,Wire Transfer,-5000,EUR,Sterling Concepts Ltd
-2024-01-15,Transaction Fee,-50,EUR,
-2024-02-05,Withdrawal Request,7000,EUR,
+Date,Description,Amount (EUR),IBAN
+2023-08-28,Grocery Store, -50.00,DE89370400440532013000
+2023-08-29,Restaurant Dinner, -75.00,DE89370400440532013000
+2023-09-01,AI Elite Trading, 5000.00,BE98363636363636
+2023-09-05,Monthly Rent, -1200.00,DE89370400440532013000
+2023-09-10,Online Shopping, -100.00,DE89370400440532013000
+2023-09-15,AI Elite Trading, 10000.00,BE98363636363636
+2023-09-20,Utilities, -200.00,DE89370400440532013000

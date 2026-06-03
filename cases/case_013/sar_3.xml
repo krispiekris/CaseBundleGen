@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>CY2024-456</ReportID>
-  <ReportingInstitution>Bank Gamma (Intermediary)</ReportingInstitution>
-  <Subject>
-    <Name>Unknown</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BG800015000000000000000000</DestinationAccount>
-    <DestinationName>Bank Gamma</DestinationName>
-    <Purpose>Payment to QuantumLeap AI Ltd</Purpose>
-  </Transaction>
-  <Findings>Funds received from an account in Australia being transferred to an intermediary account in Bulgaria, subsequently directed to QuantumLeap AI Ltd.</Findings>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>5555555555</TransactionID>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <Amount>0.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Information</TransactionType>
+      <OriginatingParty>
+        <Name>Klaus Breitling</Name>
+        <Address>Musterstraße 1, 90408 Nürnberg, Germany</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>Profit Horizon Ltd</Name>
+      </Beneficiary>
+      <Description>Police report filed regarding suspicious investment activity</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Customer reports potential investment fraud.  Account flagged for investigation.</Finding>
+  </Findings>
 </SAR>

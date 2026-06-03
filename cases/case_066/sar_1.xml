@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2023-125</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Weber</Name>
-    <Account>DE87370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-01-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>VC1702610002</DestinationAccount>
-    <DestinationName>QuantumLeap Solutions Ltd</DestinationName>
-    <Purpose>Investment in AI Trading Platform</Purpose>
-  </Transaction>
-  <Findings>
-    The transaction is flagged due to the unusual destination and the lack of a clear business relationship with the beneficiary. The beneficiary is registered in the Saint Vincent and the Grenadines, a known tax haven.
-  </Findings>
+  <ReportDate>2023-10-12</ReportDate>
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-10-11</TransactionDate>
+      <TransactionAmount>7500.00</TransactionAmount>
+      <Currency>USD</Currency>
+      <TransactionType>Wire Transfer</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>123 Main Street, Sydney, NSW, 2000, Australia</Address>
+        <AccountID>XXXXXXXXXXXXXX</AccountID>
+      </OriginatingParty>
+      <BeneficiaryParty>
+        <Name>Global Investments LTD</Name>
+        <Country>Cyprus</Country>
+        <AccountID>YYYYYYYYYYYYY</AccountID>
+        <BankName>Horizon Bank</BankName>
+        <SwiftCode>HORIBANK</SwiftCode>
+      </BeneficiaryParty>
+      <Description>Wire transfer to Global Investments LTD</Description>
+    </Transaction>
+    <SuspicionSummary>Funds transferred to an overseas entity with limited public information.  Potential for investment fraud.  Recipient matches a known entity associated with fraudulent investment schemes.</SuspicionSummary>
+    <ReportingPerson>John Smith</ReportingPerson>
+    <Position>Suspicion Monitoring Officer</Position>
+  </SuspiciousActivity>
 </SAR>

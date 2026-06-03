@@ -1,12 +1,14 @@
-From: support@novaaitrading.fake
-To: victim1@email.com
-Subject: Limited-Time Offer: Double Your Investment!
+From: AI Trading Expert <expert@athena-trading.com>
+To: michael.weber@email.de
+Subject: Your Athena Portfolio is Soaring!
 
-Dear [Victim 1],
+Dear Michael,
 
-To help you get started with Nova AI Trading, we're offering a limited-time opportunity to double your initial investment!  Deposit now and watch your wealth grow.
+Your Athena portfolio is performing exceptionally well! As you can see, the AI is consistently generating profits.
 
-Don't miss out – this offer expires soon!
+To maximize your returns, consider adding another €2,000 to your account. This will allow Athena to capitalize on even more opportunities.
+
+[Link to deposit page]
 
 Best regards,
-The Nova AI Trading Support Team
+Your AI Trading Expert

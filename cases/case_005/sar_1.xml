@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-123</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Heinrich Schmidt</Name>
-    <Account>DE89370400440532013500</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-20</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>FinTech Solutions Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial investment made by customer to what appears to be an AI trading platform. Account activity is unusual given customer's profile.</Findings>
+  <ReportDate>2023-12-10</ReportDate>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <TransactionDate>2023-12-05</TransactionDate>
+  <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+  <TransactionType>Credit</TransactionType>
+  <SenderAccount>DE23740501010101010101</SenderAccount>
+  <ReceiverAccount>US9876543210</ReceiverAccount>
+  <ReceiverName>Global Digital Assets LLC</ReceiverName>
+  <ReceiverCountry>United States</ReceiverCountry>
+  <SuspicionReason>Unusual volume of transfers to overseas accounts with a focus on cryptocurrency platforms.</SuspicionReason>
+  <Notes>Customer reported initiating transfers, but the rationale is unclear. Investigate further.</Notes>
 </SAR>

@@ -1,26 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>AUS2024-0078</ReportID>
-  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
-  <Subject>
-    <Name>David Miller</Name>
-    <Account>0621234567890123</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <SuspiciousActivity>
+      <Description>Potential Investment Fraud - AI Trading Scam</Description>
+    </SuspiciousActivity>
+  </Header>
   <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-09-02</TransactionDate>
+    <Amount>2500.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GB16NWBK20300058749000</DestinationAccount>
-    <DestinationName>AlphaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <SenderName>Karl Heinrich</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>Innovative Investments Ltd.</ReceiverName>
+    <ReceiverAccount>GBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <PurposeCode>1000</PurposeCode>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>2500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB16NWBK20300058749000</DestinationAccount>
-    <DestinationName>AlphaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Suspicious transaction pattern involving cryptocurrency investment with potential Ponzi scheme characteristics. Destination account registered in the UK, but potential links to Nigeria.</Findings>
+  <Parties>
+    <Party>
+      <Name>Karl Heinrich</Name>
+      <Address>Musterstraße 123, 12345 Musterstadt, Germany</Address>
+    </Party>
+    <Party>
+      <Name>Innovative Investments Ltd.</Name>
+      <Jurisdiction>United Kingdom</Jurisdiction>
+    </Party>
+  </Parties>
+  <Findings>
+    <Finding>Unusual transaction amount and recipient. Further investigation recommended.</Finding>
+  </Findings>
 </SAR>

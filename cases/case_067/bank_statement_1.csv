@@ -1,5 +1,8 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,Transfer to Altcoin Global Ltd,-1000,EUR,Altcoin Global Ltd
-2023-12-01,Transfer to Altcoin Global Ltd,-2000,EUR,Altcoin Global Ltd
-2024-01-10,Transfer to Altcoin Global Ltd,-1500,EUR,Altcoin Global Ltd
-2024-02-28,Withdrawal Attempt,-2000,EUR,
+Date,Description,Amount (EUR),IBAN
+2023-08-31,-30000,00,DE12345678901234567890
+2023-09-01,Deposit,30000.00,DE12345678901234567890
+2023-09-05,Transfer to GFS,15000.00,DE12345678901234567890
+2023-09-15,Transfer to GFS,15000.00,DE12345678901234567890
+2023-10-01,Interest,100.00,DE12345678901234567890
+2023-11-10,Withdrawal Request,,-DE12345678901234567890
+2023-11-15,Transfer to GFS,2000.00,DE12345678901234567890

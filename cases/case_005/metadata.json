@@ -1,10 +1,10 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-08-23-CYB-0042",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -17,39 +17,39 @@
     ]
   },
   "destination_countries": [
-    "Lithuania",
-    "Saint Vincent and the Grenadines"
+    "Romania",
+    "Bulgaria"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumLeap AI' via online advertisement."
+      "event": "Victim contacts AI trading platform via Facebook ad."
     },
     {
-      "date": "2024-01-20",
-      "event": "Initial investment of \u20ac2,000 made by victim."
+      "date": "2023-12-05",
+      "event": "Initial deposit made."
     },
     {
-      "date": "2024-03-10",
-      "event": "Victim withdraws \u20ac500, experiencing a 'small' profit."
+      "date": "2024-01-10",
+      "event": "Victim experiences fabricated profits."
     },
     {
-      "date": "2024-04-15",
-      "event": "Victim attempts to withdraw remaining funds, met with resistance and requests for 'fees'."
+      "date": "2024-02-28",
+      "event": "Victim attempts withdrawal; request denied."
     },
     {
-      "date": "2024-05-01",
-      "event": "Victim files a complaint with local authorities."
+      "date": "2024-03-15",
+      "event": "Victim reports fraud to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac2,000 - \u20ac5,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.01 - 0.03"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac3,000 - \u20ac7,000"
     }
   ]
 }

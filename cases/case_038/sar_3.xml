@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>CY2024-03-10</ReportID>
-  <ReportingInstitution>RCB Bank Ltd (Cyprus)</ReportingInstitution>
-  <Subject>
-    <Name>QuantumLeap AI Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount>2500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>AE1234567890</DestinationAccount>
-    <DestinationName>Unknown Recipient</DestinationName>
-    <Purpose>Transfer</Purpose>
-  </Transaction>
-  <Findings>Funds originating from the UK linked to suspected investment fraud being transferred to accounts in the UAE.</Findings>
-  <ReportDate>2024-03-10</ReportDate>
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>TXN-90123</TransactionID>
+      <TransactionDate>2024-01-05</TransactionDate>
+      <TransactionAmount currency="EUR">100</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Klaus Schmidt</Name>
+        <AccountID>DE1234567890</AccountID>
+        <Country>Germany</Country>
+      </OriginatingParty>
+      <BeneficiaryParty>
+        <Name>AI Trading Solutions</Name>
+        <AccountID>US9876543210</AccountID>
+        <Country>United States</Country>
+      </BeneficiaryParty>
+      <Description>Attempted withdrawal denied by AI Trading Solutions</Description>
+    </Transaction>
+    <SuspiciousIndicators>
+      <Indicator>Customer reports difficulty accessing funds</Indicator>
+      <Indicator>Unusual activity consistent with potential fraud</Indicator>
+    </SuspiciousIndicators>
+  </SuspiciousActivity>
 </SAR>

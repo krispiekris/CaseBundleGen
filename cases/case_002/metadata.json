@@ -1,59 +1,55 @@
 {
-  "case_id": "CR2024-078",
+  "case_id": "2024-03-15-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "75000-100000",
-    "country": "United Kingdom",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Serbia",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Serbian",
-      "Russian"
+      "Pidgin English",
+      "Yoruba"
     ]
   },
   "destination_countries": [
-    "Serbia",
+    "Seychelles",
     "Belize"
   ],
   "timeline": [
     {
+      "date": "2023-09-10",
+      "event": "Victim contacts automated trading platform via Facebook ad."
+    },
+    {
       "date": "2023-09-15",
-      "event": "Victim contacts 'QuantumLeap AI'"
+      "event": "Initial deposit of \u20ac5,000 made by victim."
     },
     {
       "date": "2023-10-01",
-      "event": "Initial deposit made"
+      "event": "First 'profit withdrawal' of \u20ac1,000 made."
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim requests full withdrawal of remaining funds."
     },
     {
       "date": "2023-11-15",
-      "event": "First alleged profit withdrawal"
-    },
-    {
-      "date": "2024-01-20",
-      "event": "Victim requests full withdrawal"
-    },
-    {
-      "date": "2024-02-01",
-      "event": "Withdrawal request denied, pressured to deposit more"
-    },
-    {
-      "date": "2024-02-15",
-      "event": "Victim reports fraud"
+      "event": "Victim realizes funds are unavailable and reports the incident."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "15000-25000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac10,000 - \u20ac15,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1-0.3"
+      "type": "Bank Funds (EUR)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

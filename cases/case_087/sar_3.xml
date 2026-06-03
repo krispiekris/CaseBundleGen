@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2023-312</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Petar Jovanovski</Name>
-    <Account>DE1234567890</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>1200</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>MK00000000000001</DestinationAccount>
-    <DestinationName>Skopje Crypto Exchange</DestinationName>
-    <Purpose>Investment Profit</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from suspected investment fraud activities. Potential money laundering.</Findings>
+  <CaseID>2023-SAR-125</CaseID>
+  <Date>2023-09-12</Date>
+  <BankName>Island Trust Bank</BankName>
+  <BankLocation>Majuro, Marshall Islands</BankLocation>
+  <AccountName>Marshall Islands Holding Company</AccountName>
+  <AccountNum>5555555555</AccountNum>
+  <SuspiciousActivity>Receiving funds from a Forex brokerage, no apparent business activity.</SuspiciousActivity>
+  <TransactionDetails>
+    <Transaction1>
+      <Date>2023-07-22</Date>
+      <Amount>35000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Transfer from Global Finance International</Description>
+      <Sender>Global Finance International</Sender>
+    </Transaction1>
+  </TransactionDetails>
+  <Findings>Potential involvement in investment fraud scheme.</Findings>
+  <ReportingBankOfficer>Lani K.</ReportingBankOfficer>
 </SAR>

@@ -1,12 +1,10 @@
-From: NovaAI Trading Platform <support@novaaitrading.fake>
-To: helmut.schmidt@email.de
-Subject: Important: Maximize Your NovaAI Trading Platform Returns
+From: ulrich.baumann@example.de
+To: support@ai-profit-solutions.com
+Subject: Withdrawal Issue
 
-Dear Helmut,
+Dear Support,
 
-To fully leverage the power of NovaAI, we recommend increasing your investment.  Our AI predicts significant market movements in the coming weeks, offering a unique opportunity for substantial gains.
+I am having trouble withdrawing my funds. I completed the withdrawal process as instructed but have not received the money. Can you please investigate this issue?
 
-Deposit now and unlock your full earning potential!
-
-Best Regards,
-NovaAI Support
+Thank you,
+Ulrich Baumann

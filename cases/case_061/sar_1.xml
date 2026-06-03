@@ -1,28 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-012</ReportID>
-  <ReportingInstitution>Bank ABC</ReportingInstitution>
-  <DateReported>2024-03-01</DateReported>
+<SAR id="SAR-20230901-001">
+  <ReportingInstitution>
+    <Name>First National Bank of Canada</Name>
+    <Address>123 Main Street, Anytown, ON</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
+    <Name>David Miller</Name>
+    <Address>456 Oak Avenue, Anytown, ON</Address>
+    <DateOfBirth>1972-01-15</DateOfBirth>
   </Subject>
-  <Transaction>
-    <Date>2023-10-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>KE17210001110123451</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Initial Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>KE17210001110123451</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment Top-up</Purpose>
-  </Transaction>
-  <Findings>Suspicious activity – potential investment fraud. Transfers to offshore account with unusual naming convention. Victim shows signs of pressure to invest.</Findings>
-  <Reporter>John Smith, AML Officer</Reporter>
+  <SuspiciousActivity>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="CAD">5000.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Wire transfer to Connect Innovations</Description>
+    <BeneficiaryName>Connect Innovations</BeneficiaryName>
+    <BeneficiaryAccount>1234567890</BeneficiaryAccount>
+    <BeneficiaryBank>International Trust Bank</BeneficiaryBank>
+    <BeneficiaryCountry>Belize</BeneficiaryCountry>
+  </SuspiciousActivity>
+  <Findings>
+    <SuspicionReason>Unusual wire transfer to offshore account with limited transparency</SuspicionReason>
+    <ReportingPerson>Jane Doe</ReportingPerson>
+    <ReportingDate>2023-09-02</ReportingDate>
+  </Findings>
 </SAR>

@@ -1,12 +1,17 @@
-From: support@quantumleaptrader.net
-To: helmut.weber@email.de
-Subject: Welcome to QuantumLeap AI Trader!
+From: automated@ai-tradingprofits.com
+To: david.miller@example.com.au
+Subject: Welcome to AI Trading Profits - Your Automated Journey Begins!
 
-Dear Helmut,
+Dear David,
 
-Welcome to the QuantumLeap AI Trader community! We're thrilled to have you on board.
+Welcome aboard AI Trading Profits! We're thrilled to have you join our exclusive community of investors leveraging the power of our cutting-edge AI trading algorithms. 
 
-Get ready to experience the future of investing. Our AI algorithms are working hard to maximize your profits.
+Your account has been successfully created and is ready to begin generating profits.  Please review the attached introductory guide for detailed instructions on navigating the platform and maximizing your returns.
+
+Our AI consistently outperforms the market, delivering an average of 15-30% monthly returns.  Remember, this is an opportunity to achieve financial freedom – don't miss out!
 
 Best regards,
-The QuantumLeap Team
+
+The AI Trading Profits Team
+
+[Attachment: AI_Trading_Profits_Intro_Guide.pdf]

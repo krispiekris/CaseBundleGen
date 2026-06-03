@@ -1,0 +1,16 @@
+Klaus Schmidt: Hallo! Ich bin auf Ihre Anzeige auf LinkedIn gestoßen.
+Investor_AI: Hello Klaus! Welcome. I'm glad you're interested in our AI trading platform.
+Klaus Schmidt: Was für eine Anzeige?
+Investor_AI: It was about high-yield investment opportunities using AI. It’s revolutionary!
+Klaus Schmidt: Klingt interessant. Was ist der Mindestbetrag?
+Investor_AI: Minimum is €5000. We manage everything for you.
+Klaus Schmidt: Was sind die erwarteten Renditen?
+Investor_AI: With our AI, returns are typically 15-20% per month.
+Klaus Schmidt: Das klingt zu gut um wahr zu sein.
+Investor_AI: It’s the power of AI Klaus. Many of our clients are seeing incredible results.
+Klaus Schmidt: Ok, ich bin interessiert. Wie kann ich das Geld einzahlen?
+Investor_AI: I'll send you the details shortly.
+Klaus Schmidt: Danke.
+Investor_AI: You won’t regret this Klaus.
+Investor_AI: Here's the account details: [Bank Details - Fictional Nigerian Bank]
+Klaus Schmidt: Alles klar, ich überweise das Geld.

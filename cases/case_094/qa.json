@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the initial purpose of the first transaction from Victim 1's account?",
-    "answer": "Initial Investment"
+    "question": "What type of activity was initially flagged by the Bank of Australia regarding David Miller's transactions?",
+    "answer": "Unusual Transaction Pattern"
   },
   {
-    "question": "Based on bank_statement_2.csv, to which entity did Golden Dragon Investments transfer funds?",
-    "answer": "Victim 1"
+    "question": "According to the promotional material, what is the primary benefit of using AI Trading Solutions?",
+    "answer": "To earn passive income while focusing on other matters."
   },
   {
-    "question": "What does the screenshot_1.txt indicate about the QuantumAI Solutions website?",
-    "answer": "The website features a clean, modern design with prominent visuals of charts and graphs and displays testimonials from alleged satisfied investors."
+    "question": "In what country is the recipient bank (Atlantic Bank) located, as indicated in the SAR reports?",
+    "answer": "Belize"
   },
   {
-    "question": "sar_3.xml mentions a transaction involving Altcoin Global Ltd. To what account did these funds get transferred?",
-    "answer": "BZ001234567890"
+    "question": "What was the total amount of money David Miller transferred to Global Investments Ltd across the two transactions detailed in the SAR?",
+    "answer": "20000"
   },
   {
-    "question": "What information does email_3.txt request from the victim?",
-    "answer": "Full Name, Date of Birth, and a Copy of Government-Issued ID"
+    "question": "What action did AI Trading Solutions request from David Miller after he requested a withdrawal?",
+    "answer": "A copy of his government-issued identification"
   },
   {
-    "question": "What is the main concern raised in sar_4.xml regarding Golden Dragon Investments?",
-    "answer": "The destination of the funds is unclear."
+    "question": "Based on the screenshot description, what is displayed on the trading platform\u2019s interface regarding profit generation?",
+    "answer": "AI Profit Generator Active - Current Profit: +12.5%"
   },
   {
-    "question": "According to the brochure_1.txt, what is one of the key features of QuantumAI Solutions' trading platform?",
-    "answer": "AI-Powered Trading"
+    "question": "What is the main concern raised by the Australian Financial Authority regarding AI Trading Solutions in SAR_3?",
+    "answer": "Suspected of operating an investment fraud scheme targeting individuals with promises of high returns through AI trading."
   },
   {
-    "question": "What is the reporting institution for the SAR detailing Altcoin Global Ltd\u2019s transactions?",
-    "answer": "Bank of Belize"
+    "question": "Which of the following entities are mentioned in at least one email? Select all that apply: David Miller, Atlantic Bank, Global Investments Ltd, Australian Financial Authority.",
+    "answer": "David Miller, Global Investments Ltd"
   },
   {
-    "question": "In email_2.txt, what reason is provided for the limited-time opportunity?",
-    "answer": "To celebrate our recent successes"
+    "question": "What is the time zone associated with the AI Trading Solutions platform as indicated by the screenshot?",
+    "answer": "Georgia (UTC+4)"
   },
   {
-    "question": "What is the destination account mentioned in sar_3.xml for Altcoin Global Ltd\u2019s transaction?",
-    "answer": "HK123456789012"
+    "question": "According to promotional material 2, what is the level of expertise behind AI trading solutions?",
+    "answer": "A team of expert financial engineers"
   }
 ]

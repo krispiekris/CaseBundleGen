@@ -22,27 +22,39 @@ QUESTION-ANSWER GENERATION RULES:
 - Questions must cover different aspects of the case.
 - Questions must NOT be trivial or obvious.
 
+QUESTION TYPES:
+Generate a mix of:
+1. Deterministic questions with exact answers
+2. Reasoning questions that require interpretation, aggregation, or partial information
+
+For reasoning questions:
+- Answers should still be grounded in the data
+- Prefer structured outputs (e.g., "Entity A, Entity B") when multiple answers exist
+
 QUESTION DESIGN GUIDELINES:
 - Questions about cross-file relationships (e.g., entities appearing in different files).
 - Questions about transaction details (amounts, recipients, dates).
 - Questions about timeline events.
 - Questions about case's entities characteristics mentioned in files.
 - Questions that require reading and connecting multiple files.
+- Questions MUST NOT reference or expect as an answer file names, file types, or specific document identifiers (e.g., "email", "bank statement", "SAR report", ".txt", etc.).
+- Questions should refer ONLY to the information itself (entities, transactions, events, relationships).
 
 ANSWER REQUIREMENTS:
 - Each answer must be concise and factually correct.
 - Each answer must be directly supported by the generated data.
 - Answers must NOT introduce new information not in the case files.
 - If no answer exists in the files, the answer should be "None" or "Not mentioned in the case files".
+- Each answer must be easily evaluated for correctness using exact match. If needed, specify the exact format of the answer.
 
 GOOD QUESTION-ANSWER EXAMPLES:
   - Q: "Which companies are mentioned both in narrative files (emails or promotional text) and in the bank statements?"
     A: "Entity" or "None" if no matches.
   - Q: "Who is the recipient of the highest‑value transaction recorded in the bank statements?"
     A: "Entity" or "None" if no matches.
-  - Q: "When did the victim first attempt withdrawal?"
-    A: "Date" or "None" if no matches.
-  - Q: "What company received the largest transfer?"
+  - Q: "When did the victim first attempt withdrawal? Reply with a date in dd-mm-YYYY format, e.g., "25-08-2026."
+    A: "14-02-2024".
+  - Q: "Which entity or entities could be associated with unusually high-value transactions compared to others?"
     A: "Entity" or "None" if no matches.
   - Q: "Is there any entity mentioned in narrative files (email, promo text, image description) that does not appear in the bank statements or the SAR?"
     A: "Entity" or "None" if no matches.

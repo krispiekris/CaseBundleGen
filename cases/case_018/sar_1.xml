@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>ALL2024-005</ReportID>
-  <ReportingInstitution>Bank Allianz</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-10-23</ReportDate>
+    <InstitutionID>Royal Bank of Canada</InstitutionID>
+    <Currency>CAD</Currency>
+  </Header>
   <Transaction>
-    <Date>2023-11-18</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>CY7301230000000012345678</DestinationAccount>
-    <DestinationName>QuantumLeap AI Management Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2023-09-15</TransactionDate>
+    <TransactionAmount>5000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingAccount>Richard Boudreau - [Account Number Redacted]</OriginatingAccount>
+    <BeneficiaryAccount>AI Trading Pro - [Account Number Redacted]</BeneficiaryAccount>
+    <BeneficiaryName>AI Trading Pro</BeneficiaryName>
+    <BeneficiaryCountry>Serbia</BeneficiaryCountry>
+    <Description>Online Funds Transfer</Description>
+    <SuspiciousActivity>Possible Investment Fraud - AI Trading</SuspiciousActivity>
   </Transaction>
+  <Party>
+    <Name>Richard Boudreau</Name>
+    <Address>[Redacted]</Address>
+    <DateOfBirth>[Redacted]</DateOfBirth>
+  </Party>
   <Findings>
-    <Finding>Unusual large transaction to an offshore company with no clear purpose.</Finding>
-    <Finding>Victim has limited investment experience.</Finding>
+    The transaction to 'AI Trading Pro' in Serbia is flagged due to lack of transparency and potential investment fraud. Further investigation is recommended.
   </Findings>
 </SAR>

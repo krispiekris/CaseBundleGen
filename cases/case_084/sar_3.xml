@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>SC2024-789</ReportID>
-  <ReportingInstitution>First Global Bank (Seychelles)</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
+  <Header>
+    <ReportDate>2024-01-10</ReportDate>
+    <InstitutionIdentifier>Barclays</InstitutionIdentifier>
+  </Header>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC000000123456789</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Unknown</Purpose>
+    <TransactionDate>2024-01-05</TransactionDate>
+    <TransactionAmount currency="EUR">15000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Sender>NovaTech AI Platform</Sender>
+    <Receiver>Hans Meier</Receiver>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+    <Description>Withdrawal request denied</Description>
+    <SuspiciousActivity>Withdrawal request denial followed by insistent communication from platform.</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>SC000000123456789</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Unknown</Purpose>
-  </Transaction>
-  <Findings>Receiving funds from transfers originating in Germany. Account holder unresponsive to inquiries.</Findings>
 </SAR>

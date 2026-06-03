@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-456</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-12-01</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceID>SAR-20231201-002</ReferenceID>
+  </Header>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-11-25</TransactionDate>
+    <Amount>5000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>GB26NWBK000000000012345</DestinationAccount>
-    <DestinationName>Sterling Global Finance</DestinationName>
-    <Purpose>Withdrawal request - Denied</Purpose>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Forex Alpha Ltd.</ReceiverName>
+    <ReceiverAccount>BZ12345678901234567890</ReceiverAccount>
+    <Description>Additional Investment</Description>
+    <SuspiciousActivity>Potential Investment Fraud</SuspiciousActivity>
+    <Notes>Customer transferred an additional 5000 EUR to Forex Alpha Ltd. Customer inquired about increasing his investment amount. Further investigation is warranted.</Notes>
   </Transaction>
-  <Findings>Client requested withdrawal which was denied due to account inactivity and suspicious transaction patterns.</Findings>
 </SAR>

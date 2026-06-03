@@ -1,6 +1,7 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-20,Salary,3500,EUR,Company B
-2023-12-01,Transfer to InnovAI, -2000,EUR,InnovAI Solutions Ltd
-2024-01-15,Transfer to InnovAI, -3000,EUR,InnovAI Solutions Ltd
-2024-02-18,Transfer to InnovAI, -5000,EUR,InnovAI Solutions Ltd
-2024-03-02,Transfer to SecureTrust International, -500,EUR,SecureTrust International
+Date,Description,Amount (EUR),Recipient IBAN
+2024-01-12,Investment Crypto Innovations, -5000.00,X789012345
+2024-02-01,Outgoing Expenses, -200.00,
+2024-02-08,Investment Crypto Innovations, -5000.00,X789012345
+2024-02-15,Outgoing Expenses, -150.00,
+2024-02-22,Investment Crypto Innovations, -5000.00,X789012345
+2024-02-29,Outgoing Expenses, -300.00,

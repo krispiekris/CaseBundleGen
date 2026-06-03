@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>GBR2024-002</ReportID>
-  <ReportingInstitution>HSBC (UK)</ReportingInstitution>
+<SAR id="SAR-20230610-002">
+  <Date>2023-06-10</Date>
+  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Address>Mainzer Landstr. 197, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Victim 1</Name>
-    <Account>GB22HSBC10000000000000</Account>
+    <Name>Karl Meier</Name>
+    <Address>Musterstraße 10, 12345 Berlin, Germany</Address>
+    <DateOfBirth>1968-07-20</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2023-09-05</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2023-06-10</Date>
+    <Amount currency="EUR">15000.00</Amount>
+    <Type>Wire Transfer</Type>
+    <Description>Wire transfer to Global Capital Group</Description>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <ReceiverAccount>BZxxxxxxxxxxxxx</ReceiverAccount>
+    <ReceiverName>Global Capital Group Ltd.</ReceiverName>
+    <ReceiverJurisdiction>Belize</ReceiverJurisdiction>
   </Transaction>
-  <Findings>Funds received from Deutsche Bank, exhibiting patterns consistent with investment fraud.</Findings>
+  <Findings>
+    <SuspiciousActivity>Second unusually large wire transfer to an offshore company. Increased investment without independent verification. Transaction warrants further investigation.</SuspiciousActivity>
+  </Findings>
 </SAR>

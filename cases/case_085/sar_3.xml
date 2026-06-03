@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>MT2024-015</ReportID>
-  <ReportingInstitution>MoneySwift Transfer Service</ReportingInstitution>
-  <Subject>
-    <Name>John Smith</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <SARReference>20230915-GER-003</SARReference>
+    <DateTime>2023-09-15T09:30:00Z</DateTime>
+    <Bank>
+      <Name>Deutsche Bank</Name>
+      <Identifier>DEIN00000000</Identifier>
+    </Bank>
+  </Header>
   <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount>3000</Amount>
+    <TransactionID>TXN-20230720-002</TransactionID>
+    <TransactionDateTime>2023-07-20T10:05:00Z</TransactionDateTime>
+    <Amount currency="EUR">0.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Withdrawal Attempt</Purpose>
+    <Sender>
+      <Name>Klaus Mueller</Name>
+      <Account>DE12345678901234567890</Account>
+    </Sender>
+    <Receiver>
+      <Name>QuantumTrade Ltd.</Name>
+      <Account>MU12345678901234567890</Account>
+      <Jurisdiction>Marshall Islands</Jurisdiction>
+    </Receiver>
+    <PurposeCode>Verification Requirement</PurposeCode>
+    <Description>Verification process</Description>
+    <SuspiciousActivity>Possible Investment Fraud - Verification request after initial withdrawal request.</SuspiciousActivity>
   </Transaction>
-  <Findings>Recipient reported experiencing difficulty withdrawing funds from NovaTrade AI. Transaction flagged for potential investment fraud.</Findings>
 </SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR from Sparkasse M\u00fcnchen, what was the purpose of the initial transaction from Hans Schmidt to NovaTrade AI?",
-    "answer": "Investment"
+    "question": "What was the initial investment amount deposited by David Miller on November 10th, according to the SAR report?",
+    "answer": "50000 AUD"
   },
   {
-    "question": "What is the destination account used for all transactions involving Hans Schmidt and NovaTrade AI?",
-    "answer": "BZ1200000000001234567"
+    "question": "What type of incentive was offered to new members through a promotional material?",
+    "answer": "Double your investment with our exclusive AI Boost package"
   },
   {
-    "question": "What subject line was used in the email attempting to encourage Hans Schmidt to deposit more funds?",
-    "answer": "Increase Your NovaTrade AI Profits!"
+    "question": "What initial action did the AI Trading Pro team ask David Miller to perform after welcoming him?",
+    "answer": "Please withdraw it [the initial profit] to confirm everything is working."
   },
   {
-    "question": "What reason did NovaTrade AI give for the delay in processing Hans Schmidt\u2019s withdrawal request?",
-    "answer": "Experiencing a high volume of withdrawal requests"
+    "question": "According to the screenshot, what was the approximate balance displayed on David Miller\u2019s AI Trading Pro dashboard?",
+    "answer": "55000 AUD"
   },
   {
-    "question": "According to the screenshot, what is prominently displayed on the NovaTrade AI dashboard to encourage users to add funds?",
-    "answer": "A large button reads 'Deposit Funds' prominently"
+    "question": "What did the email from Agent_001 request from David Miller regarding security verification?",
+    "answer": "A copy of his passport"
   },
   {
-    "question": "Which international bank is associated with GlobalTech Solutions Ltd.?",
-    "answer": "Belize International Bank"
+    "question": "What was the amount requested by 'AI Trading Pro Team' to resolve technical issues with David\u2019s withdrawal?",
+    "answer": "1000 AUD"
   },
   {
-    "question": "What is the purpose indicated in the SAR from Belize International Bank for the transactions involving GlobalTech Solutions Ltd. and NovaTrade AI?",
-    "answer": "Investment"
+    "question": "Which Nigerian bank was mentioned as the recipient account in the email regarding the technical difficulties?",
+    "answer": "Zenith Bank Nigeria"
   },
   {
-    "question": "What potential concern did the initial SAR from Sparkasse M\u00fcnchen raise regarding the transfers to NovaTrade AI?",
-    "answer": "Potential investment scheme"
+    "question": "Based on the SAR reports, what finding linked the initial profit withdrawal to a potentially deceptive scheme?",
+    "answer": "Initial profit withdrawal shortly after account creation, potentially indicative of a 'honeypot' scheme."
   },
   {
-    "question": "What is the purpose of the email that was detected as unusual and attempted to verify Hans Schmidt's account details?",
-    "answer": "Account Verification Required"
+    "question": "What is the subject of the email containing a request for identity verification?",
+    "answer": "Important Update Regarding Your AI Trading Pro Account"
   },
   {
-    "question": "Based on the file contents, which entity received a payment of 4500 EUR from Hans Schmidt?",
-    "answer": "NovaTrade AI"
+    "question": "What is the purpose of the automated trading system, according to the promotional material?",
+    "answer": "To generate consistent profits, even while you sleep!"
   }
 ]

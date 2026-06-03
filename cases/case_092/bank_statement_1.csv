@@ -1,4 +1,5 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-08-10,Salary,25000,CZK,Company A
-2023-08-20,Transfer,5000,EUR,Altcoin Global Ltd
-2023-11-10,Transfer,1500,EUR,Altcoin Global Ltd
+Date,Description,Amount (EUR),IBAN
+2023-08-20,Incoming transfer,1000.00,DE89370400440532013000
+2023-09-01,Transfer to AI Global Trading,5000.00,DE89370400440532013000
+2023-09-15,Grocery shopping, -50.00,DE89370400440532013000
+2023-10-05,Online purchase, -200.00,DE89370400440532013000

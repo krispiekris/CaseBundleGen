@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what initial concern was raised regarding the destination account?",
-    "answer": "Concerns were raised due to the origin of the receiving account in Belize."
+    "question": "What was the initial investment amount made by Andreas Schmidt?",
+    "answer": "\u20ac8,000"
   },
   {
-    "question": "What is the purpose listed for the 2024-01-05 transaction in sar_2.xml?",
-    "answer": "Investment"
+    "question": "According to the SAR, what was the primary reason for suspicion regarding the initial transaction?",
+    "answer": "Potential Investment Fraud - Unsolicited Contact"
   },
   {
-    "question": "Based on bank_statement_1.csv, what was the source of Helmut Schmidt's initial funds?",
-    "answer": "Salary"
+    "question": "What date did Andreas Schmidt first attempt to withdraw his funds?",
+    "answer": "November 18, 2023"
   },
   {
-    "question": "What does the brochure_1.txt highlight as a benefit of using AlphaTrade AI?",
-    "answer": "AI-Powered Trading: Let our algorithms do the work."
+    "question": "What was the stated purpose of the \u20ac300 transaction originating from Andreas Schmidt's account?",
+    "answer": "Verification Fee"
   },
   {
-    "question": "What does email_3.txt state is the reason for a potential delay in withdrawal processing?",
-    "answer": "A slightly higher-than-usual volume of withdrawal requests."
+    "question": "Based on the website description, what design elements are commonly used on the AI Trade Solutions website?",
+    "answer": "A sleek, modern design with a predominantly blue and white color scheme, stock images of smiling individuals, and a dynamically updating graph."
   },
   {
-    "question": "In sar_3.xml, what is the purpose listed for the transfer from AlphaTrade Investments Ltd to Helmut Schmidt on 2023-10-01?",
-    "answer": "Investment"
+    "question": "What excuse did Daniel Okoro give for the delay in Andreas Schmidt's withdrawal request in email_3?",
+    "answer": "Unexpected system maintenance"
   },
   {
-    "question": "According to screenshot_1.txt, what type of information is readily available to users on the AlphaTrade AI website?",
-    "answer": "A prominent graph showing simulated trading performance with consistently upward trends."
+    "question": "What activity triggered the NWBK Fraud Department to send an email to Andreas Schmidt?",
+    "answer": "Unusual activity on his account"
   },
   {
-    "question": "What is the nature of the email sent to Helmut Schmidt in email_4.txt?",
-    "answer": "An important security alert, prompting the user to verify their identity."
+    "question": "What type of communication did Andreas Schmidt initially receive regarding AI Trade Solutions?",
+    "answer": "Unsolicited communication"
   },
   {
-    "question": "What does sar_2.xml indicate about the connection to the Belizean company?",
-    "answer": "Further investigation revealed connection to Belizean company with questionable regulatory status."
+    "question": "Besides Andreas Schmidt, which other entities are present in both SAR-20231123-001 and SAR-20231124-002?",
+    "answer": "AI Trade Solutions"
   },
   {
-    "question": "Which entity is mentioned in sar_3.xml as potentially being linked to investment fraud?",
-    "answer": "AlphaTrade Investments Ltd"
+    "question": "According to promotional_material_1, what is the claim made about the AI trading system?",
+    "answer": "It generates consistent profits with zero risk."
   }
 ]

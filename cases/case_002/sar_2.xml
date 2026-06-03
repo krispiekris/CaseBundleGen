@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>WISE2024-012</ReportID>
-  <ReportingInstitution>Wise</ReportingInstitution>
-  <DateFiled>2024-02-25</DateFiled>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Transfer flagged due to destination being associated with potentially fraudulent investment schemes.</Findings>
-</SAR>
+<sar>
+  <report>
+    <report_date>2023-11-20</report_date>
+    <institution_name>Deutsche Bank</institution_name>
+    <reporter_name>Compliance Officer</reporter_name>
+    <suspicious_activity>
+      <activity_date>2023-11-01</activity_date>
+      <transaction_amount currency="EUR">1000</transaction_amount>
+      <transaction_type>Credit</transaction_type>
+      <account_number>DExxxxxxxxxxxxxxxxxxxx</account_number>
+      <payer_name>Innovative AIX</payer_name>
+      <payer_address>Belize</payer_address>
+      <recipient_name>Hans Meier</recipient_name>
+      <recipient_account>DExxxxxxxxxxxxxxxxxxxx</recipient_account>
+      <recipient_country>Germany</recipient_country>
+      <description>Withdrawal of profits</description>
+      <findings>Potential investment fraud - withdrawal of small amount before full withdrawal attempt.</findings>
+    </suspicious_activity>
+  </report>
+</sar>

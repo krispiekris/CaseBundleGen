@@ -1,13 +1,10 @@
-From: QuantumAlgo <support@quantumalgo.fake>
-To: helmut.schmidt@email.de
-Subject: Maximise Your QuantumAlgo Returns!
+From: Klaus Richter <klaus.richter@email.de>
+To: "AI Trading Solutions" <support@aitradingsolutions.com>
+Subject: Account Setup & Initial Deposit
 
-Dear Helmut,
+Dear Support,
 
-Your recent investment is performing exceptionally well! To further accelerate your profits, we recommend adding another €2,500 to your account.
+I've recently signed up for your platform and would like to make my initial deposit of €2,500. Please confirm receipt and provide instructions for the next steps.
 
-Don't miss out on this opportunity to amplify your success! 
-
-Sincerely,
-QuantumAlgo Support Team
-www.quantumalgo.fake
+Thank you,
+Klaus Richter

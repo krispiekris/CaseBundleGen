@@ -1,25 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-0112</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>Sterling Concepts Ltd</Name>
-  </Subject>
+  <Header>
+    <ReportDate>2023-10-03</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReportID>SAR-2023-00512</ReportID>
+  </Header>
   <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>2000</Amount>
+    <TransactionDate>2023-09-15</TransactionDate>
+    <Amount>10000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>IM0000012345</DestinationAccount>
-    <DestinationName>Marshall Islands Holding Co.</DestinationName>
-    <Purpose>Transfer to holding company</Purpose>
+    <TransactionType>Credit</TransactionType>
+    <SenderAccount>DE89370400440532013000</SenderAccount>
+    <ReceiverAccount>BE98363636363636</ReceiverAccount>
+    <Description>Incoming transfer - AI Elite Trading</Description>
+    <SuspiciousActivity>Potential investment fraud - unsolicited contact, high yield promise, increasing deposit amounts</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>IM0000012345</DestinationAccount>
-    <DestinationName>Marshall Islands Holding Co.</DestinationName>
-    <Purpose>Transfer to holding company</Purpose>
-  </Transaction>
-  <Findings>Funds received from German bank with unusual transaction patterns. Transfer to an entity in the Marshall Islands raises concerns.</Findings>
+  <Parties>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Account>DE89370400440532013000</Account>
+    </Sender>
+    <Receiver>
+      <Name>AI Elite Trading</Name>
+      <Account>BE98363636363636</Account>
+      <Country>Belgium</Country>
+    </Receiver>
+  </Parties>
 </SAR>

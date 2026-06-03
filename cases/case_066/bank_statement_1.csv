@@ -1,6 +1,11 @@
-Date,Description,Amount,Currency,Beneficiary
-2022-11-18,Transfer Out,-200,EUR,Grocery Store
-2023-01-15,Transfer Out,-5000,EUR,QuantumLeap Solutions Ltd
-2023-02-10,Salary,3500,EUR,Company B
-2023-02-14,Transfer Out,-500,EUR,QuantumLeap Solutions Ltd
-2023-03-01,ATM Withdrawal,-100,EUR,
+Date,Description,Amount (USD),Balance (USD)
+2023-08-10,Salary,10000,95000
+2023-08-25,Utilities,500,-90000
+2023-09-01,Wire Transfer to Global Investments LTD, -5000,-95000
+2023-09-05,Interest,50,-94950
+2023-09-15,Grocery,200,-94750
+2023-09-22,Wire Transfer to Global Investments LTD, -2500,-92250
+2023-10-03,Interest,50,-92200
+2023-10-11,Wire Transfer to Global Investments LTD, -7500,-84700
+2023-10-20,Interest,50,-84650
+2023-10-27,Grocery,200,-84450

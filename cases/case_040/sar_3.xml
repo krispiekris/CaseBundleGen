@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>BZ2024-9012</ReportID>
-  <ReportingInstitution>Atlantic Bank Belize</ReportingInstitution>
-  <Subject>
-    <Name>AutomatedTradePro Ltd</Name>
-    <Account>BZ000123456</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-03-10</ReportDate>
+    <ReportID>SAR-20240310-003</ReportID>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE1211000034000123456789</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionDate>2024-02-28</TransactionDate>
+    <TransactionAmount currency="EUR">0.00</TransactionAmount>
+    <SenderName>Aix Capital Limited</SenderName>
+    <SenderAccount>GB86 NWBK 9000 0000 1234 5678</ReceiverAccount>
+    <ReceiverName>Ulrich Baumann</ReceiverName>
+    <ReceiverAccount>DE12345678901234567890</SenderAccount>
+    <Description>Attempted Withdrawal - Processing Delay</Description>
+    <SuspiciousActivity>Possible fraudulent activity - withdrawal delayed indefinitely</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GB59NWBK00000000001234</DestinationAccount>
-    <DestinationName>Payment Processor</DestinationName>
-    <Purpose>Withdrawal Processing Fee</Purpose>
-  </Transaction>
-  <Findings>Unusual transaction activity, potential investment fraud.</Findings>
 </SAR>

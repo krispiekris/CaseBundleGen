@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>IE2024-0045</ReportID>
-  <ReportingInstitution>Bank of Ireland</ReportingInstitution>
-  <Subject>
-    <Name>Another Victim</Name>
-    <Account>IE35BOFI99999999999999</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-10-04</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReportID>SAR-2023-00515</ReportID>
+  </Header>
   <Transaction>
-    <Date>2023-11-28</Date>
-    <Amount>1500</Amount>
+    <TransactionDate>2023-10-01</TransactionDate>
+    <Amount>-10000</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>NG7608994297687209818898</DestinationAccount>
-    <DestinationName>Sterling Concepts Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>BE98363636363636</SenderAccount>
+    <ReceiverAccount>DE89370400440532013000</ReceiverAccount>
+    <Description>Withdrawal attempt - AI Elite Trading</Description>
+    <SuspiciousActivity>Potential investment fraud - withdrawal unsuccessful, lack of communication from receiver</SuspiciousActivity>
   </Transaction>
-  <Findings>Similar transaction patterns observed in another account.  Potential coordinated investment fraud.  Cross-reporting recommended.</Findings>
+  <Parties>
+    <Sender>
+      <Name>AI Elite Trading</Name>
+      <Account>BE98363636363636</Account>
+      <Country>Belgium</Country>
+    </Sender>
+    <Receiver>
+      <Name>Hans Meier</Name>
+      <Account>DE89370400440532013000</Account>
+    </Receiver>
+  </Parties>
 </SAR>

@@ -1,26 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>FIN2024-050</ReportID>
-  <ReportingInstitution>Luminos Bank (Lithuania)</ReportingInstitution>
-  <Subject>
-    <Name>NovaTrade AI</Name>
-    <Account>LT12100001110123451</Account>
-  </Subject>
+  <Header>
+    <SARReference>20230915-GER-002</SARReference>
+    <DateTime>2023-09-15T09:00:00Z</DateTime>
+    <Bank>
+      <Name>Deutsche Bank</Name>
+      <Identifier>DEIN00000000</Identifier>
+    </Bank>
+  </Header>
   <Transaction>
-    <Date>2023-09-05</Date>
-    <Amount>5000</Amount>
-    <Currency>AUD</Currency>
-    <SourceAccount>06300000000000000000</SourceAccount>
-    <SourceName>Commonwealth Bank (Australia)</SourceName>
-    <Purpose>Deposit from John Smith</Purpose>
+    <TransactionID>TXN-20230510-001</TransactionID>
+    <TransactionDateTime>2023-05-10T14:48:00Z</TransactionDateTime>
+    <Amount currency="EUR">250.00</Amount>
+    <Currency>EUR</Currency>
+    <Sender>
+      <Name>QuantumTrade Ltd.</Name>
+      <Account>MU12345678901234567890</Account>
+      <Jurisdiction>Marshall Islands</Jurisdiction>
+    </Sender>
+    <Receiver>
+      <Name>Klaus Mueller</Name>
+      <Account>DE12345678901234567890</Account>
+    </Receiver>
+    <PurposeCode>2020</PurposeCode>
+    <Description>Profit Payout - AI Trading</Description>
+    <SuspiciousActivity>Possible Investment Fraud - Unsolicited contact, high-pressure sales tactics, promised unrealistic returns.</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2023-10-15</Date>
-    <Amount>2000</Amount>
-    <Currency>AUD</Currency>
-    <SourceAccount>06300000000000000000</SourceAccount>
-    <SourceName>Commonwealth Bank (Australia)</SourceName>
-    <Purpose>Deposit from John Smith</Purpose>
-  </Transaction>
-  <Findings>Funds received from Australia associated with potential investment fraud scheme targeting vulnerable individuals. Further investigation recommended.</Findings>
 </SAR>

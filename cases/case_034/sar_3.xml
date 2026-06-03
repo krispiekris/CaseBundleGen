@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>LT2024-789</ReportID>
-  <ReportingInstitution>Swedbank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>LT12100001110123451</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-18</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE89370400440532013500</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
-    <Finding>Large influx of funds from Germany. Account showing signs of being used for fraudulent activity.</Finding>
-  </Transaction>
+  <CaseID>20240110-003</CaseID>
+  <DateFiled>2024-01-10</DateFiled>
+  <BankName>Deutsche Bank</BankName>
+  <BranchID>DB-MU-005</BranchID>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>TXN-90123</TransactionID>
+      <TransactionDate>2023-11-22</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>USD</Currency>
+      <SenderAccount>DE45300100000000000000</SenderAccount>
+      <SenderName>Karl Heinz</SenderName>
+      <ReceiverAccount>0078901234</ReceiverAccount>
+      <ReceiverName>James Oluwafemi</ReceiverName>
+      <ReceiverBank>Sterling Bank</ReceiverBank>
+      <ReceiverCountry>Nigeria</ReceiverCountry>
+      <Description>Security Clearance Fee</Description>
+    </Transaction>
+    <Transaction>
+      <TransactionID>TXN-45678</TransactionID>
+      <TransactionDate>2023-12-05</TransactionDate>
+      <Amount>2000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderAccount>DE45300100000000000000</SenderAccount>
+      <SenderName>Karl Heinz</SenderName>
+      <ReceiverAccount>0078901234</ReceiverAccount>
+      <ReceiverName>James Oluwafemi</ReceiverName>
+      <ReceiverBank>Sterling Bank</ReceiverBank>
+      <ReceiverCountry>Nigeria</ReceiverCountry>
+      <Description>Further Security Clearance</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Multiple transactions to same recipient account with suspicious descriptions.  Potential indication of fraud. Customer has reported concerns about the legitimacy of the recipient.</Finding>
+  </Findings>
+  <ReportingBankEmployee>Anna Schmidt</ReportingBankEmployee>
 </SAR>

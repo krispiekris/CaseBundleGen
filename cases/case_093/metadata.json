@@ -1,5 +1,5 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-07-27-Alpha-001",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -9,42 +9,47 @@
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Kingdom"
+    "Seychelles",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumTrade AI'"
+      "event": "Victim contacts AI trading platform via Facebook ad."
     },
     {
-      "date": "2024-01-05",
-      "event": "Initial deposit made by victim"
+      "date": "2023-12-05",
+      "event": "Initial deposit made by victim."
     },
     {
-      "date": "2024-03-20",
-      "event": "Victim attempts to withdraw funds, denied"
+      "date": "2024-01-10",
+      "event": "Victim encouraged to deposit more funds."
     },
     {
-      "date": "2024-04-10",
-      "event": "Victim files a report with the local authorities"
+      "date": "2024-02-28",
+      "event": "Victim attempts to withdraw funds \u2013 request denied."
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Victim files a complaint with authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac12,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.5 - 1.0 BTC"
+      "type": "Bank Transfers (EUR)",
+      "amount_range": "\u20ac2,000 - \u20ac8,000"
     }
   ]
 }

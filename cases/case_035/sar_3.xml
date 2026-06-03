@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>VC2024-00876</ReportID>
-  <ReportingInstitution>Bank of St. Vincent and the Grenadines</ReportingInstitution>
+<SAR id="SAR-20240305-003">
+  <ReportingInstitution>
+    <Name>Sparkasse Bank</Name>
+    <Address>München, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>NovaTrade Solutions Ltd</Name>
-    <Account>VC0000000000000000100</Account>
+    <Name>Ulrich Baumann</Name>
+    <Address>Munich, Germany</Address>
+    <DateOfBirth>1968-05-20</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2024-02-22</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE87370400440532013838</DestinationAccount>
-    <DestinationName>Helmut Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Date>2024-03-01</Date>
+    <Amount currency="EUR">0.00</Amount>
+    <Description>Complaint Filed - Account Restricted</Description>
+    <Recipient>
+      <Name>Sparkasse Bank</Name>
+      <IBAN>DE89370400440532015000</IBAN>
+    </Recipient>
+    <SuspiciousActivity>Customer filed a fraud complaint regarding unauthorized investment scheme; account restricted</SuspiciousActivity>
   </Transaction>
-  <Findings>Funds originating from Germany routed through shell company in St. Vincent and the Grenadines. Potential money laundering related to investment fraud.</Findings>
 </SAR>

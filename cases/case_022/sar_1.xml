@@ -1,29 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-1057</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Heinrich Schmidt</Name>
-    <Account>DE8711000070070012345678</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-03-05</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ74000000000000000000</DestinationAccount>
-    <DestinationName>AutomatedWealth AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-20</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ74000000000000000000</DestinationAccount>
-    <DestinationName>AutomatedWealth AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Multiple transfers to an offshore company with a high-pressure sales tactic associated with AI trading platform.</Findings>
-    <Recommendation>Further investigation recommended. Potential investment fraud.</Recommendation>
-  </Findings>
-</SAR>
+<sar>
+  <report_date>2023-12-07</report_date>
+  <report_type>Suspicious Activity Report</report_type>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer>
+    <customer_id>1234567</customer_id>
+    <customer_name>Klaus Schmidt</customer_name>
+  </reporting_institution>
+  <transaction>
+    <transaction_date>2023-12-05</transaction_date>
+    <transaction_amount currency="EUR">6000.00</transaction_amount>
+    <transaction_type>Credit</transaction_type>
+    <description>Transfer from Klaus Schmidt to AI Trading Pro</description>
+    <recipient>
+      <name>AI Trading Pro</name>
+      <account_number>CY001234567890</account_number>
+      <bank_name>Alpha Beta Bank (Cyprus)</bank_name>
+    </recipient>
+  </transaction>
+  <findings>
+    <finding>Unusual large deposit for a new account.</finding>
+  </findings>
+</sar>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the Suspicious Activity Report (SAR) filed by Deutsche Bank?",
-    "answer": "DE2024-1234"
+    "question": "According to the SAR report, what was the initial unusual characteristic detected regarding David Miller's transaction?",
+    "answer": "Unusual transaction amount for customer profile. Requires further investigation."
   },
   {
-    "question": "According to the promotional material, what does AlphaTrade AI guarantee?",
-    "answer": "Daily returns on investments"
+    "question": "What country is associated with the recipient bank, Offshore Global Bank?",
+    "answer": "Belize"
   },
   {
-    "question": "What is the purpose of the transfers from Hans Schmidt's account to AlphaTrade Solutions Ltd, as stated in the SAR filed by Deutsche Bank?",
-    "answer": "Investment"
+    "question": "What was the approximate percentage increase in David Miller's portfolio, as claimed in email_2.txt?",
+    "answer": "12.5%"
   },
   {
-    "question": "What bonus was offered to users who deposited additional funds within 24 hours, according to email_2.txt?",
-    "answer": "A special bonus of 5% on their deposit"
+    "question": "Based on the bank statements, what was the total amount David Miller transferred to AI Prosper Investments Ltd?",
+    "answer": "7500.00"
   },
   {
-    "question": "What is the account number used by Hans Schmidt?",
-    "answer": "DE89370400440532013000"
+    "question": "What action was taken regarding David Miller's withdrawal request, according to sar_2.xml?",
+    "answer": "Withdrawal request denied by AI Prosper. Customer reported inability to access funds."
   },
   {
-    "question": "What is the Destination Account where AlphaTrade Solutions Ltd transfers funds to, as per the SAR filed by Atlantic Bank Belize?",
-    "answer": "KY1234567890"
+    "question": "What entities are named as the recipient of funds in the transaction records?",
+    "answer": "AI Prosper Investments Ltd"
   },
   {
-    "question": "Based on sar_3.xml, what is notable about the destination account linked to Global Investments Ltd?",
-    "answer": "It is difficult to trace"
+    "question": "What other currencies, if any, are explicitly mentioned in the case files?",
+    "answer": "None"
   },
   {
-    "question": "What is the web address advertised in the promotional material for AlphaTrade AI?",
-    "answer": "www.alphatrade-ai.biz"
+    "question": "What potential fraudulent activities are highlighted in SAR-20230525-003?",
+    "answer": "Multiple transfers to offshore accounts in Belize and Seychelles. Potential involvement of cryptocurrency transactions."
   },
   {
-    "question": "According to the email from AlphaTrade AI Support, what is the initial deposit amount from Hans Schmidt?",
-    "answer": "\u20ac5000"
+    "question": "According to the promotional text, what is one of the key benefits offered by AI Prosper to investors?",
+    "answer": "Passive Income"
   },
   {
-    "question": "What is the purpose of the transactions recorded in sar_3.xml?",
-    "answer": "Investment"
+    "question": "Which entities are mentioned in the email from the fraud department?",
+    "answer": "Global Bank Fraud Department, AI Prosper Investments Ltd"
   }
 ]

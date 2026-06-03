@@ -1,26 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2023-09-22-001</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>NovaTech AI</DestinationName>
-    <Purpose>Initial Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-09-20</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>NovaTech AI</DestinationName>
-    <Purpose>Additional Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual activity. Large initial investment followed by smaller subsequent deposits. Destination account located in Belize.</Findings>
+  <Header>
+    <ReportDate>2023-03-15</ReportDate>
+    <InstitutionID>First National Bank</InstitutionID>
+    <SuspiciousActivity>
+      <TransactionDate>2023-01-20</TransactionDate>
+      <TransactionAmount>5000.00</TransactionAmount>
+      <Currency>USD</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>123 Main Street, Anytown, USA</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>AIX Capital</Name>
+        <AccountID>XXXXXXXXXXXXXX</AccountID>
+        <Country>Belize</Country>
+      </Beneficiary>
+      <Description>Initial investment to AI Trading Platform</Description>
+      <SuspicionReason>Unusual investment destination and lack of transparency regarding the platform's operations.</SuspicionReason>
+    </SuspiciousActivity>
+  </Header>
 </SAR>

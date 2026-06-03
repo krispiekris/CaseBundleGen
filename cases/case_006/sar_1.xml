@@ -1,34 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-03-15-001</ReportID>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-09-05</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-22</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-10-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Profit Distribution</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment Withdrawal Request (Denied)</Purpose>
-  </Transaction>
-  <Findings>Suspicious large transaction to offshore company with unclear purpose.  Multiple transactions consistent with investment fraud.</Findings>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <SenderName>Klaus Richter</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxxxxxxxxxxx</RecipientAccount>
+      <Description>Initial investment to AI Trading Solutions platform</Description>
+      <SuspiciousIndicators>
+        <Indicator>Unusual investment destination</Indicator>
+        <Indicator>High transaction amount for individual</Indicator>
+      </SuspiciousIndicators>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingEmployee>Jane Doe</ReportingEmployee>
 </SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what activity was initially flagged as unusual?",
-    "answer": "Unusual investment activity."
+    "question": "What is the primary method used by Crypto Innovations to attract investors, as indicated in the promotional materials?",
+    "answer": "Highlighting high-yield returns and an AI-powered trading system."
   },
   {
-    "question": "What was the stated purpose of the transactions to InnovAI Solutions Ltd, as indicated in the SAR files?",
-    "answer": "Investment."
+    "question": "According to the SAR reports, what is the customer's address?",
+    "answer": "Musterstrasse 1, 10115 Berlin"
   },
   {
-    "question": "Based on bank_statement_2.csv, what was the date of the transfer to SecureTrust International?",
-    "answer": "2024-03-02"
+    "question": "What was the initial investment amount made by Hans Baumann in November 2023, as shown in the bank statement?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What is the main message conveyed in email_2.txt?",
-    "answer": "Encouraging the customer to invest an additional \u20ac5,000 with a 10% bonus."
+    "question": "Based on the Telegram conversation, what unrealistic promise was initially made to Hans Baumann regarding daily profit?",
+    "answer": "A 15% daily profit"
   },
   {
-    "question": "Which account number is consistently used as the destination account for transfers to InnovAI Solutions Ltd and SecureTrust International?",
-    "answer": "BZ12010100010102030405"
+    "question": "What are the two file types that contain promotional materials for Crypto Innovations?",
+    "answer": "Email and text files"
   },
   {
-    "question": "What potential action is offered by the legal recovery firm in email_4.txt?",
-    "answer": "Reclaiming funds lost due to the InnovAI platform."
+    "question": "What is the stated reason for the investment in Crypto Innovations according to the description field in the SAR?",
+    "answer": "Investment in Crypto Innovations"
   },
   {
-    "question": "What does the screenshot_1.txt indicate regarding potential returns on the InnovAI platform?",
-    "answer": "Up to 25% monthly returns possible!"
+    "question": "How does the website screenshot describe the platform's design?",
+    "answer": "Modern, sleek design with a dark blue and white color scheme."
   },
   {
-    "question": "According to SAR_3.xml, which demographic group is potentially targeted by the investment fraud?",
-    "answer": "Elderly individuals."
+    "question": "Which entity's name appears as the recipient in all the suspicious activity entries in the SAR reports?",
+    "answer": "Crypto Innovations"
   },
   {
-    "question": "Based on the provided files, what does the reporting institution in SAR_3.xml represent?",
-    "answer": "Anonymous Tip"
+    "question": "What was the purpose of the email sent from Chidi Okeke to Hans Baumann in February 2024?",
+    "answer": "To encourage Hans Baumann to make an additional investment."
   },
   {
-    "question": "What action did the customer attempt to perform that triggered a notification in SAR_2.xml?",
-    "answer": "Attempted withdrawal failed."
+    "question": "What change in Hans Baumann\u2019s sentiment is indicated in the Telegram conversation?",
+    "answer": "He expressed concerns regarding investment returns and doubts about the legitimacy of the scheme."
   }
 ]

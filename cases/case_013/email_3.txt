@@ -1,14 +1,14 @@
-From: QuantumLeapAI@securetrading.net
-To: victim1@email.com
-Subject: Urgent Action Required - Account Alert!
+From: accounts@profit-horizon.com
+To: klaus.breitling@email.de
+Subject: Account Closure Notification
 
-Dear [Victim Name],
+Dear Klaus,
 
-We've detected unusual activity on your account. To prevent unauthorized access and potential losses, we require immediate verification.
+Due to recent regulatory changes and a review of our customer accounts, we regret to inform you that your Profit Horizon account has been temporarily suspended pending further verification.
 
-Deposit an additional 1000 EUR within the next 24 hours to confirm your identity and unlock your funds.
+Please provide the requested documentation within 72 hours to avoid permanent account closure.
 
-Failure to comply may result in account suspension.
+[https://profit-horizon.com/verification]
 
 Sincerely,
-The QuantumLeap AI Support Team
+The Profit Horizon Accounts Team

@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>UAE2024-012</ReportID>
-  <ReportingInstitution>Abu Dhabi Commercial Bank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-28</Date>
-    <Amount>6000</Amount>
-    <Currency>EUR</Currency>
-    <OriginAccount>GR1601101250000000012310695</OriginAccount>
-    <OriginName>Victim 1</OriginName>
-    <DestinationAccount>NG591455010392285342079</DestinationAccount>
-  </Transaction>
-  <Findings>Receiving funds from UK account. High volume of incoming transactions. Potential money laundering.</Findings>
-</SAR>
+<sar>
+  <header>
+    <sar_id>SAR-20240115-002</sar_id>
+    <submission_date>2024-01-15</submission_date>
+    <reporter_institution>Commonwealth Bank of Australia</reporter_institution>
+  </header>
+  <transaction>
+    <transaction_id>TXN-20231201-001</transaction_id>
+    <transaction_date>2023-12-01</transaction_date>
+    <amount>10000.00</amount>
+    <currency>USD</currency>
+    <transaction_type>Debit</transaction_type>
+    <description>Withdrawal Attempt Denied</description>
+    <originating_party>
+      <name>David Miller</name>
+      <account_number>123456789</account_number>
+      <country>AU</country>
+    </originating_party>
+    <beneficiary_party>
+      <name>AI Trading Pro Ltd</name>
+      <account_number>987654321</account_number>
+      <country>AE</country>
+    </beneficiary_party>
+    <suspicious_activity>Victim attempting to withdraw funds; transaction flagged as potentially fraudulent.</suspicious_activity>
+  </transaction>
+</sar>

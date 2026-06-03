@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>MH2024-03-10-001</ReportID>
-  <ReportingInstitution>Marshall Islands Bank</ReportingInstitution>
-  <Subject>
-    <Name>Shell Company Ltd</Name>
-    <Account>001-000001-000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>7500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG7408201446350311</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Funds Transfer</Purpose>
-  </Transaction>
-  <Findings>Receiving substantial funds from a UK shell company, potential money laundering activity.</Findings>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sar_schema.xsd">
+  <CaseID>2023-08-25-003</CaseID>
+  <BankName>First National Bank</BankName>
+  <BankLocation>Anytown, USA</BankLocation>
+  <Currency>USD</Currency>
+  <TransactionDate>2023-08-18</TransactionDate>
+  <TransactionAmount>500.00</TransactionAmount>
+  <SenderName>Richard Henderson</SenderName>
+  <SenderAccount>XXXXXXX1234</SenderAccount>
+  <RecipientName>AI-Trade Solutions</RecipientName>
+  <RecipientAccount>YYYYYYYY5678</RecipientAccount>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspiciousActivity>Attempted withdrawal of funds delayed; company unresponsive to inquiries.</SuspiciousActivity>
+  <ReportingOfficer>Jane Doe</ReportingOfficer>
+  <ReportingDate>2023-10-03</ReportingDate>
 </SAR>

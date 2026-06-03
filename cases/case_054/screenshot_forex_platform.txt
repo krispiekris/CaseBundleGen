@@ -1,0 +1,1 @@
+The screenshot shows a trading platform with a graph displaying fluctuating currency values. Several open positions are listed, including EUR/USD and GBP/JPY. The account balance is displayed as €13,975.00.  There is a prominent 'Withdraw Funds' button.

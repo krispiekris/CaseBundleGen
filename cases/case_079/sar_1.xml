@@ -1,36 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2023-456</ReportID>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-05</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <DateOfReport>2023-04-05</DateOfReport>
-  <Subject>
-    <Name>Hans Müller</Name>
-    <Account>DE87370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2022-12-01</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-01-10</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-02-15</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual transfer patterns to a company registered in Lithuania, potentially involved in investment fraud. Victim reported difficulty withdrawing funds.</Findings>
-  <ReportType>Suspicious Transaction Report</ReportType>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-15</TransactionDate>
+      <Amount>2500.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Hans Meier</Name>
+        <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>SecurePay Solutions</Name>
+        <Account>1234567890</Account>
+        <Bank>Zenith Bank</Bank>
+        <Country>Nigeria</Country>
+      </Beneficiary>
+      <Description>Initial investment to AI Trading Platform</Description>
+    </Transaction>
+    <Findings>
+      <SuspiciousIndicator>Unusual transfer destination (Nigeria)</SuspiciousIndicator>
+      <SuspiciousIndicator>Large initial investment by a potentially vulnerable individual</SuspiciousIndicator>
+    </Findings>
+  </SuspiciousActivity>
 </SAR>

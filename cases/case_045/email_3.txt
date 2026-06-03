@@ -1,14 +1,12 @@
-From: QuantumAI Recovery <recovery@quantumfx.fake>
-To: Victim 1 <victim1@email.com>
-Subject: QuantumAI Recovery Fee
+From: support@novatrade.ai
+To: richard.adams@example.com
+Subject: Important Notice: Account Maintenance
 
-Dear [Victim Name],
+Dear Richard Adams,
 
-We understand you're experiencing difficulties withdrawing your funds. To facilitate the recovery process, a one-time recovery fee of 10% is required.
+Due to scheduled system maintenance, your account access has been temporarily restricted. We apologize for any inconvenience this may cause.
 
-Please transfer the amount to the following account:
-Account Name: John Smith
-Account Number: GB82NWBK00000000001234
+Our technicians are working diligently to resolve the issue.  You will receive another email when your account is fully restored.
 
-Thank you for your cooperation.
-QuantumAI Recovery Team
+Sincerely,
+The NovaTrade AI Support Team

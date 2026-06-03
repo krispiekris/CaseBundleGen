@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>LT2024-789</ReportID>
-  <ReportingInstitution>Swedbank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>LT12100001110123451</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-02-15</ReportDate>
+    <BankName>Royal Bank of Canada</BankName>
+    <SARID>RBC-SAR-20240215-003</SARID>
+  </Header>
   <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ1234567890</DestinationAccount>
-    <DestinationName>Evergreen Solutions Ltd</DestinationName>
+    <TransactionDate>2024-02-12</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>CAD</Currency>
+    <SenderAccount>David Miller - Account Number (Redacted)</SenderAccount>
+    <ReceiverAccount>(Redacted - Withdrawal Attempt)</ReceiverAccount>
+    <ReceiverName>N/A</ReceiverName>
+    <Description>Withdrawal Request</Description>
+    <SuspiciousActivity>Withdrawal request denied due to account restrictions.</SuspiciousActivity>
   </Transaction>
-  <Findings>Funds transferred to Belizean shell company, potential money laundering activity.</Findings>
+  <Party>
+    <PartyType>Customer</PartyType>
+    <Name>David Miller</Name>
+    <Address>(Redacted)</Address>
+  </Party>
 </SAR>

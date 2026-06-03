@@ -1,1 +1,0 @@
-The screenshot is of an online account dashboard, displaying fake graphs and numbers.  A prominent button reads 'Withdraw Funds' which is greyed out and unresponsive.

@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2023-123</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>David Miller</Name>
-    <Account>9876543210</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-07-20</ReportDate>
+    <InstitutionID>FirstNationalBank</InstitutionID>
+    <FilerID>Branch007</FilerID>
+  </Header>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ0001234567</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
+    <TransactionDate>2023-04-01</TransactionDate>
+    <TransactionAmount>5000</TransactionAmount>
+    <TransactionCurrency>USD</TransactionCurrency>
+    <TransactionType>Deposit</TransactionType>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>123456789</SenderAccount>
+    <ReceiverName>Global Capital Ventures</ReceiverName>
+    <ReceiverAccount>987654321</ReceiverAccount>
+    <ReceiverBank>InternationalTrustBank</ReceiverBank>
     <Purpose>Investment</Purpose>
+    <SuspiciousActivity>Potential investment fraud - unusually high returns claimed.</SuspiciousActivity>
+    <Notes>Customer seemed overly enthusiastic about the investment opportunity.</Notes>
   </Transaction>
-  <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ0001234567</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Unlock Funds</Purpose>
-  </Transaction>
-  <Findings>Suspicious transaction pattern. Potential investment scam.</Findings>
 </SAR>

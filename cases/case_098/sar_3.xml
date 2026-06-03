@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>SI2024-7890</ReportID>
-  <ReportingInstitution>Bank of Seychelles</ReportingInstitution>
-  <DateReported>2024-04-06</DateReported>
-  <Subject>
-    <Name>QuantumEdge AI</Name>
-    <Account>SC4567890123</Account>
-  </Subject>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SAR_ID>SAR-20240301-003</SAR_ID>
+    <SubmissionDate>2024-03-01</SubmissionDate>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <OriginAccount>GR1601101250000000012310695</OriginAccount>
-    <OriginName>Victim 1</OriginName>
+    <TransactionID>TXN-98765</TransactionID>
+    <TransactionDate>2024-01-28</TransactionDate>
+    <TransactionAmount currency="EUR">1000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Sender>
+      <Name>Klaus Schmidt</Name>
+      <AccountID>DE1234567890</AccountID>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd.</Name>
+      <AccountID>LC012345678</AccountID>
+      <Country>Belize</Country>
+    </Receiver>
+    <Description>Additional investment to unlock higher profits</Description>
+    <SuspiciousActivity>Customer reporting potential fraud, multiple transfers to offshore account.</SuspiciousActivity>
   </Transaction>
-    <Transaction>
-    <Date>2024-02-05</Date>
-    <Amount>300</Amount>
-    <Currency>EUR</Currency>
-    <OriginAccount>GR1601101250000000012310695</OriginAccount>
-    <OriginName>Victim 1</OriginName>
-  </Transaction>
-  <Findings>Funds originating from Germany, related to potential investment fraud.</Findings>
 </SAR>

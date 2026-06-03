@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-0045</ReportID>
-  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Ziegler</Name>
-    <Account>DE1211010001000234567890</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-03-22</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-2023-03-22-001</ReferenceNumber>
+  </Header>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-03-15</TransactionDate>
+    <Amount>5000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionType>Debit</TransactionType>
+    <Description>Transfer to NovaTrade AI</Description>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>GB24NWBK000000000000</ReceiverAccount>
+    <SuspiciousActivity>Potential investment fraud - unsolicited email</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Suspicious transaction indicative of potential investment fraud.  Large transfers to an entity with unclear business activities.</Findings>
+  <Party>
+    <AccountHolderName>Klaus Heinz</AccountHolderName>
+    <AccountHolderAddress>Musterstraße 1, 10115 Berlin</AccountHolderAddress>
+  </Party>
 </SAR>

@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-001</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Müller</Name>
-    <Account>DE87300800400000090400</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI Trading</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-10-15</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI Trading</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial deposit of EUR 10,000 made to QuantumLeap AI Trading platform.  Unusual trading activity observed with potentially high risk involved.</Findings>
-</SAR>
+<sar>
+  <report_id>SAR-20230901-001</report_id>
+  <date>2023-09-01</date>
+  <bank_name>Deutsche Bank</bank_name>
+  <transaction_type>Credit</transaction_type>
+  <amount>5000.00</amount>
+  <currency>EUR</currency>
+  <sender_name>Ulrich Baumann</sender_name>
+  <sender_account>DExxxxxxxxxxxxxxxxxxxx</sender_account>
+  <recipient_name>AI Trading Pro Ltd</recipient_name>
+  <recipient_account>GBxxxxxxxxxxxxxxxxxxxx</recipient_account>
+  <recipient_bank>Barclays Bank</recipient_bank>
+  <description>Initial Investment - AI Trading Pro</description>
+  <findings>Potential investment fraud. Unsolicited contact. High-pressure sales tactics.</findings>
+</sar>

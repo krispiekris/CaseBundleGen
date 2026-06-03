@@ -1,55 +1,54 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-CYB-0072",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac90,000",
-    "country": "Germany",
+    "age_range": "60-65",
+    "income_range": "$80,000 - $120,000",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Georgia",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Georgian"
     ]
   },
   "destination_countries": [
-    "Saint Vincent and the Grenadines",
-    "Seychelles"
+    "Romania",
+    "Serbia"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim contacted by 'investment advisor'"
+      "date": "2023-03-15",
+      "event": "Victim contacted via Telegram by 'AI Trading Advisor'"
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial deposit made by victim"
+      "date": "2023-04-01",
+      "event": "Initial investment of $5,000 made into 'AlgoTrade Pro'"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim requests withdrawal - rejected"
+      "date": "2023-04-15",
+      "event": "Victim receives fabricated 'profit' statements"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim reports suspicious activity"
+      "date": "2023-05-10",
+      "event": "Victim attempts to withdraw funds - denied"
     },
     {
-      "date": "2024-03-15",
-      "event": "Case opened by authorities"
+      "date": "2023-05-25",
+      "event": "Victim reports fraud to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac15,000 - \u20ac35,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$5,000 - $15,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.2 - 0.5"
+      "type": "Bank Transfers",
+      "amount_range": "$10,000 - $30,000"
     }
   ]
 }

@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CMB2024-012</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <ReportDate>2023-12-12</ReportDate>
+    <InstitutionID>Deutsche Bank</InstitutionID>
+    <SubmitterID>SAR-20231212-DB-1</SubmitterID>
+  </Header>
   <Transaction>
-    <Date>2024-01-05</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12000001110123451</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-002</TransactionID>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>Markus Baumann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>AI Profit Solutions</ReceiverName>
+    <ReceiverAccount>GB80NWBK017123456789</ReceiverAccount>
+    <Description>Withdrawal Attempt Denied</Description>
+    <SuspiciousActivity>Possible Investment Fraud</SuspiciousActivity>
+    <Notes>Customer reports attempted withdrawal denial; concerns raised about platform legitimacy.</Notes>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-12</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12000001110123451</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Similar activity reported by Sparkasse Bank.  Pattern suggests possible investment fraud.</Findings>
 </SAR>

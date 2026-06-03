@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-103</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE89370400440532013488</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-07-12</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseNumber>DB-SAR-2024-07-003</CaseNumber>
+  </Header>
   <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BM2000000000000000000000</DestinationAccount>
-    <DestinationName>Offshore Company Ltd</DestinationName>
-    <Purpose>Fee Payment</Purpose>
+    <TransactionDate>2024-07-10</TransactionDate>
+    <Amount currency="EUR">0</Amount>
+    <TransactionType>Information Request</TransactionType>
+    <SenderName>Deutsche Bank Compliance</SenderName>
+    <SenderAccount>ComplianceAccount</SenderAccount>
+    <ReceiverName>Global Traders Limited</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Client complaint regarding fraudulent activity</Description>
+    <SuspiciousActivity>Potential investment fraud</SuspiciousActivity>
+    <Notes>Client filed a complaint alleging fraudulent investment scheme.  Further investigation warranted.</Notes>
   </Transaction>
-  <Findings>Subsequent transfer of funds to an offshore company in Belize.  Elevated risk of fraud and money laundering.</Findings>
 </SAR>

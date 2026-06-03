@@ -1,21 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>AUS2024-001</ReportID>
-  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
-  <Subject>
-    <Name>David Miller</Name>
-    <Account>0600000000000000001234</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-03-22</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal Request Denied</Purpose>
-  </Transaction>
-  <Findings>
-    <Finding>Victim attempted to withdraw funds, request was denied due to suspicious activity.
-    Communication patterns suggest potential overseas involvement.</Finding>
-  </Findings>
+<SAR id="SAR-2023-10-05-001">
+  <ReportDate>2023-10-05</SwingConstants>T</ReportDate>
+  <BankName>Canadian Risk Bank</BankName>
+  <AccountName>David Miller</AccountName>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2023-09-28</TransactionDate>
+  <TransactionAmount currency="CAD">50000.00</TransactionAmount>
+  <TransactionDescription>Wire Transfer to QuantumLeap Investments - Belize</TransactionDescription>
+  <BeneficiaryName>QuantumLeap Investments</BeneficiaryName>
+  <BeneficiaryAccount>XYZ123456789</BeneficiaryAccount>
+  <BeneficiaryBank>Belize International Bank</BeneficiaryBank>
+  <Finding>Potential investment fraud. Unusual transfer to offshore account.</Finding>
+  <ReportSubmittedBy>Sarah Chen</ReportSubmittedBy>
 </SAR>

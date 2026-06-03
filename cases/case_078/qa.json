@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the purpose of the transactions involving David Miller?",
-    "answer": "Investment"
+    "question": "What was the initial bonus offered to Karl Heinrich by Innovative Investments?",
+    "answer": "A 20% return on his first deposit."
   },
   {
-    "question": "What is the registration number of AlphaTrade AI Ltd. as reported in sar_3.xml?",
-    "answer": "456789"
+    "question": "According to the initial email, what was the minimum deposit required to claim the bonus?",
+    "answer": "\u20ac2,000 or more."
   },
   {
-    "question": "Based on email_2.txt, how much had David Miller's initial investment grown to?",
-    "answer": "7800 EUR"
+    "question": "What was the purpose code for the transaction where Karl Heinrich transferred funds to Innovative Investments?",
+    "answer": "1000"
   },
   {
-    "question": "What currency was used for the transactions between David Miller and AlphaTrade AI as shown in bank_statement_1.csv?",
-    "answer": "EUR"
+    "question": "Based on the SAR reports, what are the main concerns regarding Innovative Investments?",
+    "answer": "Unusual transaction amounts and recipient, denial of withdrawal requests, and a general recommendation for further investigation."
   },
   {
-    "question": "According to sar_2.xml, which bank is associated with the account GB16NWBK20300058749000?",
-    "answer": "NatWest Bank"
+    "question": "What was the total amount Karl Heinrich deposited initially, as indicated in email_2.txt?",
+    "answer": "\u20ac2,500"
   },
   {
-    "question": "What does email_3.txt request from David Miller?",
-    "answer": "A copy of his passport or driver's license"
+    "question": "According to the telegram chatlog, when did David claim Karl's bonus was credited to his account?",
+    "answer": "2023-09-01 11:12:00 UTC"
   },
   {
-    "question": "What type of organization is AlphaTrade AI Ltd. identified as in sar_3.xml?",
-    "answer": "Potential shell company linked to online investment scheme"
+    "question": "What does the promotional material highlight as a key advantage of the 'Athena' trading platform?",
+    "answer": "Automated trading, 24/7 performance, and risk management."
   },
   {
-    "question": "According to bank_statement_2.csv, what are the two dates associated with incoming transfers from David Miller to AlphaTrade AI?",
-    "answer": "2023-12-01 and 2024-01-15"
+    "question": "What action did Innovative Investments advise Karl to take in the suspicious email received from support@email.de?",
+    "answer": "Verify his identity by clicking on a link (to a phishing site)."
   },
   {
-    "question": "What is the destination account mentioned in sar_1.xml and sar_2.xml?",
-    "answer": "GB16NWBK20300058749000"
+    "question": "What specific currencies are listed in the screenshot of the Athena platform?",
+    "answer": "BTC, ETH, LTC"
   },
   {
-    "question": "What is the purpose of the initial investment of 5000 EUR made by David Miller, as reported in sar_1.xml?",
-    "answer": "Investment"
+    "question": "What was the date of the second SAR related to Karl Heinrich\u2019s case?",
+    "answer": "2023-11-12"
   }
 ]

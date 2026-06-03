@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID for the SAR filed by Deutsche Bank regarding Victim 1?",
-    "answer": "INV2024-007"
+    "question": "According to the initial offer email, what is a key benefit of using the Nova AI trading platform?",
+    "answer": "Generate consistent profits, even in volatile markets."
   },
   {
-    "question": "According to email_2.txt, what bonus was offered to users who deposited funds within 24 hours?",
-    "answer": "A guaranteed 20% return"
+    "question": "What is the primary reason provided for the delay in processing withdrawal requests?",
+    "answer": "Ongoing maintenance and security upgrades to our processing systems."
   },
   {
-    "question": "Which destination account received transfers labeled as 'Investment' according to sar_1.xml?",
-    "answer": "LT12100001110123451"
+    "question": "What country is listed as the beneficiary country for the transaction to Nova Trading Platform, as per SAR 1?",
+    "answer": "United Arab Emirates"
   },
   {
-    "question": "What purpose was listed for the 500 EUR transaction in sar_2.xml?",
-    "answer": "Payment Processing Fee"
+    "question": "Based on the bank statement, what was the initial balance of Klaus Heinz\u2019s account?",
+    "answer": "60000.00"
   },
   {
-    "question": "What type of company is 'Company A' based on bank_statement_1.csv?",
-    "answer": "None"
+    "question": "What does the screenshot of the platform dashboard indicate regarding the results shown?",
+    "answer": "Simulated Results \u2013 Not Representative of Actual Trading Performance"
   },
   {
-    "question": "What does screenshot_1.txt indicate about the QuantumFX website?",
-    "answer": "It features a sleek, modern design with animated charts and graphs, and live chat functionality."
+    "question": "What type of verification did Nova AI request from Klaus Heinz?",
+    "answer": "A copy of his passport or driver's license."
   },
   {
-    "question": "According to sar_3.xml, what is a characteristic of the beneficiary \u2018Altcoin Global Ltd\u2019?",
-    "answer": "A known shell company"
+    "question": "According to the promotional material, what is one way Nova AI helps investors?",
+    "answer": "AI-Powered Precision: Our cutting-edge algorithms analyze market trends 24/7."
   },
   {
-    "question": "What was the amount of the withdrawal request initiated by the victim on 2024-01-12?",
-    "answer": "15000 EUR"
+    "question": "What is the estimated timeframe given for withdrawal processing, as stated in the withdrawal denial email?",
+    "answer": "7-10 business days"
   },
   {
-    "question": "What is the significance of the finding in sar_3.xml regarding funds received by \u2018Altcoin Global Ltd\u2019?",
-    "answer": "Funds received from several different accounts matching victim profiles indicative of investment fraud."
+    "question": "According to SAR 3, what is the primary reason for the fraud report filed by Klaus Heinz?",
+    "answer": "Inability to withdraw funds and unresponsive support."
   },
   {
-    "question": "Which entity is linked to the AI trading platform scheme according to sar_2.xml?",
-    "answer": "Global Finance Solutions"
+    "question": "What are the legal jurisdiction associated with the Nova AI platform\u2019s terms and conditions?",
+    "answer": "The laws of the United Arab Emirates."
   }
 ]

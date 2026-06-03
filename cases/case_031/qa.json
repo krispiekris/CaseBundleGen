@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the report ID for the SAR filed by Deutsche Bank?",
-    "answer": "DE2024-0034"
+    "question": "According to the initial conversation with the AI Trading Bot Pro, what was initially highlighted to attract new users?",
+    "answer": "A limited-time opportunity with exceptional returns."
   },
   {
-    "question": "According to email_3, what is requested from Heinrich Schmidt to expedite his payment?",
-    "answer": "Account Name and Account Number"
+    "question": "What was the initially promised weekly return rate to Markus Weber?",
+    "answer": "15-20%."
   },
   {
-    "question": "Which account received a 5000 EUR transaction on 2023-11-15 according to sar_2.xml?",
-    "answer": "DE87110100012345678901"
+    "question": "What type of transaction was reported in the first Suspicious Activity Report (SAR)?",
+    "answer": "Funds Transfer."
   },
   {
-    "question": "What is the purpose stated for the 100 EUR transaction to QuantumLeap AI on 2023-12-01?",
-    "answer": "Profit Distribution"
+    "question": "What is the IBAN associated with the beneficiary party, GlobalTech Solutions Ltd?",
+    "answer": "GB29NWBK20200830294159"
   },
   {
-    "question": "What is the primary finding of the SAR filed by Bank of America (US2024-0087)?",
-    "answer": "Identical patterns of deposits and withdrawals observed across multiple accounts. Suspicion of coordinated investment scam."
+    "question": "Besides unusually high promised returns and investment in a largely unregulated sector, what other Suspicion Indicator was listed in the initial SAR?",
+    "answer": "Investment in a largely unregulated sector"
   },
   {
-    "question": "What promotional tactic is mentioned in email_2 to encourage further deposits?",
-    "answer": "A 15% bonus is offered for depositing another \u20ac2,000 before the end of the week."
+    "question": "Which date did Markus Weber make his second investment into GlobalTech Solutions Ltd, as documented in SAR-2023-11-15-002?",
+    "answer": "2023-11-15"
   },
   {
-    "question": "According to sar_3.xml, where are funds being transferred to?",
-    "answer": "BZ1234567890"
+    "question": "Based on promotional material, what is being offered to new users who deposit over \u20ac5,000?",
+    "answer": "A bonus."
   },
   {
-    "question": "What is claimed in the brochure_1 regarding the investment strategy?",
-    "answer": "Guaranteed ROI \u2013 See your investment grow daily!"
+    "question": "What reason was provided by the AI Trading Bot Pro team for temporarily suspending withdrawals?",
+    "answer": "Due to increased demand, we are temporarily suspending withdrawals to process all pending requests."
   },
   {
-    "question": "What personal information is requested from Heinrich Schmidt in email_4?",
-    "answer": "A scanned copy of his passport or driver's license"
+    "question": "According to the screenshot description, what phrase is prominently displayed on the AI Trading Bot Pro platform\u2019s dashboard?",
+    "answer": "'Withdraw Funds'."
   },
   {
-    "question": "What is the destination account for the attempted withdrawal blocked due to system issues, according to sar_1.xml?",
-    "answer": "GB28NWBK00000000001234"
+    "question": "What is the approximate total amount (in EUR) Markus Weber has transferred to GlobalTech Solutions Ltd based on the provided data?",
+    "answer": "15000"
   }
 ]

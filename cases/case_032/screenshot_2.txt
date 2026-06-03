@@ -1,1 +1,0 @@
-The login page for the NovaAI Trading platform displays the company logo and fields for username and password. A 'Forgot Password' link is present.  The design is simplistic and lacks robust security features.

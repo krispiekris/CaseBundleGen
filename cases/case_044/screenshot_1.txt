@@ -1,1 +1,0 @@
-The ApexAI website login page displays a modern design with a prominent logo and a clean layout. There are fields for username and password, with a 'Login' button below. A 'Register' link is also visible, encouraging new users to create an account.  The background is a blurred image of a futuristic cityscape.

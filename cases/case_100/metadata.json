@@ -1,55 +1,54 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-03-15-FX-007",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Cyprus",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Greek",
-      "Russian"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "United Kingdom"
+    "Belize",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
+      "date": "2023-10-27",
+      "event": "Initial Contact - Email"
+    },
+    {
       "date": "2023-11-15",
-      "event": "Victim contacts QuantumNova AI Trading platform"
+      "event": "First Deposit"
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial deposit made by victim"
+      "date": "2024-01-05",
+      "event": "Victim Requests Withdrawal"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim requests withdrawal, partially denied"
+      "date": "2024-01-12",
+      "event": "Withdrawal Refused - Claiming Bonuses"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim officially reports fraud"
-    },
-    {
-      "date": "2024-03-15",
-      "event": "Investigation initiated"
+      "date": "2024-03-08",
+      "event": "Victim Files Complaint"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac25,000"
+      "type": "Bank Account",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.5"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.1 - 0.3"
     }
   ]
 }

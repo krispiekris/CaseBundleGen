@@ -1,35 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DB2024-0037</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <DateFiled>2024-04-05</DateFiled>
-  <Subject>
-    <Name>Karl Schmidt</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-15</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-12</Date>
-    <Amount>250</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment Return</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-01</Date>
-    <Amount>300</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BG48BN1100330002000001</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd</DestinationName>
-    <Purpose>Investment Return</Purpose>
-  </Transaction>
-  <Findings>Client reports difficulty withdrawing funds. Unusual activity pattern consistent with potential investment fraud.</Findings>
-</SAR>
+<sar>
+  <report_date>2023-12-05</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Michael Schmidt</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2023-12-01</transaction_date>
+  <transaction_amount currency="EUR">5000</transaction_amount>
+  <transaction_type>Transfer Out</transaction_type>
+  <recipient_name>CryptoTrade Solutions</recipient_name>
+  <recipient_account>GB21NWBK00000000001234</recipient_account>
+  <recipient_country>United Kingdom</recipient_country>
+  <description>Transfer to CryptoTrade Solutions</description>
+  <suspicious_activity>Unusual transfer to an unknown recipient. Customer expressed interest in AI trading.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

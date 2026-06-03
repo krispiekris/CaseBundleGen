@@ -1,58 +1,62 @@
 {
-  "case_id": "2024-CR-0789",
+  "case_id": "2024-CR-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "income_range": "\u20ac60,000 - \u20ac90,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Kingdom"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-09-15",
-      "event": "Victim discovers 'AlphaTrade AI' online"
+      "date": "2023-08-15",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-10-01",
-      "event": "Initial investment of \u20ac500 made"
+      "date": "2023-09-01",
+      "event": "Victim transfers initial investment"
     },
     {
-      "date": "2023-11-15",
-      "event": "Victim receives fabricated 'profit' of \u20ac200"
+      "date": "2023-10-10",
+      "event": "Victim receives fabricated profits"
     },
     {
-      "date": "2024-01-05",
-      "event": "Victim encouraged to invest \u20ac10,000"
+      "date": "2023-11-20",
+      "event": "Victim requests full withdrawal"
     },
     {
-      "date": "2024-02-20",
-      "event": "Victim attempts withdrawal, fails"
+      "date": "2023-11-22",
+      "event": "Victim discovers funds unavailable"
     },
     {
-      "date": "2024-03-10",
-      "event": "Victim reports fraud"
+      "date": "2024-01-10",
+      "event": "Fraud reported to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac10,500 - \u20ac12,000"
+      "type": "Bitcoin",
+      "amount_range": "0.5 - 1 BTC"
     },
     {
-      "type": "EUR",
-      "amount_range": "\u20ac500 - \u20ac10,000"
+      "type": "US Dollar",
+      "amount_range": "$5,000 - $20,000"
+    },
+    {
+      "type": "Euro",
+      "amount_range": "\u20ac4,000 - \u20ac18,000"
     }
   ]
 }

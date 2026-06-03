@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what was the purpose of the initial transaction from Victim 1 to Altcoin Global Ltd?",
-    "answer": "Investment"
+    "question": "What was the initial investment amount Klaus Richter made to the AI Trading Solutions platform, according to the Suspicious Activity Report?",
+    "answer": "\u20ac5000"
   },
   {
-    "question": "Based on sar_2.xml, what concerns were raised regarding Altcoin Global Ltd's company registration details?",
-    "answer": "Questionable"
+    "question": "According to the promotional material, what is the minimum investment required to start using the AI trading platform?",
+    "answer": "\u20ac500"
   },
   {
-    "question": "What does the screenshot_1.txt file depict concerning the trading platform?",
-    "answer": "A sleek, modern trading platform interface displaying upward trends and significant gains."
+    "question": "What reason did AI Trading Solutions give Klaus Richter for requesting an additional transfer of \u20ac500?",
+    "answer": "To complete the verification process"
   },
   {
-    "question": "Which email address was used to send the 'Profit Update' email to the victim?",
-    "answer": "support@quantumleapfx.com"
+    "question": "Based on the SAR reports, what two suspicious indicators were initially flagged related to Klaus Richter's investment?",
+    "answer": "Unusual investment destination, High transaction amount for individual"
   },
   {
-    "question": "According to sar_3.xml, what is the primary concern regarding Altcoin Global Ltd\u2019s account activity?",
-    "answer": "The account lacks legitimate business activity."
+    "question": "What did Daniel Okoro, Klaus Richter's account manager, advise him to do to maximize growth potential?",
+    "answer": "Reinvesting your profits"
   },
   {
-    "question": "In email_4.txt, what action is the victim prompted to take?",
-    "answer": "Verify their credentials by clicking on a link."
+    "question": "According to the screenshot, what balance did Klaus Richter\u2019s account show on the AI trading platform?",
+    "answer": "\u20ac16,500"
   },
   {
-    "question": "What is the destination account in sar_1.xml and sar_2.xml for transactions involving Victim 1 and Altcoin Global Ltd?",
-    "answer": "LT12100001110123451"
+    "question": "What actions did Deutsche Bank take regarding Klaus Richter\u2019s attempted withdrawal of \u20ac10,000, as reported in SAR 2?",
+    "answer": "Request denied due to verification issues"
   },
   {
-    "question": "According to the brochure_1.txt, what is one key feature that differentiates QuantumFX AI Trader?",
-    "answer": "Automated Trading"
+    "question": "What date does the SAR report related to the verification fees payment show?",
+    "answer": "2023-11-15"
   },
   {
-    "question": "Which file details the initial transaction of 2000 EUR from Victim 1 to Altcoin Global Ltd?",
-    "answer": "sar_1.xml and sar_2.xml"
+    "question": "What was the stated purpose of the account named 'Global Verification Services' in the email requesting verification?",
+    "answer": "To complete the verification process"
   },
   {
-    "question": "What reason was provided in email_3.txt for the temporary delay in withdrawals?",
-    "answer": "Ongoing system maintenance"
+    "question": "Which entity is associated with the SWIFT code FRBBGB2L in the email requesting Klaus Richter to transfer funds?",
+    "answer": "First Mercantile Bank"
   }
 ]

@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>ES2023-0123</ReportID>
-  <ReportingInstitution>Banco Santander</ReportingInstitution>
-  <Subject>
-    <Name>Maria Rodriguez</Name>
-    <Account>ES1400000000000000000123</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-01-15</Date>
-    <Amount>2500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LC061234567890123456</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Similar activity to previously reported fraud. Destination account flagged for investigation.</Findings>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.example.com/sar_schema.xsd">
+  <ReportDate>2023-08-25</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-03-15</TransactionDate>
+    <TransactionAmount currency="EUR">30000</TransactionAmount>
+    <TransactionType>Deposit</TransactionType>
+    <SenderName>Klaus Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Global Forex Ventures</ReceiverName>
+    <ReceiverAccount>BEL_GFV_001</ReceiverAccount>
+    <LocationOfReceiver>Belize</LocationOfReceiver>
+    <Suspicion>Large, unexplained deposits into an account linked to a potential Forex scam.</Suspicion>
+  </SuspiciousActivity>
 </SAR>

@@ -1,11 +1,11 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac40,000 - \u20ac60,000",
-    "country": "Germany",
+    "income_range": "$75,000 - $100,000",
+    "country": "Canada",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -13,44 +13,43 @@
     "languages_spoken": [
       "English",
       "Pidgin English",
-      "Hausa"
+      "Yoruba"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "Marshall Islands",
+    "Cyprus",
     "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim discovers 'CryptoGenius AI' promotional material."
+      "date": "2023-08-15",
+      "event": "Initial contact via unsolicited email"
     },
     {
-      "date": "2023-12-05",
-      "event": "Victim deposits initial \u20ac500 into CryptoGenius AI platform."
+      "date": "2023-09-01",
+      "event": "Victim invests $5,000"
+    },
+    {
+      "date": "2023-10-15",
+      "event": "Victim invests $10,000"
+    },
+    {
+      "date": "2023-12-01",
+      "event": "Victim attempts withdrawal, denied"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim receives first 'profit' payout."
-    },
-    {
-      "date": "2024-02-20",
-      "event": "Victim attempts to withdraw a larger sum; faces obstacles and pressure to deposit more."
-    },
-    {
-      "date": "2024-03-10",
-      "event": "Victim reports the incident to authorities."
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac500 - \u20ac12,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "$15,000 - $20,000"
     },
     {
-      "type": "EUR Bank Account",
-      "amount_range": "\u20ac1,000 - \u20ac15,000"
+      "type": "Bank Account Funds",
+      "amount_range": "$15,000 - $20,000"
     }
   ]
 }

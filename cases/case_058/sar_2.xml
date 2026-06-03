@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-005</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-08</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Further deposits made to the same account.  Potential investment fraud.</Findings>
-</SAR>
+<SAR xmlns="http://www.example.com/sar">\n  <Header>\n    <ReportDate>2023-05-25</ReportDate>\n    <FilerID>FirstNationalBank</FilerID>\n    <SuspiciousActivityType>Potential Investment Fraud</SuspiciousActivityType>\n  </Header>\n  <Transaction>\n    <TransactionID>TXN67890</TransactionID>\n    <TransactionDate>2023-04-15</TransactionDate>\n    <TransactionAmount>1500.00</TransactionAmount>\n    <Currency>USD</Currency>\n    <SenderName>AlgoTrade Pro</SenderName>\n    <SenderAccount>9876543210</SenderAccount>\n    <ReceiverName>David Miller</ReceiverName>\n    <ReceiverAccount>1234567890</ReceiverAccount>\n    <ReceiverCountry>United States</ReceiverCountry>\n    <Description>Simulated profit payout</Description>\n  </Transaction>\n  <Findings>\n    <Finding>Funds transferred back to the customer, appearing as profits, which is inconsistent with typical investment returns.</Finding>\n  </Findings>\n</SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what is the account number of Hans Schmidt?",
-    "answer": "DE87750108100022501500"
+    "question": "What is the stated purpose of Phoenix Rise AI, according to its promotional materials?",
+    "answer": "To leverage artificial intelligence to identify and capitalize on lucrative trading opportunities in the global markets."
   },
   {
-    "question": "What is the purpose indicated for the 5000 EUR transaction from Hans Schmidt\u2019s account on December 5, 2023, as stated in sar_1.xml?",
-    "answer": "Investment"
+    "question": "What initial amount did David Miller invest with Phoenix Rise AI?",
+    "answer": "5000 AUD"
   },
   {
-    "question": "Based on sar_2.xml, what is the account number associated with NovaTrade Global Investments Ltd.?",
-    "answer": "BZ12030016000000002000"
+    "question": "According to the SAR reports, what is the name of the bank where Phoenix Rise Investments Ltd holds its account?",
+    "answer": "First Central Bank (Cyprus)"
   },
   {
-    "question": "Which bank initially reported the suspicious activity involving Hans Schmidt (sar_1.xml)?",
-    "answer": "Sparkasse N\u00fcrnberg"
+    "question": "What reason did Phoenix Rise AI give for temporarily suspending David Miller's withdrawal request?",
+    "answer": "A security verification process requiring account verification through a questionnaire and documentation submission."
   },
   {
-    "question": "What additional fee, besides the initial investment, is Hans Schmidt requested to pay in email_3 to expedite his withdrawal?",
-    "answer": "200 EUR"
+    "question": "Based on the screenshot description, what was prominently displayed regarding the platform's performance?",
+    "answer": "A 237% return in the last 30 days."
   },
   {
-    "question": "According to the screenshot_1.txt, what is the displayed profit on Hans Schmidt\u2019s NovaTrade AI account?",
-    "answer": "\u20ac3500"
+    "question": "What was the description of the transaction made on 2023-12-15?",
+    "answer": "Small profit withdrawal"
   },
   {
-    "question": "What is the stated benefit of AI-powered trading, according to the brochure_1.txt?",
-    "answer": "Our algorithms handle the complexities of the crypto market."
+    "question": "What promotional offer was mentioned in the platform promotion materials?",
+    "answer": "A 10% bonus on the first investment."
   },
   {
-    "question": "Which entity, detailed in sar_3.xml, received a 3000 EUR transfer from Germany on March 15, 2024?",
-    "answer": "Hans Schmidt"
+    "question": "According to the bank statements, what was David Miller's balance after the initial investment into Phoenix Rise AI?",
+    "answer": "85000 AUD"
   },
   {
-    "question": "What is the destination account in sar_1.xml for the withdrawal of 1500 EUR?",
-    "answer": "DE52370400440019008600"
+    "question": "Which entities are associated with the transaction involving a withdrawal attempt of 15000 AUD?",
+    "answer": "David.Miller@example.com.au, Phoenix Rise Investments Ltd"
   },
   {
-    "question": "In email_4.txt, how much money does the sender request for transfer to unlock funds?",
-    "answer": "500 EUR"
+    "question": "What service does Phoenix Rise AI claim to offer regarding trading activities?",
+    "answer": "Automated trading, handling the trading while investors reap the rewards."
   }
 ]

@@ -1,3 +1,8 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,Deposit,5000,EUR,QuantumLeap AI
-2024-01-10,Withdrawal,5000,EUR,Deutsche Bank
+Date,Description,Amount (EUR),IBAN
+2023-09-01,Transfer to GlobalTech Solutions, -5000,DE21740400440005000000
+2023-09-05,Interest, 2.50,DE21740400440005000000
+2023-09-12,ATM Withdrawal, -100,DE21740400440005000000
+2023-09-19,Transfer to GlobalTech Solutions, -5000,DE21740400440005000000
+2023-09-26,Interest, 2.50,DE21740400440005000000
+2023-11-01,Transfer to GlobalTech Solutions, -10000,DE21740400440005000000
+2024-01-15,Withdrawal Attempt, -15000,,DE21740400440005000000

@@ -1,0 +1,6 @@
+Date,Description,Amount,Balance
+2023-03-10,Salary Deposit,3500.00,3500.00
+2023-03-15,Transfer to Investment,5000.00,-1500.00
+2023-04-01,ApexTrade Profit,2375.00,7375.00
+2023-06-22,Transfer to Investment,5000.00,2375.00
+2023-07-18,Withdrawal Attempt,-2000.00,0.00

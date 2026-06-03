@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR INV2023-125, what is the purpose stated for the initial transaction to QuantumLeap Solutions Ltd?",
-    "answer": "Investment in AI Trading Platform"
+    "question": "What is the stated average monthly return promised by AI Trading Profits?",
+    "answer": "15-30%"
   },
   {
-    "question": "What is the destination account number used for transactions to QuantumLeap Solutions Ltd, as identified in SAR INV2023-287?",
-    "answer": "VC1702610002"
+    "question": "According to the initial email, what is included as an attachment?",
+    "answer": "AI_Trading_Profits_Intro_Guide.pdf"
   },
   {
-    "question": "Which bank filed SAR INV2023-350, and what is the name of the subject in that SAR?",
-    "answer": "HypoVereinsbank; Franz Schmidt"
+    "question": "What is the minimum amount of funds required to start investing, according to Chukwuemeka\u2019s message?",
+    "answer": "$5,000"
   },
   {
-    "question": "What does the screenshot_1.txt describe regarding the QuantumLeap AI Trader website's design?",
-    "answer": "The website features a sleek, modern design with charts and graphs displaying (likely fabricated) profit trends."
+    "question": "What bank details were provided for the withdrawal processing?",
+    "answer": "Bank Name: Horizon Bank; Account Name: Global Investments LTD; Account Number: 2345678901; SWIFT Code: HORIBANK"
   },
   {
-    "question": "Based on the email_2.txt, what suggestion is made to Helmut Weber regarding maximizing returns?",
-    "answer": "Consider increasing your investment"
+    "question": "What specific reason is given in the first Suspicious Activity Report (SAR) for the suspicion of investment fraud?",
+    "answer": "Funds transferred to an overseas entity with limited public information. Recipient matches a known entity associated with fraudulent investment schemes."
   },
   {
-    "question": "According to the bank_statement_1.csv, what amount did Helmut Weber receive as salary in February 2023?",
-    "answer": "3500 EUR"
+    "question": "Based on the bank statement, what was the total amount transferred to Global Investments LTD?",
+    "answer": "$10,500"
   },
   {
-    "question": "What is the primary concern raised in the 'Findings' section of SAR INV2023-287?",
-    "answer": "Ongoing transactions to the same beneficiary with a similar purpose."
+    "question": "What does promotional material 2 offer to VIP members?",
+    "answer": "Personalized investment advice from expert advisors, access to exclusive trading strategies, higher profit potential, and a dedicated support team."
   },
   {
-    "question": "What type of service does QuantumLeap AI Trader claim to offer, as described in brochure_2.txt?",
-    "answer": "Automated trading"
+    "question": "What is highlighted as a key appeal factor on the website\u2019s homepage?",
+    "answer": "Exclusivity, sophistication, and effortless wealth generation."
   },
   {
-    "question": "What action is Helmut Weber asked to take in email_3.txt?",
-    "answer": "Provide account verification details"
+    "question": "According to the second SAR, what additional information contributes to the suspicion of fraud?",
+    "answer": "Reports from a concerned individual indicate potential scam."
   },
   {
-    "question": "Which document explicitly mentions a 15% bonus for first-time investors?",
-    "answer": "brochure_1.txt"
+    "question": "According to the promotional material, what is being offered to new investors for a limited time?",
+    "answer": "Double their initial investment"
   }
 ]

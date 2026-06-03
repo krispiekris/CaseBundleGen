@@ -1,4 +1,8 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,Online Transfer,-15000,EUR,Altcoin Global Ltd
-2024-01-10,Online Transfer,3000,EUR,Altcoin Global Ltd
-2024-03-22,Withdrawal Attempt,15000,EUR,Altcoin Global Ltd
+Date,Description,Amount (CAD)
+2023-09-20,Balance,100000.00
+2023-09-28,Wire Transfer to QuantumLeap Investments, -50000.00
+2023-10-05,Transaction Fee,-10.00
+2023-10-10,Interest,5.00
+2023-11-15,Dividend,200.00
+2023-12-01,Wire Transfer, -25000.00
+2023-12-05,Transaction Fee,-5.00

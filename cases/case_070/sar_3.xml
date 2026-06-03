@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-02-18</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ9876543210</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Verification Fee</Purpose>
-  </Transaction>
-  <Findings>Transaction flagged as potentially fraudulent. Funds transferred to an account with no clear identifying information. Relates to earlier investment in a platform with high yield promises.</Findings>
+  <ReportDate>2024-02-05</ReportDate>
+  <SuspiciousActivity>
+    <TransactionType>Cryptocurrency Transfer</TransactionType>
+    <TransactionDate>2023-11-12</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <SenderName>Markus Bauer</SenderName>
+    <SenderAccount>DExxxxxxxxxx</SenderAccount>
+    <ReceiverName>Cryptoking77</ReceiverName>
+    <ReceiverAccount>0xAbCdEfGhIjKlMnOpQrStUvWxYz123456</ReceiverAccount>
+    <Description>Investment in NFT project</Description>
+    <SuspiciousFactor>Linked to potential investment fraud scheme. Victim has filed a complaint with local authorities.</SuspiciousFactor>
+  </SuspiciousActivity>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <ReportID>SAR-003-2024</ReportID>
 </SAR>

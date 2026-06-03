@@ -1,9 +1,8 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-01,Salary,78000,AUD,Company A
-2023-11-15,Transfer to QuantumRise AI,15000,EUR,QuantumRise AI Investments Ltd
-2023-12-01,Salary,78000,AUD,Company A
-2024-01-05,Withdrawal,3750,EUR,John Smith
-2024-01-10,Salary,78000,AUD,Company A
-2024-02-01,Withdrawal,500,EUR,,
-2024-03-01,Salary,78000,AUD,Company A
-2024-03-15,Withdrawal,1000,EUR,,
+Date,Description,Amount (CAD),Balance (CAD)
+2023-03-10,Salary Deposit,3500.00,3500.00
+2023-03-15,Grocery Shopping,-150.00,3350.00
+2023-03-22,Utilities Payment,-200.00,3150.00
+2023-03-29,Restaurant Expense,-80.00,3070.00
+2023-04-01,Transfer to Aionautics Trading, -20000.00, -16930.00
+2023-04-05,Online Shopping,-50.00, -16980.00
+2023-04-12,Streaming Service, -30.00, -17010.00

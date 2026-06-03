@@ -1,10 +1,10 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-Gamma-782",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,40 +12,47 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Lithuania",
-    "Belize"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim receives initial promotional email"
+      "date": "2023-08-15",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-12-01",
-      "event": "Victim deposits initial funds"
+      "date": "2023-09-01",
+      "event": "First investment made"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim attempts to withdraw funds \u2013 denied"
+      "date": "2023-11-10",
+      "event": "Victim expresses concern about lack of withdrawals"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim files SAR"
+      "date": "2023-12-05",
+      "event": "Communication abruptly ceases"
+    },
+    {
+      "date": "2024-01-20",
+      "event": "Victim reports fraud to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
+      "type": "Bitcoin",
+      "amount_range": "0.5 - 1.5 BTC"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1 - 0.3"
+      "type": "Ethereum",
+      "amount_range": "2 - 5 ETH"
+    },
+    {
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac15,000 - \u20ac35,000"
     }
   ]
 }

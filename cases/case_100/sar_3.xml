@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-789</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>Sterling Global Finance</Name>
-    <Account>GB26NWBK000000000012345</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2024-01-15</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceID>SAR-20240115-003</ReferenceID>
+  </Header>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>5000</Amount>
+    <TransactionDate>2024-01-12</TransactionDate>
+    <Amount>5000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>CY820020000100000000</DestinationAccount>
-    <DestinationName>QuantumNova Investments Ltd</DestinationName>
-    <Purpose>Funds Transfer</Purpose>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Forex Alpha Ltd.</ReceiverName>
+    <ReceiverAccount>BZ12345678901234567890</ReceiverAccount>
+    <Description>Withdrawal Fee</Description>
+    <SuspiciousActivity>Potential Investment Fraud</SuspiciousActivity>
+    <Notes>Customer transferred 5000 EUR to Forex Alpha Ltd. as a withdrawal fee, following a request from Forex Alpha Ltd. This appears to be an attempt to further extract funds from the customer. Further investigation is warranted.</Notes>
   </Transaction>
-  <Findings>Large sums of money flowing into and out of the account rapidly. Possible involvement in a fraud scheme.</Findings>
 </SAR>

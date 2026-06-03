@@ -1,5 +1,9 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-08-25,Incoming Transfer,12000,EUR,
-2023-09-01,Wire Transfer,-12000,EUR,Altcoin Global Ltd
-2023-09-03,ATM,-100,EUR,
-2023-09-15,Salary,3500,EUR,Company B
+Date,Description,Amount,Currency,IBAN
+2023-03-10,Salary Payment,10000,AUD,AU1234567890
+2023-03-20,Utilities Payment,500,AUD,AU9876543210
+2023-04-01,Aionautica Investment, -5000,USD,US1234567890
+2023-04-15,Groceries,200,AUD,AU5678901230
+2023-05-10,Aionautica Profit, 1500, USD, US1234567890
+2023-06-10,Salary Payment,10000,AUD,AU1234567890
+2023-07-10,Utilities Payment,500,AUD,AU9876543210
+2023-07-20,Aionautica Investment, -20000,USD,US1234567890

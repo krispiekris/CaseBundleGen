@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-123</ReportID>
-  <ReportingInstitution>Bank Alpha</ReportingInstitution>
-  <Subject>
-    <Name>David Miller</Name>
-    <Account>XXXXXXX1234</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>5000</Amount>
-    <Currency>USD</Currency>
-    <DestinationAccount>LT3477770000000000001</DestinationAccount>
-    <DestinationName>InnovaTech Solutions</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
+  <ReportDate>2024-02-29</nReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Klaus Hartmann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>ZA12345678901234567890</RecipientAccount>
+      <RecipientCountry>Seychelles</RecipientCountry>
+      <Description>Investment in AI Trading Platform</Description>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-11-20</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Klaus Hartmann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>ZA12345678901234567890</RecipientAccount>
+      <RecipientCountry>Seychelles</RecipientCountry>
+      <Description>Further Investment in AI Trading Platform</Description>
+    </Transaction>
+  </SuspiciousActivity>
   <Findings>
-    <SuspiciousActivity>Unusual large transfer to an offshore company with limited online presence.  Victim stated purpose was 'investment' but no further details were provided.</SuspiciousActivity>
-    <RedFlags>Offshore destination, vague investment purpose</RedFlags>
+    <Finding>Unexplained large deposits from a retail customer into an offshore account, coupled with reports of unsuccessful withdrawal attempts.</Finding>
   </Findings>
 </SAR>

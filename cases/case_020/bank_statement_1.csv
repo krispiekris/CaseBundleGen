@@ -1,7 +1,7 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-08-10,Online Payment,-500,EUR,QuantumFX AI
-2023-08-25,Salary,3500,EUR,Musterfirma GmbH
-2023-09-01,Wire Transfer,-10000,EUR,NovaTrade AI Ltd.
-2023-09-15,Wire Transfer,-2000,EUR,NovaTrade AI Ltd.
-2023-10-05,Online Payment,-300,EUR,Amazon.de
-2023-10-12,Salary,3500,EUR,Musterfirma GmbH
+Date,Description,Amount,Currency,Balance
+2023-03-10,Salary,78000.00,AUD,78000.00
+2023-03-25,Bill Payment,500.00,AUD,77500.00
+2023-04-05,Investment - Apex Global, -5000.00,AUD,72500.00
+2023-04-15,Grocery Shopping,150.00,AUD,72350.00
+2023-05-10,Withdrawal Attempt - Rejected, -1500.00,AUD,70850.00
+2023-05-20,Electricity Bill,200.00,AUD,70650.00

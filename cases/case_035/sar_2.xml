@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>AT2024-01289</ReportID>
-  <ReportingInstitution>Raiffeisenbank</ReportingInstitution>
+<SAR id="SAR-20240120-002">
+  <ReportingInstitution>
+    <Name>Sparkasse Bank</Name>
+    <Address>München, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE87370400440532013838</Account>
+    <Name>Ulrich Baumann</Name>
+    <Address>Munich, Germany</Address>
+    <DateOfBirth>1968-05-20</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BB120000000000000000001</DestinationAccount>
-    <DestinationName>NovaTrade Solutions Ltd</DestinationName>
-    <Purpose>Withdrawal</Purpose>
+    <Date>2024-01-15</Date>
+    <Amount currency="EUR">500.00</Amount>
+    <Description>Attempted Withdrawal - Denied</Description>
+    <Recipient>
+      <Name>Sparkasse Bank</Name>
+      <IBAN>DE89370400440532015000</IBAN>
+    </Recipient>
+    <SuspiciousActivity>Withdrawal attempt denied due to account restrictions; potential fraud</SuspiciousActivity>
   </Transaction>
-  <Findings>Small withdrawal followed by significant deposits. Possible involvement in investment scheme.</Findings>
 </SAR>

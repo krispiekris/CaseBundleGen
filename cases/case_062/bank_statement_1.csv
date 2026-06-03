@@ -1,6 +1,5 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-15,NovaTrade AI Investment, -1000,EUR,NovaTrade AI
-2024-01-15,NovaTrade AI Deposit, -3000,EUR,NovaTrade AI
-2024-02-15,NovaTrade AI Deposit, -4000,EUR,NovaTrade AI
-2024-03-10,Salary,3500,EUR,Company A
-2024-03-15,NovaTrade AI Deposit, -4000,EUR,NovaTrade AI
+Date,Description,Amount (EUR),IBAN
+2023-08-28,-123.45,DE2312345678901234567890
+2023-09-01,-5000,MT1112345678901234567890
+2023-09-05,Grocery Store,56.78,DE2312345678901234567890
+2023-09-10,Restaurant,89.21,DE2312345678901234567890

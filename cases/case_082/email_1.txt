@@ -1,14 +1,17 @@
-From: support@novatradeai.fake
-To: karl.schmidt@email.de
-Subject: Welcome to NovaTrade AI - Your Path to Financial Freedom!
+From: David <david@cryptotradesolutions.com>
+To: Michael Schmidt <michael.schmidt@email.com>
+Subject: Important Update Regarding Your Account
 
-Dear Karl,
+Dear Michael,
 
-Welcome to NovaTrade AI! We're thrilled to have you join our community of successful investors.
+We've noticed a slight delay in processing your recent withdrawal request. To expedite the process, a small administrative fee of €1500 is required.  This is a standard procedure to ensure the security of your funds.
 
-Our AI-powered platform is designed to generate consistent profits with minimal effort.  Start with a small investment and watch your wealth grow.
+Please transfer the fee to the following account:
 
-Click here to explore the platform: www.novatradeai.fake
+Bank Name: Zenith Bank
+Account Number: 4789234561
+
+Once the fee is received, your withdrawal will be processed immediately.
 
 Sincerely,
-The NovaTrade AI Team
+The CryptoTrade Solutions Team

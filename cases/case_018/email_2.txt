@@ -1,14 +1,19 @@
-From: support@quantumleap.fake
-To: victim1@email.com
-Subject: Regarding Your Account and Recent Activity
+From: support@aitradingpro.com
+To: richard.boudreau@email.ca
+Subject: Important Update Regarding Your Withdrawal
 
-Dear [Victim Name],
+Dear Richard,
 
-We've noticed an unusual activity on your account. To ensure the security of your funds, please confirm your deposit details.
+We've received your withdrawal request. Please note that due to regulatory requirements and security protocols, a processing fee of 5% is applied to all withdrawals. This fee is standard practice in the industry.
 
-To verify, please provide your bank statement and a copy of your ID.
+Additionally, to ensure the security of your funds, we require a one-time verification fee of $500. Please transfer this amount to the following account:
 
-Thank you for your cooperation.
+Account Name: [Redacted]
+Bank: [Redacted]
+IBAN: [Redacted]
 
-Sincerely,
-QuantumLeap AI Support
+Once the verification fee is received, your withdrawal of $10,000 will be processed within 24-48 hours.
+
+Thank you for your understanding.
+
+The AI Trading Pro Team

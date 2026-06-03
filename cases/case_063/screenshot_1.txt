@@ -1,3 +1,0 @@
-Description:
-
-The screenshot shows the QuantumAI Trade website login page. The background is a futuristic cityscape. The logo 'QuantumAI Trade' is prominently displayed. There are fields for username and password. A 'Login' button is below the fields.  Below the login button is a link to 'Forgot Password?' The overall design aims to convey a sense of high-tech sophistication and ease of use.

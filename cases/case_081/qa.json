@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the brochure, what are some of the key features of NovaTrade AI?",
-    "answer": "AI-Powered Trading, Risk Management, User-Friendly Interface, and 24/7 Support."
+    "question": "According to the promotional material, what is the maximum monthly return Apex Trading Solutions claims to offer?",
+    "answer": "Up to 30% per month"
   },
   {
-    "question": "What is the registration number of NovaTrade Investments Ltd.?",
-    "answer": "2022/02567"
+    "question": "What was the amount of the initial transfer Robert Harding made to Apex Trading Solutions, as reflected in the bank statement?",
+    "answer": "15000.00 AUD"
   },
   {
-    "question": "What is the purpose stated for the EUR 2000 transaction on December 5, 2023?",
-    "answer": "Investment"
+    "question": "What is the subject of the email Robert Harding sent to Apex Trading Solutions?",
+    "answer": "Withdrawal Issue"
   },
   {
-    "question": "Which bank reported the transaction involving an unknown subject and account GB87BARC20400177827983?",
-    "answer": "Barclays Bank"
+    "question": "Based on the telegram conversation, what action did Alexander advise Robert to take?",
+    "answer": "Deposit another $30,000"
   },
   {
-    "question": "What does the screenshot_1.txt indicate about the NovaTrade AI website?",
-    "answer": "It features a sleek design with charts, testimonials, and a 'deposit now' button. It also claims to offer 'guaranteed returns' and 'risk-free investing,' which are red flags. The website address is registered to a shell corporation in Belize."
+    "question": "What type of activity was flagged as suspicious in the SAR report with ID 20231215-AU-001?",
+    "answer": "Potential investment fraud, unusual activity pattern"
   },
   {
-    "question": "What does email_3.txt suggest about the victim's investment activity?",
-    "answer": "The email indicates that the victim hasn't increased their investment recently and encourages them to deposit more to avoid missing out on gains."
+    "question": "Which entity reported the inability to withdraw funds and initiated an investigation?",
+    "answer": "Australian Securities and Investments Commission"
   },
   {
-    "question": "What currency was used for the transfer to the UK bank account on February 10, 2024?",
-    "answer": "USD"
+    "question": "What is the account ID Robert Harding mentioned in the email regarding the withdrawal issue?",
+    "answer": "RH12345"
   },
   {
-    "question": "What amount was initially transferred to NovaTrade Investments by Hans Kruger?",
-    "answer": "2000 EUR"
+    "question": "What does the screenshot of the trading platform indicate about the AI algorithm\u2019s performance?",
+    "answer": "AI Algorithm Achieves Record Profits!"
   },
   {
-    "question": "What is the nature of business listed for NovaTrade Investments Ltd?",
-    "answer": "Investment Services"
+    "question": "What was the total amount Robert Harding deposited into Apex Trading Solutions based on the available transaction data?",
+    "answer": "45000.00 AUD"
   },
   {
-    "question": "According to email_2.txt, what have early adopters of NovaTrade AI been experiencing?",
-    "answer": "Extraordinary gains."
+    "question": "According to the promotional material, what is the key technology used by Apex Trading Solutions to generate returns?",
+    "answer": "AI-powered technology"
   }
 ]

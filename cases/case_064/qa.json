@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what was the stated purpose of the initial transaction from the victim's account?",
-    "answer": "Investment"
+    "question": "What was the initially promised monthly return percentage for investments in the AI trading platform?",
+    "answer": "15-20%"
   },
   {
-    "question": "What is the destination account mentioned in SAR_2.xml for the transaction labeled 'Investment Returns'?",
-    "answer": "HK1234567890"
+    "question": "What was the minimum investment amount required to participate in the AI trading program?",
+    "answer": "\u20ac5000"
   },
   {
-    "question": "Based on the bank_statement_1.csv file, what was the amount and purpose of the first transaction recorded for Victim 1?",
-    "answer": "-100 EUR to Amazon"
+    "question": "According to the first SAR report, what was the description provided for the transaction when Klaus Schmidt transferred funds?",
+    "answer": "Transfer to AI Trading Platform"
   },
   {
-    "question": "Email_2.txt suggests an increase in portfolio value. What currency is used to represent this balance?",
-    "answer": "\u20ac7,500"
+    "question": "What was the reason given for the temporary suspension of Klaus Schmidt's withdrawal request?",
+    "answer": "A system upgrade"
   },
   {
-    "question": "What type of verification document is requested by the 'QuantumLeap AI Verification Team' in email_3.txt?",
-    "answer": "Passport or driver's license"
+    "question": "What was the amount of the verification fee Klaus Schmidt was asked to pay to process his withdrawal?",
+    "answer": "\u20ac500"
   },
   {
-    "question": "What is the alleged monthly return percentage mentioned in the brochure_1.txt?",
-    "answer": "Up to 30%"
+    "question": "What country is the recipient account (NG48901234567890123456) located in?",
+    "answer": "Nigeria"
   },
   {
-    "question": "According to screenshot_1.txt, what are some features of the QuantumLeap AI website?",
-    "answer": "Sleek, modern design with animated charts and graphs, testimonials from alleged 'satisfied investors', a 'Deposit Now' button, and a live chat feature."
+    "question": "Based on the promotional material, what is the main benefit of using the AetherTrade platform according to its advertisements?",
+    "answer": "Guaranteed 20% monthly returns"
   },
   {
-    "question": "What is the role of Associated Trust Company (Belize) as described in SAR_3.xml?",
-    "answer": "It is the reporting institution for QuantumLeap Investments Ltd."
+    "question": "What did the second SAR report indicate regarding the timing of events and requests for funds?",
+    "answer": "An initial small transfer, followed by claims of profits and escalating requests for funds."
   },
   {
-    "question": "What is the total amount transferred to QuantumLeap Investments Ltd as per the provided files?",
-    "answer": "7000 EUR (5000 EUR in SAR_1 and 2000 EUR in bank_statement_2)"
+    "question": "What was the balance in Klaus Schmidt's account after the first transfer to the AI trading platform?",
+    "answer": "\u20ac700.00"
   },
   {
-    "question": "Based on email_1.txt, what technology is supposedly used by QuantumLeap AI?",
-    "answer": "Artificial intelligence (AI)"
+    "question": "What type of file contained a screenshot of the 'AetherTrade' platform and described its design?",
+    "answer": "screenshot_trading_platform.txt"
   }
 ]

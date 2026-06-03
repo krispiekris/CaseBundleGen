@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the purpose initially stated for the transfers from Victim 1 to Altcoin Global Ltd?",
-    "answer": "Investment"
+    "question": "According to the initial email, what is the stated purpose of CryptoRecoveryExperts?",
+    "answer": "Recovering funds lost due to fraudulent cryptocurrency schemes."
   },
   {
-    "question": "According to the SAR filed by Deutsche Bank, what was the initial finding regarding the transaction of 5000 EUR to Altcoin Global Ltd?",
-    "answer": "Unusual transaction for a client with limited investment experience. Funds transferred to a foreign company with no apparent legitimate business purpose."
+    "question": "What information was Karl Heinz initially asked to provide in the follow-up email?",
+    "answer": "Details regarding the initial scam and the amount lost."
   },
   {
-    "question": "What website address is included in the promotional email from NovaTrade AI?",
-    "answer": "www.novatrade.fake"
+    "question": "What was the amount of the 'security clearance fee' requested, and in what currency?",
+    "answer": "$5,000 USD"
   },
   {
-    "question": "What is the minimum investment required to participate in NovaTrade AI, as stated in their brochure?",
-    "answer": "\u20ac500"
+    "question": "To which bank account was the security clearance fee requested to be transferred?",
+    "answer": "Account Number: 0078901234"
   },
   {
-    "question": "Which bank flagged a large attempted transfer from Victim 1\u2019s account and subsequently blocked it?",
-    "answer": "Sparkasse Bank"
+    "question": "What does the progress bar on the recovery platform dashboard indicate?",
+    "answer": "Recovery Progress: 65%"
   },
   {
-    "question": "According to the SAR filed by Swedbank, what was the finding regarding Altcoin Global Ltd\u2019s account?",
-    "answer": "Account showing signs of being used for fraudulent activity."
+    "question": "Besides the initial security clearance fee, was any further amount requested for security clearance? If so, what was the amount and currency?",
+    "answer": "Yes, 2000 EUR."
   },
   {
-    "question": "What is the stated purpose of the email from Global Recovery Solutions?",
-    "answer": "To help recover funds lost due to fraudulent investment schemes."
+    "question": "Based on the content of SAR-3.xml, what appears to be the key concern raised by Deutsche Bank regarding Karl Heinz\u2019s transactions?",
+    "answer": "Multiple transactions to the same recipient account with suspicious descriptions; potential indication of fraud; customer has reported concerns about the legitimacy of the recipient."
   },
   {
-    "question": "What does the NovaTrade AI website dashboard reportedly display?",
-    "answer": "A graph showing exponential growth in the account balance, a 'Deposit' button, a 'Withdraw Funds' button, and a news feed reporting on the AI's 'successful trades'."
+    "question": "What is the stated estimated timeframe for funds to become available after a withdrawal request is submitted, according to the recovery platform?",
+    "answer": "24-48 hours"
   },
   {
-    "question": "What is the date of the initial transaction involving Victim 1 and Altcoin Global Ltd, according to transaction_details_1.csv?",
-    "answer": "2023-11-18 08:30:00"
+    "question": "What is the purpose of the initial email according to the sender?",
+    "answer": "To assess the case and determine the feasibility of recovery."
   },
   {
-    "question": "What action is Victim 1 encouraged to take in email_2.txt to maximize earnings?",
-    "answer": "Increase their investment"
+    "question": "What does the promotional material highlight as a key benefit of using CryptoRecoveryExperts?",
+    "answer": "Experienced Recovery Specialists"
   }
 ]

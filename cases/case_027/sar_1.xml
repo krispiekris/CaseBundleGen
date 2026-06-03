@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE20231201-456</ReportID>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SuspiciousActivityReport.xsd">
+  <ReportDate>2023-12-22</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE87370400440532013548</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-10-01</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>DE09370400440532013548</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Unusual large deposit followed by small withdrawal, possible investment fraud.</Findings>
+  <CustomerName>Helmut Schmidt</CustomerName>
+  <CustomerAddress>Musterstrasse 1, 10115 Berlin, Germany</CustomerAddress>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2023-12-20</TransactionDate>
+  <TransactionAmount currency="EUR">18000</TransactionAmount>
+  <TransactionType>Withdrawal</TransactionType>
+  <BeneficiaryName>NovaAI Trading Platform</BeneficiaryName>
+  <BeneficiaryAccount>987654321</BeneficiaryAccount>
+  <BeneficiaryBank>Apex Financial Services</BeneficiaryBank>
+  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
+  <Suspicion>Unusual withdrawal request. Account activity inconsistent with customer profile.  Recipient bank located in high-risk jurisdiction.</Suspicion>
+  <FiledBy>Anna Weber</FiledBy>
+  <FiledByPosition>AML Officer</FiledByPosition>
 </SAR>

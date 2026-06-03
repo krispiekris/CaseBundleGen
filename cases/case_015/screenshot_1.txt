@@ -1,1 +1,0 @@
-Description: Screenshot of the NovaTrade AI dashboard. The dashboard shows a user account with a display balance of €8500. A graph shows an upward trend with a “Profit: €3500” indicator.  There is a prominent button labeled 'Deposit Funds'.

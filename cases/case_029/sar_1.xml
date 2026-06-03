@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DE2023-0045</ReportID>
-  <ReportingInstitution>Deutsche Zentralbank</ReportingInstitution>
-  <Subject>
-    <Name>Helmut Schmidt</Name>
-    <Account>DE87370400440532013000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-01-05</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LC061234567890123456</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Initial Investment</Purpose>
-  </Transaction>
-  <Findings>Initial investment made by victim into an AI trading platform.  Further investigation recommended due to unusual activity patterns.</Findings>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.example.com/sar_schema.xsd">
+  <ReportDate>2023-06-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-06-10</TransactionDate>
+    <TransactionAmount currency="EUR">15000</TransactionAmount>
+    <TransactionType>Withdrawal Request</TransactionType>
+    <SenderName>Klaus Meier</SenderName>
+    <SenderAccount>GFV123456789</SenderAccount>
+    <ReceiverName>Global Forex Ventures</ReceiverName>
+    <ReceiverAccount>BEL_GFV_001</ReceiverAccount>
+    <LocationOfReceiver>Belize</LocationOfReceiver>
+    <Suspicion>Customer requests large withdrawal shortly after significant deposits. Account activity inconsistent with stated investment goals.</Suspicion>
+  </SuspiciousActivity>
 </SAR>

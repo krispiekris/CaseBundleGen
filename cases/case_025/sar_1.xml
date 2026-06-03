@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-008</ReportID>
-  <ReportingInstitution>Barclays Bank</ReportingInstitution>
-  <Subject>
-    <Name>John Smith</Name>
-    <Account>00930019833812713800</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>5000</Amount>
-    <Currency>GBP</Currency>
-    <DestinationAccount>NG350441362496785</DestinationAccount>
-    <DestinationName>Bright Future Investments</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-09-22</Date>
-    <Amount>2000</Amount>
-    <Currency>GBP</Currency>
-    <DestinationAccount>NG350441362496785</DestinationAccount>
-    <DestinationName>Bright Future Investments</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>
-    Suspicious activity detected; large transfers to Nigeria with vague purpose. Further investigation recommended.</Findings>
-  </SAR>
+<sar>
+  <report_id>SAR-2023-09-15-001</report_id>
+  <reporting_institution>Barclays Bank</reporting_institution>
+  <date_filed>2023-09-15</date_filed>
+  <reporter_name>Compliance Officer</reporter_name>
+  <reporter_position>Compliance Officer</reporter_position>
+  <customer_name>David Miller</customer_name>
+  <customer_dob>1968-05-20</customer_dob>
+  <customer_address>12 Oak Avenue, London, SW1A 0AA, UK</customer_address>
+  <suspicious_activity>
+    <activity_type>Unusual Transaction Pattern</activity_type>
+    <activity_date>2023-08-01</activity_date>
+    <transaction_amount>15000.00</transaction_amount>
+    <transaction_currency>GBP</transaction_currency>
+    <transaction_description>Withdrawal Attempt - Rejected</transaction_description>
+    <recipient_name>Global Investments Ltd</recipient_name>
+    <recipient_account>GB29NWBK40341320492372</recipient_account>
+    <recipient_country>Malta</recipient_country>
+    <suspicion_reason>Customer reports difficulties withdrawing funds after initial investments and receiving seemingly fabricated profits.  Transaction attempt flagged as potentially fraudulent.</suspicion_reason>
+  </suspicious_activity>
+  <related_parties>
+    <party type="customer">David Miller</party>
+    <party type="recipient">Global Investments Ltd</party>
+  </related_parties>
+</sar>

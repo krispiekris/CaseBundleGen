@@ -1,4 +1,10 @@
-Date,Description,Amount,Currency,Beneficiary
-2024-01-15,Wire Transfer,1000,EUR,NovaTrade Solutions Ltd
-2024-02-22,Wire Transfer,5000,EUR,Helmut Schmidt
-2024-03-01,Wire Transfer,2000,EUR,Unknown
+Date,Description,Amount (EUR),IBAN
+2023-11-10,Online Payment, -150.00,DE89370400440532015000
+2023-11-17,Transfer to Global Investments Ltd.,-5000.00,DE89370400440532015000
+2023-11-20,Profit Payout, +125.00,DE89370400440532015000
+2023-11-27,Profit Payout, +375.00,DE89370400440532015000
+2023-12-04,Profit Payout, +562.50,DE89370400440532015000
+2023-12-11,Profit Payout, +843.75,DE89370400440532015000
+2024-01-10,Profit Payout, +1265.63,DE89370400440532015000
+2024-01-15,Withdrawal Attempt, -500.00,DE89370400440532015000
+2024-03-01,Complaint Filed, ,,

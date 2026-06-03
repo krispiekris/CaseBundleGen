@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-125</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Unknown</Name>
-    <Account>BE6543215678901234567890</Account>
-  </Subject>
+  <Header>
+    <SARReferenceID>20240118-003</SARReferenceID>
+    <FilingDate>2024-01-18</FilingDate>
+    <FilingInstitution>Deutsche Bank</FilingInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-12-20</Date>
-    <Amount>15000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>NovaAI Trading Platform</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-90123</TransactionID>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">2000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Ulrich Baumann</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Prime Global Investments Ltd.</Name>
+      <AccountID>ZA98765432109876543210</AccountID>
+      <Country>South Africa</Country>
+    </BeneficiaryParty>
+    <Description>International Money Transfer</Description>
   </Transaction>
-  <Findings>Funds received from victim's account (DE8710000000001234567890) and routed through a Belgian intermediary account (BE6543215678901234567890) to NovaAI Trading Platform.  Potential money laundering related to investment fraud.</Findings>
+  <Findings>
+    <SuspiciousActivity>Multiple international transfers to the same beneficiary, showing a pattern of investment fraud.</SuspiciousActivity>
+    <RiskLevel>Critical</RiskLevel>
+  </Findings>
 </SAR>

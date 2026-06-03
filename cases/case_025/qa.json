@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR filed by Barclays Bank, what was the initial purpose stated for the transfers to Bright Future Investments?",
-    "answer": "Investment"
+    "question": "What is the initial investment amount made by the customer on April 22nd, according to SAR 3?",
+    "answer": "7500.00"
   },
   {
-    "question": "What amount of 'processing fee' was requested from John Smith to continue receiving profit distributions?",
-    "answer": "\u00a3500"
+    "question": "According to the promotional material, what is one benefit of using AlphaTrade AI?",
+    "answer": "24/7 Market Monitoring"
   },
   {
-    "question": "What is the URL provided in the email from 'investments@automatedwealth.fake'?",
-    "answer": "www.automatedwealth.fake"
+    "question": "Based on the email from Victor Adebayo, what percentage profit did the customer's account experience?",
+    "answer": "12.3%"
   },
   {
-    "question": "Based on the screenshot, what is displayed on John Smith's AutomatedWealth AI account dashboard?",
-    "answer": "A graph charting 'daily profit' and a number '+\u00a31250.00'"
+    "question": "What is the balance displayed on the screenshot of the trading platform?",
+    "answer": "\u00a325,000"
   },
   {
-    "question": "Which financial institution reported suspicious activity related to Bright Future Investments in SAR INV2024-009?",
-    "answer": "Dubai Islamic Bank"
+    "question": "Which financial institution's account details are referenced in the bank statements?",
+    "answer": "GB29NWBK40341320492372"
   },
   {
-    "question": "What amount of salary did John Smith receive on 2023-09-01 according to the bank statement?",
-    "answer": "\u00a36000"
+    "question": "What date, according to bank statement 1, was the salary credit received by the customer?",
+    "answer": "2023-03-10"
   },
   {
-    "question": "According to brochure_2.txt, what benefit is offered to members of the AutomatedWealth AI VIP program?",
-    "answer": "Personalized investment strategies"
+    "question": "What type of operation is mentioned as a possible explanation for the victim's experience in SAR 3?",
+    "answer": "Ponzi scheme or fraudulent investment operation"
   },
   {
-    "question": "What is the stated reason given by 'Financial Compliance Auditors' for requiring a verification fee?",
-    "answer": "To release funds after a final audit of John Smith\u2019s account"
+    "question": "According to SAR 3, what country is 'Global Investments Ltd.' located in?",
+    "answer": "Seychelles"
   },
   {
-    "question": "What is the date of the earliest transaction in the SAR filed by Access Bank Nigeria?",
-    "answer": "2023-09-15"
+    "question": "What is the purpose of the email sent by Victor Adebayo?",
+    "answer": "To inform the customer about a positive account performance and suggest reinvesting profits."
   },
   {
-    "question": "What benefit, if any, is given to John Smith in the email from profits@automatedwealth.fake?",
-    "answer": "A profit of \u00a31250.00 in the last 24 hours"
+    "question": "List the entities mentioned in both the email and the promotional material.",
+    "answer": "Global Investments Ltd., AlphaTrade AI"
   }
 ]

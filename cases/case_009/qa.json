@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what was the initial investment amount made by Victim 1?",
-    "answer": "15000 EUR"
+    "question": "According to the initial welcome email, what is the stated purpose of AIX Capital?",
+    "answer": "To analyze market trends and execute trades with unparalleled precision, generating exceptional returns."
   },
   {
-    "question": "What is the purpose of the transaction recorded in sar_2.xml involving Victim 1?",
-    "answer": "Withdrawal Request"
+    "question": "What is the initial investment amount made by David Miller to AIX Capital, as recorded in the first SAR?",
+    "answer": "5000.00"
   },
   {
-    "question": "What currency was used for the initial investment and subsequent deposits made by Victim 1?",
-    "answer": "EUR"
+    "question": "What reason did the First National Bank provide in the first SAR for their suspicion regarding David Miller's transaction to AIX Capital?",
+    "answer": "Unusual investment destination and lack of transparency regarding the platform's operations."
   },
   {
-    "question": "Which destination account appears in both sar_1.xml and sar_3.xml?",
-    "answer": "BZ1234567890"
+    "question": "What prompted David Miller to make an additional investment of $10,000, according to the second SAR?",
+    "answer": "Reported pressure from a platform representative."
   },
   {
-    "question": "According to email_3.txt, what action is the victim urged to take to 'unlock' their profits?",
-    "answer": "Make an additional deposit of 2000 EUR"
+    "question": "What does the promotional material claim AIX Capital offers investors?",
+    "answer": "High returns, automated trading, a user-friendly interface, and 24/7 support."
   },
   {
-    "question": "What offshore location is associated with Global Solutions Ltd. according to sar_2.xml?",
-    "answer": "Cayman Islands"
+    "question": "What is the stated reason for the failed withdrawal attempt recorded in the third SAR?",
+    "answer": "Funds unavailable. Platform unresponsive."
   },
   {
-    "question": "According to sar_3.xml, what is the relationship between the funds received from the victim\u2019s account and the shell company?",
-    "answer": "Funds received from victim's account were quickly transferred to an offshore shell company."
+    "question": "According to the email from Alex Volkov, what specific market is being targeted for potential returns?",
+    "answer": "The cryptocurrency market."
   },
   {
-    "question": "What is the stated purpose of NovaTech AI according to brochure_1.txt?",
-    "answer": "Your Intelligent Investment Partner"
+    "question": "What does the screenshot of the AI platform show in terms of potential profit and risk?",
+    "answer": "Simulated performance. Results not guaranteed."
   },
   {
-    "question": "What does screenshot_1.txt indicate about the user's account balance on the mock trading platform?",
-    "answer": "\u20ac22,500"
+    "question": "Based on the provided bank statements, what sequence of events occurred between January 15th and July 12th, 2023? List them in chronological order.",
+    "answer": "Incoming Transfer of 1000.00, AIX Capital Investment of -5000.00, Interest Earned of 1.23, Utility Bill of -150.00, Restaurant of -50.00, Interest Earned of 1.23, Online Purchase of -25.00, AIX Capital Investment of -10000.00, Interest Earned of 1.23, Withdrawal Attempt - Declined of -7500.00"
   },
   {
-    "question": "Based on bank_statement_2.csv, where did the 5000 EUR transferred from Victim 1's account ultimately go?",
-    "answer": "Unknown Recipient"
+    "question": "Which entities are directly involved in the transactions related to AIX Capital, as evidenced across multiple files?",
+    "answer": "David Miller, AIX Capital, First National Bank"
   }
 ]

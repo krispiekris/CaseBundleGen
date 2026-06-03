@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial SAR (INV2024-001), what was the initial deposit made to the QuantumLeap AI Trading platform?",
-    "answer": "EUR 10,000"
+    "question": "What was the initial investment amount Ulrich Baumann made with AI Trading Pro?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What is the purpose stated for the transaction dated 2024-01-18 to Altcoin Global Ltd?",
-    "answer": "Withdrawal attempt - Technical Issue"
+    "question": "According to the SAR reports, what were two initial findings related to Ulrich Baumann's activity?",
+    "answer": "Unsolicited contact, High-pressure sales tactics"
   },
   {
-    "question": "What processing fee was requested from Hans M\u00fcller to initiate the fund recovery process?",
-    "answer": "10% of his total investment"
+    "question": "What action did Ulrich Baumann take after making the initial deposit?",
+    "answer": "He inquired about account setup and requested clarification."
   },
   {
-    "question": "Which institution flagged the transaction to Altcoin Global Ltd, leading to a potential investment fraud investigation?",
-    "answer": "Deutsche Bank"
+    "question": "Besides the initial investment, how much did Ulrich Baumann deposit in a later transaction?",
+    "answer": "\u20ac3,000"
   },
   {
-    "question": "What is the phone number provided for the 'QuantumLeap Recovery Team'?",
-    "answer": "+1-555-RECOVER"
+    "question": "What was the stated reason for requiring an additional verification fee from Ulrich Baumann?",
+    "answer": "Increased security measures to ensure the safety of funds."
   },
   {
-    "question": "Based on the screenshot description, what features are visible on the QuantumLeap AI Trading platform login page?",
-    "answer": "Logo, username and password fields, and a 'Login' button"
+    "question": "What was the description associated with the initial transaction of \u20ac5,000?",
+    "answer": "Initial Investment - AI Trading Pro"
   },
   {
-    "question": "What destination account was used for the transfer of funds to Dragon Holdings Ltd, as indicated in the bank_statement_2.csv file?",
-    "answer": "BZ000000000000000000"
+    "question": "What is the timestamp associated with the screenshot of the AI Trading Pro platform?",
+    "answer": "2023-09-10 14:30 GMT+1"
   },
   {
-    "question": "According to SAR INV2024-0078-FUP, what triggered the reporting institution to suspect potential investment fraud and money laundering risk?",
-    "answer": "Victim reports difficulty in withdrawing funds, and a transaction to Altcoin Global Ltd was flagged."
+    "question": "What was the amount of the attempted withdrawal and why was it denied?",
+    "answer": "\u20ac10,000, due to the withdrawal request being denied."
   },
   {
-    "question": "What does the brochure_2.txt highlight about the automated trading system\u2019s data analysis capabilities?",
-    "answer": "QuantumLeap analyzes thousands of data points every second."
+    "question": "What promotional offer was advertised alongside an image of a luxurious yacht?",
+    "answer": "Exclusive Bonus: Get a free consultation with our expert trading advisors!"
   },
   {
-    "question": "What is the anticipated timeframe for a full return of funds, as stated in the Fund Recovery Confirmation email?",
-    "answer": "7-10 business days"
+    "question": "What did Ulrich Baumann express in his urgent email regarding his withdrawal issues?",
+    "answer": "He expressed concern, suspicion of fraudulent activity, and a desire for his money back."
   }
 ]

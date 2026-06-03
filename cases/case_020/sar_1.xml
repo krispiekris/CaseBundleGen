@@ -1,26 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2023-123</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <Subject>
-    <Name>Hans Schmidt</Name>
-    <Account>DE1272150000001234567890</Account>
-  </Subject>
+  <Header>
+    <ReferenceID>SAR-2023-0415</ReferenceID>
+    <Date>2023-06-25</Date>
+    <Bank>Commonwealth Bank of Australia</Bank>
+    <BranchID>12345</BranchID>
+  </Header>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>10000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12010000010000001234</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd.</DestinationName>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-001</TransactionID>
+    <Date>2023-04-05</Date>
+    <Amount>5000.00</Amount>
+    <Currency>AUD</Currency>
+    <SenderAccount>1234567890</SenderAccount>
+    <SenderName>David Anderson</SenderName>
+    <RecipientAccount>GB21NWBK202040082800</RecipientAccount>
+    <RecipientName>Apex Global Investments Ltd</RecipientName>
+    <Description>Initial Investment</Description>
   </Transaction>
-  <Transaction>
-    <Date>2023-09-15</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ12010000010000001234</DestinationAccount>
-    <DestinationName>NovaTrade AI Ltd.</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Unusual transaction patterns, large transfers to offshore account.  Further investigation recommended.</Findings>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud - AI Trading Pro</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+    <Notes>Customer invested $5000.  Recipient is located in the UK, and the company appears to lack legitimate business information. Further investigation warranted.</Notes>
+  </Findings>
 </SAR>

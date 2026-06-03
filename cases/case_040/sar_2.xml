@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-5678</ReportID>
-  <ReportingInstitution>NatWest Bank</ReportingInstitution>
-  <Subject>
-    <Name>Payment Processor</Name>
-  </Subject>
+  <Header>
+    <ReportDate>2024-02-05</ReportDate>
+    <ReportID>SAR-20240205-002</ReportID>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
   <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>BZ000123456</DestinationAccount>
-    <DestinationName>AutomatedTradePro Ltd</DestinationName>
-    <Purpose>Withdrawal Processing Fee</Purpose>
+    <TransactionDate>2024-01-15</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <SenderName>Ulrich Baumann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Aix Capital Limited</ReceiverName>
+    <ReceiverAccount>GB86 NWBK 9000 0000 1234 5678</ReceiverAccount>
+    <Description>Investment in AI Trading Platform</Description>
+    <SuspiciousActivity>Potential investment fraud - large unusual deposit</SuspiciousActivity>
   </Transaction>
-  <Findings>Suspected money laundering, potential connection to investment fraud.</Findings>
 </SAR>

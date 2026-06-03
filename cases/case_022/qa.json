@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what is the account number of Heinrich Schmidt?",
-    "answer": "DE8711000070070012345678"
+    "question": "What was the initial amount Klaus Schmidt deposited into AI Trading Pro, according to the SAR?",
+    "answer": "6000.00 EUR"
   },
   {
-    "question": "What is the primary purpose stated for the transactions between Heinrich Schmidt and AutomatedWealth AI Ltd?",
-    "answer": "Investment"
+    "question": "What action did Deutsche Bank take regarding Klaus Schmidt's withdrawal request on 2024-01-25?",
+    "answer": "Withdrawal request denied - verification failed"
   },
   {
-    "question": "Based on email_3.txt, what action is Heinrich Schmidt required to take to proceed with a withdrawal?",
-    "answer": "Deposit \u20ac2,000 to cover processing fees"
+    "question": "According to the promotional material, what is one benefit of using the AI Trading Pro platform?",
+    "answer": "Experience significantly higher returns than traditional investments."
   },
   {
-    "question": "Which reporting institution flagged the suspicious activity involving Heinrich Schmidt\u2019s transactions, as indicated in SAR_2.xml?",
-    "answer": "Sparkasse"
+    "question": "What type of document did AI Trading Pro support request from Klaus Schmidt as part of their security verification process?",
+    "answer": "A copy of your government-issued identification and a recent utility bill."
   },
   {
-    "question": "What does the screenshot_1.txt describe about the website's design?",
-    "answer": "It has a sleek, modern design with graphs depicting exponential growth and a professional feel."
+    "question": "What is the bank name associated with the AI Trading Pro account mentioned in the SAR?",
+    "answer": "Alpha Beta Bank (Cyprus)"
   },
   {
-    "question": "According to SAR_3.xml, what is the purpose of the transactions initiated by AutomatedWealth AI Ltd to Heinrich Schmidt?",
-    "answer": "Investment"
+    "question": "What does the screenshot of the AI Trading Pro homepage highlight?",
+    "answer": "A sleek, modern design, testimonials, and recent 'trading results' with charts and graphs illustrating exponential growth."
   },
   {
-    "question": "What is the initial deposit amount Heinrich Schmidt made to AutomatedWealth AI Ltd, according to the bank_statement_1.csv?",
-    "answer": "-5000 EUR"
+    "question": "Based on the Telegram chat, what message did 'CryptoGuru77' convey to Klaus Schmidt regarding the withdrawal issues?",
+    "answer": "Don't worry, these things happen. Just keep following the instructions from support, and it will be sorted quickly."
   },
   {
-    "question": "What is the first mention of AutomatedWealth AI Ltd in the provided files, and which file does it appear in?",
-    "answer": "SAR_2.xml"
+    "question": "What type of report is sar_1.xml?",
+    "answer": "Suspicious Activity Report"
   },
   {
-    "question": "What incentive is offered to Heinrich Schmidt in email_2.txt?",
-    "answer": "A 15% bonus on his initial investment"
+    "question": "What is the main reason provided by AI Trading Pro for placing Klaus Schmidt's withdrawal request on hold, according to email_3.txt?",
+    "answer": "An ongoing security review"
   },
   {
-    "question": "According to bank_statement_2.csv, what is the currency of the withdrawal by AutomatedWealth AI Ltd?",
-    "answer": "USD"
+    "question": "What is the account number listed in sar_1.xml for AI Trading Pro?",
+    "answer": "CY001234567890"
   }
 ]

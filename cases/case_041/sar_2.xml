@@ -1,18 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>CM2024-015</ReportID>
-  <ReportingInstitution>Commerzbank</ReportingInstitution>
+<SAR id="SAR-20240120-002">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
+    <Name>Michael Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
   </Subject>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>2500</Amount>
+  <SuspiciousActivity>
+    <Date>2023-12-10</Date>
+    <Amount>3000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>US5312345678901234567890</DestinationAccount>
-    <DestinationName>Nova AI Trading LLC</DestinationName>
-    <Purpose>Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Funds transferred to offshore company.  Transaction aligns with previously flagged activity.</Findings>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Additional wire transfer - possible encouragement to increase investment.</Description>
+    <Beneficiary>
+      <Name>Global Investments Ltd.</Name>
+      <Account>1234567890</Account>
+      <Jurisdiction>Belize</Jurisdiction>
+    </Beneficiary>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Increased investment following encouragement from alleged 'AI Trading Expert'. Potential investment fraud scheme.</Finding>
+  </Findings>
+  <ReportingPerson>
+    <Name>Anna Schmidt</Name>
+    <Title>Compliance Officer</Title>
+  </ReportingPerson>
 </SAR>

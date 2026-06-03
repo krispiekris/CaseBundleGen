@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>NL2023-0567</ReportID>
-  <ReportingInstitution>ABN AMRO</ReportingInstitution>
-  <Subject>
-    <Name>Jan Pieter van Dijk</Name>
-    <Account>NL97ABNA022212345678</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-02-28</Date>
-    <Amount>8000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LC061234567890123456</DestinationAccount>
-    <DestinationName>NovaTrade AI</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Funds transferred to a destination account previously linked to suspected fraudulent activity.</Findings>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.example.com/sar_schema.xsd">
+  <ReportDate>2023-08-25</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-03-22</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Deposit</TransactionType>
+    <SenderName>Klaus Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Global Forex Ventures</ReceiverName>
+    <ReceiverAccount>BEL_GFV_001</ReceiverAccount>
+    <LocationOfReceiver>Belize</LocationOfReceiver>
+    <Suspicion>Large, unexplained deposits into an account linked to a potential Forex scam.</Suspicion>
+  </SuspiciousActivity>
 </SAR>

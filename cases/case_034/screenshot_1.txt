@@ -1,1 +1,0 @@
-The NovaTrade AI website dashboard displays a graph showing exponential growth in the account balance.  There are buttons labeled 'Deposit' and 'Withdraw Funds'. A news feed reports on the AI's 'successful trades'.

@@ -1,0 +1,12 @@
+QuantumLeap AI Trading Performance
+
+Account: David Miller
+Time Period: 2023-09-28 to 2023-12-05
+
+Asset | Start Value | End Value | Gain/Loss |
+---|---|---|---|
+BTC | $5000 | $6500 | +$1500 |
+ETH | $10000 | $12000 | +$2000 |
+
+Total Gain: $3500
+Note: Performance data is delayed and for informational purposes only.

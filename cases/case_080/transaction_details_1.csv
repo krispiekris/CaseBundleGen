@@ -1,0 +1,3 @@
+Transaction ID,Date,Amount,Recipient,Currency,Status
+TXN-12345,2023-04-01,5000.00,AI-Trade Solutions,USD,Completed
+TXN-67890,2023-06-22,10000.00,AI-Trade Solutions,USD,Completed

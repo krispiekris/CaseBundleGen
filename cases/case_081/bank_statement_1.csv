@@ -1,6 +1,12 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-28,Online Transfer,-200,EUR,
-2023-12-05,NovaTrade Investments,-2000,EUR,NovaTrade Investments Ltd
-2024-01-10,Profit Distribution,500,EUR,NovaTrade Investments Ltd
-2024-01-15,Online Transfer,-100,EUR,
-2024-02-18,Withdrawal Attempt,-2000,EUR,NovaTrade Investments Ltd
+Date,Description,Amount,Currency
+2023-03-10,Electricity Bill,-150.00,AUD
+2023-03-15,Transfer to Apex Trading Solutions,15000.00,AUD
+2023-04-05,Groceries,50.00,AUD
+2023-04-22,Transfer to Apex Trading Solutions,15000.00,AUD
+2023-05-10,Restaurant,80.00,AUD
+2023-06-10,Phone Bill,-75.00,AUD
+2023-07-05,Withdrawal from Apex Trading Solutions,1000.00,AUD
+2023-08-10,Travel Expenses,-300.00,AUD
+2023-09-05,Transfer to Apex Trading Solutions,30000.00,AUD
+2023-10-10,Insurance,200.00,AUD
+2023-11-15,Attempted Withdrawal from Apex Trading Solutions,,,

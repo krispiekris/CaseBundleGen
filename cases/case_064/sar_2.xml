@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-012</ReportID>
-  <ReportingInstitution>Banque Raiffeisen</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>DE89370400440532013000</Account>
-  </Subject>
+  <Header>
+    <ReportDate>2023-10-20</ReportDate>
+    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
+    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
+  </Header>
   <Transaction>
-    <Date>2023-11-10</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>HK1234567890</DestinationAccount>
-    <DestinationName>Phoenix Trading Group</DestinationName>
-    <Purpose>Investment Returns</Purpose>
+    <TransactionDate>2023-10-15</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>NG48901234567890123456</ReceiverAccount>
+    <ReceiverName>Oluwaseun Adebayo</ReceiverName>
+    <ReceiverCountry>Nigeria</ReceiverCountry>
+    <Description>Transfer to AI Trading Platform</Description>
   </Transaction>
-  <Findings>Suspicious transfer of funds following initial investment. Destination account in Hong Kong with unclear purpose.</Findings>
+  <Findings>
+    <SuspiciousActivity>Second unusually large transfer to foreign account with limited information about receiver, following an initial small transfer and claims of profits.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud - escalating requests for funds.</PotentialFraud>
+  </Findings>
 </SAR>

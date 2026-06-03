@@ -1,1 +1,0 @@
-Description: Screenshot of the QuantumEdge AI website dashboard. The dashboard displays a graph showing exponential growth over the past few months, with daily profit percentages ranging from 1% to 3%. Below the graph are statements like 'Your Account Balance: €15,000' and 'Daily Profit: €250'. The overall design is modern and sleek, with a predominantly dark color scheme.

@@ -1,5 +1,7 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-17,Transfer to Altcoin Global Ltd,-5000,EUR,Altcoin Global Ltd
-2023-11-20,Salary,3500,EUR,Company A
-2024-01-15,Withdrawal,1500,EUR,Altcoin Global Ltd
-2024-03-02,Failed Transfer,10000,EUR,Altcoin Global Ltd
+Date,Description,Amount (EUR),IBAN
+2023-11-15,CryptoRecoveryExperts, -5000,DE45300100000000000000
+2023-11-22,Security Clearance, -5000,DE45300100000000000000
+2023-12-05,Further Clearance, -2000,DE45300100000000000000
+2023-12-10,Salary Deposit, 3500,DE78300100000000000000
+2023-12-15,Rent Payment, -1200,DE46300100000000000000
+2024-01-05,Grocery Shopping, -200,DE45300100000000000000

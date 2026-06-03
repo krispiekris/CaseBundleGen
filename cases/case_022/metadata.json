@@ -1,48 +1,45 @@
 {
-  "case_id": "CY2024-1127",
+  "case_id": "2024-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000-\u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Yoruba"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "Saint Vincent and the Grenadines"
+    "Cyprus",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim discovers 'AutomatedWealth AI'"
+      "event": "Victim contacts 'AI Trading Pro'"
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial deposit made"
+      "date": "2023-12-05",
+      "event": "Initial investment made"
     },
     {
-      "date": "2024-01-15",
-      "event": "Victim experiences first 'profit' payout"
+      "date": "2024-01-10",
+      "event": "Victim requests withdrawal"
     },
     {
-      "date": "2024-03-01",
-      "event": "Victim requests withdrawal, encounters issues"
+      "date": "2024-01-25",
+      "event": "Withdrawal request denied"
     },
     {
-      "date": "2024-03-15",
-      "event": "Victim realizes scam and reports"
-    },
-    {
-      "date": "2024-04-20",
-      "event": "Initial SAR filing"
+      "date": "2024-02-01",
+      "event": "Victim files complaint"
     }
   ],
   "assets_involved": [
@@ -51,12 +48,8 @@
       "amount_range": "\u20ac10,000 - \u20ac20,000"
     },
     {
-      "type": "EUR Bank Transfers",
+      "type": "Bank Transfers",
       "amount_range": "\u20ac5,000 - \u20ac15,000"
-    },
-    {
-      "type": "Gift Cards (Amazon)",
-      "amount_range": "\u20ac100 - \u20ac500"
     }
   ]
 }

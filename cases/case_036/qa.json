@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR from Deutsche Bank, what was the purpose of the transaction involving Helmut Schmidt's account?",
-    "answer": "Investment"
+    "question": "According to the initial promotional material, what is a key feature of AI Trading Solutions' algorithms?",
+    "answer": "They analyze market data 24/7, identifying opportunities that human traders miss."
   },
   {
-    "question": "What is the destination account number in the SAR filed by Luminor Bank?",
-    "answer": "NG40700001110123451"
+    "question": "What jurisdiction is listed for the recipient account in the SAR reports?",
+    "answer": "Belize"
   },
   {
-    "question": "What is the stated purpose of the transaction involving Chinedu Okoro as reported in the Barclays Bank SAR?",
-    "answer": "Investment"
+    "question": "What was the amount of Klaus Richter's initial deposit to AI Trading Solutions?",
+    "answer": "\u20ac2,500.00"
   },
   {
-    "question": "What amount did QuantumAlgo suggest Helmut Schmidt deposit to 'further accelerate his profits'?",
-    "answer": "\u20ac2,500"
+    "question": "What reason did Deutsche Bank AG provide for flagging Klaus Richter\u2019s initial transfer as suspicious?",
+    "answer": "The platform appears to be operating from an offshore jurisdiction."
   },
   {
-    "question": "What type of trading does the QuantumAlgo brochure claim to offer?",
-    "answer": "AI-driven trading"
+    "question": "Based on the bank statement, what are the amounts of the two 'AI Trading Solutions Profit Distribution' transactions?",
+    "answer": "\u20ac500.00 and \u20ac750.00"
   },
   {
-    "question": "What is the URL associated with QuantumAlgo, as found in the promotional materials and emails?",
-    "answer": "www.quantumalgo.fake"
+    "question": "What is the Risk Level associated with the SAR filed on 2024-02-10?",
+    "answer": "High"
   },
   {
-    "question": "What is the purpose of the email seemingly intended to verify Helmut Schmidt\u2019s account, according to its subject line?",
-    "answer": "Security Verification"
+    "question": "What did the screenshot of the platform website highlight to attract potential customers?",
+    "answer": "A rapidly increasing line representing simulated profits."
   },
   {
-    "question": "According to the chat screenshot, what is the name of the 'support agent' communicating with Helmut Schmidt?",
-    "answer": "David"
+    "question": "What did Klaus Richter express in his urgent message to AI Trading Solutions?",
+    "answer": "He expressed extreme concern regarding a denied withdrawal request and his inability to fully access his account."
   },
   {
-    "question": "What is the date of the salary deposit recorded in Helmut Schmidt's bank statement?",
-    "answer": "2023-11-15"
+    "question": "Based on the promotional material, what is implied about the potential returns offered by AI Trading Solutions?",
+    "answer": "Guaranteed Returns (Subject to Market Conditions)"
   },
   {
-    "question": "What is the purpose of the transaction from LT12100001110123451 to NG40700001110123451?",
-    "answer": "Investment"
+    "question": "What is the description given for the type of activity reported in SAR-20240229-003?",
+    "answer": "Suspicious activity report filed by client regarding denied withdrawal request and potential fraud."
   }
 ]

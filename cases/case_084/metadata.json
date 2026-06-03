@@ -1,60 +1,54 @@
 {
-  "case_id": "CY2024-087",
+  "case_id": "2024-02-29-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Kingdom",
-    "Seychelles"
+    "Seychelles",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim discovers 'CryptoGain AI'"
+      "date": "2023-09-15",
+      "event": "Initial contact via email offering AI trading platform"
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial investment of \u20ac1,000"
+      "date": "2023-10-20",
+      "event": "Victim deposits \u20ac10,000 into platform"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim withdraws initial profit (\u20ac200)"
+      "date": "2023-11-10",
+      "event": "Victim sees initial 'profits' and invests further"
     },
     {
-      "date": "2024-02-15",
-      "event": "Increased investment to \u20ac5,000"
+      "date": "2024-01-05",
+      "event": "Victim attempts to withdraw funds - denied"
     },
     {
-      "date": "2024-03-01",
-      "event": "Victim attempts withdrawal - rejected"
-    },
-    {
-      "date": "2024-03-15",
-      "event": "Victim reports fraud"
+      "date": "2024-02-28",
+      "event": "Case reported to authorities"
     }
   ],
   "assets_involved": [
     {
       "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "amount_range": "\u20ac20,000 - \u20ac30,000"
     },
     {
-      "type": "EUR (Bank Transfers)",
-      "amount_range": "\u20ac1,000 - \u20ac6,000"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     }
   ]
 }

@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The page shows a 'Dashboard' with the following elements: 'Account Balance: 0.75 BTC', 'Recovery Progress: 65%', 'Available Funds: $5,500', 'Withdrawal Request Form' (with fields for wallet address and amount).  A progress bar visually represents the 'Recovery Progress'. A message at the top reads, 'Funds will be available within 24-48 hours.'

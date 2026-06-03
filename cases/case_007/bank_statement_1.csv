@@ -1,5 +1,17 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-20,Salary,3500,EUR,Company B
-2023-12-01,Transfer to InnovAI, -2000,EUR,InnovAI Solutions Ltd
-2024-01-15,Transfer to InnovAI, -3000,EUR,InnovAI Solutions Ltd
-2024-02-18,Transfer to InnovAI, -5000,EUR,InnovAI Solutions Ltd
+Date,Description,Amount (EUR),Recipient IBAN
+2023-11-10,Incoming Salary,5000.00,
+2023-11-15,Investment Crypto Innovations, -5000.00,X789012345
+2023-11-18,Incoming Salary,5000.00,
+2023-11-22,Outgoing Expenses, -200.00,
+2023-11-25,Incoming Salary,5000.00,
+2023-11-28,Outgoing Expenses, -150.00,
+2023-12-01,Incoming Salary,5000.00,
+2023-12-05,Outgoing Expenses, -300.00,
+2023-12-08,Incoming Salary,5000.00,
+2023-12-12,Outgoing Expenses, -250.00,
+2023-12-15,Incoming Salary,5000.00,
+2023-12-19,Outgoing Expenses, -400.00,
+2023-12-22,Incoming Salary,5000.00,
+2023-12-26,Outgoing Expenses, -180.00,
+2023-12-29,Incoming Salary,5000.00,
+2023-12-31,Outgoing Expenses, -220.00,

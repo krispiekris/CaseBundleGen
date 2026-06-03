@@ -1,13 +1,13 @@
-From: recovery.specialist@legalclaims.com
-To: hans.mueller@email.de
-Subject: Urgent: Potential Recovery of Funds - QuantumTrade AI
+From: david.oladapo@apextradingsolutions.com
+To: klaus.hartmann@email.de
+Subject: Urgent: Your Account Requires Attention
 
-Dear Hans,
+Dear Klaus,
 
-We are a legal recovery firm specializing in assisting victims of fraudulent investment schemes like QuantumTrade AI. We believe you may be entitled to compensation.
+We've detected some unusual activity on your account. To ensure the security of your funds, we require you to verify your identity by providing some additional information.
 
-Our team can help you recover a significant portion of your lost funds. Contact us immediately for a free consultation.
+[Link to verification form - likely phishing]
 
-Sincerely,
-David Miller
-Legal Recovery Specialist
+Thank you for your cooperation.
+David Oladapo
+Apex Trading Solutions

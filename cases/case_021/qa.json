@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the Report ID of the SAR filed by Sparkasse Bank regarding Victim 1's initial transaction?",
-    "answer": "INV2024-005"
+    "question": "According to the initial email, what is the name of the AI algorithm used by AI Trading Solutions?",
+    "answer": "Athena"
   },
   {
-    "question": "According to sar_3.xml, which institution reported on Altcoin Global Ltd?",
-    "answer": "Banque Cantonale Valaisanne"
+    "question": "What was the amount of the first transfer made by Klaus Richter to AI Trading Solutions, according to the SAR report?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "What was the stated purpose of the initial transaction of 5000 EUR to Altcoin Global Ltd, as indicated in sar_1.xml?",
-    "answer": "Investment"
+    "question": "Based on promotional material 2, what percentage of monthly return does AI Trading Solutions claim to achieve?",
+    "answer": "10-15%"
   },
   {
-    "question": "Which email subject line suggests an urgent need for additional investment to maintain profits?",
-    "answer": "Urgent: Secure Your QuantumFX Profits"
+    "question": "What was the risk level assigned to the second SAR (SAR Reference 20240115-GER-002)?",
+    "answer": "High"
   },
   {
-    "question": "What action did the reporting institution take regarding the victim's attempted withdrawal of 1000 EUR, as documented in sar_2.xml?",
-    "answer": "Rejected"
+    "question": "What special bonus was offered to new investors in the follow-up email?",
+    "answer": "A complimentary strategy session with one of our senior AI analysts"
   },
   {
-    "question": "What specific detail is requested in screenshot_2.txt by the 'QuantumFX Support Agent'?",
-    "answer": "A copy of the victim\u2019s passport and utility bill"
+    "question": "What description was used for the failed withdrawal attempt in SAR 3?",
+    "answer": "Failed Withdrawal Attempt - AI Trading Solutions"
   },
   {
-    "question": "What 'guarantee' is prominently featured in the brochure_1.txt?",
-    "answer": "Guaranteed ROI \u2013 Daily Crypto Rewards"
+    "question": "What is the URL mentioned in the promotional material for receiving a personalized investment strategy?",
+    "answer": "https://www.aitradingsolutions.net/success"
   },
   {
-    "question": "What is the total account balance displayed on the victim's dashboard in screenshot_1.txt?",
-    "answer": "\u20ac17,500"
+    "question": "What does the screenshot of the trading platform display regarding 'Athena Performance'?",
+    "answer": "98.7%"
   },
   {
-    "question": "What amount was the victim requested to deposit in email_3.txt to prevent potential losses?",
-    "answer": "\u20ac2,000"
+    "question": "According to the email, why is AI Trading Solutions' algorithm advantageous?",
+    "answer": "It analyzes market trends and executes trades with unparalleled precision."
   },
   {
-    "question": "According to bank_statement_2.csv, where did 2000 EUR go after the incoming transfer of 5000 EUR?",
-    "answer": "Swiss Bank"
+    "question": "Which entity name appears in both SAR 1 and SAR 2?",
+    "answer": "AI Trading Solutions"
   }
 ]

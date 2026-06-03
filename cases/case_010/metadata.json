@@ -1,58 +1,55 @@
 {
-  "case_id": "CF2024-0078",
+  "case_id": "2024-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000-\u20ac80,000",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Arab Emirates"
+    "Nigeria",
+    "United Kingdom",
+    "Romania"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim discovers 'NovaTrade AI' promotional material online."
+      "event": "Initial contact via Telegram."
     },
     {
-      "date": "2023-12-01",
-      "event": "Victim makes initial investment of \u20ac2,000."
+      "date": "2023-11-22",
+      "event": "Victim invests \u20ac5,000."
     },
     {
-      "date": "2024-01-15",
-      "event": "Victim receives fabricated 'profit' payouts."
+      "date": "2023-12-05",
+      "event": "Victim deposits additional \u20ac10,000."
     },
     {
-      "date": "2024-03-01",
-      "event": "Victim attempts to withdraw funds and is denied."
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal, unsuccessful."
     },
     {
-      "date": "2024-03-15",
-      "event": "Victim reports the incident to authorities."
+      "date": "2024-01-18",
+      "event": "Victim reports fraud."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     },
     {
-      "type": "Bank Account Balance",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
-    },
-    {
-      "type": "Investment Account",
-      "amount_range": "\u20ac2,000 - \u20ac5,000"
+      "type": "Bank Account",
+      "amount_range": "\u20ac10,000 - \u20ac15,000"
     }
   ]
 }

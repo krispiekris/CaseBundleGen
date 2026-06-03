@@ -1,6 +1,2 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-25,Salary,8500,AUD,Company A
-2023-12-01,QuantumLeap Investments,-12000,EUR,QuantumLeap Investments Ltd
-2024-01-10,QuantumLeap Investments,-3000,EUR,QuantumLeap Investments Ltd
-2024-02-15,Salary,8500,AUD,Company A
-2024-02-20,Withdrawal, -2000,AUD,ATM
+Date,Description,Amount (EUR),IBAN
+2023-11-01,-5000.00,DE89370400440532013000\n2023-11-05,Salary,2500.00,DE89370400440532013000\n2023-11-15,-5000.00,DE89370400440532013000

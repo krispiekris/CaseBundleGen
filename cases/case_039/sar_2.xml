@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-0112</ReportID>
-  <ReportingInstitution>HSBC UK</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
+  <Header>
+    <ReportDate>2023-05-15</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-2023-05-15-002</ReferenceNumber>
+  </Header>
   <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-05-10</TransactionDate>
+    <Amount>10000.00</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Receiving Funds</Purpose>
+    <TransactionType>Debit</TransactionType>
+    <Description>Withdrawal Request Denied - NovaTrade AI</Description>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>GB24NWBK000000000000</ReceiverAccount>
+    <SuspiciousActivity>Unable to withdraw funds - potential fraud</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Receiving Funds</Purpose>
-  </Transaction>
-  <Findings>Receiving large amounts of funds from various sources with unclear ultimate beneficiary.  Further investigation recommended.</Findings>
+  <Party>
+    <AccountHolderName>Klaus Heinz</AccountHolderName>
+    <AccountHolderAddress>Musterstraße 1, 10115 Berlin</AccountHolderAddress>
+  </Party>
 </SAR>

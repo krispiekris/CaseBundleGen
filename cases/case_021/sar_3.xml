@@ -1,19 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-038</ReportID>
-  <ReportingInstitution>Banque Cantonale Valaisanne</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-    <Account>LT12100001110123451</Account>
-  </Subject>
+  <Header>
+    <SARReference>20240225-GER-003</SARReference>
+    <DateTime>2024-02-25T09:00:00Z</DateTime>
+    <Institution>
+      <Name>Deutsche Bank</Name>
+      <Identifier>DB-GER-001</Identifier>
+    </Institution>
+  </Header>
   <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>GR1601101250000000012310695</DestinationAccount>
-    <DestinationName>Victim 1</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Amount Currency="EUR">2000.00</Amount>
+    <Date>2024-02-22</Date>
+    <Description>Failed Withdrawal Attempt - AI Trading Solutions</Description>
+    <Origin>
+      <Account>
+        <IBAN>DE12345678901234567890</IBAN>
+        <Name>Klaus Richter</Name>
+      </Account>
+    </Origin>
+    <Destination>
+      <Account>
+        <IBAN>ZA88011100110000123456</IBAN>
+        <Name>AI Trading Solutions</Name>
+      </Account>
+    </Destination>
   </Transaction>
-  <Findings>Significant inflow of funds from Germany.  Purpose unclear.  Company appears to be operating with limited verifiable information.</Findings>
-  <ReportDate>2023-12-10</ReportDate>
+  <Findings>
+    <SuspiciousActivity>Attempted withdrawal from AI Trading Solutions platform failed, indicating potential issues with accessing funds.</SuspiciousActivity>
+    <RiskLevel>Critical</RiskLevel>
+  </Findings>
 </SAR>

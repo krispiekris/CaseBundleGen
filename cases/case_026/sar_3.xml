@@ -1,18 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-789</ReportID>
-  <ReportingInstitution>Bank of Panama</ReportingInstitution>
-  <Subject>
-    <Name>QuantumLeap AI</Name>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>2000</Amount>
+  <Header>
+    <SARReferenceNumber>20231201-003</SARReferenceNumber>
+    <DateFiled>2023-12-01</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
+  </Header>
+  <SuspectTransaction>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <TransactionAmount>Unknown</TransactionAmount>
     <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <SourceName>Victim 1</SourceName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
+    <TransactionType>Withdrawal Request</TransactionType>
+    <SenderName>Karl Schmidt</SenderName>
+    <SenderAccount>DE91370400440532014900</SenderAccount>
+    <ReceiverName>NovaTrade Solutions</ReceiverName>
+    <ReceiverAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverCountry>United Kingdom</ReceiverCountry>
+    <Description>Withdrawal Request Denied</Description>
+  </SuspectTransaction>
   <Findings>
-    The recipient is flagged for potential involvement in fraudulent investment schemes.</Findings>
+    <SuspiciousActivity>Withdrawal request denied by the platform.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud.</PotentialFraud>
+  </Findings>
 </SAR>

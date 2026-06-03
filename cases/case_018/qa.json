@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the brochure, what is the promised monthly return on investment for QuantumLeap AI?",
-    "answer": "Guaranteed 10% Monthly ROI."
+    "question": "According to the welcome email, what is the primary purpose of AI Trading Pro's algorithms?",
+    "answer": "To identify and capitalize on market opportunities, generating returns for members."
   },
   {
-    "question": "What is the purpose indicated for the transactions to QuantumLeap AI Management Ltd in the SAR files?",
-    "answer": "Investment."
+    "question": "What was the initial amount transferred from Richard Boudreau's account to AI Trading Pro, as indicated in the SAR report?",
+    "answer": "5000.00"
   },
   {
-    "question": "What does the screenshot_1.txt file suggest about the QuantumLeap AI website?",
-    "answer": "The website features a sleek, modern design with animated graphs showcasing impressive investment growth and prominently displays testimonials."
+    "question": "What country is listed as the beneficiary country for transactions involving AI Trading Pro?",
+    "answer": "Serbia"
   },
   {
-    "question": "Based on email_2.txt, what information does QuantumLeap AI request from the victim?",
-    "answer": "They request the victim's bank statement and a copy of their ID."
+    "question": "Based on the promotional material, what is highlighted as a key benefit of AI Trading Pro for users who are tired of traditional investing?",
+    "answer": "Real results"
   },
   {
-    "question": "How does email_3.txt attempt to influence the victim?",
-    "answer": "It urges the victim to make an additional investment of \u20ac3000 to recoup losses and maximize returns."
+    "question": "What is the stated reason given by AI Trading Pro for the 5% processing fee applied to withdrawals?",
+    "answer": "Regulatory requirements and security protocols"
   },
   {
-    "question": "Which entity is consistently mentioned across multiple SAR files and receives funds from both Victim 1 and Victim 2?",
-    "answer": "QuantumLeap AI Management Ltd"
+    "question": "What was the total amount of the one-time verification fee requested by AI Trading Pro?",
+    "answer": "500"
   },
   {
-    "question": "What concerning detail about the disclaimer is noted in the brochure_2.txt file?",
-    "answer": "The disclaimer stating 'Past performance is not indicative of future results' is in small print and barely legible."
+    "question": "Describe the design and appearance of the AI Trading Pro website, as observed in the screenshot.",
+    "answer": "Sleek, modern design with a dark blue and white color scheme, a rotating carousel of testimonials, charts and graphs demonstrating returns, and a 'Join Now' button."
   },
   {
-    "question": "What is the destination account number that appears in all transaction records?",
-    "answer": "CY7301230000000012345678"
+    "question": "What is a key feature mentioned in promotional material that emphasizes the simplicity of using AI Trading Pro?",
+    "answer": "No complicated strategies to learn!"
   },
   {
-    "question": "According to sar_1.xml, what is a concerning factor regarding Victim 1\u2019s suitability for this investment?",
-    "answer": "Victim has limited investment experience."
+    "question": "List the transaction types involved in the reported suspicious activity, including deposits to, and withdrawals from, Richard Boudreau's account.",
+    "answer": "Debit, Credit"
   },
   {
-    "question": "What is the date of the transaction involving Victim 1 as reported in sar_1.xml?",
-    "answer": "2023-11-18"
+    "question": "According to the bank statement, when was a transaction fee of -10.00 registered?",
+    "answer": "2023-09-22, 2023-10-12, 2023-10-18"
   }
 ]

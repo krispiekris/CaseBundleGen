@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-007</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount>12000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-12-05</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Initial deposit appears consistent with AI trading platform advertisement. Subsequent transactions show regular transfers to Altcoin Global Ltd.  Withdrawal request initiated on 2024-01-15, subsequently denied with vague explanations.</Findings>
-</SAR>
+<SuspiciousActivityReport>
+  <ReportDate>2023-10-05</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
+  <CustomerName>Klaus Heinz</CustomerName>
+  <CustomerAccount>1234567890</CustomerAccount>
+  <SuspiciousActivity>
+    <ActivityType>Unusual Transaction</ActivityType>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+    <TransactionDescription>Transfer to Nova Trading Platform</TransactionDescription>
+    <BeneficiaryName>Nova Technologies Ltd</BeneficiaryName>
+    <BeneficiaryAccount>9876543210</BeneficiaryAccount>
+    <BeneficiaryBank>Globex International Bank</BeneficiaryBank>
+    <BeneficiaryCountry>United Arab Emirates</BeneficiaryCountry>
+    <SuspicionReason>Large cash transfer to an overseas entity with limited information available about the recipient company.</SuspicionReason>
+  </SuspiciousActivity>
+  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
+</SuspiciousActivityReport>

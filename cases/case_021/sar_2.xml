@@ -1,19 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-012</ReportID>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
+  <Header>
+    <SARReference>20240115-GER-002</SARReference>
+    <DateTime>2024-01-15T14:15:00Z</DateTime>
+    <Institution>
+      <Name>Deutsche Bank</Name>
+      <Identifier>DB-GER-001</Identifier>
+    </Institution>
+  </Header>
   <Transaction>
+    <Amount Currency="EUR">3000.00</Amount>
     <Date>2024-01-10</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Withdrawal Attempt - Rejected</Purpose>
+    <Description>Transfer to AI Trading Solutions - Additional Investment</Description>
+    <Origin>
+      <Account>
+        <IBAN>DE12345678901234567890</IBAN>
+        <Name>Klaus Richter</Name>
+      </Account>
+    </Origin>
+    <Destination>
+      <Account>
+        <IBAN>ZA88011100110000123456</IBAN>
+        <Name>AI Trading Solutions</Name>
+      </Account>
+    </Destination>
   </Transaction>
-  <Findings>Victim attempted withdrawal which was denied. This action coincided with prior reports of scam activity. </Findings>
-  <ReportDate>2024-02-01</ReportDate>
+  <Findings>
+    <SuspiciousActivity>Follow-up transfer to the same foreign entity after initial investment, requested for increased returns.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

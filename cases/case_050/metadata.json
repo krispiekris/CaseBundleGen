@@ -1,5 +1,5 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-10-27-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
@@ -17,39 +17,39 @@
     ]
   },
   "destination_countries": [
-    "Saint Vincent and the Grenadines",
-    "Belize"
+    "United States",
+    "Hong Kong"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacts 'QuantumLeap AI' via online ad"
+      "event": "Initial Contact - Victim receives unsolicited email"
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial investment of \u20ac5,000 made by victim"
+      "date": "2023-11-22",
+      "event": "Victim invests \u20ac5,000"
     },
     {
-      "date": "2024-01-15",
-      "event": "Victim shown 'profit' screenshots, encouraged to invest more"
+      "date": "2023-12-10",
+      "event": "Victim attempts withdrawal - denied"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim attempts withdrawal, denied and pressured to invest further"
+      "date": "2024-01-18",
+      "event": "Victim invests additional \u20ac10,000"
     },
     {
-      "date": "2024-03-10",
-      "event": "Victim reports the incident"
+      "date": "2024-03-01",
+      "event": "Victim reports to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "\u20ac5,000 - \u20ac20,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     },
     {
-      "type": "Bitcoin",
-      "amount_range": "0.1 - 0.5 BTC"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     }
   ]
 }

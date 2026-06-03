@@ -1,0 +1,1 @@
+[Screenshot description: A mocked-up trading platform displaying a simple, clean interface.  Charts are shown with consistently positive trends.  A message at the top reads 'AI Profit Generator Active - Current Profit: +12.5%'.  The platform’s logo prominently displays 'AI Trading Solutions'. A small clock in the corner displays a time zone consistent with Georgia (UTC+4).]

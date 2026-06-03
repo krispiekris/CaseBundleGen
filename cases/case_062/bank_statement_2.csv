@@ -1,5 +1,4 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-11-16,Payment to NovaTrade AI, 1000,EUR,NovaTrade AI
-2024-01-16,Payment to NovaTrade AI, 3000,EUR,NovaTrade AI
-2024-02-16,Payment to NovaTrade AI, 4000,EUR,NovaTrade AI
-2024-03-16,Payment to NovaTrade AI, 4000,EUR,NovaTrade AI
+Date,Description,Amount (EUR),IBAN
+2023-09-01,-5000,MT1112345678901234567890
+2023-11-18,-10000,MT1112345678901234567890
+2023-11-22,Grocery Store,45.67,DE2312345678901234567890

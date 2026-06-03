@@ -1,1 +1,0 @@
-The dashboard displays a graph showing a steady upward trend in profits. Numbers indicate a total investment of €2,000 and a current balance of €3,500. There's a button to 'Withdraw Funds' and a message claiming consistent daily earnings.

@@ -1,0 +1,8 @@
+[2023-08-15 14:35:00 UTC] David (Innovative Investments): Hello Karl! Welcome to Innovative Investments! Ready to start earning?
+[2023-08-15 14:37:00 UTC] Karl Heinrich: Hi David! Yes, I'm very interested.
+[2023-08-15 14:40:00 UTC] David (Innovative Investments): Great! Our AI, Athena, has been incredibly successful. We'd like to offer you a personal onboarding session.
+[2023-09-01 11:12:00 UTC] David (Innovative Investments): Karl, your bonus of €500 has been credited to your account. Check it out!
+[2023-10-20 16:58:00 UTC] Karl Heinrich: David, I’d like to withdraw €5000.
+[2023-10-20 17:15:00 UTC] David (Innovative Investments): Karl, there seems to be a processing issue with your withdrawal. Our team is looking into it. Please be patient.
+[2023-10-22 09:21:00 UTC] Karl Heinrich: David, any update on my withdrawal?
+[2023-10-22 09:35:00 UTC] David (Innovative Investments): Karl, we’re still experiencing some technical difficulties. We appreciate your understanding.

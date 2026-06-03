@@ -1,27 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-123</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>2000</Amount>
+  <Header>
+    <SARReferenceNumber>20231201-001</SARReferenceNumber>
+    <DateFiled>2023-12-01</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
+  </Header>
+  <SuspectTransaction>
+    <TransactionDate>2023-09-05</TransactionDate>
+    <TransactionAmount>5000.00</TransactionAmount>
     <Currency>EUR</Currency>
-    <DestinationAccount>PA2000000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount>1000</Amount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderName>Karl Schmidt</SenderName>
+    <SenderAccount>DE91370400440532014900</SenderAccount>
+    <ReceiverName>NovaTrade Solutions</ReceiverName>
+    <ReceiverAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverCountry>United Kingdom</ReceiverCountry>
+    <Description>Online investment</Description>
+  </SuspectTransaction>
+  <SuspectTransaction>
+    <TransactionDate>2023-10-05</TransactionDate>
+    <TransactionAmount>10000.00</TransactionAmount>
     <Currency>EUR</Currency>
-    <DestinationAccount>PA2000000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI</DestinationName>
-    <Purpose>Reinvestment</Purpose>
-  </Transaction>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderName>Karl Schmidt</SenderName>
+    <SenderAccount>DE91370400440532014900</SenderAccount>
+    <ReceiverName>NovaTrade Solutions</ReceiverName>
+    <ReceiverAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverCountry>United Kingdom</ReceiverCountry>
+    <Description>Online investment</Description>
+  </SuspectTransaction>
   <Findings>
-    The transactions appear consistent with an investment in a high-risk, unregulated platform.</Findings>
-  </SAR>
+    <SuspiciousActivity>Unusually large wire transfers to an overseas entity with limited information available.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud.</PotentialFraud>
+  </Findings>
+</SAR>

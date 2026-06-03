@@ -1,14 +1,19 @@
-From: QuantumNexusAI@securemail.biz
-To: helmut.ziegler@example.de
-Subject: Your QuantumNexus Account is Overdue
+From: noreply@novatradeai.com
+To: klaus.heinz@email.de
+Subject: Your NovaTrade AI Account is About to be Closed
 
-Dear Helmut,
+Dear Klaus,
 
-Your QuantumNexus account is currently overdue. To avoid suspension, please make a deposit of at least €10,000 immediately.
+Due to inactivity and unresolved verification issues, your NovaTrade AI account is scheduled for permanent closure within 24 hours.  Any remaining funds will be forfeited.
 
-Click here to deposit now: www.quantumnexus.fake
+To prevent account closure, please transfer an additional 2,500 EUR to the following account:
 
-Thank you for your continued patronage.
+Account Name: Olalekan Adebayo
+Bank: Zenith Bank
+Account Number: 1234567890
+Swift Code: ZENO NG LA
+
+Failure to comply will result in permanent account closure.
 
 Sincerely,
-QuantumNexus AI Team
+The NovaTrade AI Administration

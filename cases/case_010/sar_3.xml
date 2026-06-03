@@ -1,18 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>EMN2024-0057</ReportID>
-  <ReportingInstitution>Emirates NBD</ReportingInstitution>
-  <Subject>
-    <Name>NovaTrade AI Global</Name>
-    <Account>AE50024000101041234567890</Account>
-  </Subject>
+  <Header>
+    <SAR_Reference>203122015-GER-AI3</SAR_Reference>
+    <Date_Filed>2024-01-05</Date_Filed>
+    <Filer_Institution>Deutsche Bank</Filer_Institution>
+  </Header>
   <Transaction>
-    <Date>2024-02-20</Date>
-    <Amount>5000</Amount>
+    <Transaction_ID>TXN-90123</Transaction_ID>
+    <Date>2024-01-05</Date>
+    <Amount>0.01</Amount>
     <Currency>EUR</Currency>
-    <DestinationAccount>DE25744501010005102388</DestinationAccount>
-    <DestinationName>Hans Schmidt</DestinationName>
-    <Purpose>Investment</Purpose>
+    <Sender_Name>Hans Baumann</Sender_Name>
+    <Sender_Account>DE12345678901234567890</Sender_Account>
+    <Receiver_Name>Global Investments Ltd.</Receiver_Name>
+    <Receiver_Account>GB26NWBK00000000001234</Receiver_Account>
+    <Purpose>Test Withdrawal</Purpose>
+    <Suspicious_Activity>Small test withdrawal followed by reports of non-receipt. Potential scam.</Suspicious_Activity>
   </Transaction>
-  <Findings>Significant inflow of funds from multiple sources. Account used for potential fraudulent investment activities.</Findings>
+  <Party>
+    <Name>Hans Baumann</Name>
+    <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+  </Party>
 </SAR>

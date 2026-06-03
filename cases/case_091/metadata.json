@@ -1,59 +1,55 @@
 {
-  "case_id": "CY2024-078",
+  "case_id": "2024-CYB-0042",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "75000-100000",
-    "country": "Australia",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Hausa",
-      "Pidgin English"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "United Kingdom"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim discovers QuantumLeap AI Trader online"
+      "event": "Initial Contact - Victim receives unsolicited email."
     },
     {
-      "date": "2023-12-01",
-      "event": "Initial deposit made by victim"
+      "date": "2023-11-22",
+      "event": "Victim deposits initial investment of \u20ac5,000."
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Victim receives fabricated 'profit' statement."
     },
     {
       "date": "2024-01-10",
-      "event": "Victim experiences initial 'profits'"
+      "event": "Victim attempts withdrawal - denied."
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim requests withdrawal of funds"
-    },
-    {
-      "date": "2024-03-15",
-      "event": "Victim\u2019s withdrawal request is denied, citing 'verification issues'"
-    },
-    {
-      "date": "2024-04-05",
-      "event": "Victim reports the incident"
+      "date": "2024-02-18",
+      "event": "Victim reports the scam to local authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "10000-25000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     },
     {
-      "type": "BTC",
-      "amount_range": "0.1-0.5"
+      "type": "Bank Transfer",
+      "amount_range": "\u20ac5,000 - \u20ac20,000"
     }
   ]
 }

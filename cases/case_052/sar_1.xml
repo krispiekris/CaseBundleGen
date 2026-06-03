@@ -1,26 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>DEU2024-02-10-001</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-01</Date>
-    <Amount>12000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2023-12-15</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Profit Withdrawal</Purpose>
-  </Transaction>
-  <Findings>Unusually large transfer to a foreign entity with vague investment purpose. Subsequent withdrawals suggest a possible Ponzi scheme.</Findings>
-</SAR>
+<sar>
+  <reportHeader>
+    <reportDate>2023-11-20</reportDate>
+    <reportingInstitution>Sparkasse Nürnberg</reportingInstitution>
+    <reporterId>12345</reporterId>
+  </reportHeader>
+  <transaction>
+    <transactionDate>2023-11-15</transactionDate>
+    <transactionAmount currency="EUR">5000.00</transactionAmount>
+    <transactionType>Wire Transfer</transactionType>
+    <sender>
+      <name>Hans Schmidt</name>
+      <accountNumber>DE89741105020001234567</accountNumber>
+    </sender>
+    <recipient>
+      <name>AlphaGenesis Global</name>
+      <accountNumber>ZA12345678901234567890</accountNumber>
+      <bankCountry>Nigeria</bankCountry>
+    </recipient>
+    <description>Initial Investment - AI Trading</description>
+    <suspiciousActivity>Unusual Destination Country - Nigeria</suspiciousActivity>
+  </transaction>
+</sar>

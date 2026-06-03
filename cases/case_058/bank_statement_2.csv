@@ -1,5 +1,1 @@
-Date,Description,Amount,Currency,Beneficiary
-2023-12-01,Incoming Transfer,5000,EUR,Victim 1
-2024-01-09,Incoming Transfer,1000,EUR,Victim 1
-2024-01-17,Outgoing Transfer,-500,EUR,
-2024-01-18,Outgoing Transfer,2340,EUR,Victim 1
+Date,Description,Amount,Balance\n2023-06-01,Salary Deposit,3500.00,\n2023-06-08,Grocery Store,-45.00,\n2023-06-15,Online Payment,-70.00,\n2023-06-22,Restaurant,-80.00,\n2023-06-29,Utilities,-120.00,,

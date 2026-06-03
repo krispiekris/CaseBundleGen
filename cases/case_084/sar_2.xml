@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>UK2024-456</ReportID>
-  <ReportingInstitution>HSBC UK</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
+  <Header>
+    <ReportDate>2023-11-20</ReportDate>
+    <InstitutionIdentifier>Deutsche Bank</InstitutionIdentifier>
+  </Header>
   <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Unknown</Purpose>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <Sender>Hans Meier</Sender>
+    <Receiver>NovaTech AI Platform</Receiver>
+    <ReceiverAccount>1234567890</ReceiverAccount>
+    <Description>Additional deposit to AI trading platform</Description>
+    <SuspiciousActivity>Rapid increase in customer deposits after initial deposit.</SuspiciousActivity>
   </Transaction>
-  <Transaction>
-    <Date>2024-02-15</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>LT12100001110123451</DestinationAccount>
-    <DestinationName>Unknown</DestinationName>
-    <Purpose>Unknown</Purpose>
-  </Transaction>
-  <Findings>Receiving multiple transfers from a German resident with unusual investment patterns. Company registered at a residential address.</Findings>
 </SAR>

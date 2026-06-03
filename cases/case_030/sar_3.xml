@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-038</ReportID>
-  <ReportingInstitution>Belizean Investment Bank</ReportingInstitution>
-  <Subject>
-    <Name>Altcoin Global Ltd</Name>
-  </Subject>
+  <Header>
+    <SARReference>20240225-003</SARReference>
+    <BankName>Commonwealth Bank of Australia</BankName>
+    <Date>2024-02-25</Date>
+  </Header>
   <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <SourceAccount>GR1601101250000000012310695</SourceAccount>
-    <Purpose>Investment</Purpose>
+    <TransactionID>TXN-246813579</TransactionID>
+    <TransactionDate>2024-02-22</TransactionDate>
+    <Amount>15000</Amount>
+    <Currency>USD</Currency>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Global Investments LTD</ReceiverName>
+    <ReceiverAccount>BG88UNCR7000140000001</ReceiverAccount>
+    <ReceiverBank>Unicredit Bank</ReceiverBank>
+    <ReceiverCountry>Bulgaria</ReceiverCountry>
+    <Description>Additional Investment</Description>
   </Transaction>
-  <Findings>Significant deposits from Germany linked to potential investment fraud.</Findings>
+  <Findings>
+    <SuspiciousActivity>Large additional investment following initial investment. Victim expressing concerns about withdrawal restrictions.  Potential scam.</SuspiciousActivity>
+    <ReportOriginator>Branch Teller</ReportOriginator>
+  </Findings>
 </SAR>

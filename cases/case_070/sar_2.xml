@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2024-01-15</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>HK5678901234</DestinationAccount>
-    <DestinationName>NovaAI Technologies Ltd</DestinationName>
-    <Purpose>Withdrawal attempt - unsuccessful</Purpose>
-  </Transaction>
-  <Findings>Victim reports difficulty in withdrawing funds from platform. Suspicious activity related to initial investment.</Findings>
+  <ReportDate>2024-01-16</ReportDate>
+  <SuspiciousActivity>
+    <TransactionType>Cryptocurrency Transfer</TransactionType>
+    <TransactionDate>2023-12-16</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <SenderName>Markus Bauer</SenderName>
+    <SenderAccount>DExxxxxxxxxx</SenderAccount>
+    <ReceiverName>Cryptoking77</ReceiverName>
+    <ReceiverAccount>0xAbCdEfGhIjKlMnOpQrStUvWxYz123456</ReceiverAccount>
+    <Description>Investment in NFT project</Description>
+    <SuspiciousFactor>Second unusual transaction size for customer profile. Destination account associated with potential fraudulent activity.</SuspiciousFactor>
+  </SuspiciousActivity>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <ReportID>SAR-002-2024</ReportID>
 </SAR>

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what is the purpose of the initial transaction from the victim to Altcoin Global Ltd?",
-    "answer": "Investment"
+    "question": "What is the primary marketing message used to attract investors to ProfitMatrix, as described in the promotional material?",
+    "answer": "Stop Trading, Start Winning with ProfitMatrix!"
   },
   {
-    "question": "What is the name of the reporting institution in SAR_2.xml?",
-    "answer": "Belize International Bank"
+    "question": "According to the SAR reports, what are the key reasons for suspicion regarding David Miller's activities?",
+    "answer": "Possible investment fraud; initial investment with limited information available, and victim reports difficulty withdrawing funds; potential fraudulent investment scheme."
   },
   {
-    "question": "What additional verification fee was requested from the victim in email_3.txt?",
-    "answer": "\u20ac500"
+    "question": "What is the initial investment amount made by David Miller, as shown in the bank statement?",
+    "answer": "5000.00"
   },
   {
-    "question": "Based on bank_statement_1.csv, what type of transaction occurred on 2023-10-25?",
-    "answer": "ATM Withdrawal"
+    "question": "What specific features are highlighted as benefits of the ProfitMatrix AI trading system in the promotional material?",
+    "answer": "No Trading Experience Required, Automated Trading: Let our AI do the work, Real-Time Results: Watch your profits grow"
   },
   {
-    "question": "What is the projected return mentioned in email_2.txt?",
-    "answer": "15-20%"
+    "question": "According to the telegram chatlog, what percentage increase was initially reported to David on his investment?",
+    "answer": "+12%"
   },
   {
-    "question": "What does the screenshot_1.txt describe about the website's design?",
-    "answer": "Sleek, modern design with a dark blue and silver color scheme. Prominent graphics display graphs showing exponential growth and testimonials from supposed satisfied users. A countdown timer indicates a 'limited-time opportunity'."
+    "question": "What is the email address provided for contact and support related to ProfitMatrix?",
+    "answer": "ai.trading.support@profitmatrix.net"
   },
   {
-    "question": "According to SAR_3.xml, what is the purpose of the funds received by Altcoin Global Ltd from Germany?",
-    "answer": "Related to potential investment fraud scheme"
+    "question": "Besides David Miller, what other names or entities are mentioned across multiple files (email, SAR, bank statement, chatlog)?",
+    "answer": "ProfitMatrix Ltd, Aiden"
   },
   {
-    "question": "What is the potential risk identified in SAR_1.xml?",
-    "answer": "High risk of investment fraud"
+    "question": "Based on the website screenshot, what is the stated purpose of the 'team photo' section on the ProfitMatrix website?",
+    "answer": "The images appear to be generic stock photos"
   },
   {
-    "question": "According to email_4.txt, what is the consequence of failing to verify your account?",
-    "answer": "Temporary suspension"
+    "question": "What date did the reporting institution, Canadian Bank of Commerce, first file a Suspicious Activity Report (SAR) concerning David Miller?",
+    "answer": "2023-12-05"
   },
   {
-    "question": "What currency is used for the transactions described in the case files?",
-    "answer": "EUR"
+    "question": "What is the recipient country of the transactions made to ProfitMatrix, as indicated in the SAR reports?",
+    "answer": "United Arab Emirates"
   }
 ]

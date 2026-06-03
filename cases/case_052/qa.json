@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to sar_1.xml, what was the stated purpose of the initial transaction of EUR 12000 from Victim 1?",
-    "answer": "Investment"
+    "question": "What was the initial amount of the first investment made by Hans Schmidt?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "What is the destination account used by Altcoin Global Ltd, as shown in sar_1.xml and bank_statement_1.csv?",
-    "answer": "LT12100001110123451"
+    "question": "According to email_2.txt, what was suggested to maximize returns?",
+    "answer": "A further investment of \u20ac3000"
   },
   {
-    "question": "Based on sar_2.xml, where were funds being transferred following receipt from Victim 1's account?",
+    "question": "What country is the recipient bank located in, as indicated in the SAR reports?",
     "answer": "Nigeria"
   },
   {
-    "question": "What is the URL associated with QuantumLeap AI mentioned in the email_1.txt and brochure_1.txt files?",
-    "answer": "www.quantumleap.fake"
+    "question": "Based on the promotional materials, what is the primary selling point of the AlphaGenesis system?",
+    "answer": "Automated wealth generation with minimal effort"
   },
   {
-    "question": "According to sar_3.xml, what's the significance of the account DE98775100200012345678 in relation to other suspicious activity?",
-    "answer": "It is linked to suspicious activity involving fraudulent investment schemes."
+    "question": "What is the stated reason for the verification fee mentioned in email_3.txt?",
+    "answer": "To ensure the safety of your funds"
   },
   {
-    "question": "In sar_4.xml, what characteristic of the UK Shell Company is highlighted as a potential red flag?",
-    "answer": "It is registered with a virtual office address."
+    "question": "Which entities are directly involved in the transactions described in the SAR reports?",
+    "answer": "Hans Schmidt and AlphaGenesis Global"
   },
   {
-    "question": "Based on screenshot_1.txt, what are the concerns regarding the testimonials on the QuantumLeap AI website?",
-    "answer": "They are generic and lack verifiable details."
+    "question": "What unusual activity was flagged in the SAR report associated with the initial investment?",
+    "answer": "Unusual Destination Country - Nigeria"
   },
   {
-    "question": "What incentive did QuantumLeap AI offer to new investors, as outlined in email_2.txt?",
-    "answer": "A 10% bonus on their initial investment."
+    "question": "Besides the initial investment, what other reason is given for a transfer to AlphaGenesis Global in the SAR reports?",
+    "answer": "Additional Investment - AI Trading"
   },
   {
-    "question": "What action did Barclays Bank take with Altcoin Global Ltd, as detailed in sar_2.xml?",
-    "answer": "Transferred funds to accounts in Nigeria."
+    "question": "According to promotional material_2.txt, what testimonials are advertised regarding the AlphaGenesis system?",
+    "answer": "\u201cI\u2019ve never seen profits like this!\u201d - J. Miller, London"
   },
   {
-    "question": "According to sar_1.xml, what is the initial finding suggesting a potential Ponzi scheme?",
-    "answer": "Subsequent withdrawals"
+    "question": "What does the screenshot of the trading platform display regarding the 'AlphaGenesis AI - Daily Profit'?",
+    "answer": "A steep upward trajectory"
   }
 ]

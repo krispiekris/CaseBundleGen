@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportID>INV2024-0078-HSBC</ReportID>
-  <ReportingInstitution>HSBC</ReportingInstitution>
-  <Subject>
-    <Name>Unknown</Name>
-    <Account>BZ000000000000000000</Account>
-  </Subject>
-  <Transaction>
-    <Date>2024-01-25</Date>
-    <Amount>3000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>HK1234567890</DestinationAccount>
-    <DestinationName>Dragon Holdings Ltd</DestinationName>
-    <Purpose>Transfer to Hong Kong</Purpose>
-  </Transaction>
-  <Findings>Funds originating from Deutsche Bank, related to potential investment fraud case INV2024-0078, transferred to HSBC Hong Kong. Suspected money laundering activities.</Findings>
-</SAR>
+<sar>
+  <report_id>SAR-20231020-003</report_id>
+  <date>2023-10-20</date>
+  <bank_name>Deutsche Bank</bank_name>
+  <transaction_type>Withdrawal Attempt</transaction_type>
+  <amount>10000.00</amount>
+  <currency>EUR</currency>
+  <sender_name>Ulrich Baumann</sender_name>
+  <sender_account>DExxxxxxxxxxxxxxxxxxxx</sender_account>
+  <recipient_name>Ulrich Baumann</recipient_name>
+  <recipient_account>DExxxxxxxxxxxxxxxxxxxx</recipient_account>
+  <recipient_bank>Deutsche Bank</recipient_bank>
+  <description>Withdrawal Request Denied - AI Trading Pro</description>
+  <findings>Victim reports denial of withdrawal request. Potential fraud - inability to access funds.

@@ -1,19 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>INV2023-09-22</ReportID>
-  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>CY93001000000000000000000</DestinationAccount>
-    <DestinationName>QuantumLeap AI Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Suspicious transaction to a company registered in Cyprus with unclear business activity. Potential investment fraud.</Findings>
-  <ReportDate>2023-09-22</ReportDate>
+  <ReportDate>2023-11-20</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>TXN-12345</TransactionID>
+      <TransactionDate>2023-11-15</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Klaus Schmidt</Name>
+        <AccountID>DE1234567890</AccountID>
+        <Country>Germany</Country>
+      </OriginatingParty>
+      <BeneficiaryParty>
+        <Name>AI Trading Solutions</Name>
+        <AccountID>US9876543210</AccountID>
+        <Country>United States</Country>
+      </BeneficiaryParty>
+      <Description>Initial investment to AI Trading Solutions platform</Description>
+    </Transaction>
+    <SuspiciousIndicators>
+      <Indicator>Unusual investment amount for customer profile</Indicator>
+      <Indicator>Payment to an overseas entity with limited transparency</Indicator>
+    </SuspiciousIndicators>
+  </SuspiciousActivity>
 </SAR>

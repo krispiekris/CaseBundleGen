@@ -1,34 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportID>DE2024-123</ReportID>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Subject>
-    <Name>Victim 1</Name>
-    <Account>GR1601101250000000012310695</Account>
-  </Subject>
-  <Transaction>
-    <Date>2023-12-01</Date>
-    <Amount>1000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG471000000000000000001</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-01-10</Date>
-    <Amount>2000</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG471000000000000000001</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Transaction>
-    <Date>2024-02-15</Date>
-    <Amount>1500</Amount>
-    <Currency>EUR</Currency>
-    <DestinationAccount>NG471000000000000000001</DestinationAccount>
-    <DestinationName>Altcoin Global Ltd</DestinationName>
-    <Purpose>Investment</Purpose>
-  </Transaction>
-  <Findings>Multiple transfers to a foreign account with vague investment purposes. Account activity inconsistent with known customer profile.</Findings>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <SuspiciousActivity>
+      <Type>Unusual Transaction</Type>
+      <Description>Large cash deposits followed by rapid transfers to overseas accounts.</Description>
+    </SuspiciousActivity>
+  </Header>
+  <Parties>
+    <Sender>
+      <Name>Klaus Heinz</Name>
+      <Address>Musterstraße 123, 10115 Berlin, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>Global Forex Solutions</Name>
+      <Country>Nigeria</Country>
+    </Receiver>
+  </Parties>
+  <Transactions>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount>30000 EUR</Amount>
+      <Currency>EUR</Currency>
+      <Description>Cash Deposit</Description>
+    </Transaction>
+  </Transactions>
+  <Findings>
+    <Finding>Suspicious pattern of cash deposits and rapid international transfers.</Finding>
+  </Findings>
 </SAR>

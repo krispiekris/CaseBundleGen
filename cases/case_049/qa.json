@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial SAR (INV2023-112), what was the purpose of the transaction from Heinrich Schmidt's account?",
-    "answer": "Investment"
+    "question": "What initial deposit amount was requested from David Miller to begin trading on the platform?",
+    "answer": "$5,000 CAD"
   },
   {
-    "question": "What website address is prominently featured in the welcome email sent to Heinrich Schmidt?",
-    "answer": "www.quantumfx.ai"
+    "question": "According to the Suspicious Activity Reports, what is the primary concern regarding the transactions associated with Quantum AI?",
+    "answer": "Potential investment fraud scheme"
   },
   {
-    "question": "What is the name of the entity that received the EUR 12,000 transfer from Heinrich Schmidt, as indicated in sar_1.xml?",
-    "answer": "Altcoin Global Ltd"
+    "question": "What is the Swift Code associated with the bank account used for deposits to Quantum AI?",
+    "answer": "ZENO NG LA"
   },
   {
-    "question": "What did the promotional brochure (brochure_2.txt) offer regarding daily returns with QuantumFX Pro?",
-    "answer": "4% Daily ROI"
+    "question": "What country is Zenith Bank located in, as indicated in the Suspicious Activity Reports?",
+    "answer": "Nigeria"
   },
   {
-    "question": "What is the purpose of the transfer recorded in sar_3.xml from Marshall Islands Holding Corp?",
-    "answer": "Investment"
+    "question": "Based on the promotional material, what is a key claim made about Quantum AI\u2019s performance compared to human traders?",
+    "answer": "Our AI is 10x better than human traders!"
   },
   {
-    "question": "What is the account number of Heinrich Schmidt?",
-    "answer": "DE87370400440532013000"
+    "question": "What actions were taken to David Miller\u2019s account that led to a 'High' suspicion level in SAR_2?",
+    "answer": "A large withdrawal request was blocked by the platform, and the customer reported difficulty withdrawing funds."
   },
   {
-    "question": "What is the content of the testimonial mentioned in screenshot_1.txt?",
-    "answer": "I've made over 500% in just 3 months! - Klaus M."
+    "question": "Which entities are involved in the recipient of the withdrawals from David Miller\u2019s account, as shown in the bank statements?",
+    "answer": "Apex Global Investments Ltd."
   },
   {
-    "question": "What is the name of the person who received the EUR 10,000 transfer in sar_3.xml?",
-    "answer": "Oluwaseun Adebayo"
+    "question": "What type of deposit did David Miller make into the Quantum AI trading platform on December 5, 2023?",
+    "answer": "Credit"
   },
   {
-    "question": "What service does RecoverFundsPro claim to provide?",
-    "answer": "Recovering lost cryptocurrency assets"
+    "question": "Besides Zenith Bank, which other entity is mentioned as a recipient in the bank statement?",
+    "answer": "Apex Global Investments Ltd."
   },
   {
-    "question": "What is the destination account number in sar_2.xml for the transaction from Altcoin Global Ltd?",
-    "answer": "BMU1234567890"
+    "question": "According to the promotional materials, what is the claimed benefit of joining the Quantum AI trading community?",
+    "answer": "Stop Trading, Start Winning"
   }
 ]

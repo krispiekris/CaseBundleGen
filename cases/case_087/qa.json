@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR_1.xml, what is the account number of the subject, David Miller?",
-    "answer": "0001234567890123"
+    "question": "What is the account number associated with David Miller's withdrawal request?",
+    "answer": "1234567890"
   },
   {
-    "question": "What was the purpose of the \u00a3500 transaction from David Miller's account to NovaTrade AI on September 1, 2023, as indicated in sar_1.xml?",
-    "answer": "Investment"
+    "question": "According to the SAR, which entity transferred $35,000 to the Marshall Islands Holding Company?",
+    "answer": "Global Finance International"
   },
   {
-    "question": "Which entity is referenced in email_2.txt as potentially increasing profits if more funds are deposited?",
-    "answer": "NovaTrade AI"
+    "question": "What promotional offer was being advertised by Forex Global Elite?",
+    "answer": "A 100% bonus on the first deposit."
   },
   {
-    "question": "According to sar_2.xml, what is the destination account of the \u20ac1200 transaction involving an investment profit?",
-    "answer": "MK00000000000001"
+    "question": "Based on the screenshot of the trading platform, what is the current account balance?",
+    "answer": "$37,500.00 CAD"
   },
   {
-    "question": "What is the date of the withdrawal request confirmed in email_3.txt?",
-    "answer": "2023-11-01"
+    "question": "What initial balance did Sergei Volkov have in his bank account?",
+    "answer": "100000.00"
   },
   {
-    "question": "What is the stated purpose of the transaction in sar_3.xml involving Petar Jovanovski\u2019s account?",
-    "answer": "Investment Profit"
+    "question": "Which entity is mentioned in the SAR related to Serbia?",
+    "answer": "Global Finance International"
   },
   {
-    "question": "Based on promotional_2.txt, what is the main appeal for users to join NovaTrade AI?",
-    "answer": "Unprecedented profits"
+    "question": "What type of descriptions are used for the deposit transactions in David Miller\u2019s bank statement?",
+    "answer": "Forex Global Elite Deposit"
   },
   {
-    "question": "What is the purpose of Reclaim Solutions, as stated in email_4.txt?",
-    "answer": "Recovering lost funds from fraudulent investment schemes"
+    "question": "According to the SAR, what is the primary suspicious activity associated with Sergei Volkov's account?",
+    "answer": "Receiving large sums from a Canadian investor, minimal activity beyond deposits and transfers."
   },
   {
-    "question": "According to the screenshot_1.txt, what are the predominant colors used in the NovaTrade AI website's design?",
-    "answer": "Green and gold"
+    "question": "What is the timestamp shown on the screenshot of the trading platform?",
+    "answer": "14:35 GMT+2"
   },
   {
-    "question": "What is the total amount of money withdrawn by David Miller on November 1, 2023?",
-    "answer": "\u00a32000"
+    "question": "What currencies were involved in the open positions displayed in the screenshot of the trading platform?",
+    "answer": "EUR/USD and GBP/JPY"
   }
 ]

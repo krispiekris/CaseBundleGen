@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the purpose of the initial investment made by Victim 1 to QuantumNova Investments Ltd?",
-    "answer": "Initial Investment"
+    "question": "According to the welcome email, what is Forex Alpha offering to new traders?",
+    "answer": "Tools, knowledge, and support to succeed in the Forex market."
   },
   {
-    "question": "According to email_2.txt, what exclusive offer was presented to members of the QuantumNova community?",
-    "answer": "A 25% ROI for a limited time."
+    "question": "What promotional claim suggests unusually high potential returns?",
+    "answer": "Earn up to 5% Daily!"
   },
   {
-    "question": "What action was taken regarding Victim 1's withdrawal request, and why was it denied according to sar_2.xml?",
-    "answer": "The withdrawal request was denied due to account inactivity and suspicious transaction patterns."
+    "question": "What is the initial amount invested by Hans Meier, according to the SAR report?",
+    "answer": "15000.00 EUR"
   },
   {
-    "question": "What is the URL associated with the QuantumNova AI Trading platform login page?",
-    "answer": "www.quantumnova.fake"
+    "question": "What is the date of the first SAR report?",
+    "answer": "2023-11-18"
   },
   {
-    "question": "Which file indicates that Sterling Global Finance rapidly received and transferred funds?",
-    "answer": "sar_3.xml"
+    "question": "What action did Hans Meier request from Forex Alpha?",
+    "answer": "To increase his investment to a total of 20,000 EUR."
   },
   {
-    "question": "What is the stated purpose of the transfer of 5000 EUR from Sterling Global Finance to QuantumNova Investments Ltd, as detailed in sar_3.xml?",
-    "answer": "Funds Transfer"
+    "question": "What does the screenshot show regarding Hans Meier's account?",
+    "answer": "A fabricated account balance of 28,750 EUR with profitable trades."
   },
   {
-    "question": "What documents were requested from the victim under the guise of account verification?",
-    "answer": "Additional documentation to verify identity."
+    "question": "What fee was requested from Hans Meier before his withdrawal could be processed?",
+    "answer": "10%"
   },
   {
-    "question": "What is the purpose of the transaction on 2023-12-05?",
-    "answer": "Crypto Purchase"
+    "question": "What is the purpose of the third SAR report?",
+    "answer": "To report a 5000 EUR transfer from Hans Meier as a withdrawal fee."
   },
   {
-    "question": "Besides EUR, what other cryptocurrency is mentioned in the case files?",
-    "answer": "BTC"
+    "question": "Based on the promotional material, what is promised to customers joining the program?",
+    "answer": "Huge returns."
   },
   {
-    "question": "What file provides information regarding a withdrawal request being temporarily suspended?",
-    "answer": "email_3.txt"
+    "question": "What is the email server location for the initial welcome email?",
+    "answer": "Belize"
   }
 ]

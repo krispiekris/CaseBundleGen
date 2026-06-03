@@ -1,20 +1,18 @@
-From: Victim1@email.com
-To: QuantumFXAI@mail.fake
-Subject: Withdrawal Request
+From: support@novatradeai.com
+To: hans.meier@email.de
+Subject: Important: Processing Fee Required
 
-I would like to request a withdrawal of 5000 EUR to my bank account.  Could you please confirm the process?
+Dear Hans,
 
-Regards,
-Victim 1
+We regret to inform you that your withdrawal request has been temporarily suspended due to a processing fee.  To complete the transaction, a one-time fee of EUR 2000 is required to cover regulatory compliance and security checks. 
 
+This fee is essential to ensure the safety and legality of your withdrawal.  Please transfer the fee to the following account:
 
-From: QuantumFXAI@mail.fake
-To: Victim1@email.com
-Subject: Re: Withdrawal Request
+Account Name: Global Trade Solutions
+Account Number: MU07DTMB08030100000001
+Bank: Deutsche Handelsbank
 
-Dear Victim 1,
+Once the fee is received, your withdrawal will be processed within 24 hours.
 
-Your withdrawal request has been received. Please note that a 10% processing fee will be deducted before the funds are released. We need to verify your information. Please confirm your account number and address.
-
-Regards,
-QuantumFX Support
+Sincerely,
+The NovaTrade AI Support Team

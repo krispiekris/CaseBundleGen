@@ -1,55 +1,55 @@
 {
-  "case_id": "CX2024-078",
+  "case_id": "2024-03-15-NF-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "75000-100000",
-    "country": "Australia",
+    "income_range": "$80,000 - $120,000",
+    "country": "Canada",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "Saint Vincent and the Grenadines"
+    "Belize",
+    "United Arab Emirates",
+    "Panama"
   ],
   "timeline": [
     {
+      "date": "2023-09-10",
+      "event": "Initial contact via LinkedIn"
+    },
+    {
+      "date": "2023-09-28",
+      "event": "First investment made"
+    },
+    {
       "date": "2023-11-15",
-      "event": "Initial contact via email"
+      "event": "Victim expresses concerns about performance"
     },
     {
       "date": "2023-12-05",
-      "event": "Victim deposits initial investment"
+      "event": "Funds withdrawn from account"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim receives fabricated profit distributions"
-    },
-    {
-      "date": "2024-03-22",
-      "event": "Victim attempts to withdraw funds, denied"
-    },
-    {
-      "date": "2024-04-05",
-      "event": "Suspicious Activity Report filed"
+      "date": "2024-01-18",
+      "event": "Victim reports fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "EUR",
-      "amount_range": "15000-30000"
+      "type": "Bank Account",
+      "amount_range": "$50,000 - $75,000"
     },
     {
-      "type": "AUD",
-      "amount_range": "5000-10000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$5,000 - $10,000"
     }
   ]
 }

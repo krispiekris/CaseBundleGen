@@ -1,15 +1,12 @@
-From: withdrawal@innovai.com
-To: hans.mueller@email.de
-Subject: Important Notice Regarding Withdrawal Request
+From: hans.baumann@email.de
+To: chidi.okeke@cryptoinnovations.tech
+Subject: Concerns about Crypto Innovations
 
-Dear Hans,
+Dear Chidi,
 
-Your recent withdrawal request has been temporarily blocked due to verification issues. To resolve this, please transfer €500 to the following account:
+I'm writing to express some concerns I have about my investment. The promised returns haven't materialized, and I'm having difficulty getting clear answers to my questions.
 
-Account: SC1234567890
-Bank: SecureTrust International
-
-Once the transfer is confirmed, your withdrawal will be processed immediately.
+I'm starting to feel like this might not be legitimate.
 
 Sincerely,
-InnovAI Support Team
+Hans Baumann

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to SAR AU2024-123, what was the initial purpose of the 2000 EUR transaction from Victim 1's account?",
-    "answer": "Investment"
+    "question": "According to the SAR report from Sparkasse N\u00fcrnberg, what was the transaction description associated with the initial deposit?",
+    "answer": "Online investment platform deposit"
   },
   {
-    "question": "What is the IBAN provided in the welcome email from QuantumLeap AI?",
-    "answer": "CY800020000000000000000000"
+    "question": "What percentage monthly return did the email from Profit Horizon initially promise?",
+    "answer": "15%"
   },
   {
-    "question": "What specific finding is noted in SAR AU2024-124 regarding Victim 1\u2019s transactions?",
-    "answer": "Multiple transactions to the same destination account, despite customer's inability to withdraw funds."
+    "question": "What was the amount of the withdrawal attempt from Profit Horizon to Klaus Breitling's account, as recorded in the Globex Bank SAR?",
+    "answer": "5000.00"
   },
   {
-    "question": "What is the name of the intermediary bank listed in SAR CY2024-456?",
-    "answer": "Bank Gamma"
+    "question": "Based on the promotional material, what is one of the key benefits advertised for joining the Profit Horizon VIP Club?",
+    "answer": "Exclusive Access to Advanced Strategies"
   },
   {
-    "question": "What action does the 'Urgent Action Required' email from QuantumLeap AI instruct the victim to take?",
-    "answer": "Deposit an additional 1000 EUR"
+    "question": "What is the purpose of the link provided in the account closure notification email?",
+    "answer": "To allow Klaus to provide documentation to avoid permanent account closure"
   },
   {
-    "question": "What does the screenshot of the trading dashboard display regarding daily profit?",
-    "answer": "Daily Profit: +12.5%"
+    "question": "What is the stated reason for the temporary suspension of Klaus's Profit Horizon account?",
+    "answer": "Recent regulatory changes and a review of customer accounts"
   },
   {
-    "question": "What is the purpose listed in SAR AU2024-125 for the 500 EUR transaction dated 2024-03-10?",
-    "answer": "Withdrawal Attempt"
+    "question": "Which entities are mentioned in promotional material and the SAR report from Sparkasse N\u00fcrnberg?",
+    "answer": "Profit Horizon Ltd and Klaus Breitling"
   },
   {
-    "question": "What account type does the initial deposit of 10000 AUD listed in bank_statement_1 represent?",
-    "answer": "Salary"
+    "question": "What does the screenshot of the Telegram group indicate about the platform?",
+    "answer": "A community of users promoting the platform and reinforcing its legitimacy"
   },
   {
-    "question": "Besides Victim 1, who else is mentioned as a subject in any of the SAR files?",
-    "answer": "Unknown"
+    "question": "Besides the initial deposit, what other expense is listed in Klaus\u2019s bank statement?",
+    "answer": "Restaurant Dinner"
   },
   {
-    "question": "According to the promotional brochure, what is a characteristic offered by QuantumLeap AI?",
-    "answer": "Guaranteed returns"
+    "question": "What type of activity triggered the Sparkasse N\u00fcrnberg's filing of a police report?",
+    "answer": "Suspicious investment activity"
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount deposited into the NovaAI Trading Platform by Helmut Schmidt?",
-    "answer": "10000 EUR"
+    "question": "What initial amount did Ulrich Baumann invest according to the Telegram chat logs?",
+    "answer": "\u20ac15,000"
   },
   {
-    "question": "According to the promotional material, what bonus was offered to new users of the NovaAI Trading Platform?",
-    "answer": "25% on your first deposit"
+    "question": "According to the SAR reports, which country is associated with Prime Global Investments Ltd.?",
+    "answer": "South Africa"
   },
   {
-    "question": "What type of document did the verification email (email_3.txt) request from Helmut Schmidt?",
-    "answer": "Copies of his passport and bank statement"
+    "question": "What was the stated reason for the international money transfers according to the descriptions in the SARs?",
+    "answer": "International Money Transfer"
   },
   {
-    "question": "Which account number, different from Helmut Schmidt's, was implicated in routing funds to NovaAI Trading Platform?",
-    "answer": "BE6543215678901234567890"
+    "question": "Based on the promotional material, what is the key selling point of AI-Profit-Solutions?",
+    "answer": "AI trading algorithms"
   },
   {
-    "question": "What evidence suggests that the NovaAI Trading Platform website may not be legitimate?",
-    "answer": "It lacks detailed information about the trading strategy or the team behind it."
+    "question": "What was the purpose of the second international transfer of \u20ac5000, as indicated in SAR 2?",
+    "answer": "Linked to initial investment"
   },
   {
-    "question": "What was the stated purpose of the transactions to NovaAI Trading Platform?",
-    "answer": "Investment"
+    "question": "What was the name of the company that received the \u20ac5000 transfer for the withdrawal fee?",
+    "answer": "Global Processing Solutions"
   },
   {
-    "question": "Besides Siemens AG, are any other employers mentioned in connection with Helmut Schmidt?",
-    "answer": "None"
+    "question": "What is the balance displayed on the screenshot of the trading platform?",
+    "answer": "$54,789.32"
   },
   {
-    "question": "Based on the 'Findings' in SAR_2.xml, what concern did the victim express regarding the platform?",
-    "answer": "Lack of clarity regarding investment performance"
+    "question": "According to Ulrich Baumann's email, what issue is he experiencing?",
+    "answer": "Trouble withdrawing his funds"
   },
   {
-    "question": "What does the screenshot (screenshot_1.txt) indicate about the platform\u2019s claimed performance?",
-    "answer": "It displays a balance of \u20ac15,000 and a 'Profit' indicator of \u20ac2,500"
+    "question": "What disclaimer is included in the promotional material?",
+    "answer": "Results not typical. See terms and conditions."
   },
   {
-    "question": "What is the domain name associated with the NovaAI Trading Platform?",
-    "answer": "www.novaaitrading.fake"
+    "question": "What is the Risk Level associated with the second unusual international transfer in SAR 2?",
+    "answer": "High"
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary reason for the SAR filing regarding Victim 1?",
-    "answer": "Suspected investment fraud involving an AI trading platform, where the victim was promised high returns but is unable to withdraw funds."
+    "question": "What initial amount did Hans Meier transfer to Innovative AIX?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "According to the SAR filed by Wise, why was the transaction flagged?",
-    "answer": "The destination account was associated with potentially fraudulent investment schemes."
+    "question": "According to the first SAR report, what is the recipient country of the funds transferred to Innovative AIX?",
+    "answer": "Belize"
   },
   {
-    "question": "What currency were the transactions to Altcoin Global Ltd conducted in?",
-    "answer": "EUR"
+    "question": "What type of activity prompted the email requesting passport verification from Innovative AIX?",
+    "answer": "Unusual activity on the account"
   },
   {
-    "question": "What does the screenshot of the QuantumLeap AI platform display?",
-    "answer": "A graph with exaggerated upward spikes labeled 'Daily Profits,' a balance of \u20ac18,500, a 'Withdraw Funds' button, and a message stating 'Your investment is growing rapidly!'"
+    "question": "What reason did Innovative AIX provide for the requested verification fees in David Okoro's email?",
+    "answer": "To unlock funds"
   },
   {
-    "question": "What promotional tactic did QuantumLeap AI use to encourage increased investment?",
-    "answer": "They offered a 15% bonus on investments made during a limited-time opportunity."
+    "question": "What type of document is requested in the email from Innovative AIX support?",
+    "answer": "A copy of your passport"
   },
   {
-    "question": "Which bank filed the SAR concerning Victim 2?",
-    "answer": "GlobalTrust Bank"
+    "question": "Which entities are mentioned in the promotional posts but are absent from the SAR reports?",
+    "answer": "None"
   },
   {
-    "question": "What is the purpose stated for the transactions to Altcoin Global Ltd in the SARs?",
-    "answer": "Investment"
+    "question": "Based on the SAR reports, what concerning aspect of Innovative AIX\u2019s operation is highlighted regarding jurisdictions?",
+    "answer": "High-risk jurisdiction"
   },
   {
-    "question": "What potential red flag prompted Wise to flag the transactions related to Victim 1?",
-    "answer": "The destination being associated with potentially fraudulent investment schemes."
+    "question": "What was the amount of the withdrawal described in SAR 2?",
+    "answer": "1000 EUR"
   },
   {
-    "question": "According to the brochure, what is one of the key features of QuantumLeap AI?",
-    "answer": "Automated Trading"
+    "question": "What did the screenshot of the Innovative AIX dashboard indicate about user profits?",
+    "answer": "Your profits are growing exponentially!"
   },
   {
-    "question": "What action did QuantumLeap AI request from Victim 1 in the email labeled 'Urgent: Account Verification Required'?",
-    "answer": "They requested a deposit of \u20ac2,000 to prevent account suspension."
+    "question": "What is the email address provided for David Okoro?",
+    "answer": "david.okoro.investments@gmail.com"
   }
 ]
