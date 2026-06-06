@@ -1,0 +1,6 @@
+Date,Description,Amount,Currency,IBAN
+2023-08-10,Salary Payment,10000,AUD,AU1234567890
+2023-08-15,Withdrawal Attempt, -1000,USD,US1234567890
+2023-08-18,Withdrawal Fee, -50,USD,US1234567890
+2023-08-25,Withdrawal Attempt, -2000,USD,US1234567890
+2023-08-28,Withdrawal Fee, -30,USD,US1234567890

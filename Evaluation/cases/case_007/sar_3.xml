@@ -1,0 +1,25 @@
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SARReferenceID>SAR-20240229-003</SARReferenceID>
+    <DateFiled>2024-02-29</DateFiled>
+    <ReportingBank>Deutsche Bank</ReportingBank>
+  </Header>
+  <Customer>
+    <CustomerID>123456789</CustomerID>
+    <Name>Hans Baumann</Name>
+    <Address>Musterstrasse 1, 10115 Berlin</Address>
+  </Customer>
+  <SuspiciousActivity>
+    <TransactionDate>2024-01-12</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <RecipientName>Crypto Innovations</RecipientName>
+    <RecipientAccount>X789012345</RecipientAccount>
+    <RecipientBank>United Bank of Singapore</RecipientBank>
+    <SWIFTCode>UBSBXXXX</SWIFTCode>
+    <Description>Investment in Crypto Innovations</Description>
+  </SuspiciousActivity>
+  <Findings>
+    Multiple transactions, coupled with customer concerns and a lack of verifiable information about the recipient company, indicate a high probability of investment fraud. Immediate investigation required.
+  </Findings>
+</SAR>

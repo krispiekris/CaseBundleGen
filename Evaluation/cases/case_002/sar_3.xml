@@ -1,0 +1,20 @@
+<sar>
+  <report>
+    <report_date>2023-11-22</report_date>
+    <institution_name>Deutsche Bank</institution_name>
+    <reporter_name>Compliance Officer</reporter_name>
+    <suspicious_activity>
+      <activity_date>2023-11-01</activity_date>
+      <transaction_amount currency="EUR">5000</transaction_amount>
+      <transaction_type>Debit</transaction_type>
+      <account_number>DExxxxxxxxxxxxxxxxxxxx</account_number>
+      <payer_name>Hans Meier</payer_name>
+      <payer_address>Musterstrasse 12, 12345 Musterstadt</payer_address>
+      <recipient_name>Innovative AIX</recipient_name>
+      <recipient_account>USxxxxxxxxxxxxxxxxxxxx</recipient_account>
+      <recipient_country>Belize</recipient_country>
+      <description>Attempted full withdrawal</description>
+      <findings>Potential investment fraud - requested full withdrawal of funds, indicating a possible realization of a scam.</findings>
+    </suspicious_activity>
+  </report>
+</sar>

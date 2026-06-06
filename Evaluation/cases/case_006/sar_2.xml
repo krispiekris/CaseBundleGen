@@ -1,0 +1,20 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-18</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <SenderName>Klaus Richter</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxxxxxxxxxxx</RecipientAccount>
+      <Description>Withdrawal request attempt</Description>
+      <SuspiciousIndicators>
+        <Indicator>Large withdrawal request</Indicator>
+        <Indicator>Request denied due to verification issues</Indicator>
+      </SuspiciousIndicators>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingEmployee>Jane Doe</ReportingEmployee>
+</SAR>

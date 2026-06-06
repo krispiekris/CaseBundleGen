@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial email, what is the name of the AI platform developed by AI-Trade Solutions?",
+    "answer": "Athena"
+  },
+  {
+    "question": "Based on the portfolio update email, what was Richard Henderson's account balance on 2023-05-10?",
+    "answer": "$5,750.00"
+  },
+  {
+    "question": "What country is listed as the recipient country for the transactions detailed in the SAR reports?",
+    "answer": "Belize"
+  },
+  {
+    "question": "Which promotional material highlights the benefit of '24/7 monitoring'?",
+    "answer": "AI-Trade Solutions: Your Gateway to Automated Wealth"
+  },
+  {
+    "question": "Based on the screenshot description, what metric indicates the AI\u2019s confidence level?",
+    "answer": "AI Confidence: 98%"
+  },
+  {
+    "question": "What is the purpose of the email Richard Henderson sent to support@ai-trade-solutions.com?",
+    "answer": "To request a withdrawal of $5,000.00"
+  },
+  {
+    "question": "Which reporting officer filed the suspicious activity reports?",
+    "answer": "Jane Doe"
+  },
+  {
+    "question": "Considering all files, what is the total amount Richard Henderson transferred to AI-Trade Solutions?",
+    "answer": "$15,000.00"
+  },
+  {
+    "question": "Based on the SAR reports, what initially triggered the suspicious activity reports related to Richard Henderson's transactions?",
+    "answer": "Unusual Investment \u2013 High-yield promise, limited information about company; Continued investment despite limited information"
+  },
+  {
+    "question": "What is the purpose of the 'Disclaimer' mentioned in promotional material 2?",
+    "answer": "To state that past performance is not indicative of future results."
+  }
+]

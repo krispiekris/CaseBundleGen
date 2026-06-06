@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial email, what is Alexander Volkov\u2019s title at Innovative AIX?",
+    "answer": "Head of Investor Relations"
+  },
+  {
+    "question": "What amount did Robert Miller initially indicate he wanted to invest?",
+    "answer": "$5,000"
+  },
+  {
+    "question": "What is the SWIFT code associated with the recipient bank for the wire transfer documented in SAR-20230901-001?",
+    "answer": "OCBCCYCY"
+  },
+  {
+    "question": "What reason does Innovative AIX provide for pausing withdrawals, as stated in email_3.txt?",
+    "answer": "To protect the investment due to increased market volatility and to recalibrate AI models"
+  },
+  {
+    "question": "Based on promotional_material_2.txt, what is one of the promises made by Innovative AIX to potential investors?",
+    "answer": "Transparent Technology"
+  },
+  {
+    "question": "What did the screenshot_website.txt reveal about the website's footer?",
+    "answer": "It includes contact information and legal disclaimers, seemingly generic."
+  },
+  {
+    "question": "What triggered the denial of the withdrawal request according to SAR-20231015-002?",
+    "answer": "Innovative AIX denied the request without a clear explanation"
+  },
+  {
+    "question": "Considering all the files, what is a potential red flag regarding Innovative AIX's operation?",
+    "answer": "Lack of transparency regarding investment strategy, offshore bank involvement, and restrictions on withdrawals."
+  },
+  {
+    "question": "What entity is mentioned in promotional_material_3.txt, in relation to providing personalized service?",
+    "answer": "Innovative AIX"
+  },
+  {
+    "question": "What type of report did Robert Miller file, as documented in SAR-20231122-003?",
+    "answer": "A formal complaint with regulatory agencies"
+  }
+]

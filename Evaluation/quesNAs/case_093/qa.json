@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the date of birth of the subject of the Suspicious Activity Report?",
+    "answer": "1968-07-10"
+  },
+  {
+    "question": "According to the emails, what is claimed to be a key advantage of the Apex Trading Solutions platform?",
+    "answer": "AI-powered platform is revolutionizing the way people invest."
+  },
+  {
+    "question": "What is the IBAN used for the transfers to Apex Trading Solutions?",
+    "answer": "SC05XXXXXXX"
+  },
+  {
+    "question": "What is the total amount transferred to Apex Trading Solutions based on the three SARs?",
+    "answer": "9000.00"
+  },
+  {
+    "question": "What is the initial recommendation given to Klaus Hartmann in the second email regarding maximizing returns?",
+    "answer": "Increasing your investment."
+  },
+  {
+    "question": "Based on the promotion text, what is claimed as a key benefit of using Apex Trading Solutions?",
+    "answer": "Potential for High Returns"
+  },
+  {
+    "question": "What reason is given for the temporary suspension of Klaus Hartmann's withdrawal request?",
+    "answer": "Ongoing security updates"
+  },
+  {
+    "question": "What specific type of activity prompted the email requesting verification of identity from Klaus Hartmann?",
+    "answer": "Unusual activity on your account"
+  },
+  {
+    "question": "According to the website screenshot, what visual element is used to suggest profitability?",
+    "answer": "Live trading graph, showing rapid and seemingly consistent upward movement."
+  },
+  {
+    "question": "Besides Klaus Hartmann's address, what other personal information is included in the SAR?",
+    "answer": "Date of Birth"
+  }
+]

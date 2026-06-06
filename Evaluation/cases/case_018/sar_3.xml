@@ -1,0 +1,26 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-11-01</ReportDate>
+    <InstitutionID>Royal Bank of Canada</InstitutionID>
+    <Currency>CAD</Currency>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-22</TransactionDate>
+    <TransactionAmount>500.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingAccount>Richard Boudreau - [Account Number Redacted]</OriginatingAccount>
+    <BeneficiaryAccount>[Redacted]</BeneficiaryAccount>
+    <BeneficiaryName>[Redacted]</BeneficiaryName>
+    <BeneficiaryCountry>Serbia</BeneficiaryCountry>
+    <Description>Verification Fee</Description>
+    <SuspiciousActivity>Potential Fraud - Verification Fee</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <Name>Richard Boudreau</Name>
+    <Address>[Redacted]</Address>
+    <DateOfBirth>[Redacted]</DateOfBirth>
+  </Party>
+  <Findings>
+    The transaction for a 'Verification Fee' paid to an account in Serbia, following a withdrawal request, is considered highly suspicious and indicative of fraud.
+  </Findings>
+</SAR>

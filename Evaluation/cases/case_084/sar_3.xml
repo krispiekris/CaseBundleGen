@@ -1,0 +1,16 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-01-10</ReportDate>
+    <InstitutionIdentifier>Barclays</InstitutionIdentifier>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-01-05</TransactionDate>
+    <TransactionAmount currency="EUR">15000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Sender>NovaTech AI Platform</Sender>
+    <Receiver>Hans Meier</Receiver>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+    <Description>Withdrawal request denied</Description>
+    <SuspiciousActivity>Withdrawal request denial followed by insistent communication from platform.</SuspiciousActivity>
+  </Transaction>
+</SAR>

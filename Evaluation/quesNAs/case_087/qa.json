@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the account number associated with David Miller's withdrawal request?",
+    "answer": "1234567890"
+  },
+  {
+    "question": "According to the SAR, which entity transferred $35,000 to the Marshall Islands Holding Company?",
+    "answer": "Global Finance International"
+  },
+  {
+    "question": "What promotional offer was being advertised by Forex Global Elite?",
+    "answer": "A 100% bonus on the first deposit."
+  },
+  {
+    "question": "Based on the screenshot of the trading platform, what is the current account balance?",
+    "answer": "$37,500.00 CAD"
+  },
+  {
+    "question": "What initial balance did Sergei Volkov have in his bank account?",
+    "answer": "100000.00"
+  },
+  {
+    "question": "Which entity is mentioned in the SAR related to Serbia?",
+    "answer": "Global Finance International"
+  },
+  {
+    "question": "What type of descriptions are used for the deposit transactions in David Miller\u2019s bank statement?",
+    "answer": "Forex Global Elite Deposit"
+  },
+  {
+    "question": "According to the SAR, what is the primary suspicious activity associated with Sergei Volkov's account?",
+    "answer": "Receiving large sums from a Canadian investor, minimal activity beyond deposits and transfers."
+  },
+  {
+    "question": "What is the timestamp shown on the screenshot of the trading platform?",
+    "answer": "14:35 GMT+2"
+  },
+  {
+    "question": "What currencies were involved in the open positions displayed in the screenshot of the trading platform?",
+    "answer": "EUR/USD and GBP/JPY"
+  }
+]

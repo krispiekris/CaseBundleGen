@@ -1,0 +1,22 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-11-20</ReportDate>
+    <BankName>Royal Bank of Canada</BankName>
+    <SARID>RBC-SAR-20231120-001</SARID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>CAD</Currency>
+    <SenderAccount>David Miller - Account Number (Redacted)</SenderAccount>
+    <ReceiverAccount>CryptoExchange1 - Account Number (Redacted)</ReceiverAccount>
+    <ReceiverName>Global Crypto Solutions</ReceiverName>
+    <Description>Cryptocurrency Purchase</Description>
+    <SuspiciousActivity>Unusual amount for this customer, frequent cryptocurrency transactions.</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <PartyType>Customer</PartyType>
+    <Name>David Miller</Name>
+    <Address>(Redacted)</Address>
+  </Party>
+</SAR>

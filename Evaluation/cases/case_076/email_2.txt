@@ -1,0 +1,11 @@
+From: "NWBK Fraud Department" <fraud@nwbk.co.uk>
+To: "Andreas Schmidt" <a.schmidt@example.com>
+Subject: Urgent: Suspicious Activity Detected
+Date: November 22, 2023 17:45:00
+
+Dear Andreas,
+
+We have detected unusual activity on your account. We are unable to process your withdrawal request at this time. Please contact AI Trade Solutions immediately to resolve this issue.
+
+Sincerely,
+NWBK Fraud Department

@@ -1,0 +1,22 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-02-15</ReportDate>
+    <BankName>Royal Bank of Canada</BankName>
+    <SARID>RBC-SAR-20240215-003</SARID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-02-12</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>CAD</Currency>
+    <SenderAccount>David Miller - Account Number (Redacted)</SenderAccount>
+    <ReceiverAccount>(Redacted - Withdrawal Attempt)</ReceiverAccount>
+    <ReceiverName>N/A</ReceiverName>
+    <Description>Withdrawal Request</Description>
+    <SuspiciousActivity>Withdrawal request denied due to account restrictions.</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <PartyType>Customer</PartyType>
+    <Name>David Miller</Name>
+    <Address>(Redacted)</Address>
+  </Party>
+</SAR>

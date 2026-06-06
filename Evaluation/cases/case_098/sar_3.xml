@@ -1,0 +1,24 @@
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SAR_ID>SAR-20240301-003</SAR_ID>
+    <SubmissionDate>2024-03-01</SubmissionDate>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-98765</TransactionID>
+    <TransactionDate>2024-01-28</TransactionDate>
+    <TransactionAmount currency="EUR">1000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Sender>
+      <Name>Klaus Schmidt</Name>
+      <AccountID>DE1234567890</AccountID>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd.</Name>
+      <AccountID>LC012345678</AccountID>
+      <Country>Belize</Country>
+    </Receiver>
+    <Description>Additional investment to unlock higher profits</Description>
+    <SuspiciousActivity>Customer reporting potential fraud, multiple transfers to offshore account.</SuspiciousActivity>
+  </Transaction>
+</SAR>

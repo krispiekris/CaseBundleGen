@@ -1,0 +1,18 @@
+<sar>
+  <report>
+    <report_date>2024-03-10</report_date>
+    <institution_id>DE-DeutscheBank</institution_id>
+    <reporter_id>12345</reporter_id>
+    <transaction>
+      <transaction_date>2023-12-05</transaction_date>
+      <transaction_amount currency="EUR">-1000</transaction_amount>
+      <transaction_type>Debit</transaction_type>
+      <sender_name>Global Investment Solutions Ltd</sender_name>
+      <sender_account>GB22BARC20400000000000</sender_account>
+      <receiver_name>Hans Schmidt</receiver_name>
+      <receiver_account>DE12345678901234567890</receiver_account>
+      <description>Withdrawal Request - Denied</description>
+      <suspicious_activity>Customer reported difficulty withdrawing funds. Account access may be restricted.</suspicious_activity>
+    </transaction>
+  </report>
+</sar>

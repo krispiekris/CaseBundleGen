@@ -1,0 +1,15 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-10-03</ReportDate>
+    <SuspiciousActivity>
+      <TransactionType>Withdrawal Attempt</TransactionType>
+      <TransactionAmount>5000.00</TransactionAmount>
+      <Currency>USD</Currency>
+    </SuspiciousActivity>
+    <Party>
+      <SenderName>Richard Adams</SenderName>
+      <SenderAccount>XXXXXXXXXXXXXXX</SenderAccount>
+    </Party>
+    <Description>Withdrawal attempt failed, citing technical issues. Victim reports inability to access funds.</Description>
+  </Header>
+</SAR>

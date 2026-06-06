@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-01-16</ReportDate>
+  <SuspiciousActivity>
+    <TransactionType>Cryptocurrency Transfer</TransactionType>
+    <TransactionDate>2023-12-16</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <SenderName>Markus Bauer</SenderName>
+    <SenderAccount>DExxxxxxxxxx</SenderAccount>
+    <ReceiverName>Cryptoking77</ReceiverName>
+    <ReceiverAccount>0xAbCdEfGhIjKlMnOpQrStUvWxYz123456</ReceiverAccount>
+    <Description>Investment in NFT project</Description>
+    <SuspiciousFactor>Second unusual transaction size for customer profile. Destination account associated with potential fraudulent activity.</SuspiciousFactor>
+  </SuspiciousActivity>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <ReportID>SAR-002-2024</ReportID>
+</SAR>

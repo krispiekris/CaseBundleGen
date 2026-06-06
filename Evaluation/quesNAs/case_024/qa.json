@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What initial deposit amount did Hans Meier make into the Forex Prime Global account, according to the SAR report?",
+    "answer": "50000.00 EUR"
+  },
+  {
+    "question": "Based on email_3.txt, what trading pairs did Forex Prime Global claim generated the recent profits for Hans Meier?",
+    "answer": "EUR/USD and GBP/JPY"
+  },
+  {
+    "question": "What promotional offer was presented to new traders according to promotional_material_2.txt?",
+    "answer": "A \u20ac50,000 bonus for a \u20ac50,000 deposit."
+  },
+  {
+    "question": "What country is the bank associated with the cryptocurrency deposit from Hans Meier?",
+    "answer": "Belize"
+  },
+  {
+    "question": "According to sar_2.xml, what prompted the suspicious activity during Hans Meier's withdrawal request?",
+    "answer": "Delayed withdrawal, customer expressing concerns about account activity."
+  },
+  {
+    "question": "According to email_1.txt, what is the stated goal of Forex Prime Global?",
+    "answer": "To help everyone achieve financial freedom through Forex trading."
+  },
+  {
+    "question": "What was the amount of the interest earned in the account on 2023-05-10, according to bank_statement_2.csv?",
+    "answer": "250.00 EUR"
+  },
+  {
+    "question": "Besides EUR, what other currency deposit is mentioned in the case files?",
+    "answer": "BTC"
+  },
+  {
+    "question": "What is the stated purpose of Forex Prime Global's platform, according to email_1.txt?",
+    "answer": "Cutting-edge tools, expert guidance, and a secure trading environment."
+  },
+  {
+    "question": "Based on the screenshot_2.txt, what is the tagline used to promote Forex Prime Global?",
+    "answer": "Forex Prime Global: Where Financial Dreams Come True"
+  }
+]

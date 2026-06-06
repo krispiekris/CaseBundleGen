@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the invoice number associated with the payments to Apex Trading Ltd?",
+    "answer": "12345"
+  },
+  {
+    "question": "According to the compromised account log, what action was performed immediately after a password change?",
+    "answer": "A new vendor 'Apex Trading Ltd' was added to the vendor list"
+  },
+  {
+    "question": "Which country is listed as the receiver country for the transactions involving Apex Trading Ltd?",
+    "answer": "Hong Kong"
+  },
+  {
+    "question": "What type of fraudulent activity is initially suspected in SAR-20240727-004?",
+    "answer": "Business Email Compromise (BEC) fraud"
+  },
+  {
+    "question": "What is the amount of the transaction in SAR-20240726-003?",
+    "answer": "0.00"
+  },
+  {
+    "question": "According to the promotional email, what benefit does Apex Trading Ltd. offer to potential clients?",
+    "answer": "Exclusive rates and personalized support"
+  },
+  {
+    "question": "What is the total amount credited to Global Tech Systems' account from Apex Trading Ltd. based on the bank statements?",
+    "answer": "187500.00"
+  },
+  {
+    "question": "What is the description provided for the suspicious activity in SAR-20240111-002?",
+    "answer": "Multiple SARs filed for similar transactions to Apex Trading Ltd. Further investigation required."
+  },
+  {
+    "question": "What does the screenshot of the website indicate about Apex Trading Ltd.?",
+    "answer": "It has a professional design, client testimonials, and contact information."
+  },
+  {
+    "question": "According to the invoice, what is the total amount billed for Consulting Services?",
+    "answer": "$50000.00"
+  }
+]

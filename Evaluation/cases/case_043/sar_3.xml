@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SAR_schema.xsd">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Am Mainufer 55, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Hans Meier</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-04-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-20</Date>
+    <Amount currency="EUR">0</Amount>
+    <TransactionType>Information Request</TransactionType>
+    <Description>Customer inquiry regarding inability to access funds and unusual account activity.</Description>
+    <Beneficiary>
+      ,,
+      </Beneficiary>
+  </Transaction>
+  <SuspiciousActivity>
+    <Description>Customer expressing concerns about account access and unusual account activity.  Consistent with previous suspicious activity reports related to Quantum AI Trading.</Description>
+    <RiskLevel>High</RiskLevel>
+  </SuspiciousActivity>
+</SAR>

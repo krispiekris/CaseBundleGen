@@ -1,0 +1,19 @@
+<SAR id="SAR-20240310-001">
+  <ReportDate>2024-03-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-01</TransactionDate>
+      <Amount currency="EUR">10000</Amount>
+      <SenderName>Helmut Klein</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Global Crypto Solutions Ltd.</ReceiverName>
+      <ReceiverAccount>GB67NWBK40302182397052</ReceiverAccount>
+      <Description>Transfer to Crypto Recovery Service</Description>
+    </Transaction>
+    <Findings>
+      <Finding>Potential investment fraud involving cryptocurrency recovery services.</Finding>
+      <Finding>Unusually large transfer to an overseas account with an ambiguous company name.</Finding>
+    </Findings>
+  </SuspiciousActivity>
+</SAR>

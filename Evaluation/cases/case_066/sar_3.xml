@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-12-10</ReportDate>
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-18</TransactionDate>
+      <TransactionAmount>3000.00</TransactionAmount>
+      <Currency>USD</Currency>
+      <TransactionType>Wire Transfer</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>123 Main Street, Sydney, NSW, 2000, Australia</Address>
+        <AccountID>XXXXXXXXXXXXXX</AccountID>
+      </OriginatingParty>
+      <BeneficiaryParty>
+        <Name>Global Investments LTD</Name>
+        <Country>Cyprus</Country>
+        <AccountID>YYYYYYYYYYYYY</AccountID>
+        <BankName>Horizon Bank</BankName>
+        <SwiftCode>HORIBANK</SwiftCode>
+      </BeneficiaryParty>
+      <Description>Wire transfer to Global Investments LTD</Description>
+    </Transaction>
+    <SuspicionSummary>Multiple transactions to the same overseas entity with limited public information.  Potential for investment fraud.  Recipient matches a known entity associated with fraudulent investment schemes.  Reports from concerned individual indicate potential scam.</SuspicionSummary>
+    <ReportingPerson>John Smith</ReportingPerson>
+    <Position>Suspicion Monitoring Officer</Position>
+  </SuspiciousActivity>
+</SAR>

@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-11-08</ReportDate>
+    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
+    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <TransactionAmount currency="EUR">0.00</TransactionAmount>
+    <TransactionType>Withdrawal Attempt</TransactionType>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+    <ReceiverName>Klaus Schmidt</ReceiverName>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Withdrawal Request - Declined</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Attempted withdrawal request blocked due to technical issues and subsequent requests for additional fees to process withdrawal.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud - refusal to release funds and additional demands for money.</PotentialFraud>
+  </Findings>
+</SAR>

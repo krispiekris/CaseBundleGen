@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-01-15</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceID>SAR-20240115-003</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-01-12</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Forex Alpha Ltd.</ReceiverName>
+    <ReceiverAccount>BZ12345678901234567890</ReceiverAccount>
+    <Description>Withdrawal Fee</Description>
+    <SuspiciousActivity>Potential Investment Fraud</SuspiciousActivity>
+    <Notes>Customer transferred 5000 EUR to Forex Alpha Ltd. as a withdrawal fee, following a request from Forex Alpha Ltd. This appears to be an attempt to further extract funds from the customer. Further investigation is warranted.</Notes>
+  </Transaction>
+</SAR>

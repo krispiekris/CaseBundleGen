@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What initial amount did Hans Meier invest with Innovative Profits, as recorded in the transaction details?",
+    "answer": "\u20ac5,000"
+  },
+  {
+    "question": "According to the SAR reports, what is the primary reason for the Suspicious Activity flags?",
+    "answer": "Potential investment fraud. Account appears to be related to an unregulated online trading platform."
+  },
+  {
+    "question": "What type of document requests additional information from Hans Meier regarding a withdrawal?",
+    "answer": "Email"
+  },
+  {
+    "question": "Based on the promotional documents, what is the name of the AI trading bot used by Innovative Profits?",
+    "answer": "Athena"
+  },
+  {
+    "question": "What is the account balance displayed on the screenshot of the trading platform?",
+    "answer": "\u20ac17,000"
+  },
+  {
+    "question": "Besides the initial investment, what is the second largest transaction amount associated with Innovative Profits?",
+    "answer": "\u20ac10,000"
+  },
+  {
+    "question": "What are the three pieces of information requested from Hans Meier to complete the verification process for his withdrawal?",
+    "answer": "Scanned copy of passport or national ID card, recent bank statement, proof of address (utility bill or bank statement)"
+  },
+  {
+    "question": "Which reporting institutions filed the Suspicious Activity Reports (SARs) related to Hans Meier's transactions?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "According to promotional material, what is a potential benefit customers might receive when signing up?",
+    "answer": "A FREE consultation with an expert financial advisor"
+  },
+  {
+    "question": "When was the first Suspicious Activity Report (SAR) filed?",
+    "answer": "2023-10-05"
+  }
+]

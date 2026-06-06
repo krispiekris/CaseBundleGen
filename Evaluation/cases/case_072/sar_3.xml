@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-02-29</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Account>
+      <AccountHolder>Klaus Hartmann</AccountHolder>
+      <AccountID>DE12345678901234567890</AccountID>
+      <AccountType>Current Account</AccountType>
+      <Country>Germany</Country>
+    </Account>
+    <AlertType>Unusual Activity</AlertType>
+    <Description>Customer reported fraudulent activity related to investment in AI Trading Solutions. Large deposits followed by unsuccessful withdrawal attempts.</Description>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Potential investment fraud involving an AI trading platform with offshore connections.</Finding>
+  </Findings>
+</SAR>

@@ -1,0 +1,27 @@
+<SAR id="SAR-20230815-003">
+  <ReportingInstitution>
+    <Name>Canadian Trust Bank</Name>
+    <Address>123 Main Street, Anytown, ON</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Mark Peterson</Name>
+    <Address>456 Oak Avenue, Anytown, ON</Address>
+    <DateOfBirth>1968-07-22</DateOfBirth>
+  </Subject>
+  <SuspiciousActivity>
+    <Date>2023-08-15</Date>
+    <Type>Unusual Activity</Type>
+    <Description>Large cryptocurrency withdrawals after repeated deposits, consistent with potential fraudulent activity.</Description>
+    <TransactionDetails>
+      <TransactionDate>2023-07-10</TransactionDate>
+      <TransactionAmount currency="USD">10000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <RecipientName>Mark Peterson</RecipientName>
+      <RecipientAccount>1234567890</RecipientAccount>
+    </TransactionDetails>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Possible investment fraud scheme with subsequent fund withdrawal.</Finding>
+    <Finding>Recipient’s unusual transaction patterns warrant further investigation.</Finding>
+  </Findings>
+</SAR>

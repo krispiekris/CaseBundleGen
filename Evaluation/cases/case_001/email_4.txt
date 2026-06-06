@@ -1,0 +1,16 @@
+From: support@aiextrading.com
+To: David.Miller@example.com.au
+Subject: Important Account Update
+
+Dear David,
+
+We've detected unusual activity on your account. To ensure the security of your funds, we require you to complete an additional verification process. Please click on the link below to confirm your identity:
+
+[link removed]
+
+Failure to verify your account may result in temporary suspension of your trading privileges.
+
+Sincerely,
+The AI Extra Trading Team
+
+www.aiextrading.com

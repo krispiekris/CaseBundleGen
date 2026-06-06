@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-06-05</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-2023-06-05-003</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-05-10</TransactionDate>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Debit</TransactionType>
+    <Description>Suspicious activity - withdrawal attempt</Description>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>GB24NWBK000000000000</ReceiverAccount>
+    <SuspiciousActivity>Unexplained transfer and refusal to return funds</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <AccountHolderName>Klaus Heinz</AccountHolderName>
+    <AccountHolderAddress>Musterstraße 1, 10115 Berlin</AccountHolderAddress>
+  </Party>
+</SAR>

@@ -1,0 +1,4 @@
+Transaction ID,Date,Time,Amount (EUR),Currency,Description,Status,Recipient Account,Recipient IBAN
+TXN-001,2023-08-02,10:15,2500.00,EUR,Investment to Innovative AIX,Completed,9876543210,AE560000000000000012345
+TXN-002,2023-08-18,14:30,1500.00,EUR,Additional Investment,Completed,9876543210,AE560000000000000012345
+TXN-003,2023-09-10,09:00,750.00,EUR,Withdrawal Request,Failed,9876543210,AE560000000000000012345

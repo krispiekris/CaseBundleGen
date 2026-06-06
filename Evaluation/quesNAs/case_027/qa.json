@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the promotional material, what is the advertised annual return rate for NovaAI?",
+    "answer": "Exceeding 30% per annum"
+  },
+  {
+    "question": "What is the stated purpose of NovaAI, as described in the initial email?",
+    "answer": "To transform your financial future."
+  },
+  {
+    "question": "What is the account ID provided in the withdrawal request?",
+    "answer": "789456123"
+  },
+  {
+    "question": "According to the SAR report, what is the country of origin for the beneficiary bank, Apex Financial Services?",
+    "answer": "Nigeria"
+  },
+  {
+    "question": "What is the SWIFT/BIC code mentioned in the withdrawal request?",
+    "answer": "DEUTDEFFXXX"
+  },
+  {
+    "question": "Which transaction type is flagged as suspicious in SAR 2?",
+    "answer": "Credit"
+  },
+  {
+    "question": "What is the stated reason for potentially suspending withdrawals, according to the Terms of Service?",
+    "answer": "If deemed necessary"
+  },
+  {
+    "question": "Based on the screenshot description, what is the value displayed for the 'Daily Profit' indicator on the NovaAI dashboard?",
+    "answer": "+\u20ac2,500.00"
+  },
+  {
+    "question": "What is the governing law for this agreement as stated in the Terms of Service?",
+    "answer": "The laws of the British Virgin Islands"
+  },
+  {
+    "question": "What is the initial deposit amount (in EUR) that Helmut Schmidt made on October 15, 2023?",
+    "answer": "20000"
+  }
+]

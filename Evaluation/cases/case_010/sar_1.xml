@@ -1,0 +1,23 @@
+<SAR>
+  <Header>
+    <SAR_Reference>20231128-GER-AI</SAR_Reference>
+    <Date_Filed>2023-11-28</Date_Filed>
+    <Filer_Institution>Deutsche Bank</Filer_Institution>
+  </Header>
+  <Transaction>
+    <Transaction_ID>TXN-12345</Transaction_ID>
+    <Date>2023-11-22</Date>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <Sender_Name>Hans Baumann</Sender_Name>
+    <Sender_Account>DE12345678901234567890</Sender_Account>
+    <Receiver_Name>Global Investments Ltd.</Receiver_Name>
+    <Receiver_Account>GB26NWBK00000000001234</Receiver_Account>
+    <Purpose>Investment</Purpose>
+    <Suspicious_Activity>Unusually large transaction for a new account; Recipient account located in the UK with limited public information.</Suspicious_Activity>
+  </Transaction>
+  <Party>
+    <Name>Hans Baumann</Name>
+    <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+  </Party>
+</SAR>

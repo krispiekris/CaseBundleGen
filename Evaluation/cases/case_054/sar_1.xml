@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sar_schema.xsd">
+  <ReportDate>2023-11-15</ReportDate>
+  <SuspiciousActivity>
+    <TransactionType>Withdrawal Request</TransactionType>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionDate>2023-11-10</TransactionDate>
+    <Account>
+      <AccountID>GFG12345</AccountID>
+      <AccountHolder>Klaus Meier</AccountHolder>
+    </Account>
+    <Description>Customer initiated withdrawal request.  Verification process pending.  Unusual activity given recent deposits.</Description>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Contact>
+      <Phone>+49 30 12345678</Phone>
+      <Email>compliance@deutschebank.de</Email>
+    </Contact>
+  </ReportingInstitution>
+</SAR>

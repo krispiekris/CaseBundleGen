@@ -1,0 +1,18 @@
+<SAR>
+  <ReportDate>2023-12-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-05</TransactionDate>
+      <Amount>15000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Heinz</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <ReceiverName>Golden Future Investments</ReceiverName>
+      <ReceiverAccount>USxxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+      <PurposeCode>13 - Other</PurposeCode>
+      <Description>Transfer to investment platform</Description>
+      <SuspicionReason>Unusually large transfer to overseas account; recipient flagged as potentially high-risk.</SuspicionReason>
+    </Transaction>
+  </SuspiciousActivity>
+</SAR>

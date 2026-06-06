@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-07-20</ReportDate>
+    <InstitutionID>FirstNationalBank</InstitutionID>
+    <FilerID>Branch007</FilerID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-04-01</TransactionDate>
+    <TransactionAmount>5000</TransactionAmount>
+    <TransactionCurrency>USD</TransactionCurrency>
+    <TransactionType>Deposit</TransactionType>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>123456789</SenderAccount>
+    <ReceiverName>Global Capital Ventures</ReceiverName>
+    <ReceiverAccount>987654321</ReceiverAccount>
+    <ReceiverBank>InternationalTrustBank</ReceiverBank>
+    <Purpose>Investment</Purpose>
+    <SuspiciousActivity>Potential investment fraud - unusually high returns claimed.</SuspiciousActivity>
+    <Notes>Customer seemed overly enthusiastic about the investment opportunity.</Notes>
+  </Transaction>
+</SAR>

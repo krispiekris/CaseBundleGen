@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial welcome email, what is the stated purpose of AIX Capital?",
+    "answer": "To analyze market trends and execute trades with unparalleled precision, generating exceptional returns."
+  },
+  {
+    "question": "What is the initial investment amount made by David Miller to AIX Capital, as recorded in the first SAR?",
+    "answer": "5000.00"
+  },
+  {
+    "question": "What reason did the First National Bank provide in the first SAR for their suspicion regarding David Miller's transaction to AIX Capital?",
+    "answer": "Unusual investment destination and lack of transparency regarding the platform's operations."
+  },
+  {
+    "question": "What prompted David Miller to make an additional investment of $10,000, according to the second SAR?",
+    "answer": "Reported pressure from a platform representative."
+  },
+  {
+    "question": "What does the promotional material claim AIX Capital offers investors?",
+    "answer": "High returns, automated trading, a user-friendly interface, and 24/7 support."
+  },
+  {
+    "question": "What is the stated reason for the failed withdrawal attempt recorded in the third SAR?",
+    "answer": "Funds unavailable. Platform unresponsive."
+  },
+  {
+    "question": "According to the email from Alex Volkov, what specific market is being targeted for potential returns?",
+    "answer": "The cryptocurrency market."
+  },
+  {
+    "question": "What does the screenshot of the AI platform show in terms of potential profit and risk?",
+    "answer": "Simulated performance. Results not guaranteed."
+  },
+  {
+    "question": "Based on the provided bank statements, what sequence of events occurred between January 15th and July 12th, 2023? List them in chronological order.",
+    "answer": "Incoming Transfer of 1000.00, AIX Capital Investment of -5000.00, Interest Earned of 1.23, Utility Bill of -150.00, Restaurant of -50.00, Interest Earned of 1.23, Online Purchase of -25.00, AIX Capital Investment of -10000.00, Interest Earned of 1.23, Withdrawal Attempt - Declined of -7500.00"
+  },
+  {
+    "question": "Which entities are directly involved in the transactions related to AIX Capital, as evidenced across multiple files?",
+    "answer": "David Miller, AIX Capital, First National Bank"
+  }
+]

@@ -1,0 +1,12 @@
+From: "AI Trading Solutions" <support@aitradingsolutions.com>
+To: David.Miller@example.com
+Subject: Important Update Regarding Your Withdrawal Request
+
+Dear David,
+
+We are writing to inform you that your recent withdrawal request is currently being processed. Due to increased transaction volume, there may be a slight delay in processing your funds.  We appreciate your patience.
+
+For your security, we have initiated an additional verification process.  Please respond to this email with a copy of your government-issued identification.
+
+Sincerely,
+The AI Trading Solutions Support Team

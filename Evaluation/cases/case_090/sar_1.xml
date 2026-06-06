@@ -1,0 +1,24 @@
+<SAR id="SAR-20230401-001">
+  <ReportingInstitution>
+    <Name>Canadian National Bank</Name>
+    <Address>123 Main Street, Toronto, ON</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Mark Hamilton</Name>
+    <Address>456 Oak Avenue, Vancouver, BC</Address>
+  </Subject>
+  <Transaction>
+    <Date>2023-04-01</Date>
+    <Amount currency="CAD">20000.00</Amount>
+    <Description>Transfer to Aionautics Trading Platform</Description>
+    <Recipient>
+      <Name>Aionautics Trading Ltd.</Name>
+      <Account>1234567890</Account>
+      <IBAN>CA12345678901234567890</IBAN>
+    </Recipient>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusually large initial transfer to a newly established online investment platform.</SuspiciousActivity>
+    <PotentialFraudType>Investment Fraud</PotentialFraudType>
+  </Findings>
+</SAR>

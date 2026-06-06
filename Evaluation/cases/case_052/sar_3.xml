@@ -1,0 +1,23 @@
+<sar>
+  <reportHeader>
+    <reportDate>2024-03-12</reportDate>
+    <reportingInstitution>Sparkasse Nürnberg</reportingInstitution>
+    <reporterId>12345</reporterId>
+  </reportHeader>
+  <transaction>
+    <transactionDate>2024-01-10</transactionDate>
+    <transactionAmount currency="EUR">1000.00</transactionAmount>
+    <transactionType>Wire Transfer</transactionType>
+    <sender>
+      <name>Hans Schmidt</name>
+      <accountNumber>DE89741105020001234567</accountNumber>
+    </sender>
+    <recipient>
+      <name>AlphaGenesis Global</name>
+      <accountNumber>ZA12345678901234567890</accountNumber>
+      <bankCountry>Nigeria</bankCountry>
+    </recipient>
+    <description>Withdrawal Request Fee</description>
+    <suspiciousActivity>Recipient demanding additional fees for withdrawal</suspiciousActivity>
+  </transaction>
+</sar>

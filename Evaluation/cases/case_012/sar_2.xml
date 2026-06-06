@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_date>2023-12-15</report_date>
+  <institution_id>DEUTSCHBANK</institution_id>
+  <reporter_name>Deutsche Bank</reporter_name>
+  <suspicious_activity>
+    <transaction>
+      <transaction_date>2023-12-10</transaction_date>
+      <amount currency="EUR">10000.00</amount>
+      <sender_account>DE78123456781234567890</sender_account>
+      <recipient_account>GB22NWBK20701724542814</recipient_account>
+      <recipient_name>Aetherium Alpha Investments</recipient_name>
+      <description>Investment - Aetherium Alpha - Additional Funds</description>
+    </transaction>
+    <activity_type>Unusual Transaction</activity_type>
+    <finding>Potential investment fraud - continued transfers to overseas entity</finding>
+    <reporter_comments>Customer continues to transfer significant funds to the same UK-based company. No readily available information regarding the company’s legitimacy. Customer appears to be under pressure to invest more.</reporter_comments>
+  </suspicious_activity>
+</sar>

@@ -1,0 +1,1013 @@
+case_id;expected_answer;predicted_answer;bertscore_precision__roberta_large;bertscore_recall__roberta_large;bertscore_f1__roberta_large;bertscore_precision__microsoft_deberta_xlarge_mnli;bertscore_recall__microsoft_deberta_xlarge_mnli;bertscore_f1__microsoft_deberta_xlarge_mnli
+case_001;5000.00;None;0.0285;0.2344;0.1308;-0.1903;-0.3042;-0.2462
+case_001;Effortless Profits;Effortless Profits;1.0;1.0;1.0;1.0;1.0;1.0
+case_001;Additional Investment;Additional Investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_001;A copy of his government-issued ID;A copy of your government-issued ID;0.8943;0.8944;0.8945;0.8864;0.8864;0.8868
+case_001;Life-changing profits!;Life-changing profits!;1.0;1.0;1.0;1.0;1.0;1.0
+case_001;1250.00;$1,250.00;0.6193;0.6967;0.6583;0.4433;0.612;0.5251
+case_001;To ensure the security of his funds;Unusual activity was detected on the account.;0.2377;0.2766;0.2583;0.0462;0.223;0.1316
+case_001;Unusual investment platform;Unusual investment platform;1.0;1.0;1.0;1.0;1.0;1.0
+case_001;Email;Email;1.0;1.0;1.0;1.0;1.0;1.0
+case_001;Limited spots available;Limited spots available;1.0;1.0;1.0;1.0;1.0;1.0
+case_002;5000 EUR;None;0.0217;-0.0983;-0.0373;-0.2714;-0.2992;-0.2803
+case_002;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_002;Unusual activity on the account;Unusual activity;0.8597;0.6866;0.7722;0.7444;0.4646;0.5945
+case_002;To unlock funds;To unlock your funds.;0.7761;0.8041;0.7904;0.6058;0.8236;0.7092
+case_002;A copy of your passport;Passport;0.6289;0.3885;0.5069;0.3859;0.2242;0.3031
+case_002;None;None;1.0;1.0;1.0;1.0;1.0;1.0
+case_002;High-risk jurisdiction;None;0.1291;0.1691;0.1504;-0.1849;-0.1264;-0.1519
+case_002;1000 EUR;1000;0.5422;0.2163;0.3752;0.4507;0.0921;0.2505
+case_002;Your profits are growing exponentially!;Your profits are growing exponentially!;1.0;1.0;1.0;1.0;1.0;1.0
+case_002;david.okoro.investments@gmail.com;david.okoro.investments@gmail.com;1.0;1.0;1.0;1.0;1.0;1.0
+case_003;A large credit to an overseas account with unusual activity.;Credit;0.1619;-0.0345;0.0633;-0.0848;-0.3036;-0.203
+case_003;5000 EUR;None;0.0217;-0.0983;-0.0373;-0.2714;-0.2992;-0.2803
+case_003;Account restrictions;Potential investment fraud;0.2951;0.4131;0.3545;0.1375;0.2366;0.1884
+case_003;Daily Expert Trading Signals;Daily Expert Trading Signals;1.0;1.0;1.0;1.0;1.0;1.0
+case_003;They are difficult to find and very lengthy.;The terms and conditions are difficult to find and very lengthy.;0.5503;0.7834;0.665;0.5642;0.727;0.6432
+case_003;12,500 EUR;EUR 12,500;0.6417;0.6948;0.6687;0.6896;0.7533;0.722
+case_003;Information;Information;1.0;1.0;1.0;1.0;1.0;1.0
+case_003;2023-08-15;2023-08-15;1.0;1.0;1.0;1.0;1.0;1.0
+case_003;BTC;None;0.2286;0.2286;0.2298;0.1329;0.1327;0.1363
+case_003;BZ;None;0.1665;0.1101;0.1395;-0.1184;-0.2484;-0.1834
+case_004;To utilize a proprietary artificial intelligence algorithm to analyze market trends and execute trades.;To analyze market trends and execute trades with unparalleled precision.;0.7154;0.5709;0.6428;0.7477;0.6634;0.7057
+case_004;Innovative investment strategies.;None;0.0441;0.0462;0.0467;-0.2525;-0.1239;-0.1882
+case_004;Belize City, Belize;Belize City, Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_004;Binance;Binance;1.0;1.0;1.0;1.0;1.0;1.0
+case_004;$3500;$3500;1.0;1.0;1.0;1.0;1.0;1.0
+case_004;Potential investment fraud / Unusual transfer to offshore account / Funds transferred to cryptocurrency exchange after initial investment.;"Possible fraud; Account Activity Suspended and Potential investment fraud. Unusual transfer to offshore account.";0.539;0.5056;0.523;0.4644;0.4548;0.4618
+case_004;Trading privileges have been temporarily suspended.;Trading privileges have been temporarily suspended.;1.0;1.0;1.0;1.0;1.0;1.0
+case_004;$50000.00;50000.00;0.9;0.8627;0.8815;0.8118;0.7112;0.7611
+case_004;Binance;Canadian Risk Bank;-0.0519;-0.0106;-0.0296;-0.0606;-0.0479;-0.0501
+case_004;https://secure.quantumleap.ai/login;https://secure.quantumleap.ai/login;1.0;1.0;1.0;1.0;1.0;1.0
+case_005;To revolutionize investment strategy by using AI algorithms to analyze market trends and identify profitable opportunities.;To revolutionize investment strategy.;0.8678;0.4141;0.6323;0.8366;0.3482;0.5584
+case_005;Log in to their account and start deploying automated trading strategies.;Log in to your account and start deploying our automated trading strategies.;0.7892;0.8206;0.8052;0.7767;0.8358;0.8066
+case_005;Unusual volume of transfers to overseas accounts with a focus on cryptocurrency platforms.;Unusual volume of transfers to overseas accounts with a focus on cryptocurrency platforms.;1.0;1.0;1.0;1.0;1.0;1.0
+case_005;A copy of his government-issued identification, proof of address (utility bill), and a screenshot of his cryptocurrency wallet.;Copy of your government-issued identification, proof of address (utility bill), and screenshot of your cryptocurrency wallet.;0.9006;0.8819;0.8914;0.8831;0.8611;0.8726
+case_005;+€2,500.00 (today).;+€2,500.00 (today);0.9502;0.9089;0.9296;0.9909;0.9909;0.991
+case_005;Global Digital Assets LLC;US9876543210;-0.2741;-0.0962;-0.1849;-0.2543;-0.2289;-0.2368
+case_005;Transferring funds to AlphaTrade AI.;Initiating transfers;0.1216;0.2146;0.169;0.2918;0.1286;0.2082
+case_005;A FREE consultation with AI Trading Experts.;A FREE consultation with AI Trading Experts;0.9581;0.9633;0.9608;0.9669;0.9068;0.9366
+case_005;The customer attempted withdrawal and the request was denied, prompting a follow-up report.;Customer attempted withdrawal and request was denied, prompting a follow-up report.;0.8493;0.8278;0.8388;0.9043;0.877;0.891
+case_005;"Potential fraudulent activity and unauthorized transfers; the account may be compromised.";Customer reports fraudulent activity and unauthorized transfers. Attempted withdrawal denied. Account may be compromised.;0.5687;0.6543;0.6118;0.5541;0.6696;0.6114
+case_006;€5000;€5000;1.0;1.0;1.0;1.0;1.0;1.0
+case_006;€500;€500;1.0;1.0;1.0;1.0;1.0;1.0
+case_006;To complete the verification process;None;0.0707;0.0768;0.0752;-0.4135;-0.2431;-0.3328
+case_006;Unusual investment destination, High transaction amount for individual;"Unusual investment destination
+High transaction amount for individual";0.8492;0.8479;0.8488;0.7601;0.7948;0.7782
+case_006;Reinvesting your profits;Reinvesting your profits;1.0;1.0;1.0;1.0;1.0;1.0
+case_006;€16,500;None;-0.0055;-0.1153;-0.0593;-0.475;-0.2587;-0.378
+case_006;Request denied due to verification issues;Request denied due to verification issues;1.0;1.0;1.0;1.0;1.0;1.0
+case_006;2023-11-15;2023-11-20;0.9001;0.9001;0.9003;0.829;0.829;0.8297
+case_006;To complete the verification process;To complete the verification process;1.0;1.0;1.0;1.0;1.0;1.0
+case_006;First Mercantile Bank;First Mercantile Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_007;Highlighting high-yield returns and an AI-powered trading system.;Telegram groups;0.0005;0.0042;0.004;-0.0919;-0.0679;-0.0757
+case_007;Musterstrasse 1, 10115 Berlin;Musterstrasse 1, 10115 Berlin;1.0;1.0;1.0;1.0;1.0;1.0
+case_007;5000 EUR;5000.00;0.595;0.3958;0.4944;0.1528;0.3055;0.2278
+case_007;A 15% daily profit;15% daily profit;0.8226;0.7302;0.7764;0.8889;0.8052;0.8468
+case_007;Email and text files;txt;0.3632;0.1961;0.2795;-0.0557;-0.491;-0.3273
+case_007;Investment in Crypto Innovations;The AI-powered system identifies and exploits market inefficiencies, generating exceptional returns for investors.;0.191;0.2247;0.2091;0.0852;0.1915;0.1395
+case_007;Modern, sleek design with a dark blue and white color scheme.;The website features a modern, sleek design with a dark blue and white color scheme.;0.7774;0.8949;0.8358;0.7309;0.8439;0.7865
+case_007;Crypto Innovations;Crypto Innovations;1.0;1.0;1.0;1.0;1.0;1.0
+case_007;To encourage Hans Baumann to make an additional investment.;To share an important update about Hans's investment in Crypto Innovations.;0.3782;0.4458;0.4127;0.4638;0.5267;0.4966
+case_007;He expressed concerns regarding investment returns and doubts about the legitimacy of the scheme.;He's starting to feel unsure about this.;0.3937;0.3356;0.3655;0.5058;0.2499;0.3692
+case_008;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_008;Risk-Free Returns;Risk-Free Returns;1.0;1.0;1.0;1.0;1.0;1.0
+case_008;2023-12-18;2023-12-18;1.0;1.0;1.0;1.0;1.0;1.0
+case_008;BTC, €5000;BTC, €5000;1.0;1.0;1.0;1.0;1.0;1.0
+case_008;Increase his investment;increasing your investment;0.7182;0.7182;0.7187;0.6151;0.615;0.6166
+case_008;@DavidMillerAI;@DavidMillerAI;1.0;1.0;1.0;1.0;1.0;1.0
+case_008;Sleek, modern design with a predominantly blue and white color scheme. Rotating banner showcasing graphs trending upwards and testimonials. Prominent text proclaiming 'Unlock the Future of Investing with AI.' Call-to-action button encouraging visitors to 'Get Started Now.';"The website has a sleek, modern design with a predominantly blue and white color scheme. It features a rotating banner with upward-trending graphs and testimonials, large bold text proclaiming ""Unlock the Future of Investing with AI,"" a section detailing ""cutting-edge AI technology"" and promises ""risk-free returns,"" and a call-to-action button that encourages visitors to ""Get Started Now.""";0.5493;0.7345;0.6409;0.6523;0.7956;0.7222
+case_008;Pending;Withdawal denied;0.0283;0.2572;0.1416;-0.1737;-0.0607;-0.1161
+case_008;Deutsche Bank, AI Trading Platform;Crypto Exchange (Unknown), AI Trading Platform;0.3977;0.4505;0.4249;0.3925;0.5428;0.4661
+case_008;A FREE consultation with our expert investment team;A FREE consultation with our expert investment team;1.0;1.0;1.0;1.0;1.0;1.0
+case_009;To analyze market trends and execute trades with unparalleled precision, generating exceptional returns.;AIX Capital analyzes market trends and executes trades with unparalleled precision, generating exceptional returns.;0.7017;0.8224;0.7618;0.7543;0.8797;0.8157
+case_009;5000.00;10000.00;0.9152;0.9153;0.9154;0.8827;0.8827;0.8832
+case_009;Unusual investment destination and lack of transparency regarding the platform's operations.;Unusual investment destination and lack of transparency regarding the platform's operations.;1.0;1.0;1.0;1.0;1.0;1.0
+case_009;Reported pressure from a platform representative.;Pressured by platform representative.;0.6845;0.5425;0.6132;0.6772;0.579;0.6282
+case_009;High returns, automated trading, a user-friendly interface, and 24/7 support.;High Returns, Automated Trading, User-Friendly Interface, and 24/7 Support;0.8127;0.8026;0.808;0.8705;0.8673;0.8694
+case_009;Funds unavailable. Platform unresponsive.;Attempted withdrawal failed, platform unresponsive, and mounting concerns about platform legitimacy.;0.3384;0.5696;0.4524;0.2055;0.3805;0.2902
+case_009;The cryptocurrency market.;cryptocurrency market;0.4308;0.66;0.5438;0.6111;0.5769;0.5954
+case_009;Simulated performance. Results not guaranteed.;Simulated Performance. Results not guaranteed.;0.9745;0.9745;0.9745;0.9721;0.9721;0.9722
+case_009;Incoming Transfer of 1000.00, AIX Capital Investment of -5000.00, Interest Earned of 1.23, Utility Bill of -150.00, Restaurant of -50.00, Interest Earned of 1.23, Online Purchase of -25.00, AIX Capital Investment of -10000.00, Interest Earned of 1.23, Withdrawal Attempt - Declined of -7500.00;"1. Incoming Transfer of 1000.00 on January 15th, 2023.
+2. AIX Capital Investment of -5000.00 on January 20th, 2023.
+3. Interest Earned of 1.23 on February 1st, 2023.
+4. Grocery Store expense of -75.00 on February 15th, 2023.
+5. Utility Bill expense of -150.00 on March 1st, 2023.
+6. Restaurant expense of -50.00 on March 10th, 2023.
+7. Interest Earned of 1.23 on April 1st, 2023.
+8. Online Purchase expense of -25.00 on April 15th, 2023.
+9. AIX Capital Investment of -10000.00 on May 1st, 2023.
+10. Interest Earned of 1.23 on June 1st, 2023.
+11. Withdrawal Attempt of -7500.00 on July 12th, 2023.";0.0735;0.53;0.2929;0.2764;0.5901;0.4192
+case_009;David Miller, AIX Capital, First National Bank;AIX Capital Team;0.3419;0.1314;0.2358;0.1006;0.1051;0.1064
+case_010;Investment;Test Withdrawal, Investment;0.1861;0.504;0.3413;-0.1607;0.0129;-0.0771
+case_010;5000.00;5000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_010;15-20%;15-20%;1.0;1.0;1.0;1.0;1.0;1.0
+case_010;Multiple large deposits to a foreign account with limited public information.;None;0.0036;-0.0346;-0.0139;-0.2327;-0.2723;-0.2479
+case_010;info@ai-trading-pro.com;info@ai-trading-pro.com;1.0;1.0;1.0;1.0;1.0;1.0
+case_010;Test Withdrawal;Test Withdrawal;1.0;1.0;1.0;1.0;1.0;1.0
+case_010;Global Investments Ltd.;The Global Investments Ltd. Support Team;0.5177;0.847;0.6781;0.4712;0.7765;0.6116
+case_010;Low Risk, High Reward;Low Risk, High Reward;1.0;1.0;1.0;1.0;1.0;1.0
+case_010;AI Trading Pro, Global Investments Ltd.;Hans Baumann;-0.0392;-0.106;-0.0711;-0.0811;-0.0817;-0.0771
+case_010;05-01-2024;2024-01-05;0.6093;0.6104;0.6105;0.5993;0.5583;0.5802
+case_011;5000.00 EUR;None;-0.0522;-0.0275;-0.0382;-0.3629;-0.3136;-0.3337
+case_011;Potential for High Returns;Risk-Free Investment;0.4765;0.4551;0.4666;0.2467;0.2751;0.2637
+case_011;Deutsche Bank;Deutsche Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_011;2500.00 EUR;€5000;0.4994;0.4301;0.4654;0.421;0.1797;0.2926
+case_011;Transaction fees and regulatory compliance;Recent market volatility;0.2363;0.1896;0.2141;0.0348;0.0316;0.0371
+case_011;A graph of fluctuating lines, an account balance of €7500.00, a 'Withdraw Funds' button, and a note about an unlocking fee.;"A graph displaying fluctuating lines, an ""Account Balance"" of €7500.00, a ""Withdraw Funds"" button, and a note about a withdrawal fee.";0.8543;0.853;0.8539;0.8358;0.817;0.8271
+case_011;Belize Bank International Limited;Deutsche Bank;0.3438;0.0939;0.2171;0.4695;0.3273;0.3974
+case_011;Uses cutting-edge artificial intelligence to analyze market trends.;Proven AI Technology;0.1993;0.2741;0.2377;0.1748;0.2112;0.1959
+case_011;Initial investment of 5000 EUR, additional investment of 2500 EUR, request for 2500 EUR to unlock profits, request for 5000 EUR to cover transaction fees and regulatory compliance.;None;-0.2005;-0.3459;-0.2723;-0.4287;-0.5497;-0.4894
+case_011;markus.richter@email.de;markus.richter@email.de;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;Aetherium Alpha;Aetherium Alpha;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;€5,000;None;0.0175;-0.03;-0.0047;-0.4282;-0.2018;-0.3267
+case_012;GB22NWBK20701724542814;GB22NWBK20701724542814;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;Technical Issue Fee;Technical Issue Fee;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;AI-Powered Trading;AI-Powered Trading;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;Unusual Transaction;Unusual Transaction;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;modern, clean design with a dark blue and white color scheme;professional, trustworthy;0.324;-0.0039;0.1561;0.0732;-0.0911;-0.0112
+case_012;Potential investment fraud - overseas transfer to unknown entity;Potential investment fraud - overseas transfer to unknown entity;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;DE78123456781234567890;DE78123456781234567890;1.0;1.0;1.0;1.0;1.0;1.0
+case_012;Limited spots available, act fast!;There are limited spots available, and you must act fast to secure your spot.;0.5925;0.729;0.6604;0.5609;0.7791;0.6645
+case_013;Online investment platform deposit;Online investment platform deposit;1.0;1.0;1.0;1.0;1.0;1.0
+case_013;15%;15%;1.0;1.0;1.0;1.0;1.0;1.0
+case_013;5000.00;5000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_013;Exclusive Access to Advanced Strategies;Personalized Trading Plans;0.2627;0.2045;0.2347;0.3031;0.2684;0.2884
+case_013;To allow Klaus to provide documentation to avoid permanent account closure;https://profit-horizon.com/verification;-0.0524;0.0048;-0.0223;-0.1605;-0.0665;-0.1114
+case_013;Recent regulatory changes and a review of customer accounts;Recent regulatory changes and a review of customer accounts;1.0;1.0;1.0;1.0;1.0;1.0
+case_013;Profit Horizon Ltd and Klaus Breitling;Klaus Breitling, Profit Horizon Ltd, Globex Bank;0.358;0.5594;0.4577;0.4803;0.6218;0.5498
+case_013;A community of users promoting the platform and reinforcing its legitimacy;It indicates a community of users promoting the platform and reinforcing its legitimacy.;0.7641;0.8627;0.8133;0.7412;0.8574;0.7983
+case_013;Restaurant Dinner;Grocery Shopping;0.1942;0.2609;0.2286;0.2734;0.2716;0.2754
+case_013;Suspicious investment activity;Police report filed regarding suspicious investment activity;0.3957;0.5681;0.4814;0.3434;0.6303;0.4757
+case_014;18%;18%;1.0;1.0;1.0;1.0;1.0;1.0
+case_014;More detail on the minimum investment required and the typical withdrawal process.;He requested more detail on the minimum investment required and the typical withdrawal process.;0.819;0.9128;0.8658;0.785;0.9009;0.8418
+case_014;1234567890;1234567890;1.0;1.0;1.0;1.0;1.0;1.0
+case_014;5000.00 EUR;5000.00;0.8886;0.6511;0.7678;0.6503;0.4338;0.5367
+case_014;2000 EUR;€2,000;0.4678;0.4971;0.4832;0.4348;0.4126;0.426
+case_014;Legitimate and trustworthy, designed to instill confidence in potential users.;The overall impression is one of legitimacy and trustworthiness, designed to instill confidence in potential users.;0.6064;0.7413;0.6736;0.5813;0.803;0.6864
+case_014;Consistent profits while users sleep;Consistent profits;0.8664;0.492;0.6735;0.7066;0.2582;0.4522
+case_014;Lack of clear explanation for denial;"Attempted withdrawal denied; potential investment fraud; lack of clear explanation for denial.";0.4574;0.665;0.56;0.3014;0.6338;0.4518
+case_014;Sterling Bank Nigeria Limited;Sterling Bank Nigeria Limited;1.0;1.0;1.0;1.0;1.0;1.0
+case_014;Global Assets Team, NovaTrade AG;None;-0.1947;-0.3155;-0.2538;-0.2751;-0.4033;-0.3394
+case_015;To leverage artificial intelligence to identify and capitalize on lucrative trading opportunities in the global markets.;To identify and capitalize on lucrative trading opportunities in the global markets.;0.9216;0.7632;0.8416;0.9438;0.7687;0.8529
+case_015;5000 AUD;None;0.0572;-0.1456;-0.0446;-0.2353;-0.3043;-0.2662
+case_015;First Central Bank (Cyprus);First Central Bank (Cyprus);1.0;1.0;1.0;1.0;1.0;1.0
+case_015;A security verification process requiring account verification through a questionnaire and documentation submission.;A security verification process.;0.8154;0.477;0.6416;0.8414;0.4921;0.6507
+case_015;A 237% return in the last 30 days.;A 237% return in the last 30 days.;1.0;1.0;1.0;1.0;1.0;1.0
+case_015;Small profit withdrawal;Withdrawal;0.243;0.1588;0.2018;0.1669;-0.004;0.0789
+case_015;A 10% bonus on the first investment.;10% Bonus on Your First Investment;0.7401;0.7602;0.7505;0.7608;0.7581;0.7604
+case_015;85000 AUD;None;-0.1907;-0.2899;-0.2388;-0.2378;-0.3547;-0.2954
+case_015;David.Miller@example.com.au, Phoenix Rise Investments Ltd;David.Miller@example.com.au, Phoenix Rise Investments Ltd, First Central Bank (Cyprus);0.6115;0.9165;0.7603;0.6961;0.8452;0.7685
+case_015;Automated trading, handling the trading while investors reap the rewards.;Phoenix Rise AI leverages artificial intelligence to identify and capitalize on lucrative trading opportunities in the global markets.;0.2796;0.4228;0.3513;0.1686;0.2304;0.202
+case_016;Incredibly high potential returns in the Forex market.;Incredibly high potential returns;0.8839;0.6226;0.7506;0.8213;0.4477;0.6156
+case_016;2500 EUR;2500;0.5879;0.2924;0.437;0.3501;0.0713;0.1988
+case_016;Initial deposit exceeding typical investment amounts for a new client.;None;-0.1816;-0.0415;-0.1108;-0.2183;-0.2615;-0.2355
+case_016;30%;30%;1.0;1.0;1.0;1.0;1.0;1.0
+case_016;Discrepancies in account activity that require further investigation.;Discrepancies in account activity that require further investigation.;1.0;1.0;1.0;1.0;1.0;1.0
+case_016;DE89370400440532013000;UB12345;-0.2995;-0.4807;-0.3897;0.1401;0.0552;0.0997
+case_016;It shows the Global Investments login page, including fields for username and password and the login URL.;It displays the Global Investments login page.;0.8114;0.4205;0.6097;0.77;0.4174;0.5768
+case_016;-50.00 EUR;-55.00;0.7724;0.5579;0.6636;0.6138;0.4454;0.5271
+case_016;Client alleges fraudulent activity, withdrawal denial triggered investigation.;Client reported scam, funds not released.;0.5274;0.4791;0.5039;0.4638;0.4206;0.4441
+case_016;Global Investments;None;0.1901;0.1583;0.1755;-0.2621;-0.2841;-0.2681
+case_017;Generate consistent profits, even in volatile markets.;It leverages cutting-edge algorithms to generate consistent profits, even in volatile markets.;0.5686;0.7991;0.682;0.586;0.8275;0.6997
+case_017;Ongoing maintenance and security upgrades to our processing systems.;Ongoing maintenance and security upgrades to our processing systems.;1.0;1.0;1.0;1.0;1.0;1.0
+case_017;United Arab Emirates;United Arab Emirates;1.0;1.0;1.0;1.0;1.0;1.0
+case_017;60000.00;60000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_017;Simulated Results – Not Representative of Actual Trading Performance;Simulated Results – Not Representative of Actual Trading Performance;1.0;1.0;1.0;1.0;1.0;1.0
+case_017;A copy of his passport or driver's license.;A copy of his passport or driver's license.;1.0;1.0;1.0;1.0;1.0;1.0
+case_017;AI-Powered Precision: Our cutting-edge algorithms analyze market trends 24/7.;AI-Powered Precision;0.7692;0.2301;0.4871;0.7578;0.2609;0.4724
+case_017;7-10 business days;7-10 business days;1.0;1.0;1.0;1.0;1.0;1.0
+case_017;Inability to withdraw funds and unresponsive support.;Customer believes they have been the victim of investment fraud after being unable to withdraw funds and after receiving unsatisfactory communication from the company. Evidence suggests the platform may be operating without proper authorization.;0.2047;0.4263;0.3143;0.1097;0.485;0.2745
+case_017;The laws of the United Arab Emirates.;The laws of the United Arab Emirates.;1.0;1.0;1.0;1.0;1.0;1.0
+case_018;To identify and capitalize on market opportunities, generating returns for members.;To identify and capitalize on market opportunities.;0.8634;0.5176;0.6857;0.927;0.6756;0.7937
+case_018;5000.00;None;0.0285;0.2344;0.1308;-0.1903;-0.3042;-0.2462
+case_018;Serbia;None;-0.0961;-0.1965;-0.145;-0.1943;-0.2988;-0.2448
+case_018;Real results;REAL results;0.5126;0.561;0.5374;0.7565;0.8155;0.7864
+case_018;Regulatory requirements and security protocols;It is standard practice in the industry.;0.3801;0.2539;0.3174;0.1783;0.0663;0.1232
+case_018;500;$500;0.5668;0.631;0.5994;0.2083;0.4869;0.3365
+case_018;Sleek, modern design with a dark blue and white color scheme, a rotating carousel of testimonials, charts and graphs demonstrating returns, and a 'Join Now' button.;The website has a sleek, modern design with a dark blue and white color scheme. A large banner displays the tagline 'Unlock the Power of AI Trading'. Below the banner is a rotating carousel showcasing testimonials, and charts and graphs demonstrating impressive returns are prominently displayed. A 'Join Now' button is in the upper right corner, and the footer contains links to 'About Us', 'FAQ', and 'Contact Us' pages.;0.2842;0.6816;0.4765;0.4004;0.7646;0.5642
+case_018;No complicated strategies to learn!;SIMPLE – No complicated strategies to learn!;0.6608;0.9311;0.7931;0.544;0.7546;0.6442
+case_018;Debit, Credit;Debit, Credit;1.0;1.0;1.0;1.0;1.0;1.0
+case_018;2023-09-22, 2023-10-12, 2023-10-18;2023-09-22, 2023-10-12, 2023-10-18;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;Analyst;Analyst;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;An unexpected technical issue;An unexpected technical issue;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;AI-Powered Precision;AI-Powered Precision;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;Oliver Baumann, Innovative Trading AI;Oliver Baumann and Innovative Trading AI;0.7985;0.7985;0.7988;0.8213;0.7881;0.8053
+case_019;€2,350;€2,350;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;Investment;Investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;2023-12-05, 2024-01-05;2023-12-05, 2024-01-05;1.0;1.0;1.0;1.0;1.0;1.0
+case_019;Join a select group of investors;Join a select group of investors who are benefiting from the power of AI.;0.3032;0.8265;0.5531;0.5252;0.8404;0.6699
+case_019;Victim unable to withdraw funds. Communication ceased abruptly.;Potential investment fraud scheme.;0.432;0.3571;0.3952;0.2822;0.2079;0.2471
+case_020;Delivering consistent profits regardless of market conditions.;Consistent profits regardless of market conditions.;0.9326;0.8794;0.906;0.9525;0.8675;0.9095
+case_020;High;High;1.0;1.0;1.0;1.0;1.0;1.0
+case_020;5000.00 AUD;$5,000;0.4171;0.4338;0.4263;0.4043;0.2851;0.3448
+case_020;GB21NWBK202040082800;GB21NWBK202040082800;1.0;1.0;1.0;1.0;1.0;1.0
+case_020;Double their initial investment;Risk-Free Demo Account;0.1342;0.2296;0.1828;-0.0354;-0.1871;-0.1127
+case_020;Sleek, modern design with a dark background and futuristic graphics.;The website has a sleek, modern design with a dark background and futuristic graphics.;0.7651;0.8011;0.7834;0.7631;0.7867;0.7757
+case_020;13,500.00 AUD;$13,500.00 AUD;0.8681;0.9366;0.9023;0.8137;0.8914;0.8523
+case_020;Increased security measures and high transaction volume;Increased security measures and high transaction volume.;0.9771;0.9739;0.9755;0.8496;0.9289;0.8889
+case_020;Blocked;None;0.1806;0.0823;0.1324;-0.1402;-0.1867;-0.1594
+case_020;Apex Global Investments Ltd;Apex Global Investments Ltd;1.0;1.0;1.0;1.0;1.0;1.0
+case_021;Athena;Athena;1.0;1.0;1.0;1.0;1.0;1.0
+case_021;5000.00 EUR;None;-0.0522;-0.0275;-0.0382;-0.3629;-0.3136;-0.3337
+case_021;10-15%;10-15%;1.0;1.0;1.0;1.0;1.0;1.0
+case_021;High;High;1.0;1.0;1.0;1.0;1.0;1.0
+case_021;A complimentary strategy session with one of our senior AI analysts;a complimentary strategy session with one of our senior AI analysts;0.9302;0.9302;0.9303;0.9875;0.9875;0.9876
+case_021;Failed Withdrawal Attempt - AI Trading Solutions;Failed Withdrawal Attempt - AI Trading Solutions;1.0;1.0;1.0;1.0;1.0;1.0
+case_021;https://www.aitradingsolutions.net/success;https://www.aitradingsolutions.net/register;0.8576;0.8576;0.8578;0.8965;0.8965;0.8969
+case_021;98.7%;Athena Performance: 98.7%;0.4012;0.8035;0.5957;0.2461;0.6517;0.4241
+case_021;It analyzes market trends and executes trades with unparalleled precision.;It has consistently outperformed the market, delivering exceptional gains.;0.3863;0.3319;0.36;0.3647;0.3726;0.3711
+case_021;AI Trading Solutions;AI Trading Solutions;1.0;1.0;1.0;1.0;1.0;1.0
+case_022;6000.00 EUR;6000.00;0.8722;0.6005;0.7335;0.7726;0.5274;0.6427
+case_022;Withdrawal request denied - verification failed;None;0.0005;-0.1362;-0.0671;-0.1967;-0.2156;-0.2014
+case_022;Experience significantly higher returns than traditional investments.;Effortless Trading;-0.0401;0.3279;0.1386;-0.1706;-0.0634;-0.1156
+case_022;A copy of your government-issued identification and a recent utility bill.;A copy of his government-issued identification and a recent utility bill.;0.9448;0.9448;0.9449;0.8837;0.9163;0.9003
+case_022;Alpha Beta Bank (Cyprus);None;-0.0314;-0.0338;-0.031;-0.1346;-0.1465;-0.136
+case_022;A sleek, modern design, testimonials, and recent 'trading results' with charts and graphs illustrating exponential growth.;User success stories and recent trading results.;0.5074;0.2575;0.3805;0.5327;0.2997;0.4095
+case_022;Don't worry, these things happen. Just keep following the instructions from support, and it will be sorted quickly.;Don't worry, these things happen. Just keep following the instructions from support, and it will be sorted quickly. They’re just verifying your account.;0.7421;0.9437;0.8414;0.6663;0.8796;0.7677
+case_022;Suspicious Activity Report;Suspicious Activity Report;1.0;1.0;1.0;1.0;1.0;1.0
+case_022;An ongoing security review;An ongoing security review;1.0;1.0;1.0;1.0;1.0;1.0
+case_022;CY001234567890;None;0.0125;-0.6552;-0.3433;-0.1561;-0.2779;-0.2164
+case_023;25% per month;25% per month;1.0;1.0;1.0;1.0;1.0;1.0
+case_023;Unsolicited contact, high yield promise;None;0.0941;-0.1715;-0.0406;-0.0991;-0.2986;-0.2054
+case_023;5000 EUR;5000;0.6577;0.2914;0.4692;0.5876;0.1421;0.333
+case_023;10000 EUR;€10,000;0.3483;0.4486;0.399;0.4424;0.4278;0.4374
+case_023;2023-09-28 14:35 GMT+2;2023-09-28 14:35 GMT+2;1.0;1.0;1.0;1.0;1.0;1.0
+case_023;Belgium;None;0.0186;-0.253;-0.1192;-0.129;-0.3373;-0.2411
+case_023;Increasing deposit amounts;unsolicited contact, high yield promise;0.0407;0.1155;0.0793;-0.075;-0.0215;-0.0448
+case_023;Investigation of a failed withdrawal attempt;He requested an investigation into a failed withdrawal of €10,000.;0.4099;0.6105;0.5091;0.3921;0.5738;0.4797
+case_023;Telegram;Email;0.0562;-0.0507;0.0038;-0.8258;-0.9233;-0.879
+case_023;AI Elite Trading, -10000 EUR;AI Elite Trading, -10000;0.8524;0.6974;0.7742;0.8591;0.7215;0.7886
+case_024;50000.00 EUR;None;0.0254;-0.15;-0.0622;-0.2461;-0.4408;-0.3509
+case_024;EUR/USD and GBP/JPY;EUR/USD and GBP/JPY;1.0;1.0;1.0;1.0;1.0;1.0
+case_024;A €50,000 bonus for a €50,000 deposit.;Deposit €50,000 and receive a €50,000 bonus!;0.6045;0.6266;0.6161;0.6008;0.5473;0.5754
+case_024;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_024;Delayed withdrawal, customer expressing concerns about account activity.;Delayed withdrawal, customer expressing concerns about account activity.;1.0;1.0;1.0;1.0;1.0;1.0
+case_024;To help everyone achieve financial freedom through Forex trading.;To help everyone achieve financial freedom through Forex trading.;1.0;1.0;1.0;1.0;1.0;1.0
+case_024;250.00 EUR;250.00;0.9071;0.6647;0.7837;0.7475;0.5168;0.6258
+case_024;BTC;None;0.2286;0.2286;0.2298;0.1329;0.1327;0.1363
+case_024;Cutting-edge tools, expert guidance, and a secure trading environment.;To empower everyone to achieve financial freedom through Forex trading.;0.2935;0.2794;0.2876;0.2084;0.1907;0.2027
+case_024;Forex Prime Global: Where Financial Dreams Come True;Forex Prime Global: Where Financial Dreams Come True;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;7500.00;7500.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;24/7 Market Monitoring;Automated Trading;0.2433;0.0424;0.1423;0.3998;0.1809;0.2844
+case_025;12.3%;12.3%;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;£25,000;£25,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;GB29NWBK40341320492372;GB29NWBK40341320492372;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;2023-03-10;2023-03-10;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;Ponzi scheme or fraudulent investment operation;Ponzi scheme or fraudulent investment operation;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;Seychelles;Seychelles;1.0;1.0;1.0;1.0;1.0;1.0
+case_025;To inform the customer about a positive account performance and suggest reinvesting profits.;To encourage reinvesting a portion of the profits.;0.6699;0.4737;0.5708;0.5395;0.3647;0.4493
+case_025;Global Investments Ltd., AlphaTrade AI;David Miller, Global Investments Ltd;0.3859;0.284;0.3356;0.4174;0.3736;0.3976
+case_026;Effortless Trading;Maximize your profits with minimal effort.;0.4289;0.2269;0.327;0.1632;0.1389;0.1543
+case_026;€500;None;0.1232;0.1064;0.1162;-0.2813;-0.3212;-0.2965
+case_026;€15500.00;None;-0.0591;-0.079;-0.0673;-0.2433;-0.2768;-0.2553
+case_026;UNIBNGLA;UNIBNGLA;1.0;1.0;1.0;1.0;1.0;1.0
+case_026;Small returns following substantial initial investments.;Small returns following substantial initial investments.;1.0;1.0;1.0;1.0;1.0;1.0
+case_026;United Kingdom;United Kingdom;1.0;1.0;1.0;1.0;1.0;1.0
+case_026;Withdrawal Request Denied;Withdrawal Request Denied;1.0;1.0;1.0;1.0;1.0;1.0
+case_026;AI trading indicator;AI trading;0.688;0.5353;0.6113;0.6815;0.4933;0.5838
+case_026;Support;Support;1.0;1.0;1.0;1.0;1.0;1.0
+case_026;€250.00;250.00;0.9337;0.8056;0.8691;0.523;0.5069;0.5169
+case_027;Exceeding 30% per annum;30%;0.4972;0.0861;0.2847;0.3268;-0.0219;0.1311
+case_027;To transform your financial future.;To start experiencing the power of AI-driven trading.;0.3523;0.4393;0.3964;0.467;0.4944;0.4827
+case_027;789456123;789456123;1.0;1.0;1.0;1.0;1.0;1.0
+case_027;Nigeria;Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_027;DEUTDEFFXXX;DEUTDEFFXXX;1.0;1.0;1.0;1.0;1.0;1.0
+case_027;Credit;Credit;1.0;1.0;1.0;1.0;1.0;1.0
+case_027;If deemed necessary;if deemed necessary;0.868;0.868;0.8682;0.9569;0.9569;0.957
+case_027;+€2,500.00;+€2,500.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_027;The laws of the British Virgin Islands;The laws of the British Virgin Islands.;0.9522;0.9454;0.9489;0.8633;0.9342;0.8985
+case_027;20000;20000;1.0;1.0;1.0;1.0;1.0;1.0
+case_028;ApexTrade;ApexTrade;1.0;1.0;1.0;1.0;1.0;1.0
+case_028;Up to 35% per month;47.5%;0.3655;0.0699;0.2148;0.198;-0.0151;0.0854
+case_028;Investment;Investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_028;$5,000.00;$5,000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_028;+1-800-555-GROW;None;-0.0647;-0.2992;-0.1829;-0.3112;-0.4396;-0.3757
+case_028;Lagos, Nigeria;Lagos, Nigeria.;0.9255;0.9069;0.9163;0.8802;0.9177;0.8992
+case_028;$12,375.00;$12,375.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_028;Routine maintenance;Routine maintenance;1.0;1.0;1.0;1.0;1.0;1.0
+case_028;Seemed overly enthusiastic / appeared anxious to further invest, despite limited understanding of investment;Customer seemed overly enthusiastic about the investment opportunity and appeared anxious to further invest, despite limited understanding of investment.;0.7123;0.7495;0.7313;0.6812;0.7794;0.7301
+case_028;www.globalcapitalventures.com;None;-0.1855;0.0511;-0.0684;-0.2821;-0.2502;-0.2613
+case_029;Low spreads & commissions;Expert Guidance;0.1972;0.1712;0.1855;-0.0617;-0.1391;-0.0975
+case_029;Demo account;None;-0.1;-0.1701;-0.1335;-0.0321;-0.2348;-0.1398
+case_029;€15,000;€15,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_029;Large, unexplained deposits into an account linked to a potential Forex scam;Account activity inconsistent with stated investment goals.;0.3404;0.1569;0.2483;0.3332;0.2098;0.2716
+case_029;GFV123456789;GFV123456789;1.0;1.0;1.0;1.0;1.0;1.0
+case_029;A special bonus to new clients who register and make their first deposit;A special bonus for registering and making a first deposit.;0.8299;0.6565;0.7423;0.8595;0.752;0.805
+case_029;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_029;Potential Profit: +1200 EUR;Potential Profit: +1200 EUR;1.0;1.0;1.0;1.0;1.0;1.0
+case_029;Transfer to Global Forex Ventures, €30000;None;-0.1959;-0.2217;-0.2069;-0.3306;-0.362;-0.3412
+case_029;To verify his identity immediately;Verification of identity;0.4417;0.3818;0.4125;0.5264;0.2279;0.3643
+case_030;$5,000;$5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_030;Potential investment fraud. Unusually high returns promised. Destination country is high risk.;Potential investment fraud. Unusually high returns promised. Destination country is high risk.;1.0;1.0;1.0;1.0;1.0;1.0
+case_030;BG88UNCR7000140000001;BG88UNCR7000140000001;1.0;1.0;1.0;1.0;1.0;1.0
+case_030;Withdrawal Request Denial;Withdrawal Request;0.8623;0.6639;0.7618;0.8345;0.5712;0.6943
+case_030;Automated Trading: No experience needed.;High-Potential Returns: Up to 30% monthly.;0.1851;0.2649;0.226;0.0922;0.105;0.1022
+case_030;Not mentioned in the case files;None;0.1683;0.0726;0.1214;-0.1225;-0.2314;-0.1755
+case_030;$15,000;None;0.1603;-0.0722;0.0429;-0.2583;-0.1551;-0.2049
+case_030;To verify his information by clicking on a link.;To verify his information by clicking on a link.;1.0;1.0;1.0;1.0;1.0;1.0
+case_030;Branch Teller;Branch Teller;1.0;1.0;1.0;1.0;1.0;1.0
+case_030;-150.00;-150.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_031;A limited-time opportunity with exceptional returns.;A limited-time opportunity;0.8762;0.6785;0.776;0.8428;0.5538;0.6878
+case_031;15-20%.;15-20%;0.8908;0.8908;0.891;0.9355;0.9355;0.9357
+case_031;Funds Transfer.;Funds Transfer;0.881;0.9107;0.896;0.5524;0.4264;0.4889
+case_031;GB29NWBK20200830294159;GB29NWBK20200830294159;1.0;1.0;1.0;1.0;1.0;1.0
+case_031;Investment in a largely unregulated sector;None;-0.1321;0.0198;-0.0556;-0.325;-0.2703;-0.2934
+case_031;2023-11-15;2023-11-15;1.0;1.0;1.0;1.0;1.0;1.0
+case_031;A bonus.;a bonus;0.7197;0.813;0.7663;0.7919;0.6696;0.7298
+case_031;Due to increased demand, we are temporarily suspending withdrawals to process all pending requests.;Increased demand;0.3997;0.2268;0.3129;0.3944;0.0213;0.184
+case_031;'Withdraw Funds'.;Withdraw Funds;0.825;0.6007;0.7111;0.8808;0.6784;0.775
+case_031;15000;€15000;0.6474;0.7864;0.7165;0.33;0.6092;0.4591
+case_032;15000.00 EUR;None;-0.0404;-0.1594;-0.0988;-0.2847;-0.2446;-0.2601
+case_032;Utilizes cutting-edge artificial intelligence to identify and execute profitable trades, 24/7.;Identifying and executing profitable trades.;0.689;0.2491;0.461;0.7168;0.296;0.4805
+case_032;13 - Other;None;0.0514;0.0029;0.0286;-0.123;-0.1698;-0.1424
+case_032;€250;€250;1.0;1.0;1.0;1.0;1.0;1.0
+case_032;"Unusually large transfer to overseas account; recipient flagged as potentially high-risk.";"Unusually large transfer to overseas account; recipient flagged as potentially high-risk.";1.0;1.0;1.0;1.0;1.0;1.0
+case_032;24-48 hours;24-48 hours;1.0;1.0;1.0;1.0;1.0;1.0
+case_032;10000.00 EUR;None;-0.1187;-0.0331;-0.0745;-0.3605;-0.4419;-0.398
+case_032;"Victim reported concerns about withdrawal; potential scam activity.";"Victim reported concerns about withdrawal; potential scam activity.";1.0;1.0;1.0;1.0;1.0;1.0
+case_032;1.0 BTC;1.  2 BTC;0.2404;0.2877;0.2652;0.1628;0.2901;0.2265
+case_032;Testimonials suggest users have experienced significant returns, such as doubling their money in one month.;None;-0.0715;-0.093;-0.0805;-0.38;-0.3667;-0.3679
+case_033;Athena;Athena;1.0;1.0;1.0;1.0;1.0;1.0
+case_033;8%;None;0.1692;0.1513;0.1616;-0.1878;-0.217;-0.1978
+case_033;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_033;5000 EUR and 10000 EUR;5000 and 10000;0.7211;0.2938;0.4999;0.7305;0.3448;0.5165
+case_033;Minimizes human error and emotional decision-making, reducing overall risk.;AI minimizes human error and emotional decision-making, reducing overall risk.;0.8249;0.8415;0.8334;0.8198;0.849;0.835
+case_033;It has exceeded expectations and is achieving financial freedom.;AI FX Capital has exceeded expectations.;0.4168;0.4524;0.4355;0.442;0.3369;0.3901
+case_033;The transaction failed.;The transaction failed.;1.0;1.0;1.0;1.0;1.0;1.0
+case_033;Attempted withdrawal;Attempted withdrawal - failed;0.5706;0.8139;0.6901;0.4062;0.8073;0.5844
+case_033;+12.7%;+12.7%;1.0;1.0;1.0;1.0;1.0;1.0
+case_033;AI FX Capital, Global Finance Ltd.;Hans Meier, AI FX Capital, Deutsche Bank, Global Finance Ltd., Belize;0.276;0.7165;0.4881;0.3039;0.6246;0.4497
+case_034;Recovering funds lost due to fraudulent cryptocurrency schemes.;Recovering funds lost due to fraudulent schemes.;0.965;0.9016;0.9332;0.9459;0.8612;0.903
+case_034;Details regarding the initial scam and the amount lost.;A copy of any transaction records or communication related to the initial scam.;0.4229;0.5958;0.5088;0.4;0.5436;0.4706
+case_034;$5,000 USD;$5,000 USD;1.0;1.0;1.0;1.0;1.0;1.0
+case_034;Account Number: 0078901234;0078901234;0.7874;0.4309;0.604;0.772;0.36;0.5419
+case_034;Recovery Progress: 65%;Recovery Progress: 65%;1.0;1.0;1.0;1.0;1.0;1.0
+case_034;Yes, 2000 EUR.;None;-0.1179;0.1933;0.0344;-0.3051;-0.1749;-0.2401
+case_034;"Multiple transactions to the same recipient account with suspicious descriptions; potential indication of fraud; customer has reported concerns about the legitimacy of the recipient.";Multiple transactions to same recipient account with suspicious descriptions.;0.8522;0.4903;0.6659;0.7995;0.3753;0.5621
+case_034;24-48 hours;24-48 hours;1.0;1.0;1.0;1.0;1.0;1.0
+case_034;To assess the case and determine the feasibility of recovery.;To inform about a temporary suspension of the fund recovery process.;0.386;0.4782;0.4326;0.4654;0.5048;0.4869
+case_034;Experienced Recovery Specialists;Experienced Recovery Specialists;1.0;1.0;1.0;1.0;1.0;1.0
+case_035;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_035;1968-05-20;1968-05-20;1.0;1.0;1.0;1.0;1.0;1.0
+case_035;Sparkasse Bank;Sparkasse Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_035;Potential investment fraud - unusually high promised returns;Potential investment fraud - unusually high promised returns;1.0;1.0;1.0;1.0;1.0;1.0
+case_035;Customer filed a fraud complaint regarding unauthorized investment scheme;Customer filed a fraud complaint regarding unauthorized investment scheme;1.0;1.0;1.0;1.0;1.0;1.0
+case_035;+2200.00;2706.25;0.2896;0.3033;0.2976;0.2586;0.1661;0.2138
+case_035;To complete verification of his identity and investment details.;None;-0.1395;-0.0739;-0.1051;-0.3293;-0.307;-0.313
+case_035;Advanced algorithms and machine learning;advanced algorithms and machine learning;0.8812;0.9259;0.9036;0.8922;0.9304;0.9114
+case_035;Past performance is not indicative of future results;Past performance is not indicative of future results.;0.9363;0.9284;0.9325;0.9304;0.9845;0.9573
+case_035;Global Investments Ltd.;Global Investments Ltd.;1.0;1.0;1.0;1.0;1.0;1.0
+case_036;They analyze market data 24/7, identifying opportunities that human traders miss.;They analyze market data 24/7.;0.7109;0.3741;0.5381;0.8224;0.4135;0.5949
+case_036;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_036;€2,500.00;€2,500;0.9092;0.7693;0.8387;0.818;0.4572;0.6201
+case_036;The platform appears to be operating from an offshore jurisdiction.;Potential investment fraud - platform appears to be operating from an offshore jurisdiction.;0.5916;0.7615;0.6758;0.5485;0.6951;0.6201
+case_036;€500.00 and €750.00;500.00, 750.00;0.8563;0.7232;0.7893;0.8256;0.6666;0.7437
+case_036;High;High;1.0;1.0;1.0;1.0;1.0;1.0
+case_036;A rapidly increasing line representing simulated profits.;Unlock Your Financial Future with AI;0.0379;0.077;0.0589;0.2786;0.2136;0.2483
+case_036;He expressed extreme concern regarding a denied withdrawal request and his inability to fully access his account.;None;-0.104;-0.1169;-0.1087;-0.3424;-0.3584;-0.3451
+case_036;Guaranteed Returns (Subject to Market Conditions);High-Profit Potential;0.4643;0.1319;0.294;0.2099;0.0988;0.1552
+case_036;Suspicious activity report filed by client regarding denied withdrawal request and potential fraud.;Suspicious activity report filed by client regarding denied withdrawal request and potential fraud.;1.0;1.0;1.0;1.0;1.0;1.0
+case_037;A proprietary AI trading algorithm.;a proprietary AI trading algorithm;0.8817;0.9014;0.8917;0.9459;0.8672;0.9061
+case_037;Investment;Investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_037;Germany;Germany;1.0;1.0;1.0;1.0;1.0;1.0
+case_037;+478.3%;+478.3%;1.0;1.0;1.0;1.0;1.0;1.0
+case_037;Attempted withdrawal blocked by Innovative AIX and customer reports of difficulty accessing funds.;Pattern of transfers to offshore entity with inconsistent communication and blocked withdrawal attempt.;0.3983;0.2931;0.3463;0.3996;0.314;0.3581
+case_037;Suite 180, 1st Floor, Nemea Building, 6 Isocrates Street, 2360 Strovolos, Cyprus;None;-0.0882;-0.5558;-0.3317;-0.4066;-0.5795;-0.4999
+case_037;Deutsche Bank AG;Innovative AIX;0.1252;-0.0675;0.0286;-0.0713;-0.0182;-0.0412
+case_037;To experience profits they never thought possible.;Exceptional returns;0.2226;0.0524;0.1375;0.048;-0.0994;-0.0267
+case_037;August 20, 2023;None;-0.1398;-0.1052;-0.1207;-0.4217;-0.3739;-0.3931
+case_037;Inconsistent communication and difficulties accessing funds, alongside limited transparency.;Company’s communication is evasive and unresponsive.;0.3674;0.358;0.3637;0.308;0.2283;0.27
+case_038;5000 EUR;None;0.0217;-0.0983;-0.0373;-0.2714;-0.2992;-0.2803
+case_038;Automated Trading;Automated Trading;1.0;1.0;1.0;1.0;1.0;1.0
+case_038;Telegram;Telegram;1.0;1.0;1.0;1.0;1.0;1.0
+case_038;To welcome him to the AI Trading Solutions community and provide initial guidance.;None;-0.0941;-0.0345;-0.0627;-0.322;-0.2959;-0.3039
+case_038;Unusual investment amount for customer profile;Unusual investment amount for customer profile;1.0;1.0;1.0;1.0;1.0;1.0
+case_038;5000 EUR;None;0.0217;-0.0983;-0.0373;-0.2714;-0.2992;-0.2803
+case_038;Bank transfer;Bank transfer.;0.9326;0.8989;0.9158;0.7334;0.8928;0.8105
+case_038;15000 EUR;None;0.0027;-0.2199;-0.1094;-0.1992;-0.3329;-0.2664
+case_038;Exponential growth;High-profit potential;0.5895;0.4724;0.5311;0.2187;0.1581;0.1909
+case_038;10000 EUR;10000;0.548;0.2636;0.403;0.5479;0.1423;0.3189
+case_039;100 EUR in trading credits;100 EUR;0.8611;0.426;0.6356;0.7804;0.2915;0.5008
+case_039;Transfer to NovaTrade AI;Transfer to NovaTrade AI;1.0;1.0;1.0;1.0;1.0;1.0
+case_039;-5000.00;None;0.1467;0.0992;0.1243;-0.2525;-0.3381;-0.2924
+case_039;Maximize your returns with our advanced algorithms and No trading experience required;AI-Powered Trading and Beginner-Friendly;0.2176;0.0862;0.1524;0.2131;0.1434;0.1806
+case_039;Ongoing system maintenance and security verification protocols;Ongoing system maintenance and security verification protocols;1.0;1.0;1.0;1.0;1.0;1.0
+case_039;Withdrawal Request Denied - NovaTrade AI;Unable to withdraw funds - potential fraud;0.2337;0.191;0.2135;0.1887;0.1538;0.1744
+case_039;Reply to the email with a screenshot of his ID and a recent utility bill;reply to this email with a screenshot of your ID and a recent utility bill;0.7905;0.8242;0.8076;0.808;0.8062;0.8079
+case_039;Permanent account closure;permanent account closure;0.8337;0.8338;0.834;0.7661;0.777;0.7724
+case_039;2,500 EUR;None;0.1312;-0.1693;-0.022;-0.2452;-0.1321;-0.1875
+case_039;It has completely transformed my investment strategy!;She states that NovaTrade AI has completely transformed her investment strategy and that she’s seen returns she never thought possible.;0.3617;0.716;0.5339;0.3264;0.6923;0.4902
+case_040;Aix Capital utilizes revolutionary AI algorithms to predict market movements.;Aix Capital utilizes revolutionary AI algorithms to predict market movements with unmatched precision.;0.8146;0.9866;0.8995;0.8687;0.9744;0.9204
+case_040;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_040;Our team is working diligently to resolve the issue.;Processing delay;0.0988;0.1792;0.1401;0.2634;0.1199;0.1908
+case_040;€16,000;€16,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_040;Ulrich Baumann and Aix Capital Limited;None;0.049;-0.3653;-0.1653;-0.2011;-0.3265;-0.2635
+case_040;2023-11-29;2023-11-29;1.0;1.0;1.0;1.0;1.0;1.0
+case_040;Athena is already working its magic – early adopters are seeing incredible results!;early adopters are seeing incredible results;0.6853;0.414;0.547;0.7887;0.4297;0.5917
+case_040;A FREE consultation with our AI investment specialist!;A link to an introductory video.;0.3465;0.174;0.26;0.4667;0.1479;0.2917
+case_040;Large unusual deposit;Potential investment fraud - large unusual deposit;0.3618;0.5398;0.4502;0.2189;0.5302;0.3604
+case_040;Investment in AI Trading Platform;Investment in AI Trading Platform;1.0;1.0;1.0;1.0;1.0;1.0
+case_041;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_041;Deutsche Bank AG;Deutsche Bank AG;1.0;1.0;1.0;1.0;1.0;1.0
+case_041;Athena;Athena;1.0;1.0;1.0;1.0;1.0;1.0
+case_041;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_041;Potential investment fraud scheme;Potential investment fraud scheme.;0.9587;0.9505;0.9547;0.8718;0.9574;0.9141
+case_041;€13,000;€13,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_041;€3,000 + €2,000;€2,000;0.7603;0.6036;0.6814;0.5858;0.2864;0.4236
+case_041;Deposit another €2,000;Adding another €2,000 to your account.;0.6241;0.6931;0.6589;0.623;0.6972;0.6607
+case_041;Attempted withdrawal denied. Customer expresses concerns about investment.;Wire Transfer;-0.1171;0.0904;-0.0139;-0.1727;-0.0873;-0.1274
+case_041;Proven Results: See exponential growth with minimal risk;Easy to Use;0.3281;0.1344;0.2307;0.2979;0.0292;0.1524
+case_042;18%;18%;1.0;1.0;1.0;1.0;1.0;1.0
+case_042;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_042;Transfer to Quantum AI;Initial investment to Quantum AI Trading platform;0.3683;0.5951;0.4802;0.2715;0.3449;0.31
+case_042;Artificial intelligence;Artificial intelligence;1.0;1.0;1.0;1.0;1.0;1.0
+case_042;EUR 15,000;None;-0.0173;-0.2085;-0.113;-0.2033;-0.2225;-0.2081
+case_042;Quantum AI Trading LLC;Quantum AI Trading LLC;1.0;1.0;1.0;1.0;1.0;1.0
+case_042;Modern and sophisticated;Modern and sophisticated;1.0;1.0;1.0;1.0;1.0;1.0
+case_042;Utilizes cutting-edge artificial intelligence algorithms to identify and capitalize on market opportunities;It utilizes cutting-edge artificial intelligence algorithms to identify and capitalize on market opportunities.;0.8774;0.8167;0.8471;0.8941;0.8638;0.8794
+case_042;Unusual large transfer to an offshore company claiming AI trading services. Account holder's investment profile doesn't align with such high-risk activities;Unusual large transfer to an offshore company claiming AI trading services.;0.9186;0.5073;0.706;0.866;0.3889;0.5956
+case_042;To learn more and schedule a personalized consultation;To learn more and schedule a personalized consultation;1.0;1.0;1.0;1.0;1.0;1.0
+case_043;Unlock unprecedented returns with cutting-edge artificial intelligence algorithms.;A revolutionary approach to wealth creation using cutting-edge artificial intelligence algorithms.;0.6747;0.671;0.6734;0.5976;0.6569;0.6282
+case_043;Last Chance: Claim Your Quantum AI Trading Bonus;None;-0.1205;-0.2384;-0.1782;-0.3423;-0.4505;-0.3951
+case_043;€15,000;€15,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_043;High;None;0.3021;0.3022;0.3033;0.0094;0.0091;0.0132
+case_043;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_043;2023-08-10 and 2023-08-25;2023-08-10, 2023-08-25;0.9027;0.9094;0.9062;0.9093;0.9093;0.9097
+case_043;Investment Deposit - Quantum AI Trading;None;-0.1346;-0.331;-0.2328;-0.1918;-0.2096;-0.196
+case_043;AI Confidence: 98%;Daily Profit: €3,250;0.2524;0.2657;0.2602;0.1607;0.0807;0.1229
+case_043;Customer expressing concerns about account access and unusual account activity.;Customer inquiry regarding inability to access funds and unusual account activity.;0.6921;0.7634;0.7279;0.6321;0.6716;0.653
+case_043;The returns are incredible!;I’ve never seen returns like this before!;0.2277;0.5251;0.3732;0.1865;0.4881;0.3239
+case_044;Recovering digital assets from fraudulent schemes.;recovering digital assets from fraudulent schemes;0.9031;0.9138;0.9086;0.9407;0.8932;0.917
+case_044;Transfer to Crypto Recovery Service;Transfer to Crypto Recovery Service;1.0;1.0;1.0;1.0;1.0;1.0
+case_044;GB67NWBK40302182397052;DE12345678901234567890;0.0137;0.0275;0.0222;0.2018;0.1218;0.1639
+case_044;A proven track record of recovering digital assets from fraudulent schemes.;100% Confidential and Secure.;0.2242;0.1803;0.2035;0.0425;0.0536;0.0518
+case_044;Screenshots of the transaction and any communication with the scammer.;He requested that the user describe the situation.;0.4355;0.2486;0.3415;0.2504;0.115;0.1824
+case_044;To facilitate the process of recovering the lost Bitcoin.;Additional Transfer to Crypto Recovery Service;0.3042;0.3835;0.3446;0.2106;0.2983;0.256
+case_044;GUARANTEED Satisfaction or Your Money Back (terms and conditions apply - highly unlikely you'll get a refund).;GUARANTEED Satisfaction or Your Money Back;0.8412;0.3021;0.5591;0.7287;0.2085;0.427
+case_044;2024-03-10;2024-03-10;1.0;1.0;1.0;1.0;1.0;1.0
+case_044;Testimonials from alleged satisfied clients.;A clean and professional design with a dark blue and white color scheme, testimonials from alleged satisfied clients, and a supposed team of experienced crypto recovery specialists.;0.1551;0.6047;0.3714;0.0896;0.4814;0.2601
+case_044;5,000 EUR;5,000 EUR;1.0;1.0;1.0;1.0;1.0;1.0
+case_045;Delivering exceptional returns.;Delivering exceptional returns;0.9494;0.9595;0.9545;0.9379;0.8368;0.8865
+case_045;5000.00;$5,000.00;0.5548;0.7593;0.6558;0.5051;0.6528;0.5774
+case_045;To create a sense of trust and high performance.;A modern and visually appealing design;0.3313;0.4187;0.3757;0.2063;0.2591;0.2352
+case_045;Scheduled system maintenance.;Scheduled system maintenance;0.8753;0.896;0.8858;0.9394;0.8572;0.8979
+case_045;NovaTrade AI;NovaTrade AI;1.0;1.0;1.0;1.0;1.0;1.0
+case_045;10000.00;None;-0.0361;0.196;0.0787;-0.1868;-0.262;-0.2211
+case_045;An email regarding an account access issue and a rejected withdrawal request.;None;-0.1237;-0.0356;-0.0783;-0.2182;-0.3455;-0.2818
+case_045;A withdrawal attempt failed, citing technical issues, and the victim reported inability to access funds.;Withdrawal Attempt;0.3366;0.1602;0.2481;0.3623;-0.063;0.1162
+case_045;$5,000.00;$5,000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_045;Our AI analyzes markets 24/7;24/7 Monitoring;0.1715;-0.0673;0.0508;0.4792;0.2026;0.3301
+case_046;15000.00 EUR;15000.00;0.9008;0.6977;0.7978;0.5808;0.4981;0.5403
+case_046;Scheduled system maintenance;System maintenance;0.7712;0.4139;0.5874;0.765;0.3828;0.5535
+case_046;Initial deposit to AI Trading Elite platform.;None;-0.1184;-0.0473;-0.0814;-0.207;-0.2156;-0.2064
+case_046;Deposit;Deposit;1.0;1.0;1.0;1.0;1.0;1.0
+case_046;DE12345678901234567890;None;-0.1865;-0.8374;-0.5334;-0.2506;-0.508;-0.3976
+case_046;AI Trading Elite;AI Trading Elite;1.0;1.0;1.0;1.0;1.0;1.0
+case_046;7500.00 EUR, it was denied due to system maintenance;7500.00 EUR, the withdrawal was denied due to system maintenance.;0.8682;0.9017;0.8851;0.79;0.8805;0.8348
+case_046;Fabricated profit reports;"Reported fraud activity; customer received fabricated profit reports.";0.2677;0.194;0.2318;0.2788;0.6027;0.4257
+case_046;Deutsche Bank;Deutsche Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_046;24/7 Automated Trading, High-Profit Potential, Easy-to-Use Platform, No Prior Experience Required, a FREE Demo Account.;Highlighting 24/7 automated trading, high-profit potential, an easy-to-use platform, and no prior experience needed.;0.7086;0.6473;0.6783;0.7163;0.6567;0.6873
+case_047;AI-powered investment strategies.;AI-powered investment strategies;0.9703;0.9752;0.9728;0.965;0.8938;0.9291
+case_047;Risk-Free Returns;Risk-Free Returns;1.0;1.0;1.0;1.0;1.0;1.0
+case_047;United Arab Emirates;None;0.0622;-0.223;-0.0829;-0.0124;0.001;-0.0017
+case_047;Potential investment scheme involving AI trading. Customer appears to be new to this type of investment.;Potential investment scheme involving AI trading. Customer appears to be new to this type of investment.;1.0;1.0;1.0;1.0;1.0;1.0
+case_047;Wire transfer to Innovative AIX - potential investment;Wire transfer to Innovative AIX - potential investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_047;Customer attempting to withdraw funds, but transaction failed.;Customer attempting to withdraw funds, but transaction failed. Possible indicator of fraudulent activity or difficulty accessing funds.;0.5382;0.9018;0.7146;0.4541;0.8683;0.6378
+case_047;Unusual activity on his account to ensure the security of investments.;Unusual activity on his account;0.8281;0.5963;0.7103;0.7481;0.4231;0.5714
+case_047;4000.00;None;-0.0255;0.1904;0.0817;-0.2265;-0.3091;-0.2648
+case_047;Customer reports fraudulent activity and loss of funds.;Customer reports fraudulent activity and loss of funds.;1.0;1.0;1.0;1.0;1.0;1.0
+case_047;To showcase and promote Innovative AIX’s AI investing platform.;To unlock the power of AI investing.;0.6099;0.3761;0.4913;0.6621;0.4009;0.5228
+case_048;€50,000;50000;0.3111;0.2905;0.3019;0.37;0.2822;0.3274
+case_048;150-pip move;150-pip move;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Debit;Debit;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Global Traders Rejection Fee;Global Traders Rejection Fee;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Double your deposit;Double your deposit;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Expert Guidance, Cutting-Edge Platform, High-Profit Potential;Expert Guidance, Cutting-Edge Platform, High-Profit Potential;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Question about initial deposit;Question about initial deposit;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Client complaint regarding fraudulent activity;Client filed a complaint alleging fraudulent investment scheme. Further investigation warranted.;0.5647;0.6348;0.6002;0.297;0.5183;0.4018
+case_048;Initial investment - Forex trading;Initial investment - Forex trading;1.0;1.0;1.0;1.0;1.0;1.0
+case_048;Financial freedom;Dreaming of financial freedom;0.5616;0.8047;0.681;0.3347;0.6567;0.4812
+case_049;$5,000 CAD;$5,000 CAD;1.0;1.0;1.0;1.0;1.0;1.0
+case_049;Potential investment fraud scheme;None;0.1335;-0.0805;0.0258;-0.2254;-0.4155;-0.3271
+case_049;ZENO NG LA;ZENO NG LA;1.0;1.0;1.0;1.0;1.0;1.0
+case_049;Nigeria;Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_049;Our AI is 10x better than human traders!;Our AI is 10x better than human traders!;1.0;1.0;1.0;1.0;1.0;1.0
+case_049;A large withdrawal request was blocked by the platform, and the customer reported difficulty withdrawing funds.;Large withdrawal request blocked by platform. Customer reporting difficulty withdrawing funds. Potential investment fraud scheme.;0.6579;0.7231;0.6908;0.5132;0.6749;0.5917
+case_049;Apex Global Investments Ltd.;Zenith Bank, Apex Global Investments Ltd.;0.5339;0.7784;0.654;0.5573;0.6506;0.6042
+case_049;Credit;None;0.1796;0.1796;0.1809;0.0179;0.0176;0.0217
+case_049;Apex Global Investments Ltd.;None;0.0703;-0.0521;0.0099;-0.1906;-0.2761;-0.2305
+case_049;Stop Trading, Start Winning;See profits soar as our AI does the work for you!;0.1154;0.2037;0.1606;-0.0347;-0.0255;-0.026
+case_050;Artificial intelligence algorithms that analyze market trends.;AI algorithms analyze market trends;0.7885;0.6868;0.7376;0.7488;0.5664;0.6542
+case_050;An exclusive introductory bonus.;None;0.0524;0.1437;0.0991;-0.1851;-0.2086;-0.1922
+case_050;Additional investment in AI Trading Platform;Additional investment in AI Trading Platform;1.0;1.0;1.0;1.0;1.0;1.0
+case_050;Customer exhibits signs of potential pressure.;Increased investment amount compared to previous transaction. Customer exhibits signs of potential pressure.;0.5522;0.8701;0.7072;0.4556;0.8959;0.6494
+case_050;Global Investment Solutions Ltd;Global Investment Solutions Ltd;1.0;1.0;1.0;1.0;1.0;1.0
+case_050;www.ai-trading-pro.net;www.ai-trading-pro.net;1.0;1.0;1.0;1.0;1.0;1.0
+case_050;Lucrative trading opportunities that you won't find anywhere else.;lucrative trading opportunities;0.5761;0.2753;0.4224;0.6836;0.0988;0.3355
+case_050;A mandatory contribution of EUR 2,000.;A payment of EUR 2,000 is required.;0.6597;0.6922;0.6764;0.7207;0.7778;0.7498
+case_050;Withdrawal Request - Denied;Withdrawal Request - Denied;1.0;1.0;1.0;1.0;1.0;1.0
+case_050;A logo displaying a stylized circuit board, rapidly increasing line graphs, testimonials, and a button that reads 'Start Trading Now'.;A stylized circuit board logo and the words 'AI-Trading-Pro,' charts displaying rapidly increasing line graphs, and a button reading 'Start Trading Now.';0.6158;0.6392;0.6281;0.6328;0.7154;0.6745
+case_051;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_051;Cyprus;None;0.151;-0.1223;0.0122;-0.1325;-0.2902;-0.2136
+case_051;To process the withdrawal request and ensure prompt receipt of profits.;To process your withdrawal request.;0.7505;0.4097;0.5755;0.7584;0.4599;0.5975
+case_051;€10,000;€200;0.7992;0.6435;0.7207;0.5905;0.4997;0.5457
+case_051;High;High;1.0;1.0;1.0;1.0;1.0;1.0
+case_051;Zenith Bank, Account Number: 4567890123;Zenith Bank;0.8151;-0.0293;0.3604;0.742;-0.0519;0.2369
+case_051;€17,430;€17,430;1.0;1.0;1.0;1.0;1.0;1.0
+case_051;Both SAR reports indicate transfers to AI Profit Solutions in Cyprus, with the second transfer being associated with a 'High' risk level, particularly due to the pressure from an account manager.;Transfers to Cyprus are associated with moderate to high risk levels.;0.4553;0.2362;0.3445;0.4614;0.2177;0.3317
+case_051;Guaranteed Profits (See Disclaimer);Dedicated Account Management;0.2437;0.153;0.1993;0.3283;0.0322;0.1661
+case_051;To resolve a technical glitch and ensure the transaction goes through smoothly, allegedly unlocking his profits.;A minor technical glitch;0.4358;0.1574;0.294;0.3054;0.0133;0.1454
+case_052;5000.00 EUR;None;-0.0522;-0.0275;-0.0382;-0.3629;-0.3136;-0.3337
+case_052;A further investment of €3000;A further investment of €3000;1.0;1.0;1.0;1.0;1.0;1.0
+case_052;Nigeria;Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_052;Automated wealth generation with minimal effort;Automated wealth generation;0.9245;0.6426;0.7805;0.828;0.4698;0.6318
+case_052;To ensure the safety of your funds;To ensure the safety of your funds.;0.9535;0.9468;0.9502;0.8885;0.9045;0.8969
+case_052;Hans Schmidt and AlphaGenesis Global;Hans Schmidt, AlphaGenesis Global, Sparkasse Nürnberg;0.2342;0.7803;0.4944;0.4665;0.7365;0.5922
+case_052;Unusual Destination Country - Nigeria;Unusual Destination Country - Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_052;Additional Investment - AI Trading;None;-0.0448;-0.1296;-0.0858;-0.2718;-0.3378;-0.301
+case_052;“I’ve never seen profits like this!” - J. Miller, London;"""I’ve never seen profits like this!"" - J. Miller, London.";0.922;0.88;0.9011;0.8789;0.8104;0.8447
+case_052;A steep upward trajectory;A steep upward trajectory.;0.9415;0.9269;0.9343;0.8446;0.9433;0.8931
+case_053;5000 EUR;None;0.0217;-0.0983;-0.0373;-0.2714;-0.2992;-0.2803
+case_053;Effortless Income;Consistent profits in the financial markets;0.3493;0.08;0.2124;0.1381;0.0062;0.0721
+case_053;A processing fee;A processing fee.;0.9348;0.9132;0.9241;0.7838;0.898;0.8398
+case_053;MU07DTMB08030100000001;MU07DTMB08030100000001;1.0;1.0;1.0;1.0;1.0;1.0
+case_053;Potential investment fraud;None;0.1451;-0.0173;0.0641;-0.2456;-0.425;-0.3408
+case_053;Increased investment amount, potentially under duress or influenced by fabricated profits.;Increased investment amount, potentially under duress or influenced by fabricated profits.;1.0;1.0;1.0;1.0;1.0;1.0
+case_053;Credit and Debit;Debit and Credit;0.6853;0.6853;0.6858;0.5601;0.4615;0.5113
+case_053;1968-03-10;1968-03-10;1.0;1.0;1.0;1.0;1.0;1.0
+case_053;Steep upward trend labeled 'Monthly Profit Growth';Monthly Profit Growth;0.7589;0.3799;0.5636;0.8011;0.3397;0.5399
+case_053;Investment;None;0.0864;0.0472;0.0682;-0.3418;-0.3574;-0.3443
+case_054;Not mentioned in the case files;None;0.1683;0.0726;0.1214;-0.1225;-0.2314;-0.1755
+case_054;Withdrawal Request;Withdrawal Request;1.0;1.0;1.0;1.0;1.0;1.0
+case_054;GFG12345;GFG12345;1.0;1.0;1.0;1.0;1.0;1.0
+case_054;30500.00;None;0.0034;0.0062;0.0064;-0.23;-0.3309;-0.2785
+case_054;EUR/USD, GBP/USD, USD/JPY;GBP/USD, USD/JPY;0.8565;0.7543;0.8053;0.7117;0.5928;0.6516
+case_054;To attract new members and promote Forex trading opportunities.;To offer unparalleled opportunities for Forex trading.;0.6454;0.586;0.6161;0.6331;0.4883;0.5593
+case_054;€13,975.00;€13,975.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_054;Significant deposit received from Klaus Meier following initial small deposit.;Significant deposit received from Klaus Meier following initial small deposit. Further investigation warranted.;0.8188;0.9495;0.8836;0.6451;0.8796;0.7558
+case_054;Double their initial deposit.;Double Your Initial Deposit!;0.6495;0.7809;0.7149;0.7977;0.6659;0.7305
+case_054;Communication attempts unsuccessful.;Communication attempts unsuccessful.;1.0;1.0;1.0;1.0;1.0;1.0
+case_055;To provide an unparalleled trading experience utilizing advancements in artificial intelligence.;To provide an unparalleled trading experience.;0.9331;0.6225;0.7739;0.9416;0.6516;0.7862
+case_055;15% within 24 hours.;15%;0.7198;0.3935;0.5525;0.4957;0.2035;0.3373
+case_055;Road Town, Tortola, British Virgin Islands;Road Town, Tortola, British Virgin Islands;1.0;1.0;1.0;1.0;1.0;1.0
+case_055;20000;18000.00;0.5399;0.4862;0.5137;0.2928;0.5735;0.4223
+case_055;Receiving large sums of money from multiple individuals with no apparent business relationship. Funds being transferred to Belize.;Receiving large sums of money from multiple individuals with no apparent business relationship. Funds being transferred to Belize.;1.0;1.0;1.0;1.0;1.0;1.0
+case_055;I’m starting to worry.;I’m starting to worry.;1.0;1.0;1.0;1.0;1.0;1.0
+case_055;2024-01-25;2024-01-25;1.0;1.0;1.0;1.0;1.0;1.0
+case_055;A FREE consultation with AI Trading Specialists.;A complimentary consultation with one of their expert analysts.;0.5248;0.5058;0.5161;0.5998;0.5653;0.584
+case_055;None;None;1.0;1.0;1.0;1.0;1.0;1.0
+case_056;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_056;Unsolicited contact, High-pressure sales tactics;Victim reports denial of withdrawal request and potential investment fraud.;0.294;0.2645;0.2804;0.1436;0.0681;0.1082
+case_056;He inquired about account setup and requested clarification.;Withdrawal Attempt;0.082;0.1726;0.1283;0.095;-0.0463;0.0238
+case_056;€3,000;None;0.0582;-0.0087;0.0261;-0.4452;-0.2078;-0.3401
+case_056;Increased security measures to ensure the safety of funds.;To ensure the safety of your funds.;0.782;0.7328;0.7577;0.6958;0.5881;0.6417
+case_056;Initial Investment - AI Trading Pro;AI Trading Pro;0.8105;0.5024;0.6528;0.8;0.4318;0.5975
+case_056;2023-09-10 14:30 GMT+1;2023-09-10 14:30 GMT+1;1.0;1.0;1.0;1.0;1.0;1.0
+case_056;€10,000, due to the withdrawal request being denied.;None;-0.1176;-0.0191;-0.0671;-0.3859;-0.2759;-0.3297
+case_056;Exclusive Bonus: Get a free consultation with our expert trading advisors!;Get a free consultation with our expert trading advisors!;0.9439;0.7076;0.8236;0.9243;0.6946;0.8032
+case_056;He expressed concern, suspicion of fraudulent activity, and a desire for his money back.;His withdrawal request has been denied, and he is now being asked for an additional verification fee. He suspects fraudulent activity and wants his money back.;0.4331;0.6088;0.5203;0.3045;0.5628;0.4249
+case_057;Guaranteed returns;Consistent profits, regardless of market conditions.;0.26;0.1449;0.2031;0.1369;0.2408;0.19
+case_057;$5,000;$5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_057;$5,000;$5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_057;Global Finance Solutions;Global Finance Solutions;1.0;1.0;1.0;1.0;1.0;1.0
+case_057;Initial investment;Initial investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_057;$6,500;$6,500;1.0;1.0;1.0;1.0;1.0;1.0
+case_057;$25,000;$25,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_057;Users aged 55-64 interested in investing and finance;Users aged 55-64 interested in investing and finance.;0.8686;0.9331;0.9008;0.8766;0.8708;0.8742
+case_057;August 2023;None;-0.0047;-0.1175;-0.06;-0.2923;-0.4389;-0.3677
+case_057;He felt intimidated by investing before using Aionautica and now sees incredible results.;Positive;0.1333;-0.1041;0.0133;-0.3856;-0.3874;-0.3809
+case_058;5000.00;$5000;0.6574;0.6106;0.6345;0.3973;0.2484;0.3216
+case_058;Potential Investment Fraud;Potential Investment Fraud;1.0;1.0;1.0;1.0;1.0;1.0
+case_058;Generates consistent profits;Consistent profits;0.7912;0.7092;0.7503;0.6746;0.5465;0.6097
+case_058;Simulated profit payout;Simulated profit payout;1.0;1.0;1.0;1.0;1.0;1.0
+case_058;5000;$5000;0.6133;0.6945;0.6542;0.3338;0.598;0.4567
+case_058;Romania;United States;0.3437;0.3434;0.3446;0.0731;0.0159;0.0476
+case_058;Graphs showing steep upward trends labeled 'Profit Growth';"Graphs showing steep upward trends labeled ""Profit Growth.""";0.9262;0.967;0.9467;0.9877;0.9877;0.9878
+case_058;Attempted withdrawal denied;Attempted withdrawal denied;1.0;1.0;1.0;1.0;1.0;1.0
+case_058;AlgoTrade Pro Team, David Miller;None;0.0202;-0.1675;-0.0737;-0.0947;-0.3831;-0.2588
+case_058;"""I've never seen profits like this before!"" - John S.
+""AlgoTrade Pro is a game-changer!"" - Emily B.";None;-0.1985;-0.1918;-0.1932;-0.3985;-0.429;-0.4084
+case_059;Stop Trading, Start Winning with ProfitMatrix!;Stop Trading, Start Winning with ProfitMatrix!;1.0;1.0;1.0;1.0;1.0;1.0
+case_059;"Possible investment fraud; initial investment with limited information available, and victim reports difficulty withdrawing funds; potential fraudulent investment scheme.";"Possible investment fraud; initial investment with limited information available. Victim reports difficulty withdrawing funds; potential fraudulent investment scheme.";0.9465;0.9137;0.9302;0.9118;0.8939;0.9032
+case_059;5000.00;None;0.0285;0.2344;0.1308;-0.1903;-0.3042;-0.2462
+case_059;No Trading Experience Required, Automated Trading: Let our AI do the work, Real-Time Results: Watch your profits grow;Profitability;0.0898;-0.1501;-0.0314;-0.0243;-0.2404;-0.1402
+case_059;+12%;+12%;1.0;1.0;1.0;1.0;1.0;1.0
+case_059;ai.trading.support@profitmatrix.net;ai.trading.support@profitmatrix.net;1.0;1.0;1.0;1.0;1.0;1.0
+case_059;ProfitMatrix Ltd, Aiden;ProfitMatrix Ltd;0.9132;0.4934;0.696;0.8997;0.4387;0.6402
+case_059;The images appear to be generic stock photos;None;0.0167;-0.255;-0.1212;-0.2443;-0.1651;-0.2017
+case_059;2023-12-05;2023-12-05;1.0;1.0;1.0;1.0;1.0;1.0
+case_059;United Arab Emirates;United Arab Emirates;1.0;1.0;1.0;1.0;1.0;1.0
+case_060;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_060;12%;12%;1.0;1.0;1.0;1.0;1.0;1.0
+case_060;Funds Transfer;Account Restriction;0.2909;0.2181;0.2554;-0.0759;0.1649;0.0354
+case_060;Unusually large transaction for an individual with reported income, Recipient is a newly established company with limited public information;Unusually large transaction for an individual with reported income. Recipient is a newly established company with limited public information.;0.9278;0.8894;0.9087;0.9107;0.9349;0.9231
+case_060;Ongoing system upgrades;Ongoing system upgrades;1.0;1.0;1.0;1.0;1.0;1.0
+case_060;They have generic stock photos and vague biographies;None;0.0544;-0.2058;-0.0774;-0.3301;-0.3588;-0.3393
+case_060;NovaTech AI Ltd.;NovaTech AI Ltd.;1.0;1.0;1.0;1.0;1.0;1.0
+case_060;Accessing his account;Do not attempt to access your account during this period.;0.1817;0.3531;0.2672;0.0947;0.2787;0.1832
+case_060;-2000.00;-5000.00;0.9091;0.9092;0.9093;0.8653;0.8652;0.8658
+case_060;Exclusive Bonus: Sign up now and receive a free personalized investment consultation!;A personalized investment consultation;0.7105;0.192;0.4397;0.5237;0.1391;0.3078
+case_061;"Unusual wire transfer to offshore account with limited transparency, Multiple attempts to withdraw funds resulting in rejection; possible unauthorized access, Multiple wire transfers to offshore account without apparent legitimate purpose.";Multiple wire transfers to offshore account without apparent legitimate purpose;0.7759;0.4195;0.5926;0.6176;0.2902;0.4386
+case_061;Chronos;Chronos;1.0;1.0;1.0;1.0;1.0;1.0
+case_061;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_061;Superior returns, Automated trading, 24/7 monitoring.;Superior Returns;0.3848;0.076;0.2271;0.5673;0.0284;0.2479
+case_061;Wire Transfer - Connect Innovations, -5000.00;Wire Transfer - Connect Innovations;0.8566;0.5262;0.6871;0.8404;0.3521;0.5623
+case_061;Chronos and Connect Innovations;ChronosTrade;0.5347;0.3235;0.4279;0.3813;0.2125;0.2945
+case_061;98%;98%;1.0;1.0;1.0;1.0;1.0;1.0
+case_061;Attempted withdrawal, rejected;Attempted withdrawal – rejected;0.7658;0.8482;0.807;0.9196;0.9196;0.9199
+case_061;-6521.01;-6521.01;1.0;1.0;1.0;1.0;1.0;1.0
+case_061;1972-01-15;1972-01-15;1.0;1.0;1.0;1.0;1.0;1.0
+case_062;5000 EUR;5000 Euro;0.8838;0.8838;0.884;0.8958;0.8958;0.8962
+case_062;Profitable Renditen ohne Risiko! (Profitable returns without risk!);Easy to use – no experience needed!;0.0523;-0.1928;-0.0716;0.0001;-0.2783;-0.1552
+case_062;Malta;Malta;1.0;1.0;1.0;1.0;1.0;1.0
+case_062;ungewöhnlichen Transaktionen (unusual transactions);Unusual transactions;0.3926;-0.4812;-0.0816;0.2461;-0.175;-0.0004
+case_062;GlobalTech Investments Ltd.;GlobalTech Investments Ltd.;1.0;1.0;1.0;1.0;1.0;1.0
+case_062;further verification;Further verification;0.8402;0.6853;0.7621;0.891;0.7261;0.8058
+case_062;+212-555-1212;+212-555-1212;1.0;1.0;1.0;1.0;1.0;1.0
+case_062;increased security measures;Increased security measures;0.8719;0.8052;0.8386;0.9177;0.827;0.8718
+case_062;www.ai-trader.tech;www.ai-trader.tech;1.0;1.0;1.0;1.0;1.0;1.0
+case_062;promises exorbitant returns with minimal investment;It promises exorbitant returns with minimal investment.;0.8423;0.8255;0.8342;0.8711;0.8778;0.875
+case_063;5000.00 EUR;None;-0.0522;-0.0275;-0.0382;-0.3629;-0.3136;-0.3337
+case_063;No Experience Needed;No Experience Needed;1.0;1.0;1.0;1.0;1.0;1.0
+case_063;Initial Investment - AI Trading System;Initial Investment - AI Trading System;1.0;1.0;1.0;1.0;1.0;1.0
+case_063;€6,250;€6,250;1.0;1.0;1.0;1.0;1.0;1.0
+case_063;An ongoing system verification process;An ongoing system verification process.;0.9317;0.9181;0.925;0.8802;0.963;0.921
+case_063;Hans Meier, AI Trading Elite Limited, DeutscheBank;AI Trading Elite Limited, Hans Meier;0.5961;0.4153;0.505;0.6701;0.5101;0.588
+case_063;Withdrawal Attempt;Attempted Withdrawal - Rejected;0.4483;0.6788;0.5618;0.2597;0.5368;0.3876
+case_063;Client received a payout purportedly representing profits generated by an automated trading system. The legitimacy of these profits requires further investigation. Consistent with prior suspicious activity.;Client received a payout purportedly representing profits generated by an automated trading system. The legitimacy of these profits requires further investigation. Consistent with prior suspicious activity.;1.0;1.0;1.0;1.0;1.0;1.0
+case_063;YYYY-MM-DD;YYYY-MM-DD;1.0;1.0;1.0;1.0;1.0;1.0
+case_063;High Profit Potential;Consistent profits, no experience needed, high profit potential, simple and secure platform, and a free consultation.;0.178;0.4996;0.335;0.0459;0.4329;0.2139
+case_064;15-20%;20%;0.7944;0.6182;0.7054;0.7021;0.3806;0.5273
+case_064;€5000;None;0.0875;0.0875;0.089;-0.3138;-0.3157;-0.3095
+case_064;Transfer to AI Trading Platform;Withdrawal Request - Declined;0.0271;0.1077;0.0686;-0.0753;-0.1436;-0.1062
+case_064;A system upgrade;A system upgrade.;0.9434;0.9246;0.9341;0.8141;0.938;0.8746
+case_064;€500;€500;1.0;1.0;1.0;1.0;1.0;1.0
+case_064;Nigeria;Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_064;Guaranteed 20% monthly returns;High returns;0.6979;0.2312;0.4553;0.3584;0.0094;0.1631
+case_064;An initial small transfer, followed by claims of profits and escalating requests for funds.;Escalating requests for funds.;0.5592;0.3809;0.4694;0.6386;0.2935;0.4489
+case_064;€700.00;None;0.0167;0.1182;0.0685;-0.2018;-0.1288;-0.1621
+case_064;screenshot_trading_platform.txt;screenshot_trading_platform.txt;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;$5,000;$5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;Personalized Trading Strategies;Personalized Trading Strategies;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;32%;32%;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;Multiple wire transfers to an offshore entity, SecureInvest LLC, in Belize, following unsolicited contact via Telegram claiming expertise in AI trading.;Multiple wire transfers to an offshore entity, SecureInvest LLC, in Belize, following unsolicited contact via Telegram claiming expertise in AI trading.;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;Wire Transfer to SecureInvest;Wire Transfer to SecureInvest;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;The withdrawal request was blocked;"The request was blocked by SecureInvest due to ""verification issues.""";0.3387;0.7102;0.5189;0.2128;0.5663;0.3706
+case_065;Jane Doe, Compliance Officer;Jane Doe, Compliance Officer;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;secureinvest.bz;secureinvest.bz;1.0;1.0;1.0;1.0;1.0;1.0
+case_065;None;Telegram;0.032;0.151;0.0923;-0.257;-0.1397;-0.1975
+case_066;15-30%;15-30%;1.0;1.0;1.0;1.0;1.0;1.0
+case_066;AI_Trading_Profits_Intro_Guide.pdf;None;-0.1671;-0.4462;-0.3087;-0.316;-0.4855;-0.4057
+case_066;$5,000;$5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_066;"Bank Name: Horizon Bank; Account Name: Global Investments LTD; Account Number: 2345678901; SWIFT Code: HORIBANK";Global Investments LTD;0.6627;-0.2767;0.1513;0.4928;-0.2285;0.028
+case_066;Funds transferred to an overseas entity with limited public information. Recipient matches a known entity associated with fraudulent investment schemes.;Funds transferred to an overseas entity with limited public information. Potential for investment fraud. Recipient matches a known entity associated with fraudulent investment schemes.;0.8921;0.9484;0.9203;0.8037;0.8913;0.8471
+case_066;$10,500;-13000;0.385;0.3124;0.3495;0.2847;0.3105;0.3003
+case_066;Personalized investment advice from expert advisors, access to exclusive trading strategies, higher profit potential, and a dedicated support team.;Personalized investment advice from our expert advisors, access to exclusive trading strategies, higher profit potential, and a dedicated support team.;0.9654;0.9793;0.9724;0.9398;0.969;0.9545
+case_066;Exclusivity, sophistication, and effortless wealth generation.;Exclusivity, sophistication, and effortless wealth generation.;1.0;1.0;1.0;1.0;1.0;1.0
+case_066;Reports from a concerned individual indicate potential scam.;Reports from concerned individual indicate potential scam.;0.9334;0.9356;0.9346;0.9712;0.9109;0.9408
+case_066;Double their initial investment;Double their initial investment with an exclusive bonus program.;0.5038;0.7258;0.6132;0.3653;0.8082;0.5589
+case_067;Expert guidance and proven strategies to increase income and achieve financial goals.;Exciting Forex Trading Opportunities with Global Forex Solutions;-0.0165;0.0984;0.0418;0.1111;0.1395;0.1286
+case_067;More details and examples of successful trades related to their VIP program.;More details and examples of successful trades;0.8493;0.641;0.7436;0.8498;0.5206;0.6711
+case_067;Unusual Transaction involving large cash deposits followed by rapid transfers to overseas accounts.;Unusual Transaction, large cash deposits followed by rapid transfers to overseas accounts.;0.9099;0.9099;0.9101;0.9192;0.9192;0.9196
+case_067;EUR;EUR;1.0;1.0;1.0;1.0;1.0;1.0
+case_067;Customer reporting difficulties in withdrawing funds from their account.;Customer reporting difficulties in withdrawing funds from account.;0.9233;0.8686;0.896;0.982;0.915;0.9482
+case_067;Nigeria;Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_067;Financial Freedom - earning passive income while you sleep.;Earning passive income;0.6184;0.4101;0.513;0.5696;0.3386;0.4476
+case_067;Transfer of 0.5 BTC to the wallet address: 1BKzJq432WkGzS9q1Q23P6Y738497k77A.;Transfer 0.5 BTC to the wallet address: 1BKzJq432WkGzS9q1Q23P6Y738497k77A;0.9655;0.9519;0.9588;0.9314;0.9038;0.9178
+case_067;United Arab Emirates;United Arab Emirates;1.0;1.0;1.0;1.0;1.0;1.0
+case_067;Limited spots available in an exclusive Forex VIP program.;Forex VIP Program;0.7401;0.3758;0.5526;0.6729;0.2587;0.4402
+case_068;He aimed to create an impression of being a Senior AI Strategist at a rapidly growing firm specializing in automated trading.;He aimed to create an impression of being impressed by Marc Schneider's experience in finance.;0.4735;0.3835;0.429;0.4794;0.4358;0.4595
+case_068;Consistently outperform traditional investment methods.;It identifies market opportunities others miss.;0.252;0.1222;0.1876;0.181;0.1253;0.1559
+case_068;A copy of his passport and a recent utility bill.;A copy of his passport and a recent utility bill.;1.0;1.0;1.0;1.0;1.0;1.0
+case_068;The withdrawal attempt was rejected.;Blocked withdrawal request;0.3768;0.4817;0.4297;0.4748;0.4246;0.4515
+case_068;Large transfer to an offshore company with limited online presence.;Client reported difficulties in withdrawing funds after recent deposits.;0.3086;0.2636;0.2872;0.1799;0.1374;0.1616
+case_068;CY8800200001000000000012345;None;-0.0022;-0.7881;-0.4268;-0.1586;-0.4879;-0.354
+case_068;AI-Powered Investing;AI-Powered Investing;1.0;1.0;1.0;1.0;1.0;1.0
+case_068;The request for passport and utility bill copies, coupled with difficulties withdrawing funds.;Client claims inability to withdraw funds and suspects fraudulent activity.;0.3834;0.3273;0.3563;0.4486;0.3766;0.4141
+case_068;Client reported difficulties in withdrawing funds after recent deposits.;Client reported difficulties in withdrawing funds after recent deposits.;1.0;1.0;1.0;1.0;1.0;1.0
+case_068;30000.00;15000 EUR;0.315;0.4898;0.402;0.3092;0.2023;0.2566
+case_069;50000 AUD;50000;0.6939;0.3801;0.5333;0.7028;0.3651;0.5182
+case_069;Double your investment with our exclusive AI Boost package;Double your investment;0.69;0.36;0.5208;0.7315;0.1654;0.3982
+case_069;Please withdraw it [the initial profit] to confirm everything is working.;Please withdraw it to confirm everything is working.;0.8189;0.5281;0.6702;0.8877;0.5926;0.7292
+case_069;55000 AUD;$55,000 AUD;0.6263;0.7561;0.691;0.6261;0.7045;0.6658
+case_069;A copy of his passport;A copy of his passport.;0.9425;0.931;0.9368;0.857;0.9316;0.894
+case_069;1000 AUD;None;0.0405;-0.1633;-0.0618;-0.1341;-0.2555;-0.1942
+case_069;Zenith Bank Nigeria;Zenith Bank Nigeria;1.0;1.0;1.0;1.0;1.0;1.0
+case_069;Initial profit withdrawal shortly after account creation, potentially indicative of a 'honeypot' scheme.;potentially indicative of a 'honeypot' scheme;0.7203;0.5511;0.635;0.7232;0.4116;0.5544
+case_069;Important Update Regarding Your AI Trading Pro Account;Important Update Regarding Your AI Trading Pro Account;1.0;1.0;1.0;1.0;1.0;1.0
+case_069;To generate consistent profits, even while you sleep!;To supercharge profits and experience the full power of AI trading algorithms.;0.3627;0.3708;0.3678;0.3525;0.2935;0.3251
+case_070;€5000 in ETH.;€5000 in ETH;0.9396;0.9517;0.9457;0.8745;0.7912;0.8326
+case_070;Exclusive access and the potential for exponential growth.;Investment opportunities;0.2957;0.3201;0.309;0.0906;0.0436;0.0704
+case_070;Making a second investment of €10,000.;Direct investment;0.5557;0.3437;0.4485;0.2512;-0.0217;0.1027
+case_070;There's been a temporary technical glitch.;There’s been a temporary technical glitch.;0.878;0.979;0.9282;0.8881;0.9823;0.9343
+case_070;Linked to a potential investment fraud scheme. The victim has filed a complaint with local authorities.;None;-0.0952;-0.0518;-0.0719;-0.4401;-0.3018;-0.3723
+case_070;It's associated with potential fraudulent activity.;Destination account associated with potential fraudulent activity.;0.5111;0.6662;0.5882;0.5439;0.6962;0.6181
+case_070;Legal action.;legal action;0.1466;0.431;0.2861;0.8319;0.7016;0.7654
+case_070;Credit card payments and a salary.;Credit Card Payment, Salary, Online Shopping, ATM Withdrawal;0.1418;0.6029;0.3634;0.198;0.5391;0.3509
+case_070;Exclusive, innovative, and poised for significant value increase – targeting elite investors seeking a future-oriented investment.;Exclusive, high-value investment opportunity with exponential growth potential.;0.5211;0.3914;0.4563;0.5891;0.3712;0.4746
+case_070;"2023-11-12, €5000; 2023-12-16, €10000.";"2023-12-16, 10000 EUR; 2023-11-12, 5000 EUR";0.6925;0.7064;0.7;0.5703;0.5676;0.5707
+case_071;Automated Trading – No experience needed!;Automated Trading;0.8312;0.3611;0.5868;0.7529;0.1436;0.3897
+case_071;Cryptocurrency Purchase;Cryptocurrency Purchase;1.0;1.0;1.0;1.0;1.0;1.0
+case_071;10000.00;10000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_071;It's proprietary, David. We can't disclose all the details, but trust me, it's top-of-the-line.;It's proprietary, David. We can't disclose all the details, but trust me, it's top-of-the-line.;1.0;1.0;1.0;1.0;1.0;1.0
+case_071;There appears to be a temporary security issue. We're working on it.;There is an unusual activity on your account.;-0.132;0.1805;0.0209;0.3655;0.2326;0.2986
+case_071;$35,780.00;$35,780.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_071;Withdrawal request denied due to account restrictions.;Withdrawal request denied due to account restrictions.;1.0;1.0;1.0;1.0;1.0;1.0
+case_071;Approximately one month;Approximately one month.;0.8989;0.8736;0.8864;0.7386;0.8712;0.8034
+case_071;David funded his account, made cryptocurrency purchases, and added more funds.;David requested a withdrawal of $5,000 CAD.;0.3179;0.2778;0.2989;0.3257;0.0987;0.2054
+case_071;Quantum AI Investments;Quantum AI Investments;1.0;1.0;1.0;1.0;1.0;1.0
+case_072;To use proprietary artificial intelligence to identify and capitalize on trading opportunities 24/7.;To identify and capitalize on trading opportunities 24/7.;0.908;0.648;0.7754;0.9251;0.6852;0.7983
+case_072;Analyze market trends and execute trades with unparalleled precision, generating substantial returns for investors.;AI Trading Solutions claims to analyze market trends and execute trades with unparalleled precision, generating substantial returns for investors.;0.7341;0.8512;0.7924;0.7436;0.8583;0.8
+case_072;EUR 500;EUR 500;1.0;1.0;1.0;1.0;1.0;1.0
+case_072;Seychelles;Seychelles;1.0;1.0;1.0;1.0;1.0;1.0
+case_072;EUR 15000;None;0.0243;-0.2752;-0.1282;-0.1753;-0.4049;-0.3017
+case_072;To stop trading and start investing.;To identify and capitalize on trading opportunities 24/7.;0.2248;0.53;0.3741;0.2922;0.3718;0.3336
+case_072;Sophisticated risk management tools to protect your capital.;Risk Management;0.692;0.3418;0.5121;0.5618;0.2048;0.364
+case_072;There's a temporary technical issue.;There's a temporary technical issue. Please wait 24-48 hours.;0.3968;0.7561;0.5713;0.292;0.8172;0.5141
+case_072;Klaus Hartmann, AI Trading Solutions, Deutsche Bank.;Klaus Hartmann, AI Trading Solutions, Deutsche Bank, Seychelles, Germany;0.5039;0.9037;0.6972;0.575;0.8629;0.7085
+case_072;Past performance is not indicative of future results.;None;-0.168;-0.1215;-0.143;-0.4712;-0.3103;-0.3947
+case_073;The TraderAI_Bot greeted Mark Peterson and offered to leverage artificial intelligence to maximize returns, inviting him to join an exclusive community and providing a link for a demo.;Hello Mark Peterson! 👋 Welcome to TraderAI! We leverage cutting-edge artificial intelligence to maximize your returns. Interested in learning more?;0.2802;0.3053;0.2939;0.3956;0.3774;0.3889
+case_073;Multiple cryptocurrency transactions to offshore accounts potentially linked to investment fraud.;None;-0.0188;-0.1142;-0.0652;-0.2273;-0.3822;-0.3073
+case_073;Belizean Investments Ltd. received $10,000 USD, and St. Vincent Trading Group received $5,000 USD.;$10000 and $5000;0.234;0.011;0.1215;0.295;-0.0128;0.1251
+case_073;A FREE demo and personalized onboarding session.;A 50% increase in your AI-powered trading profits for the next 7 days;0.1696;0.184;0.1781;0.0937;0.2061;0.1507
+case_073;Reply with 'CONFIRM'.;CONFIRM;0.6677;0.3316;0.4953;0.4671;0.2918;0.3767
+case_073;Belizean Investments Ltd. received a transaction of $3000 USD.;None;-0.1659;-0.2382;-0.2004;-0.3978;-0.2534;-0.3273
+case_073;A pop-up window displays a message: 'Daily Profit +12.5%'.;Daily Profit +12.5%;0.7517;0.4011;0.5715;0.8707;0.4049;0.6076
+case_073;TraderAI Team;None;0.0591;-0.1982;-0.0712;-0.178;-0.323;-0.2518
+case_073;Large cryptocurrency withdrawals.;Large cryptocurrency withdrawals;0.9402;0.9551;0.9477;0.9353;0.8141;0.8734
+case_073;To ensure the security of funds due to unusual activity detected on Mark Peterson’s account.;Unusual activity on your TraderAI account;0.3304;0.3024;0.3175;0.323;0.2363;0.2812
+case_074;5000.00;None;0.0285;0.2344;0.1308;-0.1903;-0.3042;-0.2462
+case_074;Automated Trading;Unprecedented Accuracy;0.0097;0.3382;0.1701;0.213;0.2799;0.2486
+case_074;Cyprus;Cyprus;1.0;1.0;1.0;1.0;1.0;1.0
+case_074;Potential Investment Fraud - Unsolicited Contact;Potential Investment Fraud - Unsolicited Contact;1.0;1.0;1.0;1.0;1.0;1.0
+case_074;He expressed interest in learning more.;None;0.0389;0.0079;0.025;-0.3482;-0.3211;-0.3295
+case_074;The balance was 5500.00;-4590.00;0.5067;0.3769;0.4419;0.3231;0.1746;0.2477
+case_074;To encourage David Miller to deposit more funds.;To recommend adding more funds to the account.;0.6135;0.4775;0.5454;0.669;0.5219;0.5939
+case_074;Withdrawal Issue;None;-0.024;-0.1418;-0.0818;-0.1703;-0.0912;-0.1279
+case_074;AI eliminates emotional decision-making;AI eliminates emotional decision-making.;0.8988;0.9609;0.9298;0.9219;0.9702;0.946
+case_074;20000.00;20000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_075;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_075;✅ Automated Trading;Automated Trading;0.9131;0.5192;0.7097;0.8503;0.5116;0.666
+case_075;Due to unforeseen circumstances and ongoing system upgrades.;Due to unforeseen circumstances and ongoing system upgrades;0.9661;0.9699;0.968;0.9451;0.8917;0.9184
+case_075;2024-03-01;2024-03-01;1.0;1.0;1.0;1.0;1.0;1.0
+case_075;€3,000;€3,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_075;€10.00 (Service Fee), €2.50 (Interest), €2000.00 (Innovative AI Investments Deposit);3000;0.0996;-0.2169;-0.0621;0.0325;-0.4208;-0.2477
+case_075;Deutsche Bank;Deutsche Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_075;likely fabricated;None;0.0613;-0.0466;0.0084;-0.3599;-0.3876;-0.3685
+case_075;More detail on the AI's current strategy.;the AI's current strategy;0.7343;0.6462;0.6904;0.7953;0.5479;0.6641
+case_075;Initial investment from an unknown wallet, denial of withdrawal requests, a customer complaint alleging investment fraud, and a website with potentially fabricated testimonials.;Withdrawal Request Denial;0.2149;0.0443;0.1295;0.235;-0.0949;0.0501
+case_076;€8,000;€8,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_076;Potential Investment Fraud - Unsolicited Contact;Potential Investment Fraud - Unsolicited Contact;1.0;1.0;1.0;1.0;1.0;1.0
+case_076;November 18, 2023;2023-09-01;0.2826;0.4507;0.3663;0.4005;0.4882;0.4453
+case_076;Verification Fee;Investment;0.3347;0.3105;0.3237;-0.0676;-0.094;-0.0767
+case_076;A sleek, modern design with a predominantly blue and white color scheme, stock images of smiling individuals, and a dynamically updating graph.;A sleek, modern design with a predominantly blue and white color scheme.;0.8516;0.5081;0.6751;0.8917;0.5274;0.6922
+case_076;Unexpected system maintenance;unexpected system maintenance;0.8233;0.8233;0.8236;0.8621;0.8621;0.8627
+case_076;Unusual activity on his account;Unusual activity on his account.;0.9241;0.9115;0.9179;0.8739;0.9436;0.9085
+case_076;Unsolicited communication;Initial Investment Confirmation;0.4114;0.3447;0.3789;0.0795;-0.1998;-0.0751
+case_076;AI Trade Solutions;AI Trade Solutions;1.0;1.0;1.0;1.0;1.0;1.0
+case_076;It generates consistent profits with zero risk.;It generates consistent profits with zero risk.;1.0;1.0;1.0;1.0;1.0;1.0
+case_077;5000.00 CAD;None;-0.0084;0.0236;0.0092;-0.2771;-0.169;-0.2216
+case_077;Innovative AIX - Connecting with a Fellow Professional;Innovative AIX - Connecting with a Fellow Professional;1.0;1.0;1.0;1.0;1.0;1.0
+case_077;Automated Trading;Automated trading;0.9637;0.9637;0.9638;0.9371;0.9371;0.9374
+case_077;Increased market volatility and a commitment to protecting investments;Increased market volatility and a commitment to protecting investments.;0.9731;0.9701;0.9716;0.9573;0.9711;0.9643
+case_077;BG12BNB37110123456789;BG12BNB37110123456789;1.0;1.0;1.0;1.0;1.0;1.0
+case_077;Increased investment amounts following initial interaction, combined with the victim's concerns regarding withdrawal denial.;Increased investment amounts following initial interaction.;0.8428;0.5202;0.6774;0.8299;0.4047;0.5922
+case_077;Tuesday;Tuesday;1.0;1.0;1.0;1.0;1.0;1.0
+case_077;Experience returns far exceeding traditional investment methods.;Experience returns far exceeding traditional investment methods.;1.0;1.0;1.0;1.0;1.0;1.0
+case_077;High;High;1.0;1.0;1.0;1.0;1.0;1.0
+case_077;10000.00 CAD;10000.00;0.8773;0.6156;0.7439;0.8123;0.5316;0.6621
+case_078;A 20% return on his first deposit.;20% return on your first deposit;0.7548;0.7537;0.7547;0.7825;0.6687;0.7249
+case_078;€2,000 or more.;€2,000 or more;0.9355;0.9447;0.9402;0.955;0.9033;0.9291
+case_078;1000;1000;1.0;1.0;1.0;1.0;1.0;1.0
+case_078;Unusual transaction amounts and recipient, denial of withdrawal requests, and a general recommendation for further investigation.;Potential Investment Fraud - AI Trading Scam;0.1199;0.1139;0.1183;0.0707;0.0091;0.0429
+case_078;€2,500;€2,500;1.0;1.0;1.0;1.0;1.0;1.0
+case_078;2023-09-01 11:12:00 UTC;2023-09-01 11:12:00 UTC;1.0;1.0;1.0;1.0;1.0;1.0
+case_078;Automated trading, 24/7 performance, and risk management.;Automated trading;0.8322;0.3049;0.5566;0.7022;0.1466;0.3754
+case_078;Verify his identity by clicking on a link (to a phishing site).;None;-0.1297;-0.2162;-0.1714;-0.329;-0.3456;-0.332
+case_078;BTC, ETH, LTC;BTC, ETH, LTC;1.0;1.0;1.0;1.0;1.0;1.0
+case_078;2023-11-12;2023-11-12;1.0;1.0;1.0;1.0;1.0;1.0
+case_079;Initial investment to AI Trading Platform;Further investment to AI Trading Platform;0.8727;0.8727;0.8729;0.8415;0.8415;0.8421
+case_079;A free consultation with one of our financial advisors;a free consultation with one of our financial advisors;0.9286;0.9286;0.9287;0.9534;0.9534;0.9536
+case_079;Unusual transfer destination (Nigeria);Multiple unusual transactions to a foreign bank, Lack of transparency regarding platform operations, Unusual transfer destination (Nigeria), Large initial investment by a potentially vulnerable individual;0.1398;0.5533;0.3396;0.1447;0.6176;0.3452
+case_079;2500.00 EUR;None;-0.0315;-0.0162;-0.0222;-0.3475;-0.4265;-0.3837
+case_079;BTC: 0.523 BTC, EUR: 1,480.00;BTC and EUR;0.1938;-0.2196;-0.0199;0.3123;-0.1608;0.0309
+case_079;Attempted withdrawal denied by platform;AI Trading Pro Withdrawal Attempt;0.0899;0.1601;0.1262;0.1519;0.2023;0.1799
+case_079;Klaus Weber, Hamburg;"""The AI is incredibly accurate, and the profits speak for themselves!"" - Klaus Weber, Hamburg";0.1047;0.6863;0.3807;0.0215;0.4443;0.2018
+case_079;SecurePay Account Verification;SecurePay Account Verification;1.0;1.0;1.0;1.0;1.0;1.0
+case_079;Account Balance: €7,850.00, Profit this Month: €2,350.00;"Account Balance: €7,850.00
+Profit this Month: €2,350.00";0.9035;0.9238;0.9138;0.8319;0.8581;0.8456
+case_079;1500.00 EUR;None;-0.026;-0.0296;-0.0261;-0.3426;-0.1973;-0.2715
+case_080;Athena;Athena;1.0;1.0;1.0;1.0;1.0;1.0
+case_080;$5,750.00;$5,750.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_080;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_080;AI-Trade Solutions: Your Gateway to Automated Wealth;AI-Trade Solutions;0.8314;0.3652;0.5891;0.7862;0.3414;0.5354
+case_080;AI Confidence: 98%;AI Confidence: 98%;1.0;1.0;1.0;1.0;1.0;1.0
+case_080;To request a withdrawal of $5,000.00;To request a withdrawal of $5,000.00 from his account.;0.803;0.8965;0.8496;0.6868;0.8614;0.7709
+case_080;Jane Doe;Jane Doe;1.0;1.0;1.0;1.0;1.0;1.0
+case_080;$15,000.00;None;0.1738;-0.0947;0.0375;-0.2207;-0.2454;-0.2283
+case_080;"Unusual Investment – High-yield promise, limited information about company; Continued investment despite limited information";Unusual Investment – High-yield promise, limited information about company.;0.8174;0.6775;0.747;0.8302;0.615;0.7173
+case_080;To state that past performance is not indicative of future results.;None;-0.1781;-0.1235;-0.1491;-0.3953;-0.3596;-0.3724
+case_081;Up to 30% per month;Up to 30% Monthly Returns;0.5773;0.5619;0.5703;0.5171;0.5105;0.5158
+case_081;15000.00 AUD;None;-0.0922;-0.1814;-0.1353;-0.2652;-0.2144;-0.2356
+case_081;Withdrawal Issue;Withdrawal Issue;1.0;1.0;1.0;1.0;1.0;1.0
+case_081;Deposit another $30,000;Deposit another $30,000.;0.945;0.9372;0.9412;0.9148;0.9674;0.941
+case_081;Potential investment fraud, unusual activity pattern;Potential investment fraud, unusual activity pattern;1.0;1.0;1.0;1.0;1.0;1.0
+case_081;Australian Securities and Investments Commission;Australian Securities and Investments Commission;1.0;1.0;1.0;1.0;1.0;1.0
+case_081;RH12345;RH12345;1.0;1.0;1.0;1.0;1.0;1.0
+case_081;AI Algorithm Achieves Record Profits!;AI Algorithm Achieves Record Profits!;1.0;1.0;1.0;1.0;1.0;1.0
+case_081;45000.00 AUD;None;-0.1377;-0.2034;-0.1689;-0.2451;-0.2021;-0.2192
+case_081;AI-powered technology;AI technology;0.9149;0.7589;0.8361;0.8263;0.6095;0.7125
+case_082;€5000;€5000;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;2023-12-05;2023-12-05;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;GB21NWBK00000000001234;GB21NWBK00000000001234;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;Doubling their initial investments in as little as three weeks;Doubling their initial investments in as little as three weeks;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;To expedite the withdrawal process and ensure the security of funds;To ensure the security of your funds.;0.8057;0.5291;0.6645;0.7254;0.4684;0.5886
+case_082;Zenith Bank;Zenith Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;United Kingdom;United Kingdom;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;Multiple transfers to CryptoTrade Solutions, followed by a request for an administrative fee.;Recurring transfers to the same recipient.;0.4409;0.2918;0.3663;0.3725;0.1663;0.2645
+case_082;2024-02-15;2024-02-15;1.0;1.0;1.0;1.0;1.0;1.0
+case_082;A free consultation with an expert AI trading advisor;A free consultation with one of our expert AI trading advisors.;0.786;0.8777;0.8318;0.7812;0.928;0.8524
+case_083;Head of Investor Relations;Head of Investor Relations;1.0;1.0;1.0;1.0;1.0;1.0
+case_083;$5,000;$5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_083;OCBCCYCY;OCBCCYCY;1.0;1.0;1.0;1.0;1.0;1.0
+case_083;To protect the investment due to increased market volatility and to recalibrate AI models;None;-0.0828;-0.175;-0.1275;-0.3229;-0.4326;-0.3765
+case_083;Transparent Technology;Transparent Technology;1.0;1.0;1.0;1.0;1.0;1.0
+case_083;It includes contact information and legal disclaimers, seemingly generic.;The footer includes contact information and legal disclaimers, seemingly generic.;0.8025;0.9271;0.8644;0.7365;0.8542;0.7944
+case_083;Innovative AIX denied the request without a clear explanation;Innovative AIX;0.7263;0.3978;0.5579;0.4373;0.1214;0.2639
+case_083;Lack of transparency regarding investment strategy, offshore bank involvement, and restrictions on withdrawals.;Limited availability;0.4014;0.1732;0.286;-0.0139;-0.0314;-0.0186
+case_083;Innovative AIX;Innovative AIX;1.0;1.0;1.0;1.0;1.0;1.0
+case_083;A formal complaint with regulatory agencies;Complaint;0.5287;0.3151;0.4207;0.3376;-0.0799;0.0962
+case_084;Maximize profits with consistent returns.;Maximize Profits;0.781;0.626;0.7029;0.6701;0.3687;0.5071
+case_084;NM12345;NM12345;1.0;1.0;1.0;1.0;1.0;1.0
+case_084;EUR;EUR;1.0;1.0;1.0;1.0;1.0;1.0
+case_084;Click here to secure your spot now.;Click here to secure your spot now;0.9633;0.9679;0.9656;0.9474;0.8966;0.922
+case_084;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_084;€2,542.37;€2,542.37;1.0;1.0;1.0;1.0;1.0;1.0
+case_084;Initial deposit to AI trading platform;Initial deposit to AI trading platform;1.0;1.0;1.0;1.0;1.0;1.0
+case_084;NovaTech AI Platform, Deutsche Bank, Barclays;NovaTech AI Platform;0.8868;0.5041;0.6894;0.6016;0.3505;0.468
+case_084;€15,000;€15,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_084;Unusual transaction size for customer profile;Unusual transaction size for customer profile;1.0;1.0;1.0;1.0;1.0;1.0
+case_085;Generate consistent profits, even in volatile market conditions.;None;-0.1406;-0.0091;-0.074;-0.3885;-0.3565;-0.3674
+case_085;€5000.00;5000.00;0.8896;0.7641;0.8264;0.5631;0.5061;0.536
+case_085;Marshall Islands;Marshall Islands;1.0;1.0;1.0;1.0;1.0;1.0
+case_085;Exclusive access to trading signals and performance updates.;Exclusive access to trading signals and performance updates.;1.0;1.0;1.0;1.0;1.0;1.0
+case_085;Possible Investment Fraud - Unsolicited contact, high-pressure sales tactics, promised unrealistic returns.;Possible Investment Fraud - Verification request after initial withdrawal request.;0.4386;0.3414;0.3905;0.3133;0.3241;0.3214
+case_085;July 20, 2023;July 20, 2023;1.0;1.0;1.0;1.0;1.0;1.0
+case_085;A copy of his passport and proof of address.;None;-0.1348;-0.0766;-0.1041;-0.2129;-0.29;-0.2482
+case_085;€250.00;€250;0.8989;0.7312;0.8141;0.8364;0.5299;0.6711
+case_085;Artificial Intelligence;Artificial Intelligence;1.0;1.0;1.0;1.0;1.0;1.0
+case_085;0100;0100;1.0;1.0;1.0;1.0;1.0;1.0
+case_086;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_086;Potential investment fraud. Account appears to be related to an unregulated online trading platform.;Account appears to be related to an unregulated online trading platform.;0.9208;0.7515;0.8352;0.9031;0.7126;0.8038
+case_086;Email;Email;1.0;1.0;1.0;1.0;1.0;1.0
+case_086;Athena;Athena;1.0;1.0;1.0;1.0;1.0;1.0
+case_086;€17,000;€17,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_086;€10,000;None;0.0044;-0.0415;-0.017;-0.4144;-0.1884;-0.3128
+case_086;Scanned copy of passport or national ID card, recent bank statement, proof of address (utility bill or bank statement);Scanned copy of your passport or national ID card, recent bank statement, proof of address (utility bill or bank statement);0.9427;0.9558;0.9493;0.9484;0.9871;0.9677
+case_086;Deutsche Bank;Deutsche Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_086;A FREE consultation with an expert financial advisor;Seeing the results of Athena's trading strategy.;0.3553;0.2355;0.2958;0.1753;0.1406;0.1611
+case_086;2023-10-05;2023-10-05;1.0;1.0;1.0;1.0;1.0;1.0
+case_087;1234567890;1234567890;1.0;1.0;1.0;1.0;1.0;1.0
+case_087;Global Finance International;Forex Global Elite;0.2821;0.2896;0.287;0.2825;0.343;0.3148
+case_087;A 100% bonus on the first deposit.;Get a 100% bonus on your first deposit!;0.7018;0.7936;0.7477;0.8609;0.9129;0.887
+case_087;$37,500.00 CAD;$37,500.00 CAD;1.0;1.0;1.0;1.0;1.0;1.0
+case_087;100000.00;None;0.0171;0.0114;0.0158;-0.1357;-0.2768;-0.2071
+case_087;Global Finance International;Global Finance International;1.0;1.0;1.0;1.0;1.0;1.0
+case_087;Forex Global Elite Deposit;Deposit from Crypto Exchange;0.1962;0.0887;0.1432;0.1822;0.1807;0.1848
+case_087;Receiving large sums from a Canadian investor, minimal activity beyond deposits and transfers.;Receiving large sums from Canadian investor, minimal activity beyond deposits and transfers.;0.9147;0.8872;0.901;0.9611;0.9563;0.9589
+case_087;14:35 GMT+2;14:35 GMT+2;1.0;1.0;1.0;1.0;1.0;1.0
+case_087;EUR/USD and GBP/JPY;EUR/USD and GBP/JPY;1.0;1.0;1.0;1.0;1.0;1.0
+case_088;12345;12345;1.0;1.0;1.0;1.0;1.0;1.0
+case_088;A new vendor 'Apex Trading Ltd' was added to the vendor list;New vendor 'Apex Trading Ltd' added to vendor list;0.931;0.8806;0.9059;0.9226;0.8422;0.8821
+case_088;Hong Kong;Hong Kong;1.0;1.0;1.0;1.0;1.0;1.0
+case_088;Business Email Compromise (BEC) fraud;Suspected Business Email Compromise (BEC) fraud involving invoice manipulation and unauthorized payments.;0.4605;0.8022;0.6267;0.4844;0.8148;0.6352
+case_088;0.00;0.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_088;Exclusive rates and personalized support;Opportunities for growth in emerging markets;0.0972;0.0949;0.0975;0.0672;-0.0162;0.0279
+case_088;187500.00;62500.00;0.8376;0.7567;0.7972;0.8243;0.7423;0.7833
+case_088;Multiple SARs filed for similar transactions to Apex Trading Ltd. Further investigation required.;Multiple SARs filed for similar transactions to Apex Trading Ltd. Further investigation required.;1.0;1.0;1.0;1.0;1.0;1.0
+case_088;It has a professional design, client testimonials, and contact information.;The website has a modern and professional design, with client testimonials and case studies, and a 'Contact Us' page.;0.5405;0.6947;0.6172;0.585;0.7235;0.6529
+case_088;$50000.00;$50000.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_089;Unusual transaction amount for customer profile. Requires further investigation.;Unusual transaction amount for customer profile.;0.9193;0.7334;0.8251;0.8602;0.5511;0.6935
+case_089;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_089;12.5%;12.5%;1.0;1.0;1.0;1.0;1.0;1.0
+case_089;7500.00;None;-0.0863;-0.0114;-0.0474;-0.2343;-0.3242;-0.2766
+case_089;Withdrawal request denied by AI Prosper. Customer reported inability to access funds.;Withdrawal request denied by AI Prosper.;0.6749;0.4873;0.5801;0.7873;0.4236;0.5874
+case_089;AI Prosper Investments Ltd;AI Prosper Investments Ltd;1.0;1.0;1.0;1.0;1.0;1.0
+case_089;None;None;1.0;1.0;1.0;1.0;1.0;1.0
+case_089;Multiple transfers to offshore accounts in Belize and Seychelles. Potential involvement of cryptocurrency transactions.;Customer reports being defrauded by AI Prosper Investments Ltd, inability to withdraw funds, multiple transfers to offshore accounts in Belize and Seychelles, and potential involvement of cryptocurrency transactions.;0.4271;0.7903;0.6034;0.4012;0.7621;0.5636
+case_089;Passive Income;Passive Income;1.0;1.0;1.0;1.0;1.0;1.0
+case_089;Global Bank Fraud Department, AI Prosper Investments Ltd;Global Bank Fraud Department;0.8172;0.2675;0.5293;0.8237;0.3247;0.5382
+case_090;Unusually large initial transfer to a newly established online investment platform.;Unusually large initial transfer to a newly established online investment platform.;1.0;1.0;1.0;1.0;1.0;1.0
+case_090;$20,000.00;20000.00;0.692;0.6126;0.6526;0.5405;0.4669;0.5048
+case_090;$20,000;$20,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_090;Regaining access to his account;Regaining access to his account;1.0;1.0;1.0;1.0;1.0;1.0
+case_090;Unable to access my account;Unable to access my account;1.0;1.0;1.0;1.0;1.0;1.0
+case_090;2023-04-01;2023-04-01;1.0;1.0;1.0;1.0;1.0;1.0
+case_090;Modern, clean design with a dark blue and white color scheme. Prominent use of AI and robotics imagery.;Modern, clean design with a dark blue and white color scheme. Prominent use of AI and robotics imagery.;1.0;1.0;1.0;1.0;1.0;1.0
+case_090;Mark Hamilton was unable to contact his account manager and experienced difficulties accessing the platform.;Mark Hamilton was unable to reach Alex.;0.5978;0.3973;0.4965;0.6844;0.364;0.5101
+case_090;97%;97% WIN RATE;0.4482;0.747;0.5942;0.2028;0.4946;0.3363
+case_090;Alex welcomed Mark, informed him of the $20,000 minimum deposit, confirmed the deposit receipt, and later mentioned exceptionally good bot performance before processing a withdrawal.;Mark greeted Alex and expressed excitement. Alex informed Mark of the $20,000 minimum deposit required to begin. Mark confirmed.;0.5199;0.3819;0.4509;0.4544;0.3344;0.3944
+case_091;Generates consistent profits for investors.;The proprietary algorithms analyze market trends with unparalleled accuracy.;0.2765;0.3326;0.3055;0.2448;0.3836;0.3134
+case_091;5000.00 EUR, Payment to Secure Investments;5000.00, Payment to Secure Investments;0.925;0.7998;0.8619;0.9667;0.8392;0.9013
+case_091;Access to our most profitable AI models;Priority withdrawal processing;0.1781;0.0975;0.1389;0.1767;-0.0443;0.0593
+case_091;Proof of identity (copy of passport or driver’s license), Proof of address (utility bill or bank statement), Detailed explanation of your investment history;Proof of identity, proof of address, and a detailed explanation of his investment history.;0.6104;0.2495;0.4248;0.7141;0.4137;0.5519
+case_091;€5750.00;€5750.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_091;secureinvestments.co;secureinvestments.co;1.0;1.0;1.0;1.0;1.0;1.0
+case_091;Fabricated profit statement, lack of transparency;Possible investment fraud - fabricated profit statement, lack of transparency;0.5699;0.6828;0.6264;0.5912;0.759;0.6724
+case_091;Suspicious activity on your account;Suspicious activity on your account;1.0;1.0;1.0;1.0;1.0;1.0
+case_091;2500.00;2500.00;1.0;1.0;1.0;1.0;1.0;1.0
+case_091;None;None;1.0;1.0;1.0;1.0;1.0;1.0
+case_092;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_092;Automated Trading – No experience needed!;High-Profit Potential – Earn up to 15% weekly!;0.2223;0.2792;0.2518;0.0857;0.121;0.1067
+case_092;1%;1%;1.0;1.0;1.0;1.0;1.0;1.0
+case_092;United Arab Emirates;Germany;0.5558;0.1851;0.365;0.2425;0.1997;0.2239
+case_092;AE1205000000000000012345;None;-0.1949;-0.7374;-0.4802;-0.3656;-0.5333;-0.4548
+case_092;Mr. Adebayo;Mr. Adebayo;1.0;1.0;1.0;1.0;1.0;1.0
+case_092;€7500.00;None;-0.1155;-0.1081;-0.11;-0.2351;-0.4447;-0.3494
+case_092;Withdrawal request repeatedly denied. Customer reports difficulties accessing funds.;Withdrawal request repeatedly denied.;0.7603;0.5416;0.6494;0.8309;0.4261;0.606
+case_092;Potential investment scam – unusually high returns promised, limited information available about the company.;None;-0.089;-0.0548;-0.0702;-0.2907;-0.3838;-0.3348
+case_092;+234-700-123-4567;+234-700-123-4567;1.0;1.0;1.0;1.0;1.0;1.0
+case_093;1968-07-10;1968-07-10;1.0;1.0;1.0;1.0;1.0;1.0
+case_093;AI-powered platform is revolutionizing the way people invest.;AI-powered platform is revolutionizing the way people invest.;1.0;1.0;1.0;1.0;1.0;1.0
+case_093;SC05XXXXXXX;None;-0.1985;-0.3632;-0.2802;-0.1668;-0.3443;-0.2601
+case_093;9000.00;None;0.1503;0.0718;0.1122;-0.1796;-0.3051;-0.2421
+case_093;Increasing your investment.;Increasing your investment.;1.0;1.0;1.0;1.0;1.0;1.0
+case_093;Potential for High Returns;Potential for High Returns;1.0;1.0;1.0;1.0;1.0;1.0
+case_093;Ongoing security updates;Ongoing security updates;1.0;1.0;1.0;1.0;1.0;1.0
+case_093;Unusual activity on your account;Unusual activity;0.7212;0.4847;0.6011;0.7273;0.3336;0.5083
+case_093;Live trading graph, showing rapid and seemingly consistent upward movement.;A live trading graph;0.7108;0.3805;0.5414;0.6023;0.2089;0.3819
+case_093;Date of Birth;Klaus Hartmann's date of birth is 1968-07-10 and his name.;0.0845;0.5036;0.2868;-0.2672;0.0952;-0.1149
+case_094;Unusual Transaction Pattern;Unusual Transaction Pattern;1.0;1.0;1.0;1.0;1.0;1.0
+case_094;To earn passive income while focusing on other matters.;Consistently high returns with minimal risk.;0.2799;0.3016;0.2919;0.2386;0.2371;0.2409
+case_094;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_094;20000;8000;0.4477;0.4212;0.4354;0.2911;0.2735;0.2852
+case_094;A copy of his government-issued identification;A copy of his government-issued identification.;0.9431;0.9455;0.9444;0.9441;0.9626;0.9535
+case_094;AI Profit Generator Active - Current Profit: +12.5%;AI Profit Generator Active - Current Profit: +12.5%;1.0;1.0;1.0;1.0;1.0;1.0
+case_094;Suspected of operating an investment fraud scheme targeting individuals with promises of high returns through AI trading.;The entity is suspected of operating an investment fraud scheme targeting individuals with promises of high returns through AI trading.;0.857;0.9049;0.8811;0.8483;0.9149;0.8815
+case_094;David Miller, Global Investments Ltd;David Miller, Atlantic Bank, Global Investments Ltd;0.6866;0.922;0.8022;0.6746;0.8215;0.7461
+case_094;Georgia (UTC+4);Georgia (UTC+4);1.0;1.0;1.0;1.0;1.0;1.0
+case_094;A team of expert financial engineers;Cutting-edge artificial intelligence algorithms;0.2917;0.3181;0.306;0.3763;0.3188;0.3496
+case_095;To maximize investment returns.;To maximize your investment returns.;0.8771;0.9523;0.9146;0.9143;0.9619;0.938
+case_095;Initial Investment;Initial Investment;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;2023-09-01;2023-09-01;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;"Withdrawal Attempt Denied; concerns raised about platform legitimacy.";Withdrawal Attempt Denied;0.7595;0.5136;0.6344;0.7942;0.3777;0.5616
+case_095;Automated Trading;Automated Trading;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;Charts displaying upward trends;Charts displaying upward trends;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;Unusual activity on his account.;Unusual activity on his account.;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;€7,850;€7,850;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;AI Profit Solutions;AI Profit Solutions;1.0;1.0;1.0;1.0;1.0;1.0
+case_095;Start building your financial empire;Start building your financial empire;1.0;1.0;1.0;1.0;1.0;1.0
+case_096;10000 USD;None;-0.0573;-0.1145;-0.0843;-0.207;-0.2083;-0.2028
+case_096;It uses artificial intelligence to identify and capitalize on market opportunities 24/7;It uses cutting-edge artificial intelligence to identify and capitalize on market opportunities 24/7.;0.837;0.9358;0.8862;0.9125;0.9621;0.9372
+case_096;Unusual large transfer to an overseas entity with unclear business purpose;"Victim attempting to withdraw funds; transaction flagged as potentially fraudulent.";0.2759;0.155;0.216;0.2146;0.1429;0.1811
+case_096;Simulated Results. Past performance is not indicative of future results.;Trading involves risk. Please consult with a financial advisor before making any investment decisions.;0.0008;0.0571;0.0304;0.0598;0.1123;0.0891
+case_096;15-20% per month;15-20%;0.842;0.6424;0.7408;0.7235;0.3834;0.5375
+case_096;Further investigation warranted regarding the recipient's business operations and legitimacy.;Further investigation warranted regarding the recipient's business operations and legitimacy.;1.0;1.0;1.0;1.0;1.0;1.0
+case_096;AE (United Arab Emirates);AE;-0.0025;-0.2217;-0.1128;0.1467;-0.0601;0.0376
+case_096;To help you get started;To help him get started.;0.7882;0.746;0.7674;0.6085;0.6506;0.6307
+case_096;The timestamps are consistently 8-12 hours ahead of Australian Eastern Standard Time.;The timestamps are consistently 8-12 hours ahead of Australian Eastern Standard Time.;1.0;1.0;1.0;1.0;1.0;1.0
+case_096;AI Trading Pro Ltd;AI Trading Pro Ltd;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;€5,000;€5,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;+1-555-123-4567;+1-555-123-4567;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;Benefit from 24/7 market access;Incredible returns;0.3569;0.1965;0.2767;-0.0027;-0.0181;-0.0064
+case_097;10%;10%;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;Unlock Your Forex Potential;Unlock Your Forex Potential;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;€25000;€5,000;0.7234;0.8341;0.7786;0.7886;0.8587;0.8237
+case_097;€10,000;€10,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;Failed withdrawal request. Client reported inability to access funds. Potential fraud.;Failed withdrawal request. Client reported inability to access funds. Potential fraud.;1.0;1.0;1.0;1.0;1.0;1.0
+case_097;Deutsche Bank;Deutsche Bank;1.0;1.0;1.0;1.0;1.0;1.0
+case_098;Advanced artificial intelligence;Advanced artificial intelligence;1.0;1.0;1.0;1.0;1.0;1.0
+case_098;He wanted to understand the withdrawal process better.;He wanted to understand the withdrawal process.;0.9701;0.8962;0.933;0.9581;0.863;0.9097
+case_098;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0
+case_098;Investment in AI Trading Platform;Investment in AI Trading Platform;1.0;1.0;1.0;1.0;1.0;1.0
+case_098;Investment in AI;Investment in AI;1.0;1.0;1.0;1.0;1.0;1.0
+case_098;To unlock the withdrawal function;To unlock the withdrawal function.;0.9457;0.9349;0.9404;0.8649;0.9023;0.8839
+case_098;A graph displaying an ascending 'AI Profit Curve,' buttons labeled 'Invest Now,' 'Auto-Trade,' and 'Withdraw (Locked),' and a banner reading 'Alpha AI: Generating Wealth, Automatically.';A large graph labeled 'AI Profit Curve,' buttons labeled 'Invest Now,' 'Auto-Trade,' and 'Withdraw (Locked),' a text box displaying 'Current Profit: €18,500.00,' a banner reading 'Alpha AI: Generating Wealth, Automatically,' and the platform's logo, a stylized brain with binary code.;0.5263;0.8321;0.6756;0.5785;0.8491;0.7047
+case_098;Klaus Schmidt and Global Investments Ltd.;Klaus Schmidt, Global Investments Ltd.;0.8241;0.8145;0.8196;0.8496;0.8496;0.8502
+case_098;Additional investment to unlock higher profits;Additional investment to unlock higher profits;1.0;1.0;1.0;1.0;1.0;1.0
+case_098;Request for withdrawal denied by platform, customer unable to access funds.;Request for withdrawal denied by platform, customer unable to access funds.;1.0;1.0;1.0;1.0;1.0;1.0
+case_099;€15,000;€15,000;1.0;1.0;1.0;1.0;1.0;1.0
+case_099;South Africa;South Africa;1.0;1.0;1.0;1.0;1.0;1.0
+case_099;International Money Transfer;International Money Transfer;1.0;1.0;1.0;1.0;1.0;1.0
+case_099;AI trading algorithms;Automated wealth;0.36;0.3601;0.3611;0.1636;0.0224;0.0924
+case_099;Linked to initial investment;International Money Transfer;0.095;0.1386;0.1181;-0.0433;0.0674;0.0132
+case_099;Global Processing Solutions;None;0.0053;-0.0826;-0.0373;-0.1755;-0.2714;-0.2212
+case_099;$54,789.32;$54,789.32;1.0;1.0;1.0;1.0;1.0;1.0
+case_099;Trouble withdrawing his funds;He is having trouble withdrawing his funds.;0.6626;0.593;0.6282;0.6105;0.6564;0.6346
+case_099;Results not typical. See terms and conditions.;None;-0.1794;-0.0762;-0.1265;-0.3163;-0.2424;-0.2759
+case_099;High;High;1.0;1.0;1.0;1.0;1.0;1.0
+case_100;Tools, knowledge, and support to succeed in the Forex market.;tools, knowledge, and support;0.702;0.3875;0.541;0.7928;0.2371;0.4684
+case_100;Earn up to 5% Daily!;Earn up to 5% Daily!;1.0;1.0;1.0;1.0;1.0;1.0
+case_100;15000.00 EUR;5000.00;0.716;0.4563;0.5838;0.4101;0.329;0.371
+case_100;2023-11-18;2023-12-01;0.7687;0.7687;0.7691;0.7819;0.7818;0.7827
+case_100;To increase his investment to a total of 20,000 EUR.;Withdrawal of funds;0.1932;0.1843;0.1901;0.1786;0.0288;0.1026
+case_100;A fabricated account balance of 28,750 EUR with profitable trades.;The screenshot shows a fabricated account balance of 28,750 EUR with trade history including several profitable trades, registered under the name Hans Meier.;0.5366;0.8474;0.6882;0.491;0.8299;0.6452
+case_100;10%;10%;1.0;1.0;1.0;1.0;1.0;1.0
+case_100;To report a 5000 EUR transfer from Hans Meier as a withdrawal fee.;None;-0.0434;-0.0559;-0.0479;-0.3555;-0.4073;-0.3768
+case_100;Huge returns.;HUGE returns!;0.8065;0.922;0.8639;0.9715;0.9715;0.9716
+case_100;Belize;Belize;1.0;1.0;1.0;1.0;1.0;1.0

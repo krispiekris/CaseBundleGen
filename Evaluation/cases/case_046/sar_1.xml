@@ -1,0 +1,20 @@
+<sar>
+  <report_date>2023-06-29</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <reporter_id>DB-SAR-2023-0047</reporter_id>
+  <customer>
+    <name>Ulrich Baumann</name>
+    <address>Musterstraße 12, 10115 Berlin, Germany</address>
+    <date_of_birth>1968-07-22</date_of_birth>
+  </customer>
+  <suspicious_activity>
+    <activity_date>2023-06-28</activity_date>
+    <transaction_amount currency="EUR">7500.00</transaction_amount>
+    <transaction_type>Withdrawal Request</transaction_type>
+    <description>Customer attempted to withdraw funds from their account. Withdrawal was denied due to system maintenance.</description>
+    <account_number>1234567890</account_number>
+  </suspicious_activity>
+  <findings>
+    <finding>Unusual withdrawal request denied by system. Customer behavior warrants further investigation.</finding>
+  </findings>
+</sar>

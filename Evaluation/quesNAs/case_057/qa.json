@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to promotional material, what is a key benefit of using Aionautica's platform?",
+    "answer": "Guaranteed returns"
+  },
+  {
+    "question": "What was the initial investment amount made by David Miller?",
+    "answer": "$5,000"
+  },
+  {
+    "question": "What is the minimum investment required to start using Aionautica's system?",
+    "answer": "$5,000"
+  },
+  {
+    "question": "Based on the SAR reports, which financial institution filed the suspicious activity reports?",
+    "answer": "Global Finance Solutions"
+  },
+  {
+    "question": "What was the description provided for the initial investment transaction in SAR-20230401-001?",
+    "answer": "Initial investment"
+  },
+  {
+    "question": "What was the reported current balance of David Miller\u2019s account according to email_2.txt?",
+    "answer": "$6,500"
+  },
+  {
+    "question": "What additional investment was recommended to David Miller based on the AI's analysis?",
+    "answer": "$25,000"
+  },
+  {
+    "question": "According to the Facebook ad screenshot, who is the target audience for Aionautica's advertisements?",
+    "answer": "Users aged 55-64 interested in investing and finance"
+  },
+  {
+    "question": "In what month and year did David Miller attempt a withdrawal, based on the bank statement_2.csv?",
+    "answer": "August 2023"
+  },
+  {
+    "question": "Based on promotional material_2.txt, what sentiment does David M. express about his experience with Aionautica?",
+    "answer": "He felt intimidated by investing before using Aionautica and now sees incredible results."
+  }
+]

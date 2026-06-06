@@ -1,0 +1,15 @@
+<SAR id="SAR-20240220-003">
+  <ReportDate>2024-02-20</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <TransactionDate>2024-01-10</TransactionDate>
+  <TransactionAmount currency="EUR">0</TransactionAmount>
+  <TransactionType>Debit</TransactionType>
+  <SenderName>Hans Meier</SenderName>
+  <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+  <RecipientName>Innovative Profits Limited</RecipientName>
+  <RecipientAccount>GBxxxxxxxxxxxxx</RecipientAccount>
+  <PurposeCode>14 - Other</PurposeCode>
+  <Description>Attempted withdrawal from online trading platform - rejected</Description>
+  <SuspiciousActivity>Potential investment fraud. Customer reports difficulty withdrawing funds. Platform unresponsive.</SuspiciousActivity>
+  <FiledBy>SuspicionMonitoringTeam</FiledBy>
+</SAR>

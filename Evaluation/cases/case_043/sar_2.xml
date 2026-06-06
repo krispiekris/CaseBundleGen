@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SAR_schema.xsd">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Am Mainufer 55, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Hans Meier</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-04-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2023-10-01</Date>
+    <Amount currency="EUR">10000</Amount>
+    <TransactionType>Bank Transfer</TransactionType>
+    <Description>Withdrawal Attempt - Rejected</Description>
+    <Beneficiary>
+      <Name>Hans Meier</Name>
+      <Account>DE12345678901234567890</Account>
+      <BankName>Deutsche Bank AG</BankName>
+      <Country>Germany</Country>
+    </Beneficiary>
+  </Transaction>
+  <SuspiciousActivity>
+    <Description>Withdrawal request denied due to account anomalies.  Customer reported issues accessing funds.</Description>
+    <RiskLevel>Medium</RiskLevel>
+  </SuspiciousActivity>
+</SAR>

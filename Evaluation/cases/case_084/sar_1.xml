@@ -1,0 +1,16 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-10-25</DateTime>
+    <InstitutionIdentifier>Deutsche Bank</InstitutionIdentifier>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-20</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <Sender>Hans Meier</Sender>
+    <Receiver>NovaTech AI Platform</Receiver>
+    <ReceiverAccount>1234567890</ReceiverAccount>
+    <Description>Initial deposit to AI trading platform</Description>
+    <SuspiciousActivity>Unusual transaction size for customer profile</SuspiciousActivity>
+  </Transaction>
+</SAR>

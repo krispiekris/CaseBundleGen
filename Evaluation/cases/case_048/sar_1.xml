@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-12-05</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseNumber>DB-SAR-2023-12-001</CaseNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-12-01</TransactionDate>
+    <Amount currency="EUR">50000</Amount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Thomas Baumann</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Global Traders Limited</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Initial investment - Forex trading</Description>
+    <SuspiciousActivity>Potential investment fraud</SuspiciousActivity>
+    <Notes>Large initial deposit followed by aggressive trading recommendations.</Notes>
+  </Transaction>
+</SAR>

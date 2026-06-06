@@ -1,0 +1,14 @@
+AI Trading Pro Dashboard
+
+Account Balance: €7,850.00
+
+Assets:
+BTC: 0.523 BTC
+EUR: 1,480.00
+
+Trading History:
+Date | Asset | Profit/Loss
+2023-11-15 | BTC | +€800.00
+2023-11-22 | EUR | +€350.00
+2023-11-29 | BTC | +€400.00
+2024-01-05 | EUR | +€800.00

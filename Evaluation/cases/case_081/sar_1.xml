@@ -1,0 +1,27 @@
+<SAR xmlns="http://www.irs.gov/">
+  <Header>
+    <SARID>20231215-AU-001</SARID>
+    <FilingDate>2023-12-15</FilingDate>
+    <FilerID>XYZ Bank Australia</FilerID>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-001</TransactionID>
+    <TransactionDate>2023-04-22</TransactionDate>
+    <Amount>15000</Amount>
+    <Currency>AUD</Currency>
+    <TransactionType>Deposit</TransactionType>
+    <Description>Online transfer from personal account to trading account</Description>
+    <OriginatingParty>
+      <Name>Robert Harding</Name>
+      <Address>12 Acacia Avenue, Sydney, NSW, 2000, Australia</Address>
+      <TaxpayerID>XXX-XXX-XXX</TaxpayerID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Apex Trading Solutions</Name>
+      <Address>Level 7, 152 Elizabeth Street, Sydney, NSW, 2000, Australia</Address>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Potential investment fraud, unusual activity pattern</SuspiciousActivity>
+    <SuspicionType>Unusual Transaction</SuspicionType>
+    <FilerComments>Customer initiated a series of transfers to a trading platform with limited information.</FilerComments>
+  </Transaction>
+</SAR>

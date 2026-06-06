@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the SAR report, what was the initial unusual characteristic detected regarding David Miller's transaction?",
+    "answer": "Unusual transaction amount for customer profile. Requires further investigation."
+  },
+  {
+    "question": "What country is associated with the recipient bank, Offshore Global Bank?",
+    "answer": "Belize"
+  },
+  {
+    "question": "What was the approximate percentage increase in David Miller's portfolio, as claimed in email_2.txt?",
+    "answer": "12.5%"
+  },
+  {
+    "question": "Based on the bank statements, what was the total amount David Miller transferred to AI Prosper Investments Ltd?",
+    "answer": "7500.00"
+  },
+  {
+    "question": "What action was taken regarding David Miller's withdrawal request, according to sar_2.xml?",
+    "answer": "Withdrawal request denied by AI Prosper. Customer reported inability to access funds."
+  },
+  {
+    "question": "What entities are named as the recipient of funds in the transaction records?",
+    "answer": "AI Prosper Investments Ltd"
+  },
+  {
+    "question": "What other currencies, if any, are explicitly mentioned in the case files?",
+    "answer": "None"
+  },
+  {
+    "question": "What potential fraudulent activities are highlighted in SAR-20230525-003?",
+    "answer": "Multiple transfers to offshore accounts in Belize and Seychelles. Potential involvement of cryptocurrency transactions."
+  },
+  {
+    "question": "According to the promotional text, what is one of the key benefits offered by AI Prosper to investors?",
+    "answer": "Passive Income"
+  },
+  {
+    "question": "Which entities are mentioned in the email from the fraud department?",
+    "answer": "Global Bank Fraud Department, AI Prosper Investments Ltd"
+  }
+]

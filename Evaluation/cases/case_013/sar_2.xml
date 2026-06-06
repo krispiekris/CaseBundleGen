@@ -1,0 +1,26 @@
+<SAR>
+  <ReportDate>2023-10-25</ReportDate>
+  <ReportingInstitution>Globex Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>9876543210</TransactionID>
+      <TransactionDate>2023-10-20</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Withdrawal</TransactionType>
+      <OriginatingParty>
+        <Name>Profit Horizon Ltd</Name>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>Klaus Breitling</Name>
+        <Account>DE123456789012345678</Account>
+        <BankName>Sparkasse Nürnberg</BankName>
+        <Country>Germany</Country>
+      </Beneficiary>
+      <Description>Withdrawal request - processing</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Withdrawal attempt failed. Account flagged for review.</Finding>
+  </Findings>
+</SAR>

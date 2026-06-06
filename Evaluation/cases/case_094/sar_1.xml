@@ -1,0 +1,22 @@
+<SAR>
+  <ReportDate>2023-07-05</ReportDate>
+  <FilerID>BankOfAustralia_Branch123</FilerID>
+  <SuspiciousActivity>
+    <ActivityType>Unusual Transaction Pattern</ActivityType>
+    <TransactionDetails>
+      <TransactionDate>2023-04-22</TransactionDate>
+      <TransactionAmount>12000</TransactionAmount>
+      <TransactionCurrency>AUD</TransactionCurrency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>1234567890</SenderAccount>
+      <RecipientName>Global Investments Ltd</RecipientName>
+      <RecipientAccount>BZ1234567890</RecipientAccount>
+      <RecipientBank>Atlantic Bank</RecipientBank>
+      <RecipientCountry>Belize</RecipientCountry>
+      <Description>Wire Transfer - Investment</Description>
+    </TransactionDetails>
+    <Findings>
+      The transaction appears to be a wire transfer to a foreign entity with limited transparency. The recipient’s country (Belize) is known for financial secrecy. This is flagged due to the recent increase in similar transactions.
+    </Findings>
+  </SuspiciousActivity>
+</SAR>

@@ -1,0 +1,8 @@
+Date,Description,Amount,Currency,Balance
+2023-03-10,Salary,78000.00,AUD,78000.00
+2023-03-25,Bill Payment,500.00,AUD,77500.00
+2023-04-05,Investment - Apex Global, -5000.00,AUD,72500.00
+2023-04-15,Grocery Shopping,150.00,AUD,72350.00
+2023-05-10,Withdrawal Attempt - Rejected, -1500.00,AUD,70850.00
+2023-05-20,Electricity Bill,200.00,AUD,70650.00
+2023-06-22,Withdrawal Attempt - Failed, -2000.00,AUD,68650.00

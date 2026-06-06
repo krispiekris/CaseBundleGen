@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Oliver Baumann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Innovative Trading AI</ReceiverName>
+      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
+      <Purpose>Investment</Purpose>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-11-01</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Oliver Baumann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Innovative Trading AI</ReceiverName>
+      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
+      <Purpose>Investment</Purpose>
+    </Transaction>
+    <Suspicion>
+      <Description>Victim unable to withdraw funds. Communication ceased abruptly. Potential investment fraud scheme.</Description>
+      <Reason>Investment Fraud</Reason>
+    </Suspicion>
+  </SuspiciousActivity>
+</SAR>

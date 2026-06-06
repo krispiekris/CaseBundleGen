@@ -1,0 +1,22 @@
+<SAR id="SAR-20231105-001">
+  <ReportDate>2023-11-05</ReportDate>
+  <ReportingInstitution>Westpac Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-01</TransactionDate>
+      <TransactionAmount currency="AUD">5000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>David.Miller@example.com.au</OriginatingAccount>
+      <BeneficiaryAccount>
+        <AccountName>Phoenix Rise Investments Ltd</AccountName>
+        <AccountNumber>1234567890</AccountNumber>
+        <BankName>First Central Bank (Cyprus)</BankName>
+        <IBAN>CY340000000000000000000000</IBAN>
+      </BeneficiaryAccount>
+      <Description>Initial Investment - Phoenix Rise AI</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Unusual large transaction to overseas account, potential investment scam.</Finding>
+  </Findings>
+</SAR>

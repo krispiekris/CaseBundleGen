@@ -1,0 +1,14 @@
+From: 'Support' <support@aitradingpro.com>
+To: David.Anderson@example.com.au
+Subject: Important Notice Regarding Your Withdrawal Request
+
+Dear David,
+
+We've received your recent withdrawal request. Due to increased security measures and high transaction volume, there's a slight delay in processing your request.
+
+To expedite the process, please verify your account by clicking on the following link: [http://aitradingpro.verify](http://aitradingpro.verify)
+
+Thank you for your patience.
+
+Sincerely,
+The AI Trading Pro Support Team

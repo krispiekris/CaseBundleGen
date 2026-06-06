@@ -1,0 +1,10 @@
+From: apex.trading.ltd@gmail.com
+To: vendor_relations@innovationsolutions.com
+Subject: Invoice 12345 - Payment Confirmation
+
+Dear Sarah,
+
+This email confirms receipt of payment for invoice 12345. Thank you for your prompt processing!
+
+Sincerely,
+Apex Trading Ltd.

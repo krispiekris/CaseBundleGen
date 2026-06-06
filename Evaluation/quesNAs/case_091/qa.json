@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial email, what is a key characteristic of the AI trading system offered by Secure Investments?",
+    "answer": "Generates consistent profits for investors."
+  },
+  {
+    "question": "What was the amount of the initial transaction reported in the SAR, and what was its description?",
+    "answer": "5000.00 EUR, Payment to Secure Investments"
+  },
+  {
+    "question": "Based on promotional material, what is one benefit offered to individuals who join the VIP program?",
+    "answer": "Access to our most profitable AI models"
+  },
+  {
+    "question": "What actions did Secure Investments request from Klaus to reactivate his account?",
+    "answer": "Proof of identity (copy of passport or driver\u2019s license), Proof of address (utility bill or bank statement), Detailed explanation of your investment history"
+  },
+  {
+    "question": "What was the account balance displayed in the screenshot of the trading platform?",
+    "answer": "\u20ac5750.00"
+  },
+  {
+    "question": "What is the domain name displayed at the top left corner of the screenshot of the trading platform?",
+    "answer": "secureinvestments.co"
+  },
+  {
+    "question": "What did the second SAR (SAR-20231206-002) identify as a suspicious activity?",
+    "answer": "Fabricated profit statement, lack of transparency"
+  },
+  {
+    "question": "What reason did Secure Investments provide for the temporary suspension of Klaus's trading privileges?",
+    "answer": "Suspicious activity on your account"
+  },
+  {
+    "question": "Based on the bank statements, what was Klaus\u2019s salary?",
+    "answer": "2500.00"
+  },
+  {
+    "question": "Which entity is mentioned in the promotional material but not the SAR reports?",
+    "answer": "None"
+  }
+]

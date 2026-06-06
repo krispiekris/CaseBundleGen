@@ -1,0 +1,29 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-12-06</ReportDate>
+    <SuspiciousActivity>
+      <Type>Withdrawal Issues</Type>
+      <Description>Customer reporting difficulties in withdrawing funds from account.</Description>
+    </SuspiciousActivity>
+  </Header>
+  <Parties>
+    <Sender>
+      <Name>Sparkasse Bank</Name>
+    </Sender>
+    <Receiver>
+      <Name>Global Forex Solutions</Name>
+      <Country>Nigeria</Country>
+    </Receiver>
+  </Parties>
+  <Transactions>
+    <Transaction>
+      <Date>2023-11-10</Date>
+      <Amount>10000 EUR</Amount>
+      <Currency>EUR</Currency>
+      <Description>Withdrawal Request - Denied</Description>
+    </Transaction>
+  </Transactions>
+  <Findings>
+    <Finding>Customer experiencing persistent issues withdrawing funds from account.</Finding>
+  </Findings>
+</SAR>

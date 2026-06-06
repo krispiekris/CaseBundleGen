@@ -1,0 +1,15 @@
+<sar>
+  <report_date>2023-12-05</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Michael Schmidt</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2023-12-01</transaction_date>
+  <transaction_amount currency="EUR">5000</transaction_amount>
+  <transaction_type>Transfer Out</transaction_type>
+  <recipient_name>CryptoTrade Solutions</recipient_name>
+  <recipient_account>GB21NWBK00000000001234</recipient_account>
+  <recipient_country>United Kingdom</recipient_country>
+  <description>Transfer to CryptoTrade Solutions</description>
+  <suspicious_activity>Unusual transfer to an unknown recipient. Customer expressed interest in AI trading.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

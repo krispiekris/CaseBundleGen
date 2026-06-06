@@ -1,0 +1,20 @@
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <ReportDate>2023-12-12</ReportDate>
+    <InstitutionID>Deutsche Bank</InstitutionID>
+    <SubmitterID>SAR-20231212-DB-1</SubmitterID>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-002</TransactionID>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>Markus Baumann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>AI Profit Solutions</ReceiverName>
+    <ReceiverAccount>GB80NWBK017123456789</ReceiverAccount>
+    <Description>Withdrawal Attempt Denied</Description>
+    <SuspiciousActivity>Possible Investment Fraud</SuspiciousActivity>
+    <Notes>Customer reports attempted withdrawal denial; concerns raised about platform legitimacy.</Notes>
+  </Transaction>
+</SAR>

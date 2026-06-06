@@ -1,0 +1,12 @@
+From: support@innovativetrading.ai
+To: oliver.baumann@example.com
+Subject: Withdrawal Request - Processing Delay
+
+Dear Oliver,
+
+We've received your withdrawal request. Due to an unexpected technical issue, processing times are currently experiencing a slight delay. Our team is working diligently to resolve this as quickly as possible.
+
+We appreciate your patience and understanding.
+
+Sincerely,
+The Innovative Trading AI Support Team

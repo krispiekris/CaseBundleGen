@@ -1,0 +1,12 @@
+Klaus: Hi
+Support: Hello Klaus! Welcome to AI Trading Solutions. How can I help you today?
+Klaus: I'm new, how does it work?
+Support: Our AI analyzes market trends and executes trades automatically. You just need to deposit funds and set your risk tolerance.
+Klaus: What’s the minimum investment?
+Support: We recommend starting with €5000 to see the full potential of our AI.
+Klaus: Sounds good. I’ll deposit now.
+Support: Excellent! You can use your bank account or cryptocurrency. Which method would you prefer?
+Klaus: Bank transfer.
+Support: Okay, here's our account details: [Details provided - matches beneficiary in SAR_1.xml]
+Klaus: Thanks.
+Support: You're welcome! Let the AI work its magic. 😉

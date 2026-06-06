@@ -1,0 +1,16 @@
+<sar>
+  <header>
+    <sar_id>SAR-20230525-003</sar_id>
+    <submission_date>2023-05-25</submission_date>
+    <financial_institution>Global Bank Australia</financial_institution>
+  </header>
+  <customer>
+    <name>David Miller</name>
+    <address>12 Acacia Avenue, Sydney, NSW 2000, Australia</address>
+    <customer_id>DM12345</customer_id>
+  </customer>
+  <findings>
+    <finding>Customer reports being defrauded by AI Prosper Investments Ltd. Unable to withdraw funds. Investigation recommended. Multiple transfers to offshore accounts in Belize and Seychelles.</finding>
+    <finding>Potential involvement of cryptocurrency transactions.</finding>
+  </findings>
+</sar>

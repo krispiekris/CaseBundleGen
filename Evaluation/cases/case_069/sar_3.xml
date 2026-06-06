@@ -1,0 +1,24 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-01-22</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-15</TransactionDate>
+      <Amount>20000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
+      <Description>Withdrawal Attempt</Description>
+      <Location>Australia</Location>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>Jane Doe</Contact>
+    <Phone>1300 123 456</Phone>
+  </ReportingInstitution>
+  <Findings>
+    <Finding>Large withdrawal attempt following a substantial initial investment, potentially indicative of a desperate attempt to recover losses or evade detection. Further investigation required given prior activity.</Finding>
+  </Findings>
+</SAR>

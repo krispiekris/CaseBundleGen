@@ -1,0 +1,27 @@
+<SAR>
+  <ReportDate>2024-01-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>TXN-67890</TransactionID>
+      <TransactionDate>2023-12-20</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Klaus Schmidt</Name>
+        <AccountID>DE1234567890</AccountID>
+        <Country>Germany</Country>
+      </OriginatingParty>
+      <BeneficiaryParty>
+        <Name>AI Trading Solutions</Name>
+        <AccountID>US9876543210</AccountID>
+        <Country>United States</Country>
+      </BeneficiaryParty>
+      <Description>Additional investment to AI Trading Solutions platform</Description>
+    </Transaction>
+    <SuspiciousIndicators>
+      <Indicator>Significant increase in investment amount compared to previous transaction</Indicator>
+      <Indicator>Payment to an overseas entity with limited transparency</Indicator>
+    </SuspiciousIndicators>
+  </SuspiciousActivity>
+</SAR>

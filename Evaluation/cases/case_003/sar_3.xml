@@ -1,0 +1,27 @@
+<SAR>
+  <Header>
+    <SARReferenceID>20240120-SAR-003</SARReferenceID>
+    <DateTime>2024-01-20T09:00:00Z</DateTime>
+    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
+  </Header>
+  <TransactionDetails>
+    <TransactionDate>2023-07-15</TransactionDate>
+    <TransactionAmount currency="EUR">0</TransactionAmount>
+    <TransactionType>Information</TransactionType>
+    <OriginatingParty>
+      <Name>Karl Meier</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+      <Country>DE</Country>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>FX Pro Advisor</Name>
+      <AccountID>BZ21020100000000000001</AccountID>
+      <Country>BZ</Country>
+      <IBAN>BZ21020100000000000001</IBAN>
+    </BeneficiaryParty>
+  </TransactionDetails>
+  <Suspicion>
+    <Description>Initial contact between customer and potential fraudulent entity.</Description>
+    <Reason>Potential investment fraud – Preliminary investigation</Reason>
+  </Suspicion>
+</SAR>

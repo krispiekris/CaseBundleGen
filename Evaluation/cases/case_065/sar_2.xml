@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReportDate>2024-01-15</ReportDate>
+  <InstitutionName>First National Bank</InstitutionName>
+  <InstitutionIdentifier>123456789</InstitutionIdentifier>
+  <SARContact>
+    <Name>Jane Doe</Name>
+    <Title>Compliance Officer</Title>
+    <PhoneNumber>555-123-4567</PhoneNumber>
+    <Email>jane.doe@firstnationalbank.com</Email>
+  </SARContact>
+  <Subject>Suspicious Attempted Withdrawal – Potential Investment Fraud</Subject>
+  <Customer>
+    <Name>Alexander Harding</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+    <AccountID>987654321</AccountID>
+  </Customer>
+  <Transaction>
+    <TransactionDate>2023-12-01</TransactionDate>
+    <Amount>20000.00</Amount>
+    <Currency>USD</Currency>
+    <Description>Withdrawal Request Blocked</Description>
+    <RecipientName>Alexander Harding</RecipientName>
+  </Transaction>
+  <SuspiciousActivity>Customer initiated a withdrawal request for the full account balance. The request was blocked by SecureInvest due to "verification issues." Customer reports being unable to access their account and receiving conflicting information from SecureInvest representatives.  Potentially linked to previously filed SAR regarding wire transfers to Belize International Bank.</SuspiciousActivity>
+  <ReportType>Funds Transfer</ReportType>
+</SAR>

@@ -1,0 +1,31 @@
+<SAR>
+  <Header>
+    <SARReference>20240225-GER-003</SARReference>
+    <DateTime>2024-02-25T09:00:00Z</DateTime>
+    <Institution>
+      <Name>Deutsche Bank</Name>
+      <Identifier>DB-GER-001</Identifier>
+    </Institution>
+  </Header>
+  <Transaction>
+    <Amount Currency="EUR">2000.00</Amount>
+    <Date>2024-02-22</Date>
+    <Description>Failed Withdrawal Attempt - AI Trading Solutions</Description>
+    <Origin>
+      <Account>
+        <IBAN>DE12345678901234567890</IBAN>
+        <Name>Klaus Richter</Name>
+      </Account>
+    </Origin>
+    <Destination>
+      <Account>
+        <IBAN>ZA88011100110000123456</IBAN>
+        <Name>AI Trading Solutions</Name>
+      </Account>
+    </Destination>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Attempted withdrawal from AI Trading Solutions platform failed, indicating potential issues with accessing funds.</SuspiciousActivity>
+    <RiskLevel>Critical</RiskLevel>
+  </Findings>
+</SAR>

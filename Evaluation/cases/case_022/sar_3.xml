@@ -1,0 +1,24 @@
+<sar>
+  <report_date>2024-02-03</report_date>
+  <report_type>Suspicious Activity Report</report_type>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer>
+    <customer_id>1234567</customer_id>
+    <customer_name>Klaus Schmidt</customer_name>
+  </reporting_institution>
+  <transaction>
+    <transaction_date>2024-01-25</transaction_date>
+    <transaction_amount currency="EUR">0.00</transaction_amount>
+    <transaction_type>Debit</transaction_type>
+    <description>Withdrawal request denied - verification failed</description>
+    <recipient>
+      <name>AI Trading Pro</name>
+      <account_number>CY001234567890</account_number>
+      <bank_name>Alpha Beta Bank (Cyprus)</bank_name>
+    </recipient>
+  </transaction>
+  <findings>
+    <finding>Withdrawal request denied following verification issues.</finding>
+    <finding>Suspicious communication patterns and request for personal identification</finding>
+  </findings>
+</sar>

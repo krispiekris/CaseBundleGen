@@ -1,0 +1,15 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-09-20</ReportDate>
+    <SuspiciousActivity>
+      <TransactionType>Deposit</TransactionType>
+      <TransactionAmount>10000.00</TransactionAmount>
+      <Currency>USD</Currency>
+    </SuspiciousActivity>
+    <Party>
+      <SenderName>Richard Adams</SenderName>
+      <SenderAccount>XXXXXXXXXXXXXXX</SenderAccount>
+    </Party>
+    <Description>Possible investment fraud. Second deposit to online trading platform. Increased deposit size raises concern.</Description>
+  </Header>
+</SAR>

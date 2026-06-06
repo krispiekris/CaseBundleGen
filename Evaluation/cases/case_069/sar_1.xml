@@ -1,0 +1,24 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-09-25</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-22</TransactionDate>
+      <Amount>10000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
+      <Description>Withdrawal - Initial Profit</Description>
+      <Location>Australia</Location>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>Jane Doe</Contact>
+    <Phone>1300 123 456</Phone>
+  </ReportingInstitution>
+  <Findings>
+    <Finding>Initial profit withdrawal shortly after account creation, potentially indicative of a 'honeypot' scheme.</Finding>
+  </Findings>
+</SAR>

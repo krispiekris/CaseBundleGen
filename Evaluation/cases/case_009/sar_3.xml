@@ -1,0 +1,23 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-09-29</ReportDate>
+    <InstitutionID>First National Bank</InstitutionID>
+    <SuspiciousActivity>
+      <TransactionDate>2023-07-12</TransactionDate>
+      <TransactionAmount>7500.00</TransactionAmount>
+      <Currency>USD</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>123 Main Street, Anytown, USA</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>AIX Capital</Name>
+        <AccountID>XXXXXXXXXXXXXX</AccountID>
+        <Country>Belize</Country>
+      </Beneficiary>
+      <Description>Withdrawal attempt - funds unavailable. Platform unresponsive.</Description>
+      <SuspicionReason>Attempted withdrawal failed, platform unresponsive, and mounting concerns about platform legitimacy.</SuspicionReason>
+    </SuspiciousActivity>
+  </Header>
+</SAR>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-12-18</ReportDate>
+  <ReportingBank>Deutsche Bank</ReportingBank>
+  <AccountIdentifier>DExxxxxxxxxxxxx</AccountIdentifier>
+  <AccountName>Michael Weber</AccountName>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-15</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionDescription>BTC Purchase</TransactionDescription>
+      <Counterparty>
+        <Name>Crypto Exchange (Unknown)</Name>
+        <Country>Offshore</Country>
+      </Counterparty>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Unusually large transaction for the account holder's known income.</Finding>
+    <Finding>Transaction to an offshore crypto exchange.</Finding>
+  </Findings>
+  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
+</SAR>

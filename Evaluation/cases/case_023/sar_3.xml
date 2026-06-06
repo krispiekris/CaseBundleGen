@@ -1,0 +1,28 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-10-04</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReportID>SAR-2023-00515</ReportID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-01</TransactionDate>
+    <Amount>-10000</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>BE98363636363636</SenderAccount>
+    <ReceiverAccount>DE89370400440532013000</ReceiverAccount>
+    <Description>Withdrawal attempt - AI Elite Trading</Description>
+    <SuspiciousActivity>Potential investment fraud - withdrawal unsuccessful, lack of communication from receiver</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>
+      <Name>AI Elite Trading</Name>
+      <Account>BE98363636363636</Account>
+      <Country>Belgium</Country>
+    </Sender>
+    <Receiver>
+      <Name>Hans Meier</Name>
+      <Account>DE89370400440532013000</Account>
+    </Receiver>
+  </Parties>
+</SAR>

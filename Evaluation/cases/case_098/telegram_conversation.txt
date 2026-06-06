@@ -1,0 +1,12 @@
+Victim: Hello
+Fraudster: Hi Klaus! Welcome to the Alpha AI trading family! I'm David, your personal investment consultant.
+Victim: Thank you! I'm excited to get started.
+Fraudster: Excellent! Our AI is already identifying high-potential trades. You're in for a profitable journey.
+Victim: How do I withdraw my profits?
+Fraudster: Withdrawing is easy, but it requires a minimum balance to unlock. A small investment of 1000 EUR will unlock that function.
+Victim: Okay, I'll do that now.
+Fraudster: Wonderful! You've made a wise decision. Profits are soaring!
+Victim: I tried to withdraw, but it says I can't.
+Fraudster: There seems to be a technical glitch. Our team is working on it. In the meantime, imagine the extra profits you'll make if you invest a bit more.
+Victim: This doesn't seem right...
+Fraudster: (No response)

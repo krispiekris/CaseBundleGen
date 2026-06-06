@@ -1,0 +1,9 @@
+Date,Description,Amount (AUD),Recipient/Sender,IBAN
+2023-08-10,Groceries,50.00,, 
+2023-08-25,Electricity Bill,120.00,, 
+2023-09-01,Transfer to AI Trading Pro,7100.00,AI Trading Pro Ltd,AE560000000000000001000
+2023-09-15,Mortgage Payment,1800.00,, 
+2023-10-01,Transfer to AI Trading Pro,7100.00,AI Trading Pro Ltd,AE560000000000000001000
+2023-11-10,Phone Bill,70.00,, 
+2023-12-01,Withdrawal Attempt, -7100.00,AI Trading Pro Ltd,AE560000000000000001000
+2024-01-05,Interest,50.00,, 

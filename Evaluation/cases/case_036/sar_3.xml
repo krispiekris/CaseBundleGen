@@ -1,0 +1,21 @@
+<SAR id="SAR-20240229-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Frankfurt</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Klaus Richter</Name>
+    <Address>Musterstrasse 12, Berlin</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-28</Date>
+    <Amount currency="EUR">0.00</Amount>
+    <Type>Report</Type>
+    <Description>Suspicious activity report filed by client regarding denied withdrawal request and potential fraud.</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Client reporting inability to access funds and suspecting fraudulent activity; potentially related to previous SAR regarding offshore platform.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SAR>

@@ -1,0 +1,24 @@
+<SAR id="SAR-20230922-003">
+  <Date>2023-09-22</Date>
+  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Address>Mainzer Landstr. 197, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Karl Meier</Name>
+    <Address>Musterstraße 10, 12345 Berlin, Germany</Address>
+    <DateOfBirth>1968-07-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-22</Date>
+    <Amount currency="EUR">0.00</Amount>
+    <Type>Withdrawal Request Attempt</Type>
+    <Description>Failed withdrawal request - insufficient funds</Description>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <ReceiverAccount>DExxxxxxxxxxxxx</ReceiverAccount>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Failed withdrawal request. Client reported inability to access funds. Potential fraud.</SuspiciousActivity>
+  </Findings>
+</SAR>

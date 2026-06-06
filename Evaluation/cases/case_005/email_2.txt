@@ -1,0 +1,18 @@
+From: "AlphaTrade AI - Withdrawal Department" <withdrawal@alphatradeai.com>
+To: werner.hoffmann@email.de
+Subject: Withdrawal Request - Pending Review
+
+Dear Werner,
+
+Your recent withdrawal request is currently under review.  For security purposes, we require additional verification.
+
+Please provide the following information within 24 hours:
+
+*   Copy of your government-issued identification
+*   Proof of address (utility bill)
+*   Screenshot of your cryptocurrency wallet
+
+Thank you for your patience.
+
+Sincerely,
+The AlphaTrade AI Withdrawal Team

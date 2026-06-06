@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <CustomerName>Hans Meier</CustomerName>
+  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
+  <TransactionDate>2023-11-01</TransactionDate>
+  <TransactionAmount currency="EUR">0.00</TransactionAmount>
+  <TransactionDescription>Attempted withdrawal - failed</TransactionDescription>
+  <RecipientName>AI FX Capital</RecipientName>
+  <RecipientAccount>1234567890</RecipientAccount>
+  <RecipientBank>Global Finance Ltd.</RecipientBank>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspicionDetails>Customer attempted to withdraw funds, but the transaction failed. Subsequent investigation reveals platform inaccessible and communication with AI FX Capital ceased.  All prior transfers are considered suspicious. </SuspicionDetails>
+  <ReportID>DB-SAR-20231115-003</ReportID>
+</SuspiciousActivityReport>

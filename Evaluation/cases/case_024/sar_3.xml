@@ -1,0 +1,25 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-08-02</ReportDate>
+    <InstitutionID>Deutsche Handelsbank</InstitutionID>
+    <ReportingPersonID>S-99999</ReportingPersonID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-04-05</TransactionDate>
+    <Amount currency="BTC">2.50</Amount>
+    <TransactionType>Deposit</TransactionType>
+    <Description>Cryptocurrency Deposit from Hans Meier</Description>
+    <Party>
+      <CustomerID>HM-12345</CustomerID>
+      <Name>Hans Meier</Name>
+      <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+    </Party>
+    <Beneficiary>
+      <AccountName>Forex Prime Global</AccountName>
+      <AccountNumber>[redacted]</AccountNumber>
+      <BankName>BitPay</BankName>
+      <Country>Belize</Country>
+    </Beneficiary>
+    <SuspiciousActivity>Potential investment fraud – unusual cryptocurrency deposit alongside large cash deposit.</SuspiciousActivity>
+  </Transaction>
+</SAR>

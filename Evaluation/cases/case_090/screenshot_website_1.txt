@@ -1,0 +1,13 @@
+--- Website Screenshot Description ---
+
+Layout: Modern, clean design with a dark blue and white color scheme.  Prominent use of AI and robotics imagery.
+
+Header:  Large logo "Aionautics Trading" with tagline "Your AI Advantage". Navigation menu: "About Us", "Our Technology", "Pricing", "Contact".
+
+Main Section:  Headline "Unlock the Power of AI Trading".  Brief description of the AI trading platform.  Button: "Get Started".
+
+Features Section:  Icons and short descriptions highlighting key features: "Automated Trading", "Personalized Bots", "Market Analysis", "24/7 Monitoring".
+
+Testimonials Section:  Fake testimonials with stock photos of people who are not actual customers.
+
+Footer:  Copyright information, privacy policy link, and contact details.

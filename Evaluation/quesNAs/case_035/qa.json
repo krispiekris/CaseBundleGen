@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial investment amount Ulrich Baumann made, as stated in email_2.txt?",
+    "answer": "\u20ac5,000"
+  },
+  {
+    "question": "According to sar_1.xml, what is Ulrich Baumann\u2019s date of birth?",
+    "answer": "1968-05-20"
+  },
+  {
+    "question": "Which bank is identified as the reporting institution in the SAR files?",
+    "answer": "Sparkasse Bank"
+  },
+  {
+    "question": "What reason is cited in sar_1.xml for the suspicious activity related to Ulrich Baumann\u2019s transaction?",
+    "answer": "Potential investment fraud - unusually high promised returns"
+  },
+  {
+    "question": "What event triggered Ulrich Baumann's account restrictions, as documented in sar_3.xml?",
+    "answer": "Customer filed a fraud complaint regarding unauthorized investment scheme"
+  },
+  {
+    "question": "Based on the bank_statement_1.csv, what was the total amount of 'Profit Payouts' Ulrich Baumann received before 2024?",
+    "answer": "+2200.00"
+  },
+  {
+    "question": "What is the purpose of the link sent to Ulrich Baumann in email_3.txt?",
+    "answer": "To complete verification of his identity and investment details."
+  },
+  {
+    "question": "According to promotional_material_2.txt, what technology is AI Trading Pro supposedly utilizing?",
+    "answer": "Advanced algorithms and machine learning"
+  },
+  {
+    "question": "What potential security concern is highlighted in the disclaimer on the screenshot_platform_1.txt?",
+    "answer": "Past performance is not indicative of future results"
+  },
+  {
+    "question": "Which entity is listed as the recipient of Ulrich Baumann's initial investment in sar_1.xml?",
+    "answer": "Global Investments Ltd."
+  }
+]

@@ -1,0 +1,24 @@
+<SAR>
+  <Header>
+    <ReferenceID>SAR-2023-0415</ReferenceID>
+    <Date>2023-06-25</Date>
+    <Bank>Commonwealth Bank of Australia</Bank>
+    <BranchID>12345</BranchID>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-001</TransactionID>
+    <Date>2023-04-05</Date>
+    <Amount>5000.00</Amount>
+    <Currency>AUD</Currency>
+    <SenderAccount>1234567890</SenderAccount>
+    <SenderName>David Anderson</SenderName>
+    <RecipientAccount>GB21NWBK202040082800</RecipientAccount>
+    <RecipientName>Apex Global Investments Ltd</RecipientName>
+    <Description>Initial Investment</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud - AI Trading Pro</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+    <Notes>Customer invested $5000.  Recipient is located in the UK, and the company appears to lack legitimate business information. Further investigation warranted.</Notes>
+  </Findings>
+</SAR>

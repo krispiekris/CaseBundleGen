@@ -1,0 +1,27 @@
+<SAR>
+  <Header>
+    <SARReferenceID>2023-11-15-002</SARReferenceID>
+    <FilingDate>2023-11-15</FilingDate>
+    <FilingInstitution>Deutsche Bank</FilingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-67890</TransactionID>
+    <TransactionDate>2023-11-13</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Ulrich Baumann</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Global Processing Solutions</Name>
+      <AccountID>GB11223344556677889900</AccountID>
+      <Country>United Kingdom</Country>
+    </BeneficiaryParty>
+    <Description>International Money Transfer</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Second unusual international transfer linked to initial investment.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SAR>

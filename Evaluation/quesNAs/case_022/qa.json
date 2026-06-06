@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial amount Klaus Schmidt deposited into AI Trading Pro, according to the SAR?",
+    "answer": "6000.00 EUR"
+  },
+  {
+    "question": "What action did Deutsche Bank take regarding Klaus Schmidt's withdrawal request on 2024-01-25?",
+    "answer": "Withdrawal request denied - verification failed"
+  },
+  {
+    "question": "According to the promotional material, what is one benefit of using the AI Trading Pro platform?",
+    "answer": "Experience significantly higher returns than traditional investments."
+  },
+  {
+    "question": "What type of document did AI Trading Pro support request from Klaus Schmidt as part of their security verification process?",
+    "answer": "A copy of your government-issued identification and a recent utility bill."
+  },
+  {
+    "question": "What is the bank name associated with the AI Trading Pro account mentioned in the SAR?",
+    "answer": "Alpha Beta Bank (Cyprus)"
+  },
+  {
+    "question": "What does the screenshot of the AI Trading Pro homepage highlight?",
+    "answer": "A sleek, modern design, testimonials, and recent 'trading results' with charts and graphs illustrating exponential growth."
+  },
+  {
+    "question": "Based on the Telegram chat, what message did 'CryptoGuru77' convey to Klaus Schmidt regarding the withdrawal issues?",
+    "answer": "Don't worry, these things happen. Just keep following the instructions from support, and it will be sorted quickly."
+  },
+  {
+    "question": "What type of report is sar_1.xml?",
+    "answer": "Suspicious Activity Report"
+  },
+  {
+    "question": "What is the main reason provided by AI Trading Pro for placing Klaus Schmidt's withdrawal request on hold, according to email_3.txt?",
+    "answer": "An ongoing security review"
+  },
+  {
+    "question": "What is the account number listed in sar_1.xml for AI Trading Pro?",
+    "answer": "CY001234567890"
+  }
+]

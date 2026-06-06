@@ -1,0 +1,25 @@
+<sar>
+  <report_id>SAR-2023-10-28-003</report_id>
+  <reporting_institution>Financial Intelligence Unit (FIU)</reporting_institution>
+  <date_filed>2023-10-28</date_filed>
+  <reporter_name>Case Analyst</reporter_name>
+  <reporter_position>Case Analyst</reporter_position>
+  <customer_name>David Miller</customer_name>
+  <customer_dob>1968-05-20</customer_dob>
+  <customer_address>12 Oak Avenue, London, SW1A 0AA, UK</customer_address>
+  <suspicious_activity>
+    <activity_type>Potential Investment Fraud</activity_type>
+    <activity_date>2023-04-22</activity_date>
+    <transaction_amount>7500.00</transaction_amount>
+    <transaction_currency>BTC</transaction_currency>
+    <transaction_description>Initial Cryptocurrency Investment</transaction_description>
+    <recipient_name>Global Investments Ltd</recipient_name>
+    <recipient_account>1BvBqg9uXJbJz6jJqg9qJz6jJqg9qJz6jJ</recipient_account>
+    <recipient_country>Seychelles</recipient_country>
+    <suspicion_reason>Reports of unusual trading activity and withdrawal restrictions linked to 'AlphaTrade AI' platform.  Preliminary investigation suggests possible Ponzi scheme or fraudulent investment operation.</suspicion_reason>
+  </suspicious_activity>
+  <related_parties>
+    <party type="customer">David Miller</party>
+    <party type="recipient">Global Investments Ltd</party>
+  </related_parties>
+</sar>

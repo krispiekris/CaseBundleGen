@@ -1,0 +1,21 @@
+<SAR id="SAR-20231116-001">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Country>DE</Country>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Klaus Heinz</Name>
+    <Address>Musterstrasse 123, 10115 Berlin, Germany</Address>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-15</Date>
+    <Amount currency="EUR">5000.00</Amount>
+    <Type>Credit</Type>
+    <Description>Payment to Secure Investments</Description>
+    <Counterparty>
+      <Name>Secure Investments Ltd.</Name>
+      <Country>Unknown</Country>
+    </Counterparty>
+    <SuspiciousActivity>Possible investment fraud - unsolicited email, unusually high potential returns</SuspiciousActivity>
+  </Transaction>
+</SAR>

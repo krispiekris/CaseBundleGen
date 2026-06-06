@@ -1,0 +1,21 @@
+<SAR id="SAR-20240111-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Country>DE</Country>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Klaus Heinz</Name>
+    <Address>Musterstrasse 123, 10115 Berlin, Germany</Address>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount currency="EUR">5000.00</Amount>
+    <Type>Debit</Type>
+    <Description>Withdrawal request denied - verification failure</Description>
+    <Counterparty>
+      <Name>Secure Investments Ltd.</Name>
+      <Country>Unknown</Country>
+    </Counterparty>
+    <SuspiciousActivity>Possible investment fraud - withdrawal denied after receiving profits, verification process appears suspicious</SuspiciousActivity>
+  </Transaction>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the SAR filed by Deutsche Bank, what was the purpose indicated for the transaction involving Hans Baumann?",
+    "answer": "Investment"
+  },
+  {
+    "question": "What was the amount of the initial investment made by Hans Baumann, as recorded in the bank statement?",
+    "answer": "5000.00"
+  },
+  {
+    "question": "Based on the telegram chat export, what percentage daily returns were initially claimed by 'David (AI Trading Pro)'?",
+    "answer": "15-20%"
+  },
+  {
+    "question": "What was the suspicious activity flagged in the SAR referencing Hans Baumann's 10,000 EUR transaction on December 5th?",
+    "answer": "Multiple large deposits to a foreign account with limited public information."
+  },
+  {
+    "question": "What is the email address used by the AI Trading Pro team?",
+    "answer": "info@ai-trading-pro.com"
+  },
+  {
+    "question": "What was the purpose listed for the transaction with amount 0.01 EUR on 2024-01-05?",
+    "answer": "Test Withdrawal"
+  },
+  {
+    "question": "Which entity sent the email regarding a withdrawal request processing update to Hans Baumann?",
+    "answer": "Global Investments Ltd."
+  },
+  {
+    "question": "What information, if any, is provided in the promotional material about the risk associated with using the AI trading technology?",
+    "answer": "Low Risk, High Reward"
+  },
+  {
+    "question": "List the entities that appear in both the promotional materials and the email correspondence.",
+    "answer": "AI Trading Pro, Global Investments Ltd."
+  },
+  {
+    "question": "What date does the SAR referencing the test withdrawal occur?",
+    "answer": "05-01-2024"
+  }
+]

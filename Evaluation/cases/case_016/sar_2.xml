@@ -1,0 +1,20 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-01-26</ReportDate>
+    <ReferenceNumber>SAR-20240126-002</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-01-20</TransactionDate>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <SenderAccount>GB25NWBK00000012345678</SenderAccount>
+    <SenderName>Global Investments LTD</SenderName>
+    <ReceiverAccount>DE89370400440532013000</ReceiverAccount>
+    <ReceiverName>Ulrich Baumann</ReceiverName>
+    <Description>Withdrawal request</Description>
+  </Transaction>
+  <SuspiciousActivity>
+    <Finding>Withdrawal request flagged due to account inactivity and prior positive balance.</Finding>
+    <Justification>Account balance significantly higher than initial deposit, no prior withdrawal requests.</Justification>
+  </SuspiciousActivity>
+</SAR>

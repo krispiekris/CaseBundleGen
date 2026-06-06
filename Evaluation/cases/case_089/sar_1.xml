@@ -1,0 +1,25 @@
+<sar>
+  <header>
+    <sar_id>SAR-20230410-001</sar_id>
+    <submission_date>2023-04-10</submission_date>
+    <financial_institution>Global Bank Australia</financial_institution>
+  </header>
+  <customer>
+    <name>David Miller</name>
+    <address>12 Acacia Avenue, Sydney, NSW 2000, Australia</address>
+    <customer_id>DM12345</customer_id>
+  </customer>
+  <transaction>
+    <transaction_date>2023-03-22</transaction_date>
+    <transaction_amount>5000.00</transaction_amount>
+    <transaction_currency>AUD</transaction_currency>
+    <transaction_description>Online Transfer - AI Prosper</transaction_description>
+    <recipient_name>AI Prosper Investments Ltd</recipient_name>
+    <recipient_account>1234567890</recipient_account>
+    <recipient_bank>Offshore Global Bank</recipient_bank>
+    <recipient_country>Belize</recipient_country>
+  </transaction>
+  <findings>
+    <finding>Unusual transaction amount for customer profile. Requires further investigation.</finding>
+  </findings>
+</sar>

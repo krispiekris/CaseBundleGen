@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial email, what is the name of the AI trading platform?",
+    "answer": "Athena"
+  },
+  {
+    "question": "What was the guaranteed minimum return offered to new investors in the second follow-up email?",
+    "answer": "8%"
+  },
+  {
+    "question": "What country is the recipient bank, Global Finance Ltd., located in?",
+    "answer": "Belize"
+  },
+  {
+    "question": "Based on the Suspicious Activity Reports, what two amounts were transferred by Hans Meier to AI FX Capital?",
+    "answer": "5000 EUR and 10000 EUR"
+  },
+  {
+    "question": "What did the promotional brochure state as a benefit of using the AI system, beyond financial returns?",
+    "answer": "Minimizes human error and emotional decision-making, reducing overall risk."
+  },
+  {
+    "question": "According to the promotional video transcript, what did a testimonial claim about AI FX Capital?",
+    "answer": "It has exceeded expectations and is achieving financial freedom."
+  },
+  {
+    "question": "What was the outcome of the attempted withdrawal on November 1st?",
+    "answer": "The transaction failed."
+  },
+  {
+    "question": "Besides the initial and secondary transfer amounts mentioned in SARs, what other type of transaction is recorded related to Hans Meier?",
+    "answer": "Attempted withdrawal"
+  },
+  {
+    "question": "What does the screenshot of the trading platform indicate regarding the system\u2019s performance as of September 15th?",
+    "answer": "+12.7%"
+  },
+  {
+    "question": "Which entities appear in both the promotional brochure and the Suspicious Activity Reports?",
+    "answer": "AI FX Capital, Global Finance Ltd."
+  }
+]

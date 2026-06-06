@@ -1,0 +1,30 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <SuspiciousActivity>
+      <Type>Unusual Transaction</Type>
+      <Description>Large cash deposits followed by rapid transfers to overseas accounts.</Description>
+    </SuspiciousActivity>
+  </Header>
+  <Parties>
+    <Sender>
+      <Name>Klaus Heinz</Name>
+      <Address>Musterstraße 123, 10115 Berlin, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>Global Forex Solutions</Name>
+      <Country>Nigeria</Country>
+    </Receiver>
+  </Parties>
+  <Transactions>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount>30000 EUR</Amount>
+      <Currency>EUR</Currency>
+      <Description>Cash Deposit</Description>
+    </Transaction>
+  </Transactions>
+  <Findings>
+    <Finding>Suspicious pattern of cash deposits and rapid international transfers.</Finding>
+  </Findings>
+</SAR>

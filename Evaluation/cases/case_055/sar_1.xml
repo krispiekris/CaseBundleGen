@@ -1,0 +1,29 @@
+<SAR>
+  <ReportDate>2023-11-12</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <Subject>
+    <Name>Hans Meier</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+  </Subject>
+  <SuspiciousActivity>
+    <ActivityType>Unusual Transaction Pattern</ActivityType>
+    <Description>Multiple transfers to an offshore account with no apparent business relationship.  Possible investment fraud.</Description>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount currency="EUR">5000.00</Amount>
+      <RecipientName>Global Investments Ltd.</RecipientName>
+      <RecipientAccount>SC0012345678</RecipientAccount>
+      <RecipientBank>Grace Bank (Seychelles)</RecipientBank>
+    </Transaction>
+    <Transaction>
+      <Date>2023-09-15</Date>
+      <Amount currency="EUR">8000.00</Amount>
+      <RecipientName>Global Investments Ltd.</RecipientName>
+      <RecipientAccount>SC0012345678</RecipientAccount>
+      <RecipientBank>Grace Bank (Seychelles)</RecipientBank>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Potential investment fraud scheme utilizing AI trading platform.</Finding>
+  </Findings>
+</SAR>

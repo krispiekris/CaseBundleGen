@@ -1,0 +1,23 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-07-20</ReportDate>
+    <InstitutionID>First National Bank</InstitutionID>
+    <SuspiciousActivity>
+      <TransactionDate>2023-05-01</TransactionDate>
+      <TransactionAmount>10000.00</TransactionAmount>
+      <Currency>USD</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>123 Main Street, Anytown, USA</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>AIX Capital</Name>
+        <AccountID>XXXXXXXXXXXXXX</AccountID>
+        <Country>Belize</Country>
+      </Beneficiary>
+      <Description>Additional investment to AI Trading Platform - pressured by platform representative.</Description>
+      <SuspicionReason>Rapid increase in investment amounts coupled with reported pressure from platform representative.</SuspicionReason>
+    </SuspiciousActivity>
+  </Header>
+</SAR>

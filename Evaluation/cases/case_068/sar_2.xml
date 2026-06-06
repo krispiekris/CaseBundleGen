@@ -1,0 +1,18 @@
+<SAR id="SAR-20231110-002">
+  <Header>
+    <DateTime>2023-11-10T14:15:00Z</DateTime>
+    <Originator>Deutsche Bank</Originator>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">5000</Amount>
+    <DateTime>2023-11-10</DateTime>
+    <Description>Attempted withdrawal - Rejected</Description>
+    <Sender>Marc Schneider</Sender>
+    <Receiver>Deutsche Bank</Receiver>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Blocked withdrawal request - potential issue with account access or funds</SuspiciousActivity>
+    <Justification>Client reported difficulties in withdrawing funds after recent deposits.</Justification>
+  </Findings>
+</SAR>

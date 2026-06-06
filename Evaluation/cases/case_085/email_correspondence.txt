@@ -1,0 +1,17 @@
+Subject: Welcome to QuantumTrade!
+From: QuantumTrade Support <support@quantumtrade.ai>
+To: Klaus Mueller <klaus.mueller@email.com>
+Date: March 14, 2023
+
+Dear Klaus,
+
+Welcome to QuantumTrade! We're thrilled to have you as a member...
+
+Subject: Verification Required
+From: QuantumTrade Support <support@quantumtrade.ai>
+To: Klaus Mueller <klaus.mueller@email.com>
+Date: July 20, 2023
+
+Dear Klaus,
+
+To proceed with your withdrawal request, we require verification of your identity...

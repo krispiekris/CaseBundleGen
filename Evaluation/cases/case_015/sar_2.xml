@@ -1,0 +1,22 @@
+<SAR id="SAR-20240115-002">
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Westpac Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-10</TransactionDate>
+      <TransactionAmount currency="AUD">15000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>David.Miller@example.com.au</OriginatingAccount>
+      <BeneficiaryAccount>
+        <AccountName>Phoenix Rise Investments Ltd</AccountName>
+        <AccountNumber>1234567890</AccountNumber>
+        <BankName>First Central Bank (Cyprus)</BankName>
+        <IBAN>CY340000000000000000000000</IBAN>
+      </BeneficiaryAccount>
+      <Description>Withdrawal Request - Denied</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Large withdrawal request denied by platform. Possible investment fraud.</Finding>
+  </Findings>
+</SAR>

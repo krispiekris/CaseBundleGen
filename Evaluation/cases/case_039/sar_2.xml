@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-05-15</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-2023-05-15-002</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-05-10</TransactionDate>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Debit</TransactionType>
+    <Description>Withdrawal Request Denied - NovaTrade AI</Description>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>GB24NWBK000000000000</ReceiverAccount>
+    <SuspiciousActivity>Unable to withdraw funds - potential fraud</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <AccountHolderName>Klaus Heinz</AccountHolderName>
+    <AccountHolderAddress>Musterstraße 1, 10115 Berlin</AccountHolderAddress>
+  </Party>
+</SAR>

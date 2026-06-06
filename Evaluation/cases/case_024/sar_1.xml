@@ -1,0 +1,25 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-06-28</ReportDate>
+    <InstitutionID>Deutsche Handelsbank</InstitutionID>
+    <ReportingPersonID>S-12345</ReportingPersonID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-04-05</TransactionDate>
+    <Amount currency="EUR">50000.00</Amount>
+    <TransactionType>Credit</TransactionType>
+    <Description>Deposit from Hans Meier</Description>
+    <Party>
+      <CustomerID>HM-12345</CustomerID>
+      <Name>Hans Meier</Name>
+      <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+    </Party>
+    <Beneficiary>
+      <AccountName>Forex Prime Global</AccountName>
+      <AccountNumber>DE[redacted]</AccountNumber>
+      <BankName>Commerzbank</BankName>
+      <Country>Germany</Country>
+    </Beneficiary>
+    <SuspiciousActivity>Potential investment fraud – unusually large deposit with limited transaction history.</SuspiciousActivity>
+  </Transaction>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial Suspicious Activity Report (SAR), what type of transaction triggered the suspicion?",
+    "answer": "A large credit to an overseas account with unusual activity."
+  },
+  {
+    "question": "What was the amount of the initial credit to FX Pro Advisor, as recorded in the bank statement?",
+    "answer": "5000 EUR"
+  },
+  {
+    "question": "What reason is listed for the denied withdrawal attempt in SAR 2?",
+    "answer": "Account restrictions"
+  },
+  {
+    "question": "Based on the promotional material, what is a key benefit that FX Pro Advisor claims to offer potential clients?",
+    "answer": "Daily Expert Trading Signals"
+  },
+  {
+    "question": "What does the screenshot of the website reveal about the terms and conditions of FX Pro Advisor?",
+    "answer": "They are difficult to find and very lengthy."
+  },
+  {
+    "question": "What is the stated balance of Karl Meier's account in the email from FX Pro Advisor?",
+    "answer": "12,500 EUR"
+  },
+  {
+    "question": "Referring to SAR 3, what was the purpose of the transaction listed?",
+    "answer": "Information"
+  },
+  {
+    "question": "According to the bank statement, when was an incoming transfer of 2000 EUR received?",
+    "answer": "2023-08-15"
+  },
+  {
+    "question": "What type of asset did Karl Meier transfer to an unknown entity in December 2023?",
+    "answer": "BTC"
+  },
+  {
+    "question": "What is the reported country of origin for FX Pro Advisor\u2019s bank account?",
+    "answer": "BZ"
+  }
+]

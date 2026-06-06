@@ -1,0 +1,17 @@
+From: ben_adebayo@innovativeaix.com
+To: ulrich.baumann@example.com
+Subject: Innovative AIX - Important Account Update
+
+Dear Ulrich,
+
+We've noticed some unusual activity on your account and need to verify your identity to ensure the security of your investments.
+
+Please click on the link below to complete a quick verification process:
+
+[Suspicious Link - example: https://verify-innovativeaix.com]
+
+Failure to verify your account may result in temporary suspension of your investment activities.
+
+Sincerely,
+Ben Adebayo
+Innovative AIX Support Team

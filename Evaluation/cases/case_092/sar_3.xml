@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_date>2023-12-06</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <reporter_id>DB-20231206-003</reporter_id>
+  <beneficial_owner>
+    <name>Hans Meier</name>
+    <address>Musterstraße 123, 10115 Berlin, Germany</address>
+  </beneficial_owner>
+  <transaction>
+    <transaction_date>2023-09-01</transaction_date>
+    <amount currency="EUR">5000.00</amount>
+    <description>Transfer to AI Global Trading</description>
+    <recipient_account>AI-Global-Trading-Account</recipient_account>
+    <recipient_bank>SecurePay Global</recipient_bank>
+    <recipient_country>United Arab Emirates</recipient_country>
+    <iban>AE1205000000000000012345</iban>
+  </transaction>
+  <transaction>
+    <transaction_date>2023-11-10</transaction_date>
+    <amount currency="EUR">7500.00</amount>
+    <description>Withdrawal attempt</description>
+    <recipient_account>Hans Meier</recipient_account>
+    <recipient_bank>Deutsche Bank</recipient_bank>
+    <recipient_country>Germany</recipient_country>
+    <iban>DE89370400440532013000</iban>
+  </transaction>
+  <findings>Customer reports being unable to withdraw funds and suspects fraud. Potential investment scam. Account under investigation. Unusual transfer destination (UAE).</findings>
+</sar>

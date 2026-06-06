@@ -1,0 +1,12 @@
+From: support@NovaTechAI.com
+To: klaus.meier@email.de
+Subject: Account Maintenance Notification
+
+Dear Klaus,
+
+Due to ongoing system upgrades, your account access has been temporarily restricted. We apologize for any inconvenience this may cause. Our technical team is working diligently to resolve the issue and restore full functionality as soon as possible.  Please do not attempt to access your account during this period. 
+
+A follow-up email will be sent when access is restored.
+
+Sincerely,
+The NovaTech AI Support Team

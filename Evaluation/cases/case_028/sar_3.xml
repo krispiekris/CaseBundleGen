@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-08-05</ReportDate>
+    <InstitutionID>FirstNationalBank</InstitutionID>
+    <FilerID>Branch007</FilerID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-07-18</TransactionDate>
+    <TransactionAmount>2000</TransactionAmount>
+    <TransactionCurrency>USD</TransactionCurrency>
+    <TransactionType>Withdrawal</TransactionType>
+    <SenderName>Global Capital Ventures</SenderName>
+    <SenderAccount>987654321</ReceiverAccount>
+    <ReceiverName>David Miller</ReceiverName>
+    <SenderAccount>123456789</SenderAccount>
+    <ReceiverBank>FirstNationalBank</ReceiverBank>
+    <Purpose>Withdrawal Attempt</Purpose>
+    <SuspiciousActivity>Withdrawal attempt failed. Customer reported unable to access funds. Potential investment fraud.</SuspiciousActivity>
+    <Notes>Customer reported being unable to withdraw funds.  Pattern of high returns followed by inability to withdraw suggests potential fraud.</Notes>
+  </Transaction>
+</SAR>

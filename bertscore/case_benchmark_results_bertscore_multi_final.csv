@@ -1,0 +1,6 @@
+;total_rows;total_cases;precision_mean;precision_min;precision_max;precision_std;recall__mean;recall__min;recall__max;recall__std;f1__mean;f1__min;f1__max;f1__std
+;999;100;;;;;;;;;;;;
+roberta_large_per_row;;;0.6825;-0.2995;1.0;0.3829;0.6522;-0.8374;1.0;0.4139;0.6667;-0.5334;1.0;0.3912
+roberta_large_per_case;;;0.6827;0.3248;0.9637;0.1322;0.6524;0.194;0.9478;0.1464;0.6668;0.2589;0.9549;0.1371
+microsoft_deberta_xlarge_mnli_per_row;;;0.6307;-0.8258;1.0;0.4538;0.5978;-0.9233;1.0;0.4772;0.6112;-0.879;1.0;0.4602
+microsoft_deberta_xlarge_mnli_per_case;;;0.6308;0.2577;0.9709;0.1544;0.598;0.1359;0.9464;0.1678;0.6114;0.1917;0.95;0.1595

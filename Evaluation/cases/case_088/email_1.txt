@@ -1,0 +1,12 @@
+From: vendor_relations@innovationsolutions.com
+To: accounts.payable@globaltechsystems.com
+Subject: Invoice 12345 - Payment Request
+
+Dear Accounts Payable,
+
+Please find attached invoice 12345 for services rendered. Kindly process the payment as per our usual terms.
+
+Thanks,
+Sarah Miller
+Vendor Relations
+Innovationsolutions.com

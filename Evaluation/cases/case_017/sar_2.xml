@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-10-08</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
+  <CustomerName>Klaus Heinz</CustomerName>
+  <CustomerAccount>1234567890</CustomerAccount>
+  <SuspiciousActivity>
+    <ActivityType>Attempted Withdrawal/Fund Restriction</ActivityType>
+    <TransactionDate>2023-10-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+    <TransactionDescription>Attempted Withdrawal - Denied due to System Maintenance</TransactionDescription>
+    <BeneficiaryName>Klaus Heinz</BeneficiaryName>
+    <SuspicionReason>Customer experiencing difficulty withdrawing funds; explanation provided by platform appears evasive.</SuspicionReason>
+  </SuspiciousActivity>
+  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
+</SuspiciousActivityReport>

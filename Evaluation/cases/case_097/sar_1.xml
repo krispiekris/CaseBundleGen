@@ -1,0 +1,26 @@
+<SAR id="SAR-20230401-001">
+  <Date>2023-04-01</Date>
+  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Address>Mainzer Landstr. 197, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Karl Meier</Name>
+    <Address>Musterstraße 10, 12345 Berlin, Germany</Address>
+    <DateOfBirth>1968-07-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2023-04-01</Date>
+    <Amount currency="EUR">5000.00</Amount>
+    <Type>Wire Transfer</Type>
+    <Description>Wire transfer to Global Capital Group</Description>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <ReceiverAccount>BZxxxxxxxxxxxxx</ReceiverAccount>
+    <ReceiverName>Global Capital Group Ltd.</ReceiverName>
+    <ReceiverJurisdiction>Belize</ReceiverJurisdiction>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusually large wire transfer to an offshore company. Transaction warrants further investigation.</SuspiciousActivity>
+  </Findings>
+</SAR>

@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-07-12</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseNumber>DB-SAR-2024-07-003</CaseNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-07-10</TransactionDate>
+    <Amount currency="EUR">0</Amount>
+    <TransactionType>Information Request</TransactionType>
+    <SenderName>Deutsche Bank Compliance</SenderName>
+    <SenderAccount>ComplianceAccount</SenderAccount>
+    <ReceiverName>Global Traders Limited</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Client complaint regarding fraudulent activity</Description>
+    <SuspiciousActivity>Potential investment fraud</SuspiciousActivity>
+    <Notes>Client filed a complaint alleging fraudulent investment scheme.  Further investigation warranted.</Notes>
+  </Transaction>
+</SAR>

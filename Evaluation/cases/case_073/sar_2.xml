@@ -1,0 +1,28 @@
+<SAR id="SAR-20230820-002">
+  <ReportingInstitution>
+    <Name>Canadian Trust Bank</Name>
+    <Address>123 Main Street, Anytown, ON</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Mark Peterson</Name>
+    <Address>456 Oak Avenue, Anytown, ON</Address>
+    <DateOfBirth>1968-07-22</DateOfBirth>
+  </Subject>
+  <SuspiciousActivity>
+    <Date>2023-08-20</Date>
+    <Type>Unusual Activity</Type>
+    <Description>Further cryptocurrency transactions to offshore accounts, consistent with potential investment fraud.</Description>
+    <TransactionDetails>
+      <TransactionDate>2023-06-10</TransactionDate>
+      <TransactionAmount currency="USD">3000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <RecipientName>Belizean Investments Ltd.</RecipientName>
+      <RecipientAccount>1234567890</RecipientAccount>
+      <RecipientCountry>Belize</RecipientCountry>
+    </TransactionDetails>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Pattern of transactions consistent with previous suspicious activity.</Finding>
+    <Finding>Potential involvement in an investment fraud scheme.</Finding>
+  </Findings>
+</SAR>

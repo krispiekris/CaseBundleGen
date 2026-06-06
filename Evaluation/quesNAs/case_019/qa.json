@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to David Adebayo's LinkedIn profile, what was his role at Global Investments Ltd?",
+    "answer": "Analyst"
+  },
+  {
+    "question": "What was the initial investment amount made by Oliver Baumann?",
+    "answer": "\u20ac5,000"
+  },
+  {
+    "question": "What is the stated reason for the delay in processing Oliver Baumann's withdrawal request, according to the email?",
+    "answer": "An unexpected technical issue"
+  },
+  {
+    "question": "Based on the promotional material, what is a key advantage of Innovative Trading AI?",
+    "answer": "AI-Powered Precision"
+  },
+  {
+    "question": "Which two entities are listed as sender and receiver in SAR report dated 2023-09-05?",
+    "answer": "Oliver Baumann, Innovative Trading AI"
+  },
+  {
+    "question": "What profit was initially claimed for Oliver Baumann\u2019s \u20ac5,000 investment?",
+    "answer": "\u20ac2,350"
+  },
+  {
+    "question": "What is the purpose listed for the transactions recorded in the SAR reports?",
+    "answer": "Investment"
+  },
+  {
+    "question": "Which dates do two failed withdrawal attempts appear on the bank statement?",
+    "answer": "2023-12-05, 2024-01-05"
+  },
+  {
+    "question": "According to the promotional material, what is suggested to investors wanting to benefit from AI?",
+    "answer": "Join a select group of investors"
+  },
+  {
+    "question": "What does the description in SAR_3 identify as a potential problem?",
+    "answer": "Victim unable to withdraw funds. Communication ceased abruptly."
+  }
+]

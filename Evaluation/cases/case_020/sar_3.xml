@@ -1,0 +1,24 @@
+<SAR>
+  <Header>
+    <ReferenceID>SAR-2023-0628</ReferenceID>
+    <Date>2023-07-05</Date>
+    <Bank>Commonwealth Bank of Australia</Bank>
+    <BranchID>12345</BranchID>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-003</TransactionID>
+    <Date>2023-06-22</Date>
+    <Amount>2000.00</Amount>
+    <Currency>AUD</Currency>
+    <SenderAccount>1234567890</SenderAccount>
+    <SenderName>David Anderson</SenderName>
+    <RecipientAccount>GB21NWBK202040082800</RecipientAccount>
+    <RecipientName>Apex Global Investments Ltd</RecipientName>
+    <Description>Attempted Withdrawal - Failed</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud - AI Trading Pro</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+    <Notes>Customer experiencing continued issues withdrawing funds. Account flagged.  Customer contacted authorities.</Notes>
+  </Findings>
+</SAR>

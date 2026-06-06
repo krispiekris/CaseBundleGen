@@ -1,0 +1,22 @@
+<SAR>
+  <Header>
+    <ReferenceID>SAR-20231123-001</ReferenceID>
+    <Date>2023-11-23</Date>
+    <Submitter>Deutsche Bank</Submitter>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">8000.00</Amount>
+    <Date>2023-09-01</Date>
+    <Originator>
+      <Name>Andreas Schmidt</Name>
+      <Account>DE12345678901234567890</Account>
+    </Originator>
+    <Beneficiary>
+      <Name>AI Trade Solutions</Name>
+      <Account>GB22NWBK000000000012345678</Account>
+    </Beneficiary>
+    <Purpose>Investment</Purpose>
+    <SuspiciousActivity>Potential Investment Fraud - Unsolicited Contact</SuspiciousActivity>
+    <Notes>Customer reported receiving unsolicited communication regarding AI trading opportunities. Large sum transferred to UK account.</Notes>
+  </Transaction>
+</SAR>

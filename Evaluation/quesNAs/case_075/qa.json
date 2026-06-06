@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial investment amount made by Hans Schmidt?",
+    "answer": "\u20ac5,000"
+  },
+  {
+    "question": "According to the promotional text, what is one benefit of using Innovative AI Investments?",
+    "answer": "\u2705 Automated Trading"
+  },
+  {
+    "question": "What reason did Innovative AI Investments provide for the temporary unavailability of withdrawals?",
+    "answer": "Due to unforeseen circumstances and ongoing system upgrades."
+  },
+  {
+    "question": "What was the date of the SAR report filed due to the customer's complaint about potential investment fraud?",
+    "answer": "2024-03-01"
+  },
+  {
+    "question": "What was the total amount of the attempted withdrawal by Hans Schmidt on 2024-01-05?",
+    "answer": "\u20ac3,000"
+  },
+  {
+    "question": "Besides the initial deposit, what other transaction amounts appear on Hans Schmidt\u2019s bank statement?",
+    "answer": "\u20ac10.00 (Service Fee), \u20ac2.50 (Interest), \u20ac2000.00 (Innovative AI Investments Deposit)"
+  },
+  {
+    "question": "Which institution filed the Suspicious Activity Reports (SARs) related to Hans Schmidt's activity?",
+    "answer": "Deutsche Bank"
+  },
+  {
+    "question": "What did the website screenshot describe about the testimonials displayed on the Innovative AI Investments website?",
+    "answer": "likely fabricated"
+  },
+  {
+    "question": "According to email_2.txt, what did Hans Schmidt inquire about from Innovative AI Investments?",
+    "answer": "More detail on the AI's current strategy."
+  },
+  {
+    "question": "Based on the available data, what evidence suggests a possible fraudulent activity?",
+    "answer": "Initial investment from an unknown wallet, denial of withdrawal requests, a customer complaint alleging investment fraud, and a website with potentially fabricated testimonials."
+  }
+]

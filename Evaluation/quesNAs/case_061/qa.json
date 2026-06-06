@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the SAR reports, what is the primary reason for suspicion regarding David Miller's transactions?",
+    "answer": "Unusual wire transfer to offshore account with limited transparency, Multiple attempts to withdraw funds resulting in rejection; possible unauthorized access, Multiple wire transfers to offshore account without apparent legitimate purpose."
+  },
+  {
+    "question": "What is the name of the trading platform developed by Connect Innovations?",
+    "answer": "Chronos"
+  },
+  {
+    "question": "What is the Beneficiary Country for the wire transfers mentioned in the SAR reports?",
+    "answer": "Belize"
+  },
+  {
+    "question": "Based on the promotional material, what is one advantage of using the Chronos trading platform?",
+    "answer": "Superior returns, Automated trading, 24/7 monitoring."
+  },
+  {
+    "question": "What transaction occurred on 2023-09-01, according to the first bank statement?",
+    "answer": "Wire Transfer - Connect Innovations, -5000.00"
+  },
+  {
+    "question": "Which entities are associated with the \u2018Alpha Plus\u2019 strategy, as mentioned in the third email?",
+    "answer": "Chronos and Connect Innovations"
+  },
+  {
+    "question": "What is the AI Confidence Level displayed on the Chronos Trading Platform Dashboard, as shown in the screenshot?",
+    "answer": "98%"
+  },
+  {
+    "question": "What action did David Miller attempt on 2024-01-22, and what was the outcome?",
+    "answer": "Attempted withdrawal, rejected"
+  },
+  {
+    "question": "According to the bank statement 3, what was the balance after David Miller made an online transfer?",
+    "answer": "-6521.01"
+  },
+  {
+    "question": "What is the subject\u2019s date of birth as indicated in the SAR reports?",
+    "answer": "1972-01-15"
+  }
+]

@@ -1,0 +1,24 @@
+<SAR id="SAR-2023-12-05-001">
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Address>Main Street 123, Frankfurt</Address>
+  </ReportingInstitution>
+  <SuspiciousActivity>
+    <Date>2023-12-05</Date>
+    <Type>Funds Transfer</Type>
+    <Amount currency="EUR">5000</Amount>
+    <Description>Funds transfer from Klaus Meier to NovaTech AI (Bulgaria)</Description>
+    <OriginatingParty>
+      <Name>Klaus Meier</Name>
+      <Address>Example Street 45, Berlin</Address>
+    </OriginatingParty>
+    <Beneficiary>
+      <Name>NovaTech AI Ltd.</Name>
+      <Address>Sofia Business Park, Bulgaria</Address>
+    </Beneficiary>
+    <Findings>
+      <Finding>Unusually large transaction for an individual with reported income.</Finding>
+      <Finding>Recipient is a newly established company with limited public information.</Finding>
+    </Findings>
+  </SuspiciousActivity>
+</SAR>

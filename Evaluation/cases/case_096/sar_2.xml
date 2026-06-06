@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <header>
+    <sar_id>SAR-20240115-002</sar_id>
+    <submission_date>2024-01-15</submission_date>
+    <reporter_institution>Commonwealth Bank of Australia</reporter_institution>
+  </header>
+  <transaction>
+    <transaction_id>TXN-20231201-001</transaction_id>
+    <transaction_date>2023-12-01</transaction_date>
+    <amount>10000.00</amount>
+    <currency>USD</currency>
+    <transaction_type>Debit</transaction_type>
+    <description>Withdrawal Attempt Denied</description>
+    <originating_party>
+      <name>David Miller</name>
+      <account_number>123456789</account_number>
+      <country>AU</country>
+    </originating_party>
+    <beneficiary_party>
+      <name>AI Trading Pro Ltd</name>
+      <account_number>987654321</account_number>
+      <country>AE</country>
+    </beneficiary_party>
+    <suspicious_activity>Victim attempting to withdraw funds; transaction flagged as potentially fraudulent.</suspicious_activity>
+  </transaction>
+</sar>

@@ -1,0 +1,27 @@
+<SAR id="SAR-20231206-001">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Frankfurt</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Klaus Richter</Name>
+    <Address>Musterstrasse 12, Berlin</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount currency="EUR">2500.00</Amount>
+    <Type>Debit</Type>
+    <Description>Transfer to AI Trading Solutions</Description>
+    <Recipient>
+      <Name>AI Trading Solutions</Name>
+      <Account>XXXXXXXXXXXXXX</Account>
+      <IBAN>DExxxxxxxxxxxxxxxxx</IBAN>
+      <Country>Belize</Country>
+    </Recipient>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud - platform appears to be operating from an offshore jurisdiction.</SuspiciousActivity>
+    <RiskLevel>Medium</RiskLevel>
+  </Findings>
+</SAR>

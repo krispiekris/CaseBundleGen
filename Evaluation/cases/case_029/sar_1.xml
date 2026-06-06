@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.example.com/sar_schema.xsd">
+  <ReportDate>2023-06-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-06-10</TransactionDate>
+    <TransactionAmount currency="EUR">15000</TransactionAmount>
+    <TransactionType>Withdrawal Request</TransactionType>
+    <SenderName>Klaus Meier</SenderName>
+    <SenderAccount>GFV123456789</SenderAccount>
+    <ReceiverName>Global Forex Ventures</ReceiverName>
+    <ReceiverAccount>BEL_GFV_001</ReceiverAccount>
+    <LocationOfReceiver>Belize</LocationOfReceiver>
+    <Suspicion>Customer requests large withdrawal shortly after significant deposits. Account activity inconsistent with stated investment goals.</Suspicion>
+  </SuspiciousActivity>
+</SAR>

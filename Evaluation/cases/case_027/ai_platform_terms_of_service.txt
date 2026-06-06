@@ -1,0 +1,16 @@
+NovaAI Trading Platform – Terms of Service
+
+1.  Acceptance of Terms
+By using the NovaAI platform, you agree to these terms and conditions. 
+
+2.  Risk Disclaimer
+Trading involves risk. You could lose money.
+
+3.  Platform Operation
+NovaAI uses proprietary algorithms for automated trading. We are not responsible for losses incurred due to algorithmic errors (extremely rare).
+
+4.  Withdrawal Policy
+Withdrawal requests are processed within 7-10 business days.  Fees may apply. We reserve the right to temporarily suspend withdrawals if deemed necessary.
+
+5.  Governing Law
+This agreement is governed by the laws of the British Virgin Islands.

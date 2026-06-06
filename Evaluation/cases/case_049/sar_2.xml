@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2024-02-28</ReportDate>
+  <ReportingInstitution>First Canadian Trust</ReportingInstitution>
+  <AccountName>David Miller</AccountName>
+  <AccountID>123456789</AccountID>
+  <TransactionDate>2024-01-22</TransactionDate>
+  <TransactionAmount>15000.00</TransactionAmount>
+  <TransactionCurrency>CAD</TransactionCurrency>
+  <TransactionType>Debit</TransactionType>
+  <BeneficiaryName>Apex Global Investments Ltd.</BeneficiaryName>
+  <BeneficiaryCountry>Cyprus</BeneficiaryCountry>
+  <Description>Large withdrawal request blocked by platform. Customer reporting difficulty withdrawing funds. Potential investment fraud scheme.</Description>
+  <SuspicionLevel>High</SuspicionLevel>
+  <Investigator>John Smith</Investigator>
+</SuspiciousActivityReport>

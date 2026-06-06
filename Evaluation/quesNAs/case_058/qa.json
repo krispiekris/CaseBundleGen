@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial investment amount made by David Miller to AlgoTrade Pro, according to the bank statement?",
+    "answer": "5000.00"
+  },
+  {
+    "question": "What type of activity did the Suspicious Activity Report (SAR) initially flag concerning David Miller's account?",
+    "answer": "Potential Investment Fraud"
+  },
+  {
+    "question": "According to the promotional material, what is one benefit that AlgoTrade Pro offers to its members?",
+    "answer": "Generates consistent profits"
+  },
+  {
+    "question": "What was the described reason for the 1500.00 transaction from AlgoTrade Pro to David Miller in SAR 2?",
+    "answer": "Simulated profit payout"
+  },
+  {
+    "question": "Based on the telegram conversation, what was the initial deposit amount suggested by the AI Trading Advisor?",
+    "answer": "5000"
+  },
+  {
+    "question": "What country was the receiving account for the initial investment transaction located in, according to the SAR?",
+    "answer": "Romania"
+  },
+  {
+    "question": "What did the screenshot of the website depict in relation to profits?",
+    "answer": "Graphs showing steep upward trends labeled 'Profit Growth'"
+  },
+  {
+    "question": "What was the reason for the denied withdrawal attempt, according to SAR 3?",
+    "answer": "Attempted withdrawal denied"
+  },
+  {
+    "question": "Which entities are associated with the 'AlgoTrade Pro' account (9876543210) as both a sender and a receiver in the provided documents?",
+    "answer": "AlgoTrade Pro Team, David Miller"
+  },
+  {
+    "question": "What did the promotional material state about testimonials?",
+    "answer": "\"I've never seen profits like this before!\" - John S.\n\"AlgoTrade Pro is a game-changer!\" - Emily B."
+  }
+]

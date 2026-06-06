@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-12-01</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceID>SAR-20231201-002</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-25</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Forex Alpha Ltd.</ReceiverName>
+    <ReceiverAccount>BZ12345678901234567890</ReceiverAccount>
+    <Description>Additional Investment</Description>
+    <SuspiciousActivity>Potential Investment Fraud</SuspiciousActivity>
+    <Notes>Customer transferred an additional 5000 EUR to Forex Alpha Ltd. Customer inquired about increasing his investment amount. Further investigation is warranted.</Notes>
+  </Transaction>
+</SAR>

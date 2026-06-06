@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-12-05</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-01</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Oliver Baumann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Innovative Trading AI</ReceiverName>
+      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
+      <Purpose>Investment</Purpose>
+    </Transaction>
+    <Suspicion>
+      <Description>Increased investment amount following initial claim of high profits. Subsequent withdrawal attempts unsuccessful.</Description>
+      <Reason>Potential Investment Fraud</Reason>
+    </Suspicion>
+  </SuspiciousActivity>
+</SAR>

@@ -1,0 +1,27 @@
+<SAR id="SAR-20231105-002">
+  <ReportingInstitution>
+    <Name>First Canadian Trust</Name>
+    <Address>123 Main Street, Toronto, ON</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Robert MacIntyre</Name>
+    <Address>456 Oak Avenue, Toronto, ON</Address>
+  </Subject>
+  <Transaction>
+    <Date>2023-11-05</Date>
+    <Amount>3000.00</Amount>
+    <Currency>CAD</Currency>
+    <Type>Debit</Type>
+    <Description>Online Transfer - Innovative AIX</Description>
+    <Beneficiary>
+      <Name>Innovative AIX</Name>
+      <Account>
+        <IBAN>BG12BNB37110123456789</IBAN>
+      </Account>
+    </Beneficiary>
+  </Transaction>
+  <SuspiciousActivity>
+    <Description>Victim attempting to withdraw funds denied. Repeated requests for additional investment flagged.</Description>
+    <Assessment>High</Assessment>
+  </SuspiciousActivity>
+</SAR>

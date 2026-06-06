@@ -1,0 +1,35 @@
+<SAR>
+  <Header>
+    <SARReferenceNumber>20231201-002</SARReferenceNumber>
+    <DateFiled>2023-12-01</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
+  </Header>
+  <SuspectTransaction>
+    <TransactionDate>2023-09-12</TransactionDate>
+    <TransactionAmount>250.00</TransactionAmount>
+    <Currency>EUR</Currency>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderName>NovaTrade Solutions</SenderName>
+    <SenderAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverName>Karl Schmidt</ReceiverName>
+    <ReceiverAccount>DE91370400440532014900</ReceiverAccount>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Investment Return</Description>
+  </SuspectTransaction>
+  <SuspectTransaction>
+    <TransactionDate>2023-09-19</TransactionDate>
+    <TransactionAmount>500.00</TransactionAmount>
+    <Currency>EUR</Currency>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderName>NovaTrade Solutions</SenderName>
+    <SenderAccount>GB22NWBK00000000001234</ReceiverAccount>
+    <ReceiverName>Karl Schmidt</ReceiverName>
+    <ReceiverAccount>DE91370400440532014900</ReceiverAccount>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Investment Return</Description>
+  </SuspectTransaction>
+  <Findings>
+    <SuspiciousActivity>Small returns following substantial initial investments.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud.</PotentialFraud>
+  </Findings>
+</SAR>

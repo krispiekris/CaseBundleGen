@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <CustomerName>Hans Meier</CustomerName>
+  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
+  <TransactionDate>2023-09-01</TransactionDate>
+  <TransactionAmount currency="EUR">5000</TransactionAmount>
+  <TransactionDescription>Transfer to AI FX Capital</TransactionDescription>
+  <RecipientName>AI FX Capital</RecipientName>
+  <RecipientAccount>1234567890</RecipientAccount>
+  <RecipientBank>Global Finance Ltd.</RecipientBank>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspicionDetails>Customer transferred funds to an entity with questionable legitimacy and a foreign banking location. Subsequent online research suggests possible fraudulent activity.</SuspicionDetails>
+  <ReportID>DB-SAR-20231115-001</ReportID>
+</SuspiciousActivityReport>

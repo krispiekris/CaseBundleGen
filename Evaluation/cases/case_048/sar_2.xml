@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-03-05</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseNumber>DB-SAR-2024-03-002</CaseNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-02-27</TransactionDate>
+    <Amount currency="EUR">48000</Amount>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>Thomas Baumann</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Global Traders Limited</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Withdrawal attempt - rejected</Description>
+    <SuspiciousActivity>Attempted withdrawal blocked by platform</SuspiciousActivity>
+    <Notes>Client reported inability to withdraw funds. Transaction blocked by platform.</Notes>
+  </Transaction>
+</SAR>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReportDate>2023-12-05</ReportDate>
+  <InstitutionName>First National Bank</InstitutionName>
+  <InstitutionIdentifier>123456789</InstitutionIdentifier>
+  <SARContact>
+    <Name>Jane Doe</Name>
+    <Title>Compliance Officer</Title>
+    <PhoneNumber>555-123-4567</PhoneNumber>
+    <Email>jane.doe@firstnationalbank.com</Email>
+  </SARContact>
+  <Subject>Suspicious Wire Transfers – Potential Investment Fraud</Subject>
+  <Customer>
+    <Name>Alexander Harding</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+    <AccountID>987654321</AccountID>
+  </Customer>
+  <Transaction>
+    <TransactionDate>2023-09-22</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>USD</Currency>
+    <Description>Wire Transfer to SecureInvest</Description>
+    <RecipientName>SecureInvest LLC</RecipientName>
+    <RecipientAccount>XYZ123456789</RecipientAccount>
+    <RecipientBank>Belize International Bank</RecipientBank>
+    <RecipientCountry>Belize</RecipientCountry>
+  </Transaction>
+  <Transaction>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <Amount>15000.00</Amount>
+    <Currency>USD</Currency>
+    <Description>Wire Transfer to SecureInvest</Description>
+    <RecipientName>SecureInvest LLC</RecipientName>
+    <RecipientAccount>XYZ123456789</RecipientAccount>
+    <RecipientBank>Belize International Bank</RecipientBank>
+    <RecipientCountry>Belize</RecipientCountry>
+  </Transaction>
+  <SuspiciousActivity>Multiple wire transfers to an offshore entity, SecureInvest LLC, in Belize, following unsolicited contact via Telegram claiming expertise in AI trading.  Customer appears to be targeting high returns with limited understanding of investment risks.</SuspiciousActivity>
+  <ReportType>Funds Transfer</ReportType>
+</SAR>

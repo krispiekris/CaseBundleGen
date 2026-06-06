@@ -1,0 +1,22 @@
+<SAR>
+  <CaseID>2023-10-20-DEF</CaseID>
+  <Date>2023-10-20</Date>
+  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Customer>
+    <Name>Hans Meier</Name>
+    <Address>Musterstrasse 123, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-03-10</DateOfBirth>
+  </Customer>
+  <SuspiciousActivity>
+    <TransactionDate>2023-10-15</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <BeneficiaryName>NovaTrade AI Limited</BeneficiaryName>
+    <BeneficiaryAccount>GB80NWBK50500003819699</BeneficiaryAccount>
+    <PurposeCode>Investment</PurposeCode>
+    <Description>Additional funds transferred to NovaTrade AI Limited - potential investment fraud</Description>
+  </SuspiciousActivity>
+  <Findings>
+    Increased investment amount, potentially under duress or influenced by fabricated profits.</Findings>
+</SAR>

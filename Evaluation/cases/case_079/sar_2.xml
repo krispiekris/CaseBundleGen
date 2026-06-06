@@ -1,0 +1,27 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-10</TransactionDate>
+      <Amount>3500.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingParty>
+        <Name>Hans Meier</Name>
+        <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>SecurePay Solutions</Name>
+        <Account>1234567890</Account>
+        <Bank>Zenith Bank</Bank>
+        <Country>Nigeria</Country>
+      </Beneficiary>
+      <Description>Attempted withdrawal from AI Trading Platform</Description>
+    </Transaction>
+    <Findings>
+      <SuspiciousIndicator>Attempted withdrawal denied by platform</SuspiciousIndicator>
+      <SuspiciousIndicator>Account activity inconsistent with user profile</SuspiciousIndicator>
+    </Findings>
+  </SuspiciousActivity>
+</SAR>

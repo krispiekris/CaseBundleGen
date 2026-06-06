@@ -1,0 +1,22 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-22</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <SuspiciousTransaction>
+    <TransactionDate>2023-11-18</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <OriginatingParty>
+      <Name>Klaus Schmidt</Name>
+      <Address>Musterstrasse 1, 12345 Musterstadt</Address>
+      <Country>Germany</Country>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>GlobalTech Investments Ltd.</Name>
+      <Account>1234567890</Account>
+      <BankName>Fidelity Bank</BankName>
+      <Country>Malta</Country>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Large transfer amount for the customer's profile. Customer attempting withdrawal denied.</SuspiciousActivity>
+    <ReportReferenceNumber>SAR-2023-11-002</ReportReferenceNumber>
+  </SuspiciousTransaction>
+</SAR>

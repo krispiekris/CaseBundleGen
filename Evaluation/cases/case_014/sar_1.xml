@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>\n<SAR id="SAR-2023-10-05-001">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunuschrift 1, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Baumann, Hans</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+  </Subject>
+  <Transaction>
+    <Date>2023-09-01</Date>
+    <Amount currency="EUR">5000.00</Amount>
+    <Description>Wire transfer to NovaTrade AG</Description>
+    <OriginatingParty>
+      <Name>Deutsche Bank AG</Name>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>NovaTrade AG</Name>
+      <Account>1234567890</Account>
+      <Bank>Sterling Bank Nigeria Limited</Bank>
+    </BeneficiaryParty>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud; unusual transfer destination.</SuspiciousActivity>
+  </Findings>
+</SAR>

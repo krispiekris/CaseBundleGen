@@ -1,0 +1,20 @@
+From: David Adebayo <david.adebayo@novatrade.com>
+To: Karl Schmidt <karl.schmidt@email.de>
+Subject: Your NovaTrade Account Update
+
+Dear Karl,
+
+Your account is ready to process your initial investment.
+
+To proceed, please transfer €500 to the following account:
+
+Account Name: NovaTrade Solutions
+Bank: Unity Bank PLC
+Account Number: 1234567890
+Swift Code: UNIBNGLA
+
+Once the transfer is complete, please send us a screenshot as proof of payment.
+
+Sincerely,
+David Adebayo
+NovaTrade Support

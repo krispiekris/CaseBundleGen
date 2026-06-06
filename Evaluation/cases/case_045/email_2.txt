@@ -1,0 +1,14 @@
+From: support@novatrade.ai
+To: richard.adams@example.com
+Subject: Welcome to NovaTrade AI - Your Account is Active!
+
+Dear Richard Adams,
+
+Welcome to the NovaTrade AI platform! Your account has been successfully created and is now active.
+
+To get started, please review our brief tutorial video here: [https://novatrade.ai/tutorial]
+
+Your current balance is $5,000.00.
+
+Best Regards,
+The NovaTrade AI Support Team

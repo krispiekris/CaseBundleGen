@@ -1,0 +1,27 @@
+<SAR id="SAR-20240215-002">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunusturm, Frankfurt</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Klaus Richter</Name>
+    <Address>Musterstrasse 12, Berlin</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2024-02-10</Date>
+    <Amount currency="EUR">1000.00</Amount>
+    <Type>Debit</Type>
+    <Description>Withdrawal Request - Denied by Platform</Description>
+    <Recipient>
+      <Name>AI Trading Solutions</Name>
+      <Account>XXXXXXXXXXXXXX</Account>
+      <IBAN>DExxxxxxxxxxxxxxxxx</IBAN>
+      <Country>Belize</Country>
+    </Recipient>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Withdrawal request denied; potential restriction on funds access; possible investment scam.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SAR>

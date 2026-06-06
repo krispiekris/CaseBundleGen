@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sar_schema.xsd">
+  <CaseID>2023-08-25-003</CaseID>
+  <BankName>First National Bank</BankName>
+  <BankLocation>Anytown, USA</BankLocation>
+  <Currency>USD</Currency>
+  <TransactionDate>2023-08-18</TransactionDate>
+  <TransactionAmount>500.00</TransactionAmount>
+  <SenderName>Richard Henderson</SenderName>
+  <SenderAccount>XXXXXXX1234</SenderAccount>
+  <RecipientName>AI-Trade Solutions</RecipientName>
+  <RecipientAccount>YYYYYYYY5678</RecipientAccount>
+  <RecipientCountry>Belize</RecipientCountry>
+  <SuspiciousActivity>Attempted withdrawal of funds delayed; company unresponsive to inquiries.</SuspiciousActivity>
+  <ReportingOfficer>Jane Doe</ReportingOfficer>
+  <ReportingDate>2023-10-03</ReportingDate>
+</SAR>

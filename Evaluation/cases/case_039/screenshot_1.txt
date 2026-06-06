@@ -1,0 +1,4 @@
+[This file contains a blurred screenshot of an ID card and a utility bill.  The ID card shows a name and address similar to those used elsewhere in the case.]
+
+Blurred Image Data (Simulated):
+[Data representing pixel values of a blurred image]

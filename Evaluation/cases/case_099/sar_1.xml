@@ -1,0 +1,27 @@
+<SAR>
+  <Header>
+    <SARReferenceID>20230822-001</SARReferenceID>
+    <FilingDate>2023-08-22</FilingDate>
+    <FilingInstitution>Deutsche Bank</FilingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-12345</TransactionID>
+    <TransactionDate>2023-08-15</TransactionDate>
+    <TransactionAmount currency="EUR">15000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Ulrich Baumann</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Prime Global Investments Ltd.</Name>
+      <AccountID>ZA98765432109876543210</AccountID>
+      <Country>South Africa</Country>
+    </BeneficiaryParty>
+    <Description>International Money Transfer</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusual international transfer with no apparent business purpose.</SuspiciousActivity>
+    <RiskLevel>Medium</RiskLevel>
+  </Findings>
+</SAR>

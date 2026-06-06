@@ -1,0 +1,23 @@
+<sar>
+  <reportHeader>
+    <reportDate>2024-01-15</reportDate>
+    <reportingInstitution>Sparkasse Nürnberg</reportingInstitution>
+    <reporterId>12345</reporterId>
+  </reportHeader>
+  <transaction>
+    <transactionDate>2023-12-05</transactionDate>
+    <transactionAmount currency="EUR">3000.00</transactionAmount>
+    <transactionType>Wire Transfer</transactionType>
+    <sender>
+      <name>Hans Schmidt</name>
+      <accountNumber>DE89741105020001234567</accountNumber>
+    </sender>
+    <recipient>
+      <name>AlphaGenesis Global</name>
+      <accountNumber>ZA12345678901234567890</accountNumber>
+      <bankCountry>Nigeria</bankCountry>
+    </recipient>
+    <description>Additional Investment - AI Trading</description>
+    <suspiciousActivity>Multiple transfers to same recipient with limited interaction</suspiciousActivity>
+  </transaction>
+</sar>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-09-05</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Oliver Baumann</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>Innovative Trading AI</ReceiverName>
+      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
+      <Purpose>Investment</Purpose>
+    </Transaction>
+    <Suspicion>
+      <Description>Unusual investment activity - large sum transferred to a newly established company with limited online presence.</Description>
+      <Reason>Potential Investment Fraud</Reason>
+    </Suspicion>
+  </SuspiciousActivity>
+</SAR>

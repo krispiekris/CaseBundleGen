@@ -1,0 +1,21 @@
+<SAR>
+  <ReportID>SAR-20240105-002</ReportID>
+  <Date>2024-01-05</Date>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <SuspiciousActivity>
+    <Type>Withdrawal Request Denial</Type>
+    <Description>Customer Hans Schmidt attempted to withdraw funds (€3,000) from his account, which was subsequently denied by the Innovative AI Investments platform.  Reason cited was "system maintenance".</Description>
+    <TransactionDetails>
+      <Amount currency="EUR">3000</Amount>
+      <Currency>EUR</Currency>
+      <Date>2024-01-05</Date>
+      <Beneficiary>Hans Schmidt</Beneficiary>
+      <IBAN/>
+    </TransactionDetails>
+    <PartyInformation>
+      <CustomerID>HS-12345</CustomerID>
+      <CustomerName>Hans Schmidt</CustomerName>
+      <CustomerAddress>Musterstraße 1, 10115 Berlin, Germany</CustomerAddress>
+    </PartyInformation>
+  </SuspiciousActivity>
+</SAR>

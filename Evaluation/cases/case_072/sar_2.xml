@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-02-29</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-15</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <SenderName>AI Trading Solutions</SenderName>
+      <SenderAccount>ZA12345678901234567890</SenderAccount>
+      <RecipientName>Klaus Hartmann</RecipientName>
+      <RecipientAccount>DE12345678901234567890</RecipientAccount>
+      <RecipientCountry>Germany</RecipientCountry>
+      <Description>Withdrawal Request - Failed</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Multiple unsuccessful attempts to withdraw funds, raising suspicion of funds being inaccessible to the customer.</Finding>
+  </Findings>
+</SAR>

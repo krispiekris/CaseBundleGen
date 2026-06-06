@@ -1,0 +1,24 @@
+<SAR>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionID>5555555555</TransactionID>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <Amount>0.00</Amount>
+      <Currency>EUR</Currency>
+      <TransactionType>Information</TransactionType>
+      <OriginatingParty>
+        <Name>Klaus Breitling</Name>
+        <Address>Musterstraße 1, 90408 Nürnberg, Germany</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>Profit Horizon Ltd</Name>
+      </Beneficiary>
+      <Description>Police report filed regarding suspicious investment activity</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Customer reports potential investment fraud.  Account flagged for investigation.</Finding>
+  </Findings>
+</SAR>

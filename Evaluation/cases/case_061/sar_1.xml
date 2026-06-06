@@ -1,0 +1,26 @@
+<SAR id="SAR-20230901-001">
+  <ReportingInstitution>
+    <Name>First National Bank of Canada</Name>
+    <Address>123 Main Street, Anytown, ON</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Address>456 Oak Avenue, Anytown, ON</Address>
+    <DateOfBirth>1972-01-15</DateOfBirth>
+  </Subject>
+  <SuspiciousActivity>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="CAD">5000.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Wire transfer to Connect Innovations</Description>
+    <BeneficiaryName>Connect Innovations</BeneficiaryName>
+    <BeneficiaryAccount>1234567890</BeneficiaryAccount>
+    <BeneficiaryBank>International Trust Bank</BeneficiaryBank>
+    <BeneficiaryCountry>Belize</BeneficiaryCountry>
+  </SuspiciousActivity>
+  <Findings>
+    <SuspicionReason>Unusual wire transfer to offshore account with limited transparency</SuspicionReason>
+    <ReportingPerson>Jane Doe</ReportingPerson>
+    <ReportingDate>2023-09-02</ReportingDate>
+  </Findings>
+</SAR>

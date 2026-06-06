@@ -1,0 +1,39 @@
+<SAR>
+  <ReportDate>2024-01-25</ReportDate>
+  <OriginatingInstitution>Europäische Zentralbank</OriginatingInstitution>
+  <Subject>
+    <Name>Global Investments Ltd.</Name>
+    <Location>Road Town, Tortola, British Virgin Islands</Location>
+  </Subject>
+  <SuspiciousActivity>
+    <ActivityType>Money Laundering</ActivityType>
+    <Description>Receiving large sums of money from multiple individuals with no apparent business relationship. Funds being transferred to Belize.</Description>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount currency="EUR">5000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+    <Transaction>
+      <Date>2023-09-15</Date>
+      <Amount currency="EUR">8000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+    <Transaction>
+      <Date>2023-09-29</Date>
+      <Amount currency="EUR">2000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+    <Transaction>
+      <Date>2023-10-13</Date>
+      <Amount currency="EUR">3000.00</Amount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAccount>DE2312344567890123456789</SenderAccount>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Possible money laundering operation linked to investment fraud.</Finding>
+  </Findings>
+</SAR>

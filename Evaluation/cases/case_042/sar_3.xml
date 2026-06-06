@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-02-05</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <Account>
+    <AccountID>1234567890</AccountID>
+    <AccountHolder>Hans Meier</AccountHolder>
+    <Country>Germany</Country>
+  </Account>
+  <SuspiciousTransaction>
+    <TransactionDate>2024-01-20</TransactionDate>
+    <TransactionAmount currency="EUR">0</TransactionAmount>
+    <TransactionType>Withdrawal Attempt</TransactionType>
+    <Recipient>
+      <Name>Hans Meier</Name>
+      <Country>Germany</Country>
+    </Recipient>
+    <Description>Attempted withdrawal from Quantum AI Trading platform.</Description>
+    <Findings>Account holder reports unsuccessful withdrawal attempt after investing substantial funds.  Suspected fraudulent activity based on prior suspicious transfers and inability to access funds.</Findings>
+  </SuspiciousTransaction>
+</SAR>

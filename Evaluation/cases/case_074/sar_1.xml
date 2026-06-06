@@ -1,0 +1,27 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <ReferenceID>SAR-20230905-001</ReferenceID>
+    <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="CAD">5000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>CA1234567890123456</SenderAccount>
+    <ReceiverAccount>CY8912345678901234567890</ReceiverAccount>
+    <ReceiverName>Global Investments Ltd.</ReceiverName>
+    <Description>Online Investment</Description>
+    <SuspiciousActivity>Potential Investment Fraud - Unsolicited Contact</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>
+      <Name>David Miller</Name>
+      <Address>123 Main Street, Anytown, Canada</Address>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd.</Name>
+      <Country>Cyprus</Country>
+    </Receiver>
+  </Parties>
+</SAR>

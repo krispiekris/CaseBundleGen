@@ -1,0 +1,4 @@
+Date,Description,Amount (EUR),Balance (EUR),IBAN
+2023-03-28,Incoming Transfer,10000.00,10000.00,DExxxxxxxxxxxxx
+2023-04-01,Wire Transfer, -5000.00,5000.00,DExxxxxxxxxxxxx
+2023-04-05,Credit Interest, 0.10, 5000.10,DExxxxxxxxxxxxx

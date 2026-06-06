@@ -1,0 +1,14 @@
+From: "AI Trading Pro" <support@aitradingpro.com>
+To: David.Anderson@example.com.au
+Subject: Your AI Trading Pro Account Update
+
+Dear David,
+
+We're pleased to inform you that your account balance has increased significantly due to our AI's successful trading strategies.
+
+Your current balance is $13,500.00 AUD.
+
+To access your account and view your profits, please log in here: [http://aitradingpro.net](http://aitradingpro.net)
+
+Best regards,
+The AI Trading Pro Team

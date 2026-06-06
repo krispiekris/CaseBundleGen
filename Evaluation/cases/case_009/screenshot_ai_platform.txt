@@ -1,0 +1,1 @@
+[Screenshot depicting a website dashboard.  The dashboard shows a fluctuating graph with several green upward spikes.  The balances are displayed as $12,500.00 (total) with $5,000.00 in cash and $7,500.00 in 'AI-managed assets'.  A prominent button reads 'Withdraw Funds'.  A small disclaimer at the bottom reads: 'Simulated Performance. Results not guaranteed.']

@@ -1,0 +1,28 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-10-03</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReportID>SAR-2023-00512</ReportID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-15</TransactionDate>
+    <Amount>10000</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Credit</TransactionType>
+    <SenderAccount>DE89370400440532013000</SenderAccount>
+    <ReceiverAccount>BE98363636363636</ReceiverAccount>
+    <Description>Incoming transfer - AI Elite Trading</Description>
+    <SuspiciousActivity>Potential investment fraud - unsolicited contact, high yield promise, increasing deposit amounts</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Account>DE89370400440532013000</Account>
+    </Sender>
+    <Receiver>
+      <Name>AI Elite Trading</Name>
+      <Account>BE98363636363636</Account>
+      <Country>Belgium</Country>
+    </Receiver>
+  </Parties>
+</SAR>

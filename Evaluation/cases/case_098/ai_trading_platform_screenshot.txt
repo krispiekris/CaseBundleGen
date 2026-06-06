@@ -1,0 +1,3 @@
+---AI Trading Platform Screenshot Description---
+
+The screenshot shows a web interface with a green and gold color scheme. A large graph dominates the center of the screen, displaying a rapidly ascending line labeled 'AI Profit Curve.' Below the graph are buttons labeled 'Invest Now,' 'Auto-Trade,' and 'Withdraw (Locked).' A text box displays: 'Current Profit: €18,500.00.'  A prominent banner at the top reads: 'Alpha AI: Generating Wealth, Automatically.' The platform's logo, a stylized brain with binary code, is visible in the upper left corner.  Several fake news articles about the AI platform are displayed on the right sidebar.

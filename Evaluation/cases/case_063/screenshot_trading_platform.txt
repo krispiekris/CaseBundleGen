@@ -1,0 +1,1 @@
+[Screenshot description:  The screenshot depicts a trading platform dashboard. It shows a graph with rapidly increasing line representing profit growth.  There are multiple buttons labelled 'Buy', 'Sell', 'Auto-Trade'.  The platform displays a 'Balance' of €5,000 and a 'Profit' of €1,250. A timer displays 'Next Trade in: 00:02:30'.  The platform logo is 'AI Trading Elite'.

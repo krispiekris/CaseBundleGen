@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-03-22</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-2023-03-22-001</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-03-15</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Debit</TransactionType>
+    <Description>Transfer to NovaTrade AI</Description>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>GB24NWBK000000000000</ReceiverAccount>
+    <SuspiciousActivity>Potential investment fraud - unsolicited email</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <AccountHolderName>Klaus Heinz</AccountHolderName>
+    <AccountHolderAddress>Musterstraße 1, 10115 Berlin</AccountHolderAddress>
+  </Party>
+</SAR>

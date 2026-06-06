@@ -1,0 +1,34 @@
+<SAR>
+  <CaseID>2023-SAR-123</CaseID>
+  <Date>2023-07-29</Date>
+  <BankName>First National Bank</BankName>
+  <BankLocation>Toronto, Canada</BankLocation>
+  <AccountName>David Miller</AccountName>
+  <AccountNum>1234567890</AccountNum>
+  <SuspiciousActivity>Multiple large deposits followed by a withdrawal request.</SuspiciousActivity>
+  <TransactionDetails>
+    <Transaction1>
+      <Date>2023-04-01</Date>
+      <Amount>25000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Deposit from Crypto Exchange</Description>
+      <Recipient>Forex Global Elite</Recipient>
+    </Transaction1>
+    <Transaction2>
+      <Date>2023-05-15</Date>
+      <Amount>10000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Deposit from Crypto Exchange</Description>
+      <Recipient>Forex Global Elite</Recipient>
+    </Transaction2>
+    <Transaction3>
+      <Date>2023-07-22</Date>
+      <Amount>25000.00</Amount>
+      <Currency>CAD</Currency>
+      <Description>Withdrawal Request</Description>
+      <Recipient>David Miller</Recipient>
+    </Transaction3>
+  </TransactionDetails>
+  <Findings>Potential investment fraud. Account holder may be a victim.</Findings>
+  <ReportingBankOfficer>Jane Doe</ReportingBankOfficer>
+</SAR>

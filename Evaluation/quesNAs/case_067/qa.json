@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What initial incentive did Global Forex Solutions offer to attract potential clients like Klaus Heinz?",
+    "answer": "Expert guidance and proven strategies to increase income and achieve financial goals."
+  },
+  {
+    "question": "According to email_2.txt, what specific information did Klaus Heinz request from Global Forex Solutions?",
+    "answer": "More details and examples of successful trades related to their VIP program."
+  },
+  {
+    "question": "What type of suspicious activity was initially reported in SAR_1.xml, and what financial behavior was observed?",
+    "answer": "Unusual Transaction involving large cash deposits followed by rapid transfers to overseas accounts."
+  },
+  {
+    "question": "What currency was used for the initial deposit made by Klaus Heinz, as recorded in the bank statement?",
+    "answer": "EUR"
+  },
+  {
+    "question": "What triggered the creation of SAR_2.xml?",
+    "answer": "Customer reporting difficulties in withdrawing funds from their account."
+  },
+  {
+    "question": "Which country is listed as the location of Global Forex Solutions in the SAR reports?",
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Based on promotional_material_2.txt, what is the central theme or promise that Global Forex Solutions is advertising?",
+    "answer": "Financial Freedom - earning passive income while you sleep."
+  },
+  {
+    "question": "What additional verification method, involving cryptocurrency, was requested from Klaus Heinz in email_3.txt?",
+    "answer": "Transfer of 0.5 BTC to the wallet address: 1BKzJq432WkGzS9q1Q23P6Y738497k77A."
+  },
+  {
+    "question": "According to SAR_3.xml, which region was involved in the suspicious funds transfer?",
+    "answer": "United Arab Emirates"
+  },
+  {
+    "question": "What is the primary marketing focus highlighted in promotional_material_3.txt?",
+    "answer": "Limited spots available in an exclusive Forex VIP program."
+  }
+]

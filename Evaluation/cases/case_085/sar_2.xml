@@ -1,0 +1,28 @@
+<SAR>
+  <Header>
+    <SARReference>20230915-GER-002</SARReference>
+    <DateTime>2023-09-15T09:00:00Z</DateTime>
+    <Bank>
+      <Name>Deutsche Bank</Name>
+      <Identifier>DEIN00000000</Identifier>
+    </Bank>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-20230510-001</TransactionID>
+    <TransactionDateTime>2023-05-10T14:48:00Z</TransactionDateTime>
+    <Amount currency="EUR">250.00</Amount>
+    <Currency>EUR</Currency>
+    <Sender>
+      <Name>QuantumTrade Ltd.</Name>
+      <Account>MU12345678901234567890</Account>
+      <Jurisdiction>Marshall Islands</Jurisdiction>
+    </Sender>
+    <Receiver>
+      <Name>Klaus Mueller</Name>
+      <Account>DE12345678901234567890</Account>
+    </Receiver>
+    <PurposeCode>2020</PurposeCode>
+    <Description>Profit Payout - AI Trading</Description>
+    <SuspiciousActivity>Possible Investment Fraud - Unsolicited contact, high-pressure sales tactics, promised unrealistic returns.</SuspiciousActivity>
+  </Transaction>
+</SAR>

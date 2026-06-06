@@ -1,0 +1,26 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-10-27</ReportDate>
+    <InstitutionID>Royal Bank of Canada</InstitutionID>
+    <Currency>CAD</Currency>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-05</TransactionDate>
+    <TransactionAmount>10000.00</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <OriginatingAccount>AI Trading Pro - [Account Number Redacted]</OriginatingAccount>
+    <BeneficiaryAccount>Richard Boudreau - [Account Number Redacted]</BeneficiaryAccount>
+    <BeneficiaryName>AI Trading Pro</BeneficiaryName>
+    <BeneficiaryCountry>Serbia</BeneficiaryCountry>
+    <Description>Online Funds Transfer</Description>
+    <SuspiciousActivity>Possible Investment Fraud - AI Trading</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <Name>Richard Boudreau</Name>
+    <Address>[Redacted]</Address>
+    <DateOfBirth>[Redacted]</DateOfBirth>
+  </Party>
+  <Findings>
+    The credit to Richard Boudreau from 'AI Trading Pro' in Serbia is flagged due to concerns regarding the legitimacy of the entity and potential investment fraud.
+  </Findings>
+</SAR>

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What initial message did the TraderAI_Bot send to Mark Peterson, and what did it offer?",
+    "answer": "The TraderAI_Bot greeted Mark Peterson and offered to leverage artificial intelligence to maximize returns, inviting him to join an exclusive community and providing a link for a demo."
+  },
+  {
+    "question": "According to the SAR report (SAR-20230805-001), what type of suspicious activity was reported regarding Mark Peterson?",
+    "answer": "Multiple cryptocurrency transactions to offshore accounts potentially linked to investment fraud."
+  },
+  {
+    "question": "What amounts were transacted to Belizean Investments Ltd. and St. Vincent Trading Group, according to the SAR-20230805-001?",
+    "answer": "Belizean Investments Ltd. received $10,000 USD, and St. Vincent Trading Group received $5,000 USD."
+  },
+  {
+    "question": "What benefit was promised to Mark Peterson in the promotional email, aside from the platform itself?",
+    "answer": "A FREE demo and personalized onboarding session."
+  },
+  {
+    "question": "What action was Mark Peterson expected to take in response to Nikola's email (email_2.txt) to secure a place in a limited opportunity?",
+    "answer": "Reply with 'CONFIRM'."
+  },
+  {
+    "question": "According to SAR-20230820-002, which entity received a transaction and what was the amount?",
+    "answer": "Belizean Investments Ltd. received a transaction of $3000 USD."
+  },
+  {
+    "question": "What does the screenshot of the trading platform (screenshot_trading_platform.txt) show regarding potential profits?",
+    "answer": "A pop-up window displays a message: 'Daily Profit +12.5%'."
+  },
+  {
+    "question": "Which entities are mentioned in promotional email_1.txt but not explicitly present in the SAR-20230805-001?",
+    "answer": "TraderAI Team"
+  },
+  {
+    "question": "Based on SAR-20230815-003, what action did Mark Peterson take after repeated deposits?",
+    "answer": "Large cryptocurrency withdrawals."
+  },
+  {
+    "question": "What was the stated reason for requiring verification from Nikola in email_3.txt?",
+    "answer": "To ensure the security of funds due to unusual activity detected on Mark Peterson\u2019s account."
+  }
+]

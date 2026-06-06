@@ -1,0 +1,16 @@
+Klaus: Hello
+AI_Pro_Support: Hello Klaus! Welcome to AI Trading Pro. How can we help you today?
+Klaus: I am interested in the platform. Can you explain how it works?
+AI_Pro_Support: Absolutely! Our AI algorithm analyzes market trends and executes trades automatically. You just set your desired risk level and watch your profits grow.
+Klaus: What are the minimum deposit requirements?
+AI_Pro_Support: A minimum deposit of €250 is required to activate the AI trading system.
+Klaus: Can I withdraw my funds at any time?
+AI_Pro_Support: Yes, withdrawals are processed within 24-48 hours. 
+Klaus: How much can I realistically expect to earn?
+AI_Pro_Support: It varies, but most of our users see returns of 15-30% per month. 
+Klaus: I made a deposit of €15,000.
+AI_Pro_Support: Excellent choice! Your AI trading system is now active. Check your dashboard for updates.
+Klaus: I attempted to withdraw some funds but it is not processing
+AI_Pro_Support: Please allow 72 hours for the withdrawal to process. There may be a slight delay due to increased transaction volume.
+Klaus: 72 hours? I've been promised quicker withdrawals before.
+AI_Pro_Support: Everything is working as expected. Please be patient.

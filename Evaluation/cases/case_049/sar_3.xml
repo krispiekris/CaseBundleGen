@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2024-02-29</ReportDate>
+  <ReportingInstitution>First Canadian Trust</ReportingInstitution>
+  <AccountName>David Miller</AccountName>
+  <AccountID>123456789</AccountID>
+  <TransactionDate>2023-12-05</TransactionDate>
+  <TransactionAmount>5000.00</TransactionAmount>
+  <TransactionCurrency>CAD</TransactionCurrency>
+  <TransactionType>Credit</TransactionType>
+  <BeneficiaryName>Zenith Bank</BeneficiaryName>
+  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
+  <Description>Customer reporting being blocked from withdrawing funds after initial deposit and subsequent smaller withdrawals.  Potentially linked to Quantum AI investment scheme.</Description>
+  <SuspicionLevel>High</SuspicionLevel>
+  <Investigator>Alice Brown</Investigator>
+</SuspiciousActivityReport>

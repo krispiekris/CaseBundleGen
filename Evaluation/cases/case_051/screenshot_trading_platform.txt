@@ -1,0 +1,1 @@
+[Screenshot Description: The screenshot depicts a mock trading platform interface. A graph shows a steady upward trend, with labels indicating 'BTC/EUR'.  The balance displayed is €17,430. Buttons are labeled 'Deposit', 'Withdraw', and 'Auto-Trade'. A news ticker at the bottom reads: 'AI-Profit Solutions clients experiencing record profits!']

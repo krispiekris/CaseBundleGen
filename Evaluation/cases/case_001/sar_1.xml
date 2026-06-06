@@ -1,0 +1,18 @@
+<SAR>
+  <ReportDate>2023-04-05</ReportDate>
+  <Institution>Commonwealth Bank of Australia</Institution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-04-01</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <ReceiverName>AI Extra Trading</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <ReceiverBank>Global Finance Corp</ReceiverBank>
+      <Description>Initial Investment</Description>
+      <SuspiciousIndicator>Unusual investment platform</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingPerson>Bank Compliance Officer</ReportingPerson>
+</SAR>

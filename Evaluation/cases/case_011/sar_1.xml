@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReferenceNumber>SAR-20231115-001</ReferenceNumber>
+    <DateFiled>2023-11-15</DateFiled>
+    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Markus Richter</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>AI Trading Pro Ltd.</ReceiverName>
+    <ReceiverAccount>BBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Initial Investment</Description>
+    <SuspiciousActivity>Possible investment fraud - AI trading platform</SuspiciousActivity>
+    <Notes>Customer appears to be experiencing difficulties withdrawing funds. Further investigation recommended.</Notes>
+  </Transaction>
+</SAR>

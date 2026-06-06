@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What initial investment amount was offered to David Miller by Global Investments?",
+    "answer": "$5,000"
+  },
+  {
+    "question": "According to the SAR, what was the primary reason for the initial suspicion regarding David Miller's transactions?",
+    "answer": "Potential investment fraud. Unusually high returns promised. Destination country is high risk."
+  },
+  {
+    "question": "What is the IBAN associated with the receiver\u2019s account in the transactions?",
+    "answer": "BG88UNCR7000140000001"
+  },
+  {
+    "question": "What was the description associated with the transaction made on 2024-01-10?",
+    "answer": "Withdrawal Request Denial"
+  },
+  {
+    "question": "Based on the promotional material, what is one advertised benefit of the Alpha AI Trading System?",
+    "answer": "Automated Trading: No experience needed."
+  },
+  {
+    "question": "What is the date of the screenshot provided, indicating the Alpha AI Trading System\u2019s performance?",
+    "answer": "Not mentioned in the case files"
+  },
+  {
+    "question": "What additional investment did David Miller make on 2024-02-22?",
+    "answer": "$15,000"
+  },
+  {
+    "question": "What action did the email from account.support@globalinvestments.tech request from David Miller?",
+    "answer": "To verify his information by clicking on a link."
+  },
+  {
+    "question": "Which bank teller flagged the transaction involving David Miller, raising concerns about a potential scam?",
+    "answer": "Branch Teller"
+  },
+  {
+    "question": "What was the amount of the electricity bill recorded in the bank statement?",
+    "answer": "-150.00"
+  }
+]

@@ -1,0 +1,12 @@
+From: support@ai-tradingpro.com
+To: ulrich.baumann@email.de
+Subject: Account Restrictions and Verification
+
+Dear Ulrich,
+
+Due to a system update and enhanced security protocols, your account has been temporarily restricted. We require you to verify your identity and investment details to ensure the safety of your funds. Please click on the link below to complete the verification process:
+
+[Link to a phishing page]
+
+Sincerely,
+The AI Trading Pro Support Team

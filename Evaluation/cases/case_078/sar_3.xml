@@ -1,0 +1,31 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-11-15</ReportDate>
+    <SuspiciousActivity>
+      <Description>Potential Investment Fraud - AI Trading Scam - Investigation Follow-up</Description>
+    </SuspiciousActivity>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-02</TransactionDate>
+    <Amount>2500.00</Amount>
+    <Currency>EUR</Currency>
+    <SenderName>Karl Heinrich</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverName>Innovative Investments Ltd.</ReceiverName>
+    <ReceiverAccount>GBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <PurposeCode>1000</PurposeCode>
+  </Transaction>
+  <Parties>
+    <Party>
+      <Name>Karl Heinrich</Name>
+      <Address>Musterstraße 123, 12345 Musterstadt, Germany</Address>
+    </Party>
+    <Party>
+      <Name>Innovative Investments Ltd.</Name>
+      <Jurisdiction>United Kingdom</Jurisdiction>
+    </Party>
+  </Parties>
+  <Findings>
+    <Finding>Victim’s inability to withdraw funds coupled with aggressive promotional materials and unusual transaction recipient warrants further investigation into Innovative Investments Ltd.</Finding>
+  </Findings>
+</SAR>

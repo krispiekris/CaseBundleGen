@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_date>2023-09-05</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <reporter_id>DB-20230905-001</reporter_id>
+  <beneficial_owner>
+    <name>Hans Meier</name>
+    <address>Musterstraße 123, 10115 Berlin, Germany</address>
+  </beneficial_owner>
+  <transaction>
+    <transaction_date>2023-09-01</transaction_date>
+    <amount currency="EUR">5000.00</amount>
+    <description>Transfer to AI Global Trading</description>
+    <recipient_account>AI-Global-Trading-Account</recipient_account>
+    <recipient_bank>SecurePay Global</recipient_bank>
+    <recipient_country>United Arab Emirates</recipient_country>
+    <iban>AE1205000000000000012345</iban>
+  </transaction>
+  <findings>Potential investment scam – unusually high returns promised, limited information available about the company.</findings>
+</sar>

@@ -1,0 +1,12 @@
+From: support@novatrade.ai
+To: richard.adams@example.com
+Subject: Important Notice: Account Maintenance
+
+Dear Richard Adams,
+
+Due to scheduled system maintenance, your account access has been temporarily restricted. We apologize for any inconvenience this may cause.
+
+Our technicians are working diligently to resolve the issue.  You will receive another email when your account is fully restored.
+
+Sincerely,
+The NovaTrade AI Support Team

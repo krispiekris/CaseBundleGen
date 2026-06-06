@@ -1,0 +1,27 @@
+<SAR>
+  <Header>
+    <SARReferenceID>20231125-SAR-002</SARReferenceID>
+    <DateTime>2023-11-25T14:30:00Z</DateTime>
+    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
+  </Header>
+  <TransactionDetails>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="EUR">0</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Karl Meier</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+      <Country>DE</Country>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>FX Pro Advisor</Name>
+      <AccountID>BZ21020100000000000001</AccountID>
+      <Country>BZ</Country>
+      <IBAN>BZ21020100000000000001</IBAN>
+    </BeneficiaryParty>
+  </TransactionDetails>
+  <Suspicion>
+    <Description>Withdrawal attempt denied due to account restrictions</Description>
+    <Reason>Potential investment fraud</Reason>
+  </Suspicion>
+</SAR>

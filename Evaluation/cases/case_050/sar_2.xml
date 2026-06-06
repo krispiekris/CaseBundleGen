@@ -1,0 +1,18 @@
+<sar>
+  <report>
+    <report_date>2024-01-25</report_date>
+    <institution_id>DE-DeutscheBank</institution_id>
+    <reporter_id>12345</reporter_id>
+    <transaction>
+      <transaction_date>2024-01-18</transaction_date>
+      <transaction_amount currency="EUR">10000</transaction_amount>
+      <transaction_type>Credit</transaction_type>
+      <sender_name>Hans Schmidt</sender_name>
+      <sender_account>DE12345678901234567890</sender_account>
+      <receiver_name>Global Investment Solutions Ltd</receiver_name>
+      <receiver_account>GB22BARC20400000000000</receiver_account>
+      <description>Additional investment in AI Trading Platform</description>
+      <suspicious_activity>Increased investment amount compared to previous transaction. Customer exhibits signs of potential pressure.</suspicious_activity>
+    </transaction>
+  </report>
+</sar>

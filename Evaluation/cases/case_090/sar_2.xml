@@ -1,0 +1,23 @@
+<SAR id="SAR-20230610-001">
+  <ReportingInstitution>
+    <Name>Canadian National Bank</Name>
+    <Address>123 Main Street, Toronto, ON</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Mark Hamilton</Name>
+    <Address>456 Oak Avenue, Vancouver, BC</Address>
+  </Subject>
+  <Transaction>
+    <Date>2023-06-10</Date>
+    <Amount currency="CAD">5000.00</Amount>
+    <Description>Withdrawal from Aionautics Trading Platform</Description>
+    <Recipient>
+      <Name>Mark Hamilton</Name>
+      <Account>1234567890</Account>
+    </Recipient>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Partial withdrawal of funds from an investment platform after substantial initial deposit.</SuspiciousActivity>
+    <PotentialFraudType>Investment Fraud</PotentialFraudType>
+  </Findings>
+</SAR>

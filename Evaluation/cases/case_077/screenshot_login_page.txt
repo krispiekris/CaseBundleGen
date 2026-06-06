@@ -1,0 +1,19 @@
+--------------------------------------------------
+Innovative AIX - Secure Login
+--------------------------------------------------
+
+[Logo: Geometric design incorporating the letters 'AIX']
+
+Username: [Text Field]
+
+Password: [Password Field]
+
+[Checkbox: Remember Me]
+
+[Button: Login]
+
+[Link: Forgot Password?]
+
+[Link: Register]
+
+--------------------------------------------------

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial investment amount made by Klaus Meier?",
+    "answer": "\u20ac5,000"
+  },
+  {
+    "question": "According to the promotional material, what is the average weekly return promised by the Chronos AI trading system?",
+    "answer": "12%"
+  },
+  {
+    "question": "What type of transaction triggered the Suspicious Activity Report (SAR)?",
+    "answer": "Funds Transfer"
+  },
+  {
+    "question": "Based on the SAR reports, what are two findings that raise concerns about the investment opportunity?",
+    "answer": "Unusually large transaction for an individual with reported income, Recipient is a newly established company with limited public information"
+  },
+  {
+    "question": "What reason was initially provided for the temporary restriction of Klaus Meier's account?",
+    "answer": "Ongoing system upgrades"
+  },
+  {
+    "question": "What does the website screenshot suggest about the team behind NovaTech AI?",
+    "answer": "They have generic stock photos and vague biographies"
+  },
+  {
+    "question": "Besides Klaus Meier, which other entity is mentioned in both the SAR reports?",
+    "answer": "NovaTech AI Ltd."
+  },
+  {
+    "question": "According to the email sent to Klaus Meier, what action should he NOT attempt to take during the account restriction?",
+    "answer": "Accessing his account"
+  },
+  {
+    "question": "Considering the bank statements, what was the last amount Klaus Meier transferred from his account?",
+    "answer": "-2000.00"
+  },
+  {
+    "question": "What promotional tactic does the second promotional material employ to attract new investors?",
+    "answer": "Exclusive Bonus: Sign up now and receive a free personalized investment consultation!"
+  }
+]

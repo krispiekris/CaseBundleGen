@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <Header>
+    <ReportDate>2024-01-16</ReportDate>
+    <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
+    <ReportingEntity>
+      <Name>Deutsche Bank AG</Name>
+      <Address>Taunuschluse 2, 60308 Frankfurt am Main, Germany</Address>
+    </ReportingEntity>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-08-20</TransactionDate>
+    <TransactionAmount currency="EUR">35000.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Currency>EUR</Currency>
+    <OriginatingParty>
+      <Name>Markus Weber</Name>
+      <Address></Address>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Innovative AIX</Name>
+      <Address>Suite 180, 1st Floor, Nemea Building, 6 Isocrates Street, 2360 Strovolos, Cyprus</Address>
+    </BeneficiaryParty>
+    <Purpose>Investment</Purpose>
+    <SuspiciousActivity>Pattern of transfers to offshore entity with inconsistent communication and blocked withdrawal attempt.</SuspiciousActivity>
+    <Notes>Multiple transactions totaling significant amounts raised concerns. The recipient entity appears to have limited transparency.</Notes>
+  </Transaction>
+</SAR>

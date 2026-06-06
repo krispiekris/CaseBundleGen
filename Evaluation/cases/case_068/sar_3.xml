@@ -1,0 +1,18 @@
+<SAR id="SAR-20240120-003">
+  <Header>
+    <DateTime>2024-01-20T09:00:00Z</DateTime>
+    <Originator>Deutsche Bank</Originator>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">15000</Amount>
+    <DateTime>2023-09-01</DateTime>
+    <Description>Transfer to NovaTech Solutions</Description>
+    <Sender>Marc Schneider</Sender>
+    <Receiver>NovaTech Solutions - Cyprus Branch</Receiver>
+    <ReceiverAccount>CY8800200001000000000012345</ReceiverAccount>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Reported fraud by client</SuspiciousActivity>
+    <Justification>Client claims inability to withdraw funds and suspects fraudulent activity.</Justification>
+  </Findings>
+</SAR>

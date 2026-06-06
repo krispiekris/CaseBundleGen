@@ -1,0 +1,20 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-09-05</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <SenderName>Klaus Richter</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxxxxxxxxxxx</RecipientAccount>
+      <Description>Initial investment to AI Trading Solutions platform</Description>
+      <SuspiciousIndicators>
+        <Indicator>Unusual investment destination</Indicator>
+        <Indicator>High transaction amount for individual</Indicator>
+      </SuspiciousIndicators>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingEmployee>Jane Doe</ReportingEmployee>
+</SAR>

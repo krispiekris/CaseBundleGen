@@ -1,0 +1,9 @@
+Screenshot Description:
+
+The screenshot shows a simplified dashboard of the NovaAI trading platform. The top section displays a welcome message: "Welcome, Helmut Schmidt!"
+
+Below the welcome message is a graph showing simulated trading performance, marked with a green upward trend.  The graph indicates a current balance of €90,150.00. A "Daily Profit" indicator displays a value of +€2,500.00.
+
+A navigation bar on the left side offers options for "Dashboard", "Transactions", "Account Settings", and "Withdrawal Request". A "Help" button is also visible.
+
+The overall design is clean and modern, with a focus on positive reinforcement and ease of use.

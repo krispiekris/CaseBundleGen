@@ -1,0 +1,30 @@
+<SAR>
+  <Header>
+    <SARReference>20231003-NGA-001</SARReference>
+    <DateTime>2023-10-03T14:30:00Z</DateTime>
+    <SubmittedBy>Zenith Bank Nigeria</SubmittedBy>
+  </Header>
+  <TransactionDetails>
+    <TransactionID>TXN-90123</TransactionID>
+    <TransactionDate>2023-09-18</TransactionDate>
+    <TransactionAmount currency="EUR">200</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <OriginatingBank>Commerzbank</OriginatingBank>
+    <BeneficiaryBank>Zenith Bank Nigeria</BeneficiaryBank>
+    <BeneficiaryAccount>5678901234</BeneficiaryAccount>
+  </TransactionDetails>
+  <PartyInformation>
+    <Sender>
+      <Name>Klaus Heinz</Name>
+      <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>Unclear</Name>
+      <Location>Nigeria</Location>
+    </Receiver>
+  </PartyInformation>
+  <Findings>
+    <SuspiciousActivity>Small transfer to Nigeria following previous large transfers.  Recipient account details unclear.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SAR>

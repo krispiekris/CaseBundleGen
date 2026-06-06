@@ -1,0 +1,15 @@
+From: account.support@globalinvestments.tech
+To: david.miller@example.com.au
+Subject: Important Update Regarding Your Alpha AI Trading Account
+
+Dear David,
+
+We're excited to inform you that your Alpha AI Trading System is performing exceptionally well! Your current balance has reached a significant level, and we’re confident that you will continue to see substantial returns.
+
+To ensure the security of your account, we require you to verify your information by clicking on the link below:
+
+[Link to a phishing website]
+
+Sincerely,
+
+The Global Investments Support Team

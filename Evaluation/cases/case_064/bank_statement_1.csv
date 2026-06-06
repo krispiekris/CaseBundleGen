@@ -1,0 +1,6 @@
+Date,Description,Amount (EUR),Balance (EUR),Recipient IBAN
+2023-08-28,Groceries, -50.00,1200.00,
+2023-09-01,Transfer to AI Trading Platform, -5000.00, 700.00, NG48901234567890123456
+2023-09-05,Incoming Transfer, 100.00, 800.00,
+2023-09-10,Restaurant, -30.00, 770.00,
+2023-09-15,Online Shopping, -75.00, 695.00,

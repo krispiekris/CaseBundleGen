@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What initial impression did Alistair Huber aim to create with his email to Marc Schneider?",
+    "answer": "He aimed to create an impression of being a Senior AI Strategist at a rapidly growing firm specializing in automated trading."
+  },
+  {
+    "question": "According to promotional material, what is a key advantage of NovaTech Solutions' AI-powered platform?",
+    "answer": "Consistently outperform traditional investment methods."
+  },
+  {
+    "question": "What specific document did NovaTech Solutions request from Marc Schneider when he attempted to withdraw funds?",
+    "answer": "A copy of his passport and a recent utility bill."
+  },
+  {
+    "question": "What action did Deutsche Bank take regarding Marc Schneider\u2019s withdrawal attempt?",
+    "answer": "The withdrawal attempt was rejected."
+  },
+  {
+    "question": "What reason did Deutsche Bank initially provide for flagging the transaction involving Marc Schneider?",
+    "answer": "Large transfer to an offshore company with limited online presence."
+  },
+  {
+    "question": "What is the IBAN associated with the transfers to NovaTech Solutions?",
+    "answer": "CY8800200001000000000012345"
+  },
+  {
+    "question": "What did the screenshot of NovaTechSolutions.com highlight regarding the firm's technology?",
+    "answer": "AI-Powered Investing"
+  },
+  {
+    "question": "What additional evidence would support the claim that Marc Schneider's initial interaction with Alistair Huber may be fraudulent?",
+    "answer": "The request for passport and utility bill copies, coupled with difficulties withdrawing funds."
+  },
+  {
+    "question": "According to SAR-20231110-002, what was the main reason for the blocked withdrawal request?",
+    "answer": "Client reported difficulties in withdrawing funds after recent deposits."
+  },
+  {
+    "question": "What was the total value of funds transferred to NovaTech Solutions by Marc Schneider, as reflected in the provided bank statement?",
+    "answer": "30000.00"
+  }
+]

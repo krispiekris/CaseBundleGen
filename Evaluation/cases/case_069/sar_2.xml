@@ -1,0 +1,24 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-15</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <Amount>50000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
+      <Description>Investment Deposit</Description>
+      <Location>Australia</Location>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>Jane Doe</Contact>
+    <Phone>1300 123 456</Phone>
+  </ReportingInstitution>
+  <Findings>
+    <Finding>Large investment deposit following initial profit withdrawal, warranting further investigation.</Finding>
+  </Findings>
+</SAR>

@@ -1,0 +1,20 @@
+<sar>
+  <report_date>2023-07-12</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <reporter_id>DB-SAR-2023-0049</reporter_id>
+  <customer>
+    <name>Ulrich Baumann</name>
+    <address>Musterstraße 12, 10115 Berlin, Germany</address>
+    <date_of_birth>1968-07-22</date_of_birth>
+  </customer>
+  <suspicious_activity>
+    <activity_date>2023-05-12</activity_date>
+    <transaction_amount currency="EUR">2000.00</transaction_amount>
+    <transaction_type>Deposit</transaction_type>
+    <description>Deposit from AI Trading Elite platform</description>
+    <account_number>1234567890</account_number>
+  </suspicious_activity>
+  <findings>
+    <finding>Reported fraud activity; customer received fabricated profit reports.</finding>
+  </findings>
+</sar>

@@ -1,0 +1,18 @@
+<SAR id="SAR-20231122-003">
+  <ReportDate>2023-11-22</ReportDate>
+  <OriginatingInstitution>First National Bank</OriginatingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-11-22</TransactionDate>
+    <TransactionAmount currency="USD">0.00</TransactionAmount>
+    <TransactionType>Complaint</TransactionType>
+    <SenderName>Robert Miller</SenderName>
+    <RecipientName>Innovative AIX</RecipientName>
+    <Description>Customer reports inability to withdraw funds and concerns regarding the legitimacy of Innovative AIX. Filed a formal complaint with regulatory agencies.</Description>
+    <Suspicion>Client reports difficulty accessing funds and expresses suspicion about the investment firm. Escalation of concern regarding potential fraud.</Suspicion>
+  </SuspiciousActivity>
+  <ReportingInstitutionContact>
+    <Name>Jane Doe</Name>
+    <Title>AML Officer</Title>
+    <Phone>555-123-4567</Phone>
+  </ReportingInstitutionContact>
+</SAR>

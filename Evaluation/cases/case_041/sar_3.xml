@@ -1,0 +1,28 @@
+<SAR id="SAR-20240125-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank AG</Name>
+    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Michael Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Subject>
+  <SuspiciousActivity>
+    <Date>2024-01-05</Date>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Attempted withdrawal denied. Customer expresses concerns about investment.</Description>
+    <Beneficiary>
+      <Name>N/A</Name>
+    </Beneficiary>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Attempted withdrawal of funds denied, raising suspicions of potential investment fraud.</Finding>
+  </Findings>
+  <ReportingPerson>
+    <Name>Anna Schmidt</Name>
+    <Title>Compliance Officer</Title>
+  </ReportingPerson>
+</SAR>

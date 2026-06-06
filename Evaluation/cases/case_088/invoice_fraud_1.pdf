@@ -1,0 +1,19 @@
+Invoice
+Innovationsolutions.com
+Invoice Number: 12345
+Date: 2023-11-15
+
+To:
+Global Tech Systems
+
+Description | Quantity | Unit Price | Total
+-------------------|----------|------------|--------
+Consulting Services | 1 | $50000.00 | $50000.00
+Software License | 1 | $12500.00 | $12500.00
+
+Subtotal: $62500.00
+Tax: 0.00
+Total: $62500.00
+
+Payment Terms: Net 30
+Contact: Sarah Miller, Vendor Relations

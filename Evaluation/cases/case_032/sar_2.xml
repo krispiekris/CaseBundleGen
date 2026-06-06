@@ -1,0 +1,18 @@
+<SAR>
+  <ReportDate>2024-01-25</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-20</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Heinz</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <ReceiverName>Golden Future Investments</ReceiverName>
+      <ReceiverAccount>USxxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+      <PurposeCode>13 - Other</PurposeCode>
+      <Description>Withdrawal attempt - Denied</Description>
+      <SuspicionReason>Victim reported concerns about withdrawal; potential scam activity.</SuspicionReason>
+    </Transaction>
+  </SuspiciousActivity>
+</SAR>

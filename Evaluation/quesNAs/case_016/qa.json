@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the initial email, what is the primary benefit offered by Global Investments?",
+    "answer": "Incredibly high potential returns in the Forex market."
+  },
+  {
+    "question": "What amount did Ulrich Baumann initially transfer to Global Investments, according to SAR-20231116-001?",
+    "answer": "2500 EUR"
+  },
+  {
+    "question": "What specific reason is given in SAR-20231116-001 to justify the categorization of the transaction as suspicious?",
+    "answer": "Initial deposit exceeding typical investment amounts for a new client."
+  },
+  {
+    "question": "Based on promotional material 1, what is the maximum monthly return percentage Global Investments claims to offer?",
+    "answer": "30%"
+  },
+  {
+    "question": "What reason does Global Investments provide in the email denying Ulrich's withdrawal request?",
+    "answer": "Discrepancies in account activity that require further investigation."
+  },
+  {
+    "question": "Which account did Ulrich Baumann use to receive funds from Global Investments, according to SAR-20240126-002?",
+    "answer": "DE89370400440532013000"
+  },
+  {
+    "question": "What is the purpose of the screenshot included in the case files?",
+    "answer": "It shows the Global Investments login page, including fields for username and password and the login URL."
+  },
+  {
+    "question": "Considering the details from SAR-20240126-002 and bank_statement_2.csv, what is the net balance in Ulrich's account after the withdrawal request in January 2024?",
+    "answer": "-50.00 EUR"
+  },
+  {
+    "question": "What finding prompted the creation of SAR-20240302-003?",
+    "answer": "Client alleges fraudulent activity, withdrawal denial triggered investigation."
+  },
+  {
+    "question": "Which entities are explicitly mentioned in promotional material_1.txt and also present in the SAR reports?",
+    "answer": "Global Investments"
+  }
+]

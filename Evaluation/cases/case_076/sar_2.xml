@@ -1,0 +1,22 @@
+<SAR>
+  <Header>
+    <ReferenceID>SAR-20231124-002</ReferenceID>
+    <Date>2023-11-24</Date>
+    <Submitter>NWBK</Submitter>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">300.00</Amount>
+    <Date>2023-11-21</Date>
+    <Originator>
+      <Name>Andreas Schmidt</Name>
+      <Account>DE12345678901234567890</Account>
+    </Originator>
+    <Beneficiary>
+      <Name>AI Trade Solutions</Name>
+      <Account>GB22NWBK000000000012345678</Account>
+    </Beneficiary>
+    <Purpose>Verification Fee</Purpose>
+    <SuspiciousActivity>Potential Investment Fraud - Verification Fee</SuspiciousActivity>
+    <Notes>Customer reported paying verification fee to withdraw funds. Account known to be associated with fraudulent activity.</Notes>
+  </Transaction>
+</SAR>

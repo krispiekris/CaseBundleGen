@@ -1,0 +1,26 @@
+<SAR>
+  <Header>
+    <ReportDate>2024-02-28</ReportDate>
+    <InstitutionIdentifier>Deutsche Bank</InstitutionIdentifier>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-20</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <Sender>Hans Meier</Sender>
+    <Receiver>NovaTech AI Platform</Receiver>
+    <ReceiverAccount>1234567890</ReceiverAccount>
+    <Description>Initial deposit to AI trading platform</Description>
+    <SuspiciousActivity>Possible investment fraud - withdrawal denied and customer experiencing difficulty retrieving funds.</SuspiciousActivity>
+  </Transaction>
+  <Transaction>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <Sender>Hans Meier</Sender>
+    <Receiver>NovaTech AI Platform</Receiver>
+    <ReceiverAccount>1234567890</ReceiverAccount>
+    <Description>Additional deposit to AI trading platform</Description>
+    <SuspiciousActivity>Possible investment fraud - withdrawal denied and customer experiencing difficulty retrieving funds.</SuspiciousActivity>
+  </Transaction>
+</SAR>

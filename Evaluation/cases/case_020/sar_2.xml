@@ -1,0 +1,24 @@
+<SAR>
+  <Header>
+    <ReferenceID>SAR-2023-0522</ReferenceID>
+    <Date>2023-07-01</Date>
+    <Bank>Commonwealth Bank of Australia</Bank>
+    <BranchID>12345</BranchID>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-002</TransactionID>
+    <Date>2023-05-10</Date>
+    <Amount>1500.00</Amount>
+    <Currency>AUD</Currency>
+    <SenderAccount>1234567890</SenderAccount>
+    <SenderName>David Anderson</SenderName>
+    <RecipientAccount>GB21NWBK202040082800</RecipientAccount>
+    <RecipientName>Apex Global Investments Ltd</RecipientName>
+    <Description>Withdrawal Attempt - Blocked</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud - AI Trading Pro</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+    <Notes>Customer attempting to withdraw funds. Account flagged due to previous unusual activity and recipient location.  Customer reported difficulties withdrawing funds.</Notes>
+  </Findings>
+</SAR>

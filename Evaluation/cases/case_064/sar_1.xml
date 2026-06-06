@@ -1,0 +1,21 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
+    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>NG48901234567890123456</ReceiverAccount>
+    <ReceiverName>Oluwaseun Adebayo</ReceiverName>
+    <ReceiverCountry>Nigeria</ReceiverCountry>
+    <Description>Transfer to AI Trading Platform</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusually large transfer to foreign account with limited information about receiver.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud.</PotentialFraud>
+  </Findings>
+</SAR>

@@ -1,0 +1,18 @@
+<SAR id="SAR-20230901-001">
+  <Header>
+    <DateTime>2023-09-01T10:30:00Z</DateTime>
+    <Originator>Deutsche Bank</Originator>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">10000</Amount>
+    <DateTime>2023-09-01</DateTime>
+    <Description>Transfer to NovaTech Solutions</Description>
+    <Sender>Marc Schneider</Sender>
+    <Receiver>NovaTech Solutions - Cyprus Branch</Receiver>
+    <ReceiverAccount>CY8800200001000000000012345</ReceiverAccount>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud – high-yield investment scheme</SuspiciousActivity>
+    <Justification>Large transfer to an offshore company with limited online presence.</Justification>
+  </Findings>
+</SAR>

@@ -1,0 +1,15 @@
+From: Nikola@traderai.com
+To: Mark.Peterson@email.com
+Subject: Urgent: Verification Required
+
+Dear Mark,
+
+We've detected some unusual activity on your TraderAI account and need to verify your identity to ensure the security of your funds.
+
+Please click here to complete the verification process: [link]
+
+Failure to verify your account within 24 hours may result in temporary account suspension.
+
+Regards,
+Nikola
+TraderAI Security Team

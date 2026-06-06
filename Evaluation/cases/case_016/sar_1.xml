@@ -1,0 +1,20 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-11-16</ReportDate>
+    <ReferenceNumber>SAR-20231116-001</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <Amount>2500</Amount>
+    <Currency>EUR</Currency>
+    <SenderAccount>DE89370400440532013000</SenderAccount>
+    <SenderName>Ulrich Baumann</SenderName>
+    <ReceiverAccount>GB25NWBK00000012345678</ReceiverAccount>
+    <ReceiverName>Global Investments LTD</ReceiverName>
+    <Description>Online payment to investment platform</Description>
+  </Transaction>
+  <SuspiciousActivity>
+    <Finding>Unusual amount transferred to an overseas account.</Finding>
+    <Justification>Initial deposit exceeding typical investment amounts for a new client.</Justification>
+  </SuspiciousActivity>
+</SAR>

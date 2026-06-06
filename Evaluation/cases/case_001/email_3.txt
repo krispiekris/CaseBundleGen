@@ -1,0 +1,14 @@
+From: withdrawal.request@aiextrading.com
+To: David.Miller@example.com.au
+Subject: Your Withdrawal Request – Processing
+
+Dear David,
+
+Thank you for your withdrawal request. Our team is currently processing your request. Please allow 7-10 business days for your funds to be released.
+
+For faster processing, verify your account by submitting a copy of your government-issued ID.
+
+Sincerely,
+The AI Extra Trading Team
+
+www.aiextrading.com

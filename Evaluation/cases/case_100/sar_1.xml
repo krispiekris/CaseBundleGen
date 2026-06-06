@@ -1,0 +1,19 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-11-18</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceID>SAR-20231118-001</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <Amount>15000.00</Amount>
+    <Currency>EUR</Currency>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Forex Alpha Ltd.</ReceiverName>
+    <ReceiverAccount>BZ12345678901234567890</ReceiverAccount>
+    <Description>Initial Investment</Description>
+    <SuspiciousActivity>Potential Investment Fraud</SuspiciousActivity>
+    <Notes>Customer deposited a large sum into an account registered to Forex Alpha Ltd., a company located in Belize. Further investigation is warranted.</Notes>
+  </Transaction>
+</SAR>

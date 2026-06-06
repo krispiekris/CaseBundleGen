@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What was the initial bonus offered to Karl Heinrich by Innovative Investments?",
+    "answer": "A 20% return on his first deposit."
+  },
+  {
+    "question": "According to the initial email, what was the minimum deposit required to claim the bonus?",
+    "answer": "\u20ac2,000 or more."
+  },
+  {
+    "question": "What was the purpose code for the transaction where Karl Heinrich transferred funds to Innovative Investments?",
+    "answer": "1000"
+  },
+  {
+    "question": "Based on the SAR reports, what are the main concerns regarding Innovative Investments?",
+    "answer": "Unusual transaction amounts and recipient, denial of withdrawal requests, and a general recommendation for further investigation."
+  },
+  {
+    "question": "What was the total amount Karl Heinrich deposited initially, as indicated in email_2.txt?",
+    "answer": "\u20ac2,500"
+  },
+  {
+    "question": "According to the telegram chatlog, when did David claim Karl's bonus was credited to his account?",
+    "answer": "2023-09-01 11:12:00 UTC"
+  },
+  {
+    "question": "What does the promotional material highlight as a key advantage of the 'Athena' trading platform?",
+    "answer": "Automated trading, 24/7 performance, and risk management."
+  },
+  {
+    "question": "What action did Innovative Investments advise Karl to take in the suspicious email received from support@email.de?",
+    "answer": "Verify his identity by clicking on a link (to a phishing site)."
+  },
+  {
+    "question": "What specific currencies are listed in the screenshot of the Athena platform?",
+    "answer": "BTC, ETH, LTC"
+  },
+  {
+    "question": "What was the date of the second SAR related to Karl Heinrich\u2019s case?",
+    "answer": "2023-11-12"
+  }
+]

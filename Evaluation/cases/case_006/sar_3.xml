@@ -1,0 +1,20 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-20</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-15</TransactionDate>
+      <TransactionAmount currency="EUR">500</TransactionAmount>
+      <SenderName>Klaus Richter</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxxxxxxxxxxx</RecipientAccount>
+      <Description>Payment of 'verification fees'</Description>
+      <SuspiciousIndicators>
+        <Indicator>Request for additional fees after initial investment</Indicator>
+        <Indicator>Unusual payment for "verification"</Indicator>
+      </SuspiciousIndicators>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingEmployee>Jane Doe</ReportingEmployee>
+</SAR>

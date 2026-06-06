@@ -1,0 +1,7 @@
+Date,Description,Amount (EUR),Recipient/Sender,IBAN
+2023-08-15,Online Payment,,-,DE4532020000000000000000
+2023-09-01,Transfer to NovaTech Solutions,10000.00,NovaTech Solutions - Cyprus Branch,CY8800200001000000000012345
+2023-09-05,Interest,12.50,,DE4532020000000000000000
+2023-10-15,Transfer to NovaTech Solutions,5000.00,NovaTech Solutions - Cyprus Branch,CY8800200001000000000012345
+2023-11-10,Withdrawal Attempt,5000.00,,DE12345678901234567890
+2023-12-15,Transfer to NovaTech Solutions,15000.00,NovaTech Solutions - Cyprus Branch,CY8800200001000000000012345

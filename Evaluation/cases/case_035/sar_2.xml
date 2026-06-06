@@ -1,0 +1,21 @@
+<SAR id="SAR-20240120-002">
+  <ReportingInstitution>
+    <Name>Sparkasse Bank</Name>
+    <Address>München, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Ulrich Baumann</Name>
+    <Address>Munich, Germany</Address>
+    <DateOfBirth>1968-05-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-15</Date>
+    <Amount currency="EUR">500.00</Amount>
+    <Description>Attempted Withdrawal - Denied</Description>
+    <Recipient>
+      <Name>Sparkasse Bank</Name>
+      <IBAN>DE89370400440532015000</IBAN>
+    </Recipient>
+    <SuspiciousActivity>Withdrawal attempt denied due to account restrictions; potential fraud</SuspiciousActivity>
+  </Transaction>
+</SAR>

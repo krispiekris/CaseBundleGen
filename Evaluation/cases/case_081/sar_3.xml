@@ -1,0 +1,27 @@
+<SAR xmlns="http://www.irs.gov/">
+  <Header>
+    <SARID>20240215-AU-003</SARID>
+    <FilingDate>2024-02-15</FilingDate>
+    <FilerID>Australian Securities and Investments Commission</FilerID>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-003</TransactionID>
+    <TransactionDate>2023-11-18</TransactionDate>
+    <Amount>45000</Amount>
+    <Currency>AUD</Currency>
+    <TransactionType>Withdrawal Attempt</TransactionType>
+    <Description>Attempted withdrawal from Apex Trading Solutions account</Description>
+    <OriginatingParty>
+      <Name>Robert Harding</Name>
+      <Address>12 Acacia Avenue, Sydney, NSW, 2000, Australia</Address>
+      <TaxpayerID>XXX-XXX-XXX</TaxpayerID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Apex Trading Solutions</Name>
+      <Address>Level 7, 152 Elizabeth Street, Sydney, NSW, 2000, Australia</Address>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Potential investment fraud, withdrawal blocked</SuspiciousActivity>
+    <SuspicionType>Unusual Transaction</SuspicionType>
+    <FilerComments><unused5279> reported inability to withdraw funds. Investigation initiated. Account flagged for potential fraudulent activity.</FilerComments>
+  </Transaction>
+</SAR>

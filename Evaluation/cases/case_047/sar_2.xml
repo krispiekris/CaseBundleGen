@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_date>2023-09-15</report_date>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <customer_name>Ulrich Baumann</customer_name>
+  <customer_id>1234567890</customer_id>
+  <transaction_date>2023-09-10</transaction_date>
+  <transaction_amount>750.00</transaction_amount>
+  <transaction_currency>EUR</transaction_currency>
+  <transaction_type>Wire Transfer</transaction_type>
+  <beneficiary_name>Innovative AIX</beneficiary_name>
+  <beneficiary_account>9876543210</beneficiary_account>
+  <beneficiary_country>United Arab Emirates</beneficiary_country>
+  <description>Attempted withdrawal from Innovative AIX - unsuccessful</description>
+  <suspicious_activity>Customer attempting to withdraw funds, but transaction failed. Possible indicator of fraudulent activity or difficulty accessing funds.</suspicious_activity>
+  <reporter>Compliance Officer</reporter>
+</sar>

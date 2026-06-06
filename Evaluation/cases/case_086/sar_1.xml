@@ -1,0 +1,15 @@
+<SAR id="SAR-20231005-001">
+  <ReportDate>2023-10-05</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <TransactionDate>2023-10-01</TransactionDate>
+  <TransactionAmount currency="EUR">5000</TransactionAmount>
+  <TransactionType>Credit</TransactionType>
+  <SenderName>Hans Meier</SenderName>
+  <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+  <RecipientName>Innovative Profits Limited</RecipientName>
+  <RecipientAccount>GBxxxxxxxxxxxxx</RecipientAccount>
+  <PurposeCode>14 - Other</PurposeCode>
+  <Description>Initial investment to online trading platform</Description>
+  <SuspiciousActivity>Potential investment fraud.  Account appears to be related to an unregulated online trading platform.</SuspiciousActivity>
+  <FiledBy>SuspicionMonitoringTeam</FiledBy>
+</SAR>
