@@ -1,4 +1,4 @@
-# CaseBundleGen: Synthetic Case Generation and RAG Evaluation
+# CaseBundleGen: A Multimodal RAG Benchmark Generator
 
 A research framework for generating synthetic case bundles and evaluating Retrieval-Augmented Generation (RAG) systems. This project generates realistic case documents and systematically benchmarks RAG model performance using BERTScore.
 
