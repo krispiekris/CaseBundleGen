@@ -1,0 +1,1 @@
+Screenshot of a simulated trading platform. Displays fake charts, graphs, and order entry fields.  Labels include: 'AI Optimized Portfolio,' 'Real-Time Market Data,' 'Automated Trading.'  The displayed 'balance' shows $125,000 USD.

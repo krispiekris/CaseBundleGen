@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the account number associated with David Miller's withdrawal request?",
-    "answer": "1234567890"
+    "question": "According to the promotional brochure, what is one key benefit Global Investments claims to offer clients?",
+    "answer": "High-yield opportunities"
   },
   {
-    "question": "According to the SAR, which entity transferred $35,000 to the Marshall Islands Holding Company?",
-    "answer": "Global Finance International"
+    "question": "What is the account number mentioned in Hans Krause's withdrawal request?",
+    "answer": "GI12345"
   },
   {
-    "question": "What promotional offer was being advertised by Forex Global Elite?",
-    "answer": "A 100% bonus on the first deposit."
+    "question": "What country is identified as the destination for the wire transfers in the SAR reports?",
+    "answer": "Nigeria"
   },
   {
-    "question": "Based on the screenshot of the trading platform, what is the current account balance?",
-    "answer": "$37,500.00 CAD"
+    "question": "Based on the bank statement, what was the initial amount of the incoming transfer to Hans Krause\u2019s account?",
+    "answer": "1000.00 EUR"
   },
   {
-    "question": "What initial balance did Sergei Volkov have in his bank account?",
-    "answer": "100000.00"
+    "question": "Which email subject line indicates an attempt to pressure the victim by implying a limited-time opportunity?",
+    "answer": "Following Up: Your Forex Investment Opportunity"
   },
   {
-    "question": "Which entity is mentioned in the SAR related to Serbia?",
-    "answer": "Global Finance International"
+    "question": "What is the receiver\u2019s name associated with the wire transfers mentioned in the SAR reports?",
+    "answer": "Oluwaseun Adebayo"
   },
   {
-    "question": "What type of descriptions are used for the deposit transactions in David Miller\u2019s bank statement?",
-    "answer": "Forex Global Elite Deposit"
+    "question": "What type of document summarizes the performance of Hans Krause's account, and what is the reported portfolio value increase in August 2023?",
+    "answer": "Trading report, 12.5%"
   },
   {
-    "question": "According to the SAR, what is the primary suspicious activity associated with Sergei Volkov's account?",
-    "answer": "Receiving large sums from a Canadian investor, minimal activity beyond deposits and transfers."
+    "question": "Considering the SAR reports, what is a recurring concern regarding the transactions associated with this case?",
+    "answer": "Multiple wire transfers to the same recipient in Nigeria"
   },
   {
-    "question": "What is the timestamp shown on the screenshot of the trading platform?",
-    "answer": "14:35 GMT+2"
+    "question": "What does the screenshot of the trading platform display regarding the account balance and the initial investment amounts?",
+    "answer": "Account balance is displayed as \u20ac15,000, showing gains from initial investment of \u20ac5,000 and subsequent investment of \u20ac10,000."
   },
   {
-    "question": "What currencies were involved in the open positions displayed in the screenshot of the trading platform?",
-    "answer": "EUR/USD and GBP/JPY"
+    "question": "According to the email follow-up, what reason is given for the brief summary of recent performance being attached?",
+    "answer": "To further illustrate the potential for significant returns"
   }
 ]

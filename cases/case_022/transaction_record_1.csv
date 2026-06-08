@@ -1,0 +1,4 @@
+Transaction ID,Date,Amount (USD),Currency,Description,Recipient
+TXN-001,2023-04-01,5000.00,AUD,Initial Investment,AETradingBots
+TXN-002,2023-06-22,25000.00,AUD,Compounding Deposit,AETradingBots
+TXN-003,2023-07-15,10000.00,AUD,Withdrawal Request,Unknown Recipient

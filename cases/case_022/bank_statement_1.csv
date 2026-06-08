@@ -1,6 +1,11 @@
-Date,Description,Amount (EUR),IBAN
-2023-11-10,Grocery Shopping,-50.00,DE453001000000000000
-2023-11-15,Transfer to AI Trading Pro,6000.00,DE785001000000000000
-2023-11-20,Utilities Payment,-120.00,DE463001000000000000
-2023-11-25,Salary Credit,2500.00,DE785001000000000000
-2023-11-30,Online Purchase,-30.00,DE453001000000000000
+Date,Description,Amount (EUR),Balance (EUR)
+2023-08-10,Salary,85000,85000
+2023-08-15,Investment Quantum AI, -5000,75000
+2023-08-17,Daily expenses, -150,74850
+2023-08-20,Transfer to savings, -2000,72850
+2023-09-10,Interest, 50, 72900
+2023-10-18,Investment Quantum AI, -15000, 57900
+2023-10-25,Utility bill, -250, 57650
+2023-11-10,Rental payment, -1200, 56450
+2023-11-16,Withdrawal attempt, -1000, 55450
+2023-12-01,Savings transfer, -1000, 54450

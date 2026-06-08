@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-02-22</ReportDate>
+  <SuspiciousActivity>
+    <TransactionDate>2024-01-24</TransactionDate>
+    <TransactionAmount>8000.00</TransactionAmount>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionType>Withdrawal Request</TransactionType>
+    <SenderName>[Victim Name]</SenderName>
+    <SenderAccount>DE45370400440532015000</SenderAccount>
+    <ReceiverName>NovaTrade AI</ReceiverName>
+    <ReceiverAccount>Unknown</ReceiverAccount>
+    <Description>Failed withdrawal attempt from NovaTrade AI platform.  Consistent failures across multiple requests.</Description>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Contact>
+      <Email>compliance@deutschebank.de</Email>
+    </Contact>
+  </ReportingInstitution>
+</SAR>

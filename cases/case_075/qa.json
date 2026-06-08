@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount made by Hans Schmidt?",
-    "answer": "\u20ac5,000"
+    "question": "What was the initial investment amount made by Hans Meier?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "According to the promotional text, what is one benefit of using Innovative AI Investments?",
-    "answer": "\u2705 Automated Trading"
+    "question": "According to the promotional material, what is a key benefit of using ApexAlgo?",
+    "answer": "AI-Powered Trading"
   },
   {
-    "question": "What reason did Innovative AI Investments provide for the temporary unavailability of withdrawals?",
-    "answer": "Due to unforeseen circumstances and ongoing system upgrades."
+    "question": "What browser is recommended for accessing the ApexAlgo platform?",
+    "answer": "Chrome or Firefox"
   },
   {
-    "question": "What was the date of the SAR report filed due to the customer's complaint about potential investment fraud?",
-    "answer": "2024-03-01"
+    "question": "What is the stated reason for the delay in processing Hans Meier's withdrawal request?",
+    "answer": "Ongoing security enhancements"
   },
   {
-    "question": "What was the total amount of the attempted withdrawal by Hans Schmidt on 2024-01-05?",
-    "answer": "\u20ac3,000"
+    "question": "Based on the SAR reports, what is a significant pattern observed regarding Hans Meier's deposits?",
+    "answer": "Multiple deposits within a short timeframe"
   },
   {
-    "question": "Besides the initial deposit, what other transaction amounts appear on Hans Schmidt\u2019s bank statement?",
-    "answer": "\u20ac10.00 (Service Fee), \u20ac2.50 (Interest), \u20ac2000.00 (Innovative AI Investments Deposit)"
+    "question": "What is the displayed 'Daily Profit' indicated in the ApexAlgo platform screenshot?",
+    "answer": "+3.2%"
   },
   {
-    "question": "Which institution filed the Suspicious Activity Reports (SARs) related to Hans Schmidt's activity?",
-    "answer": "Deutsche Bank"
+    "question": "What date was the initial SAR report filed?",
+    "answer": "2023-11-20"
   },
   {
-    "question": "What did the website screenshot describe about the testimonials displayed on the Innovative AI Investments website?",
-    "answer": "likely fabricated"
+    "question": "Which bank was the originating bank for Hans Meier's second deposit?",
+    "answer": "Commerzbank"
   },
   {
-    "question": "According to email_2.txt, what did Hans Schmidt inquire about from Innovative AI Investments?",
-    "answer": "More detail on the AI's current strategy."
+    "question": "What was the amount of the withdrawal attempt that was rejected?",
+    "answer": "20000.00 EUR"
   },
   {
-    "question": "Based on the available data, what evidence suggests a possible fraudulent activity?",
-    "answer": "Initial investment from an unknown wallet, denial of withdrawal requests, a customer complaint alleging investment fraud, and a website with potentially fabricated testimonials."
+    "question": "Besides ApexAlgo Finance Ltd., which other entity is consistently mentioned as the beneficiary bank in the SAR reports?",
+    "answer": "None"
   }
 ]

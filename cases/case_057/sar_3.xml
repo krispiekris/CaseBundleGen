@@ -1,17 +1,27 @@
-<SAR id="SAR-20230820-003">
-  <ReportingInstitution>
-    <Name>Global Finance Solutions</Name>
-    <Address>123 Main Street, Anytown, USA</Address>
-  </ReportingInstitution>
+<SAR>
+  <Header>
+    <ReportDate>2024-02-10</ReportDate>
+    <InstitutionID>ANZ Bank - AU</InstitutionID>
+    <Currency>AUD</Currency>
+  </Header>
   <Transaction>
-    <Date>2023-08-15</Date>
-    <Amount>1000.00</Amount>
-    <Currency>USD</Currency>
-    <TransactionType>Debit</TransactionType>
-    <Sender>Aionautica Investments Ltd.</Sender>
-    <Receiver>David Miller</Receiver>
-    <ReceiverAccount>AU1234567890</ReceiverAccount>
-    <Description>Withdrawal Attempt</Description>
-    <SuspiciousActivity>Client reporting difficulty with withdrawing funds. Frequent delays and high fees being applied.</SuspiciousActivity>
+    <TransactionID>TXN-90123</TransactionID>
+    <TransactionDate>2023-12-15</TransactionDate>
+    <Amount>2000</Amount>
+    <Currency>AUD</Currency>
+    <SenderName>Daniel MacMillan</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Innovative AI Trading</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Investment - AI Trading</Description>
+    <SuspiciousActivity>Potential Investment Fraud - Attempted Withdrawal Blocked</SuspiciousActivity>
   </Transaction>
+  <Party>
+    <Name>Daniel MacMillan</Name>
+    <Address>123 Main Street, Melbourne, VIC 3000</Address>
+  </Party>
+  <Party>
+    <Name>Innovative AI Trading</Name>
+    <Address>Unit 4, 100 Business Park Drive, Lagos, Nigeria</Address>
+  </Party>
 </SAR>

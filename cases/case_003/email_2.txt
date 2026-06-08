@@ -1,18 +1,14 @@
-From: support@fxproadvisor.com
-To: karl.meier@email.de
-Subject: Important Update Regarding Your Account
+From: hans.meier@email.de
+To: info@autotradeai.com
+Subject: Inquiry regarding transaction activity
 
-Dear Karl,
+Dear AutotradeAI Support,
 
-We are pleased to inform you about the progress of your investments.  As you can see from the attached report, your portfolio has grown significantly.
+I am writing to inquire about some unusual transaction activity on my account. I noticed several small trades executed that I did not initiate. Could you please provide me with more details about these transactions?
 
-Your current balance is EUR 12,500.  We strongly recommend reinvesting your profits to maximize your returns.  
+My account ID is HM874.
 
-If you have any questions or require assistance, please contact our support team.
+Thank you for your assistance.
 
 Sincerely,
-
-The FX Pro Advisor Support Team
-fxproadvisor.com
-
-[Attachment: Profit_Report_July_2023.pdf (Fabricated)]
+Hans Meier

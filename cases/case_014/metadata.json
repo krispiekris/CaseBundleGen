@@ -1,11 +1,11 @@
 {
-  "case_id": "2024-CX-0078",
+  "case_id": "2024-0427-CryptoRecoveryScam-001",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Crypto Recovery Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac80,000 - \u20ac120,000",
-    "country": "Germany",
+    "income_range": "$75,000 - $125,000",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -18,38 +18,42 @@
   },
   "destination_countries": [
     "Nigeria",
-    "Marshall Islands"
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim contacted via Telegram"
+      "date": "2023-11-15",
+      "event": "Victim initial contact with 'recovery' agent via Telegram."
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial investment made"
+      "date": "2023-11-22",
+      "event": "First transfer of funds from victim."
     },
     {
-      "date": "2023-10-15",
-      "event": "Victim encouraged to deposit additional funds"
+      "date": "2023-12-05",
+      "event": "Second transfer of funds from victim."
     },
     {
-      "date": "2023-11-30",
-      "event": "Victim requests withdrawal, denied"
+      "date": "2024-01-10",
+      "event": "Victim realizes the scam and reports."
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim reports fraud"
+      "date": "2024-04-27",
+      "event": "Case opened and investigation initiated."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Bitcoin",
+      "amount_range": "$10,000 - $20,000"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Ethereum",
+      "amount_range": "$5,000 - $10,000"
+    },
+    {
+      "type": "US Dollars",
+      "amount_range": "$5,000 - $15,000"
     }
   ]
 }

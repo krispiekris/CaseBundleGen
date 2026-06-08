@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SuspiciousActivityReport.xsd">
-  <ReportDate>2023-12-22</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <CustomerName>Helmut Schmidt</CustomerName>
-  <CustomerAddress>Musterstrasse 1, 10115 Berlin, Germany</CustomerAddress>
-  <AccountID>1234567890</AccountID>
-  <TransactionDate>2023-12-20</TransactionDate>
-  <TransactionAmount currency="EUR">18000</TransactionAmount>
-  <TransactionType>Withdrawal</TransactionType>
-  <BeneficiaryName>NovaAI Trading Platform</BeneficiaryName>
-  <BeneficiaryAccount>987654321</BeneficiaryAccount>
-  <BeneficiaryBank>Apex Financial Services</BeneficiaryBank>
-  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
-  <Suspicion>Unusual withdrawal request. Account activity inconsistent with customer profile.  Recipient bank located in high-risk jurisdiction.</Suspicion>
-  <FiledBy>Anna Weber</FiledBy>
-  <FiledByPosition>AML Officer</FiledByPosition>
+<SAR>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceID>SAR-20230905-001</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <Amount>15000.00</Amount>
+    <Currency>EUR</Currency>
+    <SenderAccount>DE89370400440532014200</SenderAccount>
+    <ReceiverAccount>BB12470600000000000000</ReceiverAccount>
+    <Description>Wire Transfer - Investment</Description>
+    <SuspiciousActivity>Potential investment fraud - Unusual large transfer to offshore account.</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Address>Musterstrasse 12, 10115 Berlin</Address>
+      <Account>DE89370400440532014200</Account>
+    </Sender>
+    <Receiver>
+      <Name>Global Forex Capital</Name>
+      <Address>Belize City, Belize</Address>
+      <Account>BB12470600000000000000</Account>
+    </Receiver>
+  </Parties>
 </SAR>

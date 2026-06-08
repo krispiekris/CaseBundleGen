@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-10-27-FX-0047",
+  "case_id": "2024-Alpha-078",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,44 +12,48 @@
     "location": "Belize",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Spanish",
+      "Russian"
     ]
   },
   "destination_countries": [
     "Belize",
-    "Saint Vincent and the Grenadines",
-    "Marshall Islands"
+    "St. Kitts and Nevis"
   ],
   "timeline": [
     {
-      "date": "2023-07-15",
-      "event": "Victim contacted by 'FX Pro Advisor'"
+      "date": "2023-03-15",
+      "event": "Victim contacted via Telegram by 'AI Trading Pro'"
     },
     {
-      "date": "2023-08-01",
+      "date": "2023-04-01",
       "event": "Initial investment of \u20ac5,000 made"
     },
     {
-      "date": "2023-09-10",
-      "event": "Victim receives fabricated profit reports"
+      "date": "2023-05-10",
+      "event": "Victim receives fabricated 'profit' distribution"
     },
     {
-      "date": "2023-11-20",
-      "event": "Victim attempts withdrawal, denied"
+      "date": "2023-06-22",
+      "event": "Victim requests withdrawal of funds"
     },
     {
-      "date": "2024-01-15",
-      "event": "Victim files a complaint with German authorities"
+      "date": "2023-07-05",
+      "event": "Withdrawal request denied, pressured to invest more"
+    },
+    {
+      "date": "2023-08-18",
+      "event": "Victim reports the incident to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac10,000 - \u20ac30,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac10,000 - \u20ac20,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac1,000 - \u20ac2,000"
+      "type": "Bank Account (EUR)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     }
   ]
 }

@@ -1,21 +1,20 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-07-20</ReportDate>
-    <InstitutionID>FirstNationalBank</InstitutionID>
-    <FilerID>Branch007</FilerID>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-04-01</TransactionDate>
-    <TransactionAmount>5000</TransactionAmount>
-    <TransactionCurrency>USD</TransactionCurrency>
-    <TransactionType>Deposit</TransactionType>
-    <SenderName>David Miller</SenderName>
-    <SenderAccount>123456789</SenderAccount>
-    <ReceiverName>Global Capital Ventures</ReceiverName>
-    <ReceiverAccount>987654321</ReceiverAccount>
-    <ReceiverBank>InternationalTrustBank</ReceiverBank>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Potential investment fraud - unusually high returns claimed.</SuspiciousActivity>
-    <Notes>Customer seemed overly enthusiastic about the investment opportunity.</Notes>
-  </Transaction>
+<SAR id="SAR-20231117-001">
+  <Date>2023-11-17</Date>
+  <Bank>Deutsche Bank</Bank>
+  <Originator>
+    <Name>Deutsche Bank</Name>
+    <Address>Theodor-Fontane-Straße 15, 60329 Frankfurt am Main, Germany</Address>
+  </Originator>
+  <Beneficiary>
+    <Name>StellarFX Investments Ltd.</Name>
+    <Country>Marshall Islands</Country>
+    <Account>1234567890</Account>
+  </Beneficiary>
+  <Amount currency="EUR">5000.00</Amount>
+  <TransactionType>Bank Transfer</TransactionType>
+  <Description>Possible investment fraud - funds transferred to offshore account with unusual activity.</Description>
+  <Findings>
+    <Finding>Unusual large transfer to offshore account.</Finding>
+    <Finding>Beneficiary’s location raises red flags.</Finding>
+  </Findings>
 </SAR>

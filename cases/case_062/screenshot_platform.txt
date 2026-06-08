@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The image displays the AI Wealth Pro platform dashboard.  A large graph dominates the center of the screen, showing a consistently upward trend labelled 'Portfolio Growth'. Below the graph, there are buttons labelled 'Invest', 'Withdraw', and 'Account Settings'.  The top right corner displays a user avatar and account balance of AUD $8,750.00.  The background is a futuristic blue gradient.  The platform's logo 'AI Wealth Pro' is prominently displayed in the top left corner.

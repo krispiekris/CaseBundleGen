@@ -1,0 +1,7 @@
+Date,Account Activity,Amount (USD),Balance (USD)
+2023-09-01,Initial Deposit,5000.00,5000.00
+2023-09-15,Trading Profit,250.00,5250.00
+2023-10-01,Deposit,10000.00,15250.00
+2023-10-15,Trading Profit,762.50,16012.50
+2023-11-15,Trading Profit,800.63,16813.13
+2023-11-18,Withdrawal Request,-1000.00,15813.13

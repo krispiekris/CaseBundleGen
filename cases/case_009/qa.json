@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial welcome email, what is the stated purpose of AIX Capital?",
-    "answer": "To analyze market trends and execute trades with unparalleled precision, generating exceptional returns."
+    "question": "According to email_3, what is the recommended minimum deposit amount for users who want to 'fully leverage the AI's capabilities'?",
+    "answer": "\u20ac10,000"
   },
   {
-    "question": "What is the initial investment amount made by David Miller to AIX Capital, as recorded in the first SAR?",
-    "answer": "5000.00"
+    "question": "What is the purpose of the 'Growth Accelerator' AI strategy, according to email_3?",
+    "answer": "To identify high-potential opportunities."
   },
   {
-    "question": "What reason did the First National Bank provide in the first SAR for their suspicion regarding David Miller's transaction to AIX Capital?",
-    "answer": "Unusual investment destination and lack of transparency regarding the platform's operations."
+    "question": "What is the receiver country for the deposits made by Hans Meier?",
+    "answer": "Belize"
   },
   {
-    "question": "What prompted David Miller to make an additional investment of $10,000, according to the second SAR?",
-    "answer": "Reported pressure from a platform representative."
+    "question": "What is the description of the suspicious activity recorded in SAR_1?",
+    "answer": "Deposit to investment account"
   },
   {
-    "question": "What does the promotional material claim AIX Capital offers investors?",
-    "answer": "High returns, automated trading, a user-friendly interface, and 24/7 support."
+    "question": "What reason is given in SAR_2 for the increased suspicion regarding Hans Meier's activity?",
+    "answer": "Substantial increase in deposit amount following initial deposit. Risk profile not adequately assessed."
   },
   {
-    "question": "What is the stated reason for the failed withdrawal attempt recorded in the third SAR?",
-    "answer": "Funds unavailable. Platform unresponsive."
+    "question": "What type of transaction is reported in SAR_3 and why was it flagged?",
+    "answer": "Attempted withdrawal; Attempted withdrawal denied by platform. Communication suggests customer is unable to access funds."
   },
   {
-    "question": "According to the email from Alex Volkov, what specific market is being targeted for potential returns?",
-    "answer": "The cryptocurrency market."
+    "question": "Based on the promotional material_2, what bonus is offered to new users who deposit \u20ac10,000?",
+    "answer": "A bonus boost on their initial deposit"
   },
   {
-    "question": "What does the screenshot of the AI platform show in terms of potential profit and risk?",
-    "answer": "Simulated performance. Results not guaranteed."
+    "question": "According to email_1, what are three key features or areas available to the user on the QuantumAI platform?",
+    "answer": "Dashboard, AI Strategies, Tutorials"
   },
   {
-    "question": "Based on the provided bank statements, what sequence of events occurred between January 15th and July 12th, 2023? List them in chronological order.",
-    "answer": "Incoming Transfer of 1000.00, AIX Capital Investment of -5000.00, Interest Earned of 1.23, Utility Bill of -150.00, Restaurant of -50.00, Interest Earned of 1.23, Online Purchase of -25.00, AIX Capital Investment of -10000.00, Interest Earned of 1.23, Withdrawal Attempt - Declined of -7500.00"
+    "question": "What is the name of the senior advisor mentioned in email_3, and what is he offering?",
+    "answer": "David Petrov; a personalized consultation"
   },
   {
-    "question": "Which entities are directly involved in the transactions related to AIX Capital, as evidenced across multiple files?",
-    "answer": "David Miller, AIX Capital, First National Bank"
+    "question": "Which email address was used to contact Hans Meier regarding the AI Strategy performance?",
+    "answer": "support@quantumai.tech"
   }
 ]

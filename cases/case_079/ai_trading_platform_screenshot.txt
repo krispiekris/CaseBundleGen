@@ -1,0 +1,18 @@
+----------------------------------------------------------
+AI Investments Global - Trading Dashboard
+
+Account Balance: €25,000.00
+Portfolio Value: €32,000.00
+
+Assets:
+  BTC: 0.75 BTC (€15,000.00)
+  ETH: 5.5 ETH (€10,000.00)
+  EUR: €7,000.00
+
+Recent Transactions:
+  BTC Purchase: +0.25 BTC (€5,000.00) - 09/17/2023
+  ETH Purchase: +1.5 ETH (€3,000.00) - 10/25/2023
+
+[Profit Graph showing consistent upward trend]
+
+[Logout Button]

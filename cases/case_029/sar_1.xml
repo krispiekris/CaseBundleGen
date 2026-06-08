@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.example.com/sar_schema.xsd">
-  <ReportDate>2023-06-15</ReportDate>
+<SAR>
+  <ReportDate>2023-12-08</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionDate>2023-06-10</TransactionDate>
-    <TransactionAmount currency="EUR">15000</TransactionAmount>
-    <TransactionType>Withdrawal Request</TransactionType>
-    <SenderName>Klaus Meier</SenderName>
-    <SenderAccount>GFV123456789</SenderAccount>
-    <ReceiverName>Global Forex Ventures</ReceiverName>
-    <ReceiverAccount>BEL_GFV_001</ReceiverAccount>
-    <LocationOfReceiver>Belize</LocationOfReceiver>
-    <Suspicion>Customer requests large withdrawal shortly after significant deposits. Account activity inconsistent with stated investment goals.</Suspicion>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>DE89370400440532013000</OriginatingAccount>
+      <BeneficiaryAccount>GB24NWBK00000000012345</BeneficiaryAccount>
+      <BeneficiaryName>NovaTrade AI Investments</BeneficiaryName>
+      <PurposeCode>Investment</PurposeCode>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-11-20</TransactionDate>
+      <TransactionAmount currency="EUR">10000.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>DE89370400440532013000</OriginatingAccount>
+      <BeneficiaryAccount>GB24NWBK00000000012345</BeneficiaryAccount>
+      <BeneficiaryName>NovaTrade AI Investments</BeneficiaryName>
+      <PurposeCode>Investment</PurposeCode>
+    </Transaction>
   </SuspiciousActivity>
+  <Findings>
+    <Finding>Unusual large transfers to a foreign account with limited transparency regarding the beneficiary's activities.</Finding>
+  </Findings>
+  <ReportOriginator>Bank Compliance Officer</ReportOriginator>
 </SAR>

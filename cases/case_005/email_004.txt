@@ -1,0 +1,13 @@
+From: support@aiwealth.net
+To: david.miller@example.com.au
+Subject: Re: Issue with Withdrawal Request
+
+Dear David,
+
+Thank you for contacting AI Wealth support. We've received your withdrawal request and it is currently being processed. Due to high volume, processing times may be slightly longer than usual.
+
+We appreciate your patience. 
+
+Sincerely,
+
+The AI Wealth Support Team

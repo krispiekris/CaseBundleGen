@@ -1,0 +1,12 @@
+From: accounts@globalinvestments.net
+To: hans.meier@example.com
+Subject: Transfer Confirmation - Account #12345
+
+Dear Hans,
+
+This email confirms your transfer of €2,500.00 to your trading account. Your account balance is now €28,500.00.
+
+Thank you for choosing Global Investments.
+
+Sincerely,
+The Global Investments Team

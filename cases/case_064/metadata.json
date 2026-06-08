@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-07-27-001",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac75,000 - \u20ac120,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,8 +12,8 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Yoruba",
-      "Pidgin English"
+      "Pidgin English",
+      "Yoruba"
     ]
   },
   "destination_countries": [
@@ -22,34 +22,30 @@
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Victim initially contacted by 'investor' via Telegram"
-    },
-    {
-      "date": "2023-09-01",
-      "event": "Victim deposits initial \u20ac5,000 into trading account"
-    },
-    {
-      "date": "2023-10-15",
-      "event": "Victim instructed to deposit additional \u20ac10,000 after initial 'profits' are shown"
-    },
-    {
-      "date": "2023-11-01",
-      "event": "Victim attempts to withdraw funds, met with excuses and further requests"
-    },
-    {
       "date": "2023-11-15",
-      "event": "Victim reports the fraud to authorities"
+      "event": "Initial contact via email"
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Victim deposits initial investment"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal, rejected"
+    },
+    {
+      "date": "2024-07-27",
+      "event": "Fraud reported"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     },
     {
-      "type": "EUR Bank Transfers",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac2,000 - \u20ac10,000"
     }
   ]
 }

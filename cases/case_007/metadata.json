@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-03-15-CryptoPump",
+  "case_id": "2024-ALPHA-774",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Crypto Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "income_range": "\u20ac60,000 - \u20ac90,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -18,37 +18,41 @@
   },
   "destination_countries": [
     "United States",
-    "Singapore"
+    "Hong Kong"
   ],
   "timeline": [
     {
-      "date": "2023-10-27",
-      "event": "Initial contact via Telegram"
+      "date": "2023-08-15",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-11-15",
-      "event": "First investment made"
+      "date": "2023-09-22",
+      "event": "First deposit made"
     },
     {
-      "date": "2024-01-05",
+      "date": "2023-11-10",
       "event": "Victim expresses concerns"
     },
     {
-      "date": "2024-02-28",
+      "date": "2023-12-05",
+      "event": "Account access restricted"
+    },
+    {
+      "date": "2024-01-18",
       "event": "Case reported to authorities"
     }
   ],
   "assets_involved": [
     {
       "type": "Bitcoin",
-      "amount_range": "0.5 - 1 BTC"
+      "amount_range": "BTC 0.5 - 1.5"
     },
     {
       "type": "Ethereum",
-      "amount_range": "2 - 5 ETH"
+      "amount_range": "ETH 2 - 5"
     },
     {
-      "type": "US Dollar",
+      "type": "USD",
       "amount_range": "$5,000 - $20,000"
     }
   ]

@@ -1,0 +1,29 @@
+<SAR>
+  <ReportDate>2024-07-26</ReportDate>
+  <ReportingInstitution>Local Police Department</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-22</TransactionDate>
+      <Amount>10000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Müller</SenderName>
+      <SenderAccount>DExxxxxxxxxx</SenderAccount>
+      <ReceiverName>Innovativ Trading Ltd</ReceiverName>
+      <ReceiverAccount>GBxxxxxxxxxx</ReceiverAccount>
+      <Description>Online Payment - Potential Investment Fraud</Description>
+      <SuspiciousIndicator>Reported Victim of Online Scam</SuspiciousIndicator>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2024-01-10</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Müller</SenderName>
+      <SenderAccount>DExxxxxxxxxx</SenderAccount>
+      <ReceiverName>Innovativ Trading Ltd</ReceiverName>
+      <ReceiverAccount>GBxxxxxxxxxx</ReceiverAccount>
+      <Description>Online Payment - Potential Investment Fraud</Description>
+      <SuspiciousIndicator>Reported Victim of Online Scam</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingPerson>Police Officer</ReportingPerson>
+</SAR>

@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CR-0078",
+  "case_id": "2024-07-26-CF-0042",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac90,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,51 +12,36 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Nigeria",
+    "Malaysia",
     "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact via Telegram"
-    },
-    {
-      "date": "2023-09-01",
-      "event": "Victim transfers initial investment"
-    },
-    {
-      "date": "2023-10-10",
-      "event": "Victim receives fabricated profits"
-    },
-    {
-      "date": "2023-11-20",
-      "event": "Victim requests full withdrawal"
+      "date": "2023-11-15",
+      "event": "Victim contacted via Telegram with unsolicited AI trading opportunity"
     },
     {
       "date": "2023-11-22",
-      "event": "Victim discovers funds unavailable"
+      "event": "Initial deposit made by victim"
     },
     {
       "date": "2024-01-10",
-      "event": "Fraud reported to authorities"
+      "event": "Victim attempts withdrawal; request denied"
+    },
+    {
+      "date": "2024-07-26",
+      "event": "Report filed with authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bitcoin",
-      "amount_range": "0.5 - 1 BTC"
-    },
-    {
-      "type": "US Dollar",
-      "amount_range": "$5,000 - $20,000"
-    },
-    {
-      "type": "Euro",
-      "amount_range": "\u20ac4,000 - \u20ac18,000"
+      "type": "Cryptocurrency (BTC, ETH, USDT)",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     }
   ]
 }

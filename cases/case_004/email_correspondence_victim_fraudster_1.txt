@@ -1,0 +1,27 @@
+From: Klaus Schmidt <klaus.schmidt@email.de>
+To: support@novatradeai.com
+Subject: Account Setup Assistance
+Date: 2023-11-16 14:32:00
+
+Dear NovaTrade AI Support,
+
+I am having some trouble setting up my account. I followed the instructions but am unsure how to link my bank account for initial funding.
+
+Thank you for your assistance.
+
+Sincerely,
+Klaus Schmidt
+
+
+From: support@novatradeai.com
+To: Klaus Schmidt <klaus.schmidt@email.de>
+Subject: Re: Account Setup Assistance
+Date: 2023-11-16 17:58:00 (UTC+1)
+
+Dear Klaus,
+
+Thank you for contacting NovaTrade AI support. To help you get started, please follow these simple steps to link your bank account. Our AI system requires a minimum initial deposit of €5,000 to begin trading.  We accept transfers from most major German banks. For security reasons, please do not share full bank details in this email. We will provide a secure link for verification shortly.
+
+Sincerely,
+David Johnson
+NovaTrade AI Support

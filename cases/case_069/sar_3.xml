@@ -1,24 +1,21 @@
-<SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2024-01-22</ReportDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-02-22</ReportDate>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2024-01-15</TransactionDate>
-      <Amount>20000</Amount>
-      <Currency>AUD</Currency>
-      <SenderName>David Miller</SenderName>
-      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
-      <ReceiverName>Global Investments Ltd</ReceiverName>
-      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
-      <Description>Withdrawal Attempt</Description>
-      <Location>Australia</Location>
-    </Transaction>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount>5000.00</TransactionAmount>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionType>Deposit</TransactionType>
+    <SenderName>NovaTrade AI</SenderName>
+    <SenderAccount>Unknown</SenderAccount>
+    <ReceiverName>[Victim Name]</ReceiverName>
+    <ReceiverAccount>DE45370400440532015000</ReceiverAccount>
+    <Description>Significant deposit to NovaTrade AI platform prior to failed withdrawal attempt.</Description>
   </SuspiciousActivity>
   <ReportingInstitution>
-    <Name>Commonwealth Bank of Australia</Name>
-    <Contact>Jane Doe</Contact>
-    <Phone>1300 123 456</Phone>
+    <Name>Deutsche Bank</Name>
+    <Contact>
+      <Email>compliance@deutschebank.de</Email>
+    </Contact>
   </ReportingInstitution>
-  <Findings>
-    <Finding>Large withdrawal attempt following a substantial initial investment, potentially indicative of a desperate attempt to recover losses or evade detection. Further investigation required given prior activity.</Finding>
-  </Findings>
 </SAR>

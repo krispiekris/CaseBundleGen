@@ -1,0 +1,24 @@
+From: jane.doe@email.com
+To: support@novaaitrading.com
+Subject: Withdrawal Problem
+Date: 2023-11-20 10:00:00
+
+Hi,
+
+I tried to withdraw some funds today and the transaction was denied. Can you please help?
+
+Thanks,
+Jane
+
+
+From: support@novaaitrading.com
+To: jane.doe@email.com
+Subject: Re: Withdrawal Problem
+Date: 2023-11-20 17:00:00
+
+Dear Jane,
+
+We’re experiencing a temporary technical issue with our withdrawal processing system. Please try again in 24 hours. In the meantime, please ensure your account is fully verified.
+
+Regards,
+The NovaAI Trading Support Team

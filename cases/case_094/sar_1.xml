@@ -1,22 +1,26 @@
 <SAR>
-  <ReportDate>2023-07-05</ReportDate>
-  <FilerID>BankOfAustralia_Branch123</FilerID>
-  <SuspiciousActivity>
-    <ActivityType>Unusual Transaction Pattern</ActivityType>
-    <TransactionDetails>
-      <TransactionDate>2023-04-22</TransactionDate>
-      <TransactionAmount>12000</TransactionAmount>
-      <TransactionCurrency>AUD</TransactionCurrency>
-      <SenderName>David Miller</SenderName>
-      <SenderAccount>1234567890</SenderAccount>
-      <RecipientName>Global Investments Ltd</RecipientName>
-      <RecipientAccount>BZ1234567890</RecipientAccount>
-      <RecipientBank>Atlantic Bank</RecipientBank>
-      <RecipientCountry>Belize</RecipientCountry>
-      <Description>Wire Transfer - Investment</Description>
-    </TransactionDetails>
-    <Findings>
-      The transaction appears to be a wire transfer to a foreign entity with limited transparency. The recipient’s country (Belize) is known for financial secrecy. This is flagged due to the recent increase in similar transactions.
-    </Findings>
-  </SuspiciousActivity>
+  <ReportDate>2023-11-18</ReportDate>
+  <ReportType>Suspicious Activity Report</ReportType>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Account>
+    <AccountName>Helmut Schneider</AccountName>
+    <AccountNumber>1234567890</AccountNumber>
+    <AccountCurrency>EUR</AccountCurrency>
+  </Account>
+  <Transaction>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <TransactionAmount>10000</TransactionAmount>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionType>Credit</TransactionType>
+    <Description>Transfer from Personal Account</Description>
+    <Counterparty>
+      <Name>Unverified Online Payment</Name>
+      <IBAN>XX1234567890123456789012</IBAN>
+      <Country>Unknown</Country>
+    </Counterparty>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusual transfer to an unverified online payment processor.</SuspiciousActivity>
+    <Justification>Transaction amount consistent with initial investment reported by client. Destination country and payment processor unknown.</Justification>
+  </Findings>
 </SAR>

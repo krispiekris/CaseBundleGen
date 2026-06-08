@@ -1,1 +1,1 @@
-[Screenshot: AlphaTrade AI platform dashboard. Shows a graph with rapidly increasing line representing profits. Labels indicate: Account Balance: €8,500.00.  Trading Strategy: Auto-Profit 3.0.  Current Profit: +€2,500.00 (today).  A prominent button reads "Deploy Strategy"]
+[Description: Screenshot of the AI Wealth platform showing a pending withdrawal request for AUD 5,000.  A message reads: 'Withdrawal pending review - Processing time: 7-10 business days.']

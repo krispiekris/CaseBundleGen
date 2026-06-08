@@ -1,26 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <CaseID>20231122-001</CaseID>
-  <DateFiled>2023-11-22</DateFiled>
-  <BankName>Deutsche Bank</BankName>
-  <BranchID>DB-MU-005</BranchID>
-  <SuspiciousActivity>
+<SAR xmlns="http://www.finra.org/sar">
+  <Header>
+    <ReportDate>2024-02-21</ReportDate>
+    <InstitutionID>GFG-BEL-001</InstitutionID>
+    <ReportType>SuspiciousActivity</ReportType>
+  </Header>
+  <Parties>
+    <BeneficialOwner>
+      <Name>Hans Schmidt</Name>
+      <Address>Germany</Address>
+    </BeneficialOwner>
+    <Counterparty>
+      <Name>Global Forex Group</Name>
+      <Address>Belize</Address>
+    </Counterparty>
+  </Parties>
+  <Transactions>
     <Transaction>
-      <TransactionID>TXN-12345</TransactionID>
-      <TransactionDate>2023-11-22</TransactionDate>
-      <Amount>5000.00</Amount>
-      <Currency>USD</Currency>
-      <SenderAccount>DE45300100000000000000</SenderAccount>
-      <SenderName>Karl Heinz</SenderName>
-      <ReceiverAccount>0078901234</ReceiverAccount>
-      <ReceiverName>James Oluwafemi</ReceiverName>
-      <ReceiverBank>Sterling Bank</ReceiverBank>
-      <ReceiverCountry>Nigeria</ReceiverCountry>
-      <Description>Security Clearance Fee</Description>
+      <TransactionDate>2023-12-01</TransactionDate>
+      <Amount>25000.00</Amount>
+      <Currency>EUR</Currency>
+      <Description>Deposit to Forex Trading Account</Description>
+      <TransactionType>Credit</TransactionType>
     </Transaction>
-  </SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-02-20</TransactionDate>
+      <Amount>25000.00</Amount>
+      <Currency>EUR</Currency>
+      <Description>Withdrawal Request</Description>
+      <TransactionType>Debit</TransactionType>
+    </Transaction>
+  </Transactions>
   <Findings>
-    <Finding>Unusual international transfer to an account in Nigeria.  Transaction described as 'Security Clearance Fee' which is inconsistent with typical customer activity.</Finding>
+    <Finding>Potential investment fraud due to unusual withdrawal delay and verification request.</Finding>
   </Findings>
-  <ReportingBankEmployee>Anna Schmidt</ReportingBankEmployee>
 </SAR>

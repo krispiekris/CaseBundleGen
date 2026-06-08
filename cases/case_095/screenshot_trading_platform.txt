@@ -1,0 +1,1 @@
+[Screenshot Description: The screenshot shows a trading platform dashboard. It displays a graph with a steep upward trend labeled 'AI Profit Generator.'  The balance is displayed as $34,560.  Below the graph are buttons labeled 'Deposit,' 'Withdraw,' and 'View Transactions.' A popup window reads: 'System Maintenance in Progress. Please try again later.']

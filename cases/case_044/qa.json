@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary service offered by Crypto Asset Recovery, as stated in the initial email?",
-    "answer": "Recovering digital assets from fraudulent schemes."
+    "question": "According to the SAR reports, what is the primary reason for the initial suspicion regarding Klaus Muller's transactions?",
+    "answer": "Unusual investment activity - High-yield promise"
   },
   {
-    "question": "According to the SAR reports, what is the description provided for the transfers made by Helmut Klein?",
-    "answer": "Transfer to Crypto Recovery Service"
+    "question": "What documentation was requested from Klaus Muller to expedite the verification process for his withdrawal request?",
+    "answer": "Copy of passport or driver's license, Proof of address (utility bill), Screenshot of his bank statement"
   },
   {
-    "question": "What is the account number used as the recipient for the transfers to 'Global Crypto Solutions Ltd.'?",
-    "answer": "GB67NWBK40302182397052"
+    "question": "What was the description given for the second investment transaction from Klaus Muller to AlphaAI Holdings Limited, as recorded in the SAR reports?",
+    "answer": "Investment - Alpha AI - Additional Funds"
   },
   {
-    "question": "Based on promotional material, what is one purported benefit of using Crypto Asset Recovery's services?",
-    "answer": "A proven track record of recovering digital assets from fraudulent schemes."
+    "question": "What does the screenshot description suggest about the perceived outcome of using the Alpha AI platform?",
+    "answer": "Rapid and effortless profit"
   },
   {
-    "question": "What did the scammer, identifying himself as Victor, initially request from the user in the Telegram conversation?",
-    "answer": "Screenshots of the transaction and any communication with the scammer."
+    "question": "Which entities are involved in the transaction related to Klaus Muller's failed withdrawal request?",
+    "answer": "AlphaAI Holdings Limited (Fake Account) and Klaus.Muller@email.de"
   },
   {
-    "question": "What is the stated purpose of the 5,000 EUR transfer requested in email_2?",
-    "answer": "To facilitate the process of recovering the lost Bitcoin."
+    "question": "What type of trading activity does Alpha AI claim to offer, according to the promotional material?",
+    "answer": "Algorithm-driven trading"
   },
   {
-    "question": "According to promotional material_3, what is the promise made regarding client satisfaction?",
-    "answer": "GUARANTEED Satisfaction or Your Money Back (terms and conditions apply - highly unlikely you'll get a refund)."
+    "question": "What currency is specified for the transaction amounts in the SAR reports?",
+    "answer": "EUR"
   },
   {
-    "question": "What date is listed as the Report Date for SAR-20240310-001?",
-    "answer": "2024-03-10"
+    "question": "Based on the email communications, what is Alpha AI encouraging Klaus Muller to do after reporting portfolio growth?",
+    "answer": "Deposit additional funds"
   },
   {
-    "question": "According to the website description, what did the website display to build trust?",
-    "answer": "Testimonials from alleged satisfied clients."
+    "question": "What was the initial salary payment received by Klaus Muller, as shown in the transaction log?",
+    "answer": "1234.56"
   },
   {
-    "question": "Besides the initial 10,000 EUR, what additional amount was requested in email_2 for the recovery process?",
-    "answer": "5,000 EUR"
+    "question": "Besides the initial investment and additional funds, what other transaction types involving Klaus.Muller@email.de are recorded in the transaction logs?",
+    "answer": "Withdrawal Request, Withdrawal - Returned"
   }
 ]

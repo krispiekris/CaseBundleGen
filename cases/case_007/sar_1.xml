@@ -1,25 +1,29 @@
-<SAR xmlns="http://www.example.com/sar">
-  <Header>
-    <SARReferenceID>SAR-20231110-001</SARReferenceID>
-    <DateFiled>2023-11-10</DateFiled>
-    <ReportingBank>Deutsche Bank</ReportingBank>
-  </Header>
-  <Customer>
-    <CustomerID>123456789</CustomerID>
-    <Name>Hans Baumann</Name>
-    <Address>Musterstrasse 1, 10115 Berlin</Address>
-  </Customer>
+<SAR id="SAR-20231115-001">
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionDate>2023-11-15</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <RecipientName>Crypto Innovations</RecipientName>
-    <RecipientAccount>X789012345</RecipientAccount>
-    <RecipientBank>United Bank of Singapore</RecipientBank>
-    <SWIFTCode>UBSBXXXX</SWIFTCode>
-    <Description>Investment in Crypto Innovations</Description>
+    <Transaction>
+      <TransactionDate>2023-09-22</TransactionDate>
+      <Amount currency="EUR">5000</Amount>
+      <TransactionType>Deposit</TransactionType>
+      <OriginatorAccount>DE89370400440532015000</OriginatorAccount>
+      <BeneficiaryAccount>Unknown - Investigating</BeneficiaryAccount>
+      <Description>Initial investment deposit - AI Trading Platform</Description>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-09-29</TransactionDate>
+      <Amount currency="EUR">2500</Amount>
+      <TransactionType>Deposit</TransactionType>
+      <OriginatorAccount>DE89370400440532015000</OriginatorAccount>
+      <BeneficiaryAccount>Unknown - Investigating</BeneficiaryAccount>
+      <Description>Additional investment - AI Trading Platform</Description>
+    </Transaction>
   </SuspiciousActivity>
-  <Findings>
-    The transaction appears consistent with a potential investment fraud scheme. Further investigation is warranted.
-  </Findings>
+  <Party>
+    <Name>Ulrich Baumann</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <IdentificationType>German ID</IdentificationType>
+    <IdentificationNumber>1234567890</IdentificationNumber>
+  </Party>
+  <Findings>Possible investment fraud. Unusually high return claims.  Further investigation recommended.</Findings>
 </SAR>

@@ -1,6 +1,6 @@
-Date,Description,Amount (EUR),IBAN
-2023-08-20,Grocery Shopping,-50,DExxxxxxxxxxxxxxxxxxxxxx
-2023-08-27,Restaurant Dinner,-80,DExxxxxxxxxxxxxxxxxxxxxx
-2023-09-01,Transfer to AI Trading Solutions,-5000,DExxxxxxxxxxxxxxxxxxxxxx
-2023-09-05,Salary Credit,2500,DExxxxxxxxxxxxxxxxxxxxxx
-2023-09-10,Online Payment,-20,DExxxxxxxxxxxxxxxxxxxxxx
+Date,Description,Amount (EUR),Balance (EUR),IBAN
+2023-08-28,Incoming Salary,2500.00,2500.00,DE89370400440532015000
+2023-09-01,Transfer to QuantumAI, -1000.00,1500.00,DE89370400440532015000
+2023-09-05,Recurring Payment, -50.00,1450.00,DE89370400440532015000
+2023-09-10,Online Shopping, -75.00,1375.00,DE89370400440532015000
+2023-09-15,ATM Withdrawal, -100.00,1275.00,DE89370400440532015000

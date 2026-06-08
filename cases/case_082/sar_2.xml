@@ -1,15 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <sar>
-  <report_date>2024-02-15</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <customer_name>Michael Schmidt</customer_name>
-  <customer_id>1234567890</customer_id>
-  <transaction_date>2024-02-10</transaction_date>
-  <transaction_amount currency="EUR">5000</transaction_amount>
-  <transaction_type>Transfer Out</transaction_type>
-  <recipient_name>CryptoTrade Solutions</recipient_name>
-  <recipient_account>GB21NWBK00000000001234</recipient_account>
-  <recipient_country>United Kingdom</recipient_country>
-  <description>Transfer to CryptoTrade Solutions</description>
-  <suspicious_activity>Second transfer to the same recipient. Customer inquired about withdrawal options and faced delays.</suspicious_activity>
-  <reporter>Compliance Officer</reporter>
+  <report_date>2023-12-10</report_date>
+  <institution_name>Commerzbank</institution_name>
+  <reporter_name>Suspicious Activity Reporting Team</reporter_name>
+  <beneficial_owner>
+    <name>Johannes Meier</name>
+    <address>Musterstraße 12, 10115 Berlin, Germany</address>
+  </beneficial_owner>
+  <transaction>
+    <transaction_date>2023-11-18</transaction_date>
+    <amount currency="EUR">1000</amount>
+    <description>Attempted withdrawal from Global Forex Pro account</description>
+    <recipient_iban>DE89370400440532013656</recipient_iban>
+    <reason>Withdrawal</reason>
+  </transaction>
+  <findings>Customer reported inability to withdraw funds.  Account activity consistent with possible investment fraud scheme.  Further investigation recommended.</findings>
 </sar>

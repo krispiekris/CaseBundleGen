@@ -1,42 +1,42 @@
 [
   {
-    "question": "What type of activity was initially flagged by the Bank of Australia regarding David Miller's transactions?",
-    "answer": "Unusual Transaction Pattern"
+    "question": "What was the initial amount transferred by Helmut Schneider to Innovative Investments, as recorded in the bank statement?",
+    "answer": "10000 EUR"
   },
   {
-    "question": "According to the promotional material, what is the primary benefit of using AI Trading Solutions?",
-    "answer": "To earn passive income while focusing on other matters."
+    "question": "According to the SAR report from Deutsche Bank dated 2023-11-18, what type of transaction was initially flagged as suspicious?",
+    "answer": "Unusual transfer to an unverified online payment processor."
   },
   {
-    "question": "In what country is the recipient bank (Atlantic Bank) located, as indicated in the SAR reports?",
-    "answer": "Belize"
+    "question": "What country is associated with the IBAN used for the attempted withdrawal in the SAR report from 2024-01-10?",
+    "answer": "Seychelles"
   },
   {
-    "question": "What was the total amount of money David Miller transferred to Global Investments Ltd across the two transactions detailed in the SAR?",
-    "answer": "20000"
+    "question": "What reason is given in email_3 for the delay in Helmut Schneider's withdrawal request?",
+    "answer": "Increased security measures and high transaction volume."
   },
   {
-    "question": "What action did AI Trading Solutions request from David Miller after he requested a withdrawal?",
-    "answer": "A copy of his government-issued identification"
+    "question": "What does the promotional material highlight as a key benefit of using the AI Trading Bot?",
+    "answer": "Effortless Trading"
   },
   {
-    "question": "Based on the screenshot description, what is displayed on the trading platform\u2019s interface regarding profit generation?",
-    "answer": "AI Profit Generator Active - Current Profit: +12.5%"
+    "question": "Which entities are referenced in promotional material 1 and email_1?",
+    "answer": "Innovative Investments, AI Trading Bot"
   },
   {
-    "question": "What is the main concern raised by the Australian Financial Authority regarding AI Trading Solutions in SAR_3?",
-    "answer": "Suspected of operating an investment fraud scheme targeting individuals with promises of high returns through AI trading."
+    "question": "According to the SAR from 2024-05-05, what specific detail in the client\u2019s complaint further raised concerns about potentially fraudulent activity?",
+    "answer": "Significant delays in fund withdrawals"
   },
   {
-    "question": "Which of the following entities are mentioned in at least one email? Select all that apply: David Miller, Atlantic Bank, Global Investments Ltd, Australian Financial Authority.",
-    "answer": "David Miller, Global Investments Ltd"
+    "question": "Based on the provided data, what is a potential concern indicated by the destination country listed in the SAR reports?",
+    "answer": "The recipient bank is located in a high-risk jurisdiction."
   },
   {
-    "question": "What is the time zone associated with the AI Trading Solutions platform as indicated by the screenshot?",
-    "answer": "Georgia (UTC+4)"
+    "question": "What is the purpose of email_2?",
+    "answer": "To inform Helmut Schneider about his AI Trading Bot's performance and current balance."
   },
   {
-    "question": "According to promotional material 2, what is the level of expertise behind AI trading solutions?",
-    "answer": "A team of expert financial engineers"
+    "question": "What is suggested in the promotional materials about the need for prior investment experience to use the AI Trading Bot?",
+    "answer": "No prior experience needed!"
   }
 ]

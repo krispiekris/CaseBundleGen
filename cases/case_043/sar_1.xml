@@ -1,28 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SAR_schema.xsd">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunusturm, Am Mainufer 55, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Hans Meier</Name>
-    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    <DateOfBirth>1968-04-20</DateOfBirth>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-01</Date>
-    <Amount currency="EUR">15000</Amount>
-    <TransactionType>Bank Transfer</TransactionType>
-    <Description>Investment Deposit - Quantum AI Trading</Description>
-    <Beneficiary>
-      <Name>Quantum AI Trading LLC</Name>
-      <Account>1234567890</Account>
-      <BankName>Belize International Bank Limited</BankName>
-      <Country>Belize</Country>
-    </Beneficiary>
-  </Transaction>
-  <SuspiciousActivity>
-    <Description>Large deposit to an offshore company with limited transparency.  Initial contact made via unsolicited email.</Description>
-    <RiskLevel>High</RiskLevel>
-  </SuspiciousActivity>
-</SAR>
+<sar>
+  <report_date>2023-04-05</report_date>
+  <reporter>Sparkasse Bank</reporter>
+  <reporter_id>SPK12345</reporter_id>
+  <beneficiary_name>Hans Schmidt</beneficiary_name>
+  <beneficiary_account>DE12721418000020000000</beneficiary_account>
+  <transaction_date>2023-04-01</transaction_date>
+  <transaction_amount>15000</transaction_amount>
+  <transaction_currency>EUR</transaction_currency>
+  <transaction_description>Transfer to AI Trading System</transaction_description>
+  <recipient_name>Global Investments Ltd</recipient_name>
+  <recipient_account>XX1234567890</recipient_account>
+  <recipient_country>United Arab Emirates</recipient_country>
+  <suspicious_activity>Potential investment fraud - high-yield investment with minimal risk</suspicious_activity>
+  <findings>Transaction appears to involve an unregulated investment scheme. Beneficiary's location and limited transparency raise concerns.</findings>
+</sar>

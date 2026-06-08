@@ -1,0 +1,1 @@
+Screenshot Description: This screenshot shows the 'Withdrawal' page on the AETradingBots platform. There's a field to enter the withdrawal amount and select a payment method (cryptocurrency or bank transfer). A message at the bottom reads: 'Processing Time: 24-48 hours.'

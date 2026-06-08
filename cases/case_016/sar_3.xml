@@ -1,20 +1,18 @@
-<SAR>
+<SAR xmlns="http://www.example.com/sar">
   <Header>
-    <ReportDate>2024-03-02</ReportDate>
-    <ReferenceNumber>SAR-20240302-003</ReferenceNumber>
+    <ReportDate>2024-01-15</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseID>DB-SAR-2023-0068</CaseID>
   </Header>
   <Transaction>
-    <TransactionDate>2024-01-25</TransactionDate>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-11-29</TransactionDate>
+    <Amount>100.00</Amount>
     <Currency>EUR</Currency>
-    <SenderAccount>DE89370400440532013000</SenderAccount>
-    <SenderName>Ulrich Baumann</SenderName>
-    <ReceiverAccount>GB25NWBK00000012345678</ReceiverAccount>
-    <ReceiverName>Global Investments LTD</ReceiverName>
-    <Description>Withdrawn and then blocked by Global Investments LTD</Description>
+    <SenderName>Markus Wagner</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>Global Investments Ltd.</RecipientName>
+    <RecipientAccount>CY12345678901234567890</RecipientAccount>
+    <PurposeCode>International Payment</PurposeCode>
+    <SuspiciousActivity>Attempted withdrawal blocked; account flagged as potentially compromised.</SuspiciousActivity>
   </Transaction>
-  <SuspiciousActivity>
-    <Finding>Client reported scam, funds not released.</Finding>
-    <Justification>Client alleges fraudulent activity, withdrawal denial triggered investigation.</Justification>
-  </SuspiciousActivity>
 </SAR>

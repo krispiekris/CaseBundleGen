@@ -1,29 +1,24 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-12-06</ReportDate>
-    <SuspiciousActivity>
-      <Type>Withdrawal Issues</Type>
-      <Description>Customer reporting difficulties in withdrawing funds from account.</Description>
-    </SuspiciousActivity>
-  </Header>
-  <Parties>
-    <Sender>
-      <Name>Sparkasse Bank</Name>
-    </Sender>
-    <Receiver>
-      <Name>Global Forex Solutions</Name>
-      <Country>Nigeria</Country>
-    </Receiver>
-  </Parties>
-  <Transactions>
-    <Transaction>
-      <Date>2023-11-10</Date>
-      <Amount>10000 EUR</Amount>
-      <Currency>EUR</Currency>
-      <Description>Withdrawal Request - Denied</Description>
-    </Transaction>
-  </Transactions>
-  <Findings>
-    <Finding>Customer experiencing persistent issues withdrawing funds from account.</Finding>
-  </Findings>
+<SAR id="SAR-20240110-002">
+  <ReportDate>2024-01-11</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <ReportingInstitutionIdentifier>DEBA0001</ReportingInstitutionIdentifier>
+  <Customer>
+    <Name>Hans Mueller</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Customer>
+  <Transaction>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount currency="EUR">2000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Beneficiary>
+      <Name>Innovative Investments Ltd.</Name>
+      <Address>Suite 714, First Floor, Heritage Plaza, PO Box 958, Road Town, Tortola, VG, British Virgin Islands</Address>
+      <Account>1234567890</Account>
+      <Bank>RBC Royal Bank (Cayman) Ltd.</Bank>
+    </Beneficiary>
+    <Description>Additional Investment - AI Trading</Description>
+    <SuspiciousActivity>Customer reports inability to withdraw funds. Repeated transfers to offshore account.</SuspiciousActivity>
+  </Transaction>
+  <Investigator>Klaus Schmidt</Investigator>
 </SAR>

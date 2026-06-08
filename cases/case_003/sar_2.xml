@@ -1,27 +1,19 @@
-<SAR>
-  <Header>
-    <SARReferenceID>20231125-SAR-002</SARReferenceID>
-    <DateTime>2023-11-25T14:30:00Z</DateTime>
-    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
-  </Header>
-  <TransactionDetails>
-    <TransactionDate>2023-11-20</TransactionDate>
-    <TransactionAmount currency="EUR">0</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <OriginatingParty>
-      <Name>Karl Meier</Name>
-      <AccountID>DE12345678901234567890</AccountID>
-      <Country>DE</Country>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>FX Pro Advisor</Name>
-      <AccountID>BZ21020100000000000001</AccountID>
-      <Country>BZ</Country>
-      <IBAN>BZ21020100000000000001</IBAN>
-    </BeneficiaryParty>
-  </TransactionDetails>
-  <Suspicion>
-    <Description>Withdrawal attempt denied due to account restrictions</Description>
-    <Reason>Potential investment fraud</Reason>
-  </Suspicion>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-08-21</ReportDate>
+  <FilingBank>Deutsche Bank</FilingBank>
+  <Subject>
+    <Name>Markus Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-10-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <TransactionDate>2023-07-05</TransactionDate>
+    <Amount currency="EUR">10000.00</Amount>
+    <Description>Attempted withdrawal denied, pressure to invest more</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Victim attempting to withdraw funds, but being pressured to invest additional funds instead.  Potential investment fraud.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SuspiciousActivityReport>

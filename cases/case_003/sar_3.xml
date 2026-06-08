@@ -1,27 +1,20 @@
-<SAR>
-  <Header>
-    <SARReferenceID>20240120-SAR-003</SARReferenceID>
-    <DateTime>2024-01-20T09:00:00Z</DateTime>
-    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
-  </Header>
-  <TransactionDetails>
-    <TransactionDate>2023-07-15</TransactionDate>
-    <TransactionAmount currency="EUR">0</TransactionAmount>
-    <TransactionType>Information</TransactionType>
-    <OriginatingParty>
-      <Name>Karl Meier</Name>
-      <AccountID>DE12345678901234567890</AccountID>
-      <Country>DE</Country>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>FX Pro Advisor</Name>
-      <AccountID>BZ21020100000000000001</AccountID>
-      <Country>BZ</Country>
-      <IBAN>BZ21020100000000000001</IBAN>
-    </BeneficiaryParty>
-  </TransactionDetails>
-  <Suspicion>
-    <Description>Initial contact between customer and potential fraudulent entity.</Description>
-    <Reason>Potential investment fraud – Preliminary investigation</Reason>
-  </Suspicion>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-08-22</ReportDate>
+  <FilingBank>Deutsche Bank</FilingBank>
+  <Subject>
+    <Name>Markus Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-10-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <TransactionDate>2023-07-05</TransactionDate>
+    <Amount currency="EUR">10000.00</Amount>
+    <Description>Second investment after denial of withdrawal</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Victim pressured to invest additional funds following a request to withdraw previously deposited funds. Potential investment fraud. Multiple communications indicate a Belize-based entity.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+    <Jurisdiction>Belize</Jurisdiction>
+  </Findings>
+</SuspiciousActivityReport>

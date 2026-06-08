@@ -1,14 +1,15 @@
-<sar>
-  <report_id>SAR-20231020-003</report_id>
-  <date>2023-10-20</date>
-  <bank_name>Deutsche Bank</bank_name>
-  <transaction_type>Withdrawal Attempt</transaction_type>
-  <amount>10000.00</amount>
-  <currency>EUR</currency>
-  <sender_name>Ulrich Baumann</sender_name>
-  <sender_account>DExxxxxxxxxxxxxxxxxxxx</sender_account>
-  <recipient_name>Ulrich Baumann</recipient_name>
-  <recipient_account>DExxxxxxxxxxxxxxxxxxxx</recipient_account>
-  <recipient_bank>Deutsche Bank</recipient_bank>
-  <description>Withdrawal Request Denied - AI Trading Pro</description>
-  <findings>Victim reports denial of withdrawal request. Potential fraud - inability to access funds.
+<SAR id="SAR-20231125-003">
+  <ReportDate>2023-11-25</ReportDate>
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="AUD">12000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Global Investments Ltd</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Withdrawal Request</Description>
+    <Suspicion>Possible investment fraud - attempted withdrawal of funds from compromised account</Suspicion>
+  </SuspiciousActivity>
+</SAR>

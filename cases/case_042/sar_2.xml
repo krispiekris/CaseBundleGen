@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportDate>2024-02-03</ReportDate>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
-  <Account>
-    <AccountID>1234567890</AccountID>
-    <AccountHolder>Hans Meier</AccountHolder>
-    <Country>Germany</Country>
-  </Account>
-  <SuspiciousTransaction>
-    <TransactionDate>2023-11-10</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Recipient>
-      <Name>Quantum AI Trading LLC</Name>
-      <Country>Belize</Country>
-      <AccountID>9876543210</AccountID>
-    </Recipient>
-    <Description>Second investment to Quantum AI Trading platform</Description>
-    <Findings>Further investment to the same offshore company, increasing concerns about potential fraudulent activity. Account holder reported inability to withdraw funds.</Findings>
-  </SuspiciousTransaction>
+  <Header>
+    <ReportDate>2024-02-15</ReportDate>
+    <BankName>Royal Bank of Canada</BankName>
+    <SARReference>20240215-003</SARReference>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-01-05</TransactionDate>
+    <TransactionAmount currency="CAD">25000.00</TransactionAmount>
+    <SenderName>Michael Davies</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <RecipientName>Genesis NFT Holdings</RecipientName>
+    <RecipientAccount>9876543210</RecipientAccount>
+    <RecipientBank>Example Bank</RecipientBank>
+    <SwiftCode>EXMPCA</SwiftCode>
+    <Description>NFT Investment - Genesis Project</Description>
+    <SuspiciousActivity>Potential Investment Fraud - Large Transfer, Unverified Investment</SuspiciousActivity>
+  </Transaction>
 </SAR>

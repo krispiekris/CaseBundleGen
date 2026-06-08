@@ -1,31 +1,20 @@
-<SAR>
-  <Header>
-    <SARReference>20231206-GER-001</SARReference>
-    <DateTime>2023-12-06T10:30:00Z</DateTime>
-    <Institution>
-      <Name>Deutsche Bank</Name>
-      <Identifier>DB-GER-001</Identifier>
-    </Institution>
-  </Header>
-  <Transaction>
-    <Amount Currency="EUR">5000.00</Amount>
-    <Date>2023-12-05</Date>
-    <Description>Transfer to AI Trading Solutions</Description>
-    <Origin>
-      <Account>
-        <IBAN>DE12345678901234567890</IBAN>
-        <Name>Klaus Richter</Name>
-      </Account>
-    </Origin>
-    <Destination>
-      <Account>
-        <IBAN>ZA88011100110000123456</IBAN>
-        <Name>AI Trading Solutions</Name>
-      </Account>
-    </Destination>
-  </Transaction>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-28</ReportDate>
+  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-25</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Klaus Müller</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxx</RecipientAccount>
+      <RecipientCountry>United States</RecipientCountry>
+      <Description>Initial deposit to investment platform</Description>
+    </Transaction>
+  </SuspiciousActivity>
   <Findings>
-    <SuspiciousActivity>Unusual transfer to a foreign entity claiming to offer AI trading services.</SuspiciousActivity>
-    <RiskLevel>Medium</RiskLevel>
+    <Finding>Unusual large credit to an overseas account.  Customer is new to international investments.</Finding>
   </Findings>
 </SAR>

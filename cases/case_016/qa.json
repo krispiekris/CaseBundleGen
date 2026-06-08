@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is the primary benefit offered by Global Investments?",
-    "answer": "Incredibly high potential returns in the Forex market."
+    "question": "What is the primary purpose of AI Global Profits, according to the welcome email?",
+    "answer": "To maximize returns in the volatile markets using AI algorithms."
   },
   {
-    "question": "What amount did Ulrich Baumann initially transfer to Global Investments, according to SAR-20231116-001?",
-    "answer": "2500 EUR"
+    "question": "According to the SAR report from Deutsche Bank (dated 2023-09-05), how much money did Markus Wagner transfer to Global Investments Ltd.?",
+    "answer": "15000.00 EUR"
   },
   {
-    "question": "What specific reason is given in SAR-20231116-001 to justify the categorization of the transaction as suspicious?",
-    "answer": "Initial deposit exceeding typical investment amounts for a new client."
+    "question": "Based on the Telegram conversation, what weekly return percentage did David initially suggest was possible?",
+    "answer": "15-20%"
   },
   {
-    "question": "Based on promotional material 1, what is the maximum monthly return percentage Global Investments claims to offer?",
-    "answer": "30%"
+    "question": "What promotional message suggests that joining AI Global Profits offers the chance to achieve 'financial freedom'?",
+    "answer": "Exclusive Invitation: Limited-Time Opportunity to Maximize Your Returns!"
   },
   {
-    "question": "What reason does Global Investments provide in the email denying Ulrich's withdrawal request?",
-    "answer": "Discrepancies in account activity that require further investigation."
+    "question": "According to the email from David Adebayo, what new AI model opportunity does he recommend Markus capitalize on?",
+    "answer": "An opportunity to increase returns in the cryptocurrency market."
   },
   {
-    "question": "Which account did Ulrich Baumann use to receive funds from Global Investments, according to SAR-20240126-002?",
-    "answer": "DE89370400440532013000"
+    "question": "What action was taken regarding the attempted withdrawal of 100 EUR on 2024-01-10?",
+    "answer": "The attempted withdrawal was blocked, and the account was flagged as potentially compromised."
   },
   {
-    "question": "What is the purpose of the screenshot included in the case files?",
-    "answer": "It shows the Global Investments login page, including fields for username and password and the login URL."
+    "question": "Based on the website screenshot description, what color scheme is used on the AI Global Profits website?",
+    "answer": "Blue and white"
   },
   {
-    "question": "Considering the details from SAR-20240126-002 and bank_statement_2.csv, what is the net balance in Ulrich's account after the withdrawal request in January 2024?",
-    "answer": "-50.00 EUR"
+    "question": "What amount did David suggest Markus add to his portfolio in the Telegram conversation to 'significantly boost' his profits?",
+    "answer": "\u20ac10,000"
   },
   {
-    "question": "What finding prompted the creation of SAR-20240302-003?",
-    "answer": "Client alleges fraudulent activity, withdrawal denial triggered investigation."
+    "question": "What is the purpose code associated with the 10000 EUR transfer to Global Investments Ltd. mentioned in SAR 2?",
+    "answer": "International Payment"
   },
   {
-    "question": "Which entities are explicitly mentioned in promotional material_1.txt and also present in the SAR reports?",
-    "answer": "Global Investments"
+    "question": "What was the initial balance in Markus Wagner's bank account before the first significant transfer to Global Investments Ltd.?",
+    "answer": "10250.00 EUR"
   }
 ]

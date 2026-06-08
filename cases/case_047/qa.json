@@ -1,42 +1,42 @@
 [
   {
-    "question": "What type of investment strategy does Innovative AIX claim to use?",
-    "answer": "AI-powered investment strategies."
+    "question": "What is the minimum deposit required to participate in the AI Trading Solutions program?",
+    "answer": "$5,000"
   },
   {
-    "question": "According to the promotional material, what is one of the advertised benefits of investing with Innovative AIX?",
-    "answer": "Risk-Free Returns"
+    "question": "According to the email from AI Trading Solutions, what action has been taken regarding David's withdrawal privileges?",
+    "answer": "They have been temporarily restricted."
   },
   {
-    "question": "What country is the beneficiary account of Innovative AIX located in?",
-    "answer": "United Arab Emirates"
+    "question": "Which financial institutions are involved in the transactions related to David Miller's account, based on the SAR reports?",
+    "answer": "Example Bank, Island Bank, and Global Trust Corp."
   },
   {
-    "question": "What triggered the initial suspicion reported in SAR_1?",
-    "answer": "Potential investment scheme involving AI trading. Customer appears to be new to this type of investment."
+    "question": "What currencies are accepted for the initial deposit?",
+    "answer": "Bitcoin, Ethereum, or USD."
   },
   {
-    "question": "What was the description provided for the wire transfer to Innovative AIX in SAR_1?",
-    "answer": "Wire transfer to Innovative AIX - potential investment"
+    "question": "Based on the promotional materials, what is one key advantage of AI Trading Solutions over traditional investment methods?",
+    "answer": "Our proprietary AI algorithms analyze market trends with unparalleled accuracy."
   },
   {
-    "question": "What action did Deutsche Bank's Compliance Officer report in SAR_2?",
-    "answer": "Customer attempting to withdraw funds, but transaction failed."
+    "question": "What is the physical address associated with Belize Offshore Services Ltd., as reported in SAR 2?",
+    "answer": "Suite 123, Belize City, Belize"
   },
   {
-    "question": "What reason did Innovative AIX give in email_3 for needing to verify Ulrich Baumann's identity?",
-    "answer": "Unusual activity on his account to ensure the security of investments."
+    "question": "What was the date of the initial transaction of $15,000 from David Miller to the Belize account?",
+    "answer": "2023-09-01"
   },
   {
-    "question": "Based on the transaction logs, what is the sum of Ulrich Baumann's investments to Innovative AIX?",
-    "answer": "4000.00"
+    "question": "What date is reported as the Report Date in SAR 1?",
+    "answer": "2023-11-03"
   },
   {
-    "question": "What does SAR_3 indicate about Ulrich Baumann\u2019s situation by the report date?",
-    "answer": "Customer reports fraudulent activity and loss of funds."
+    "question": "Based on SAR 3, what action was attempted by David Miller that was ultimately rejected?",
+    "answer": "A withdrawal of $10,000"
   },
   {
-    "question": "What is the purpose of the website, as described in screenshot_website_1?",
-    "answer": "To showcase and promote Innovative AIX\u2019s AI investing platform."
+    "question": "What is the email address provided for contact with AI Trading Solutions?",
+    "answer": "support@aitradingsolutions.com"
   }
 ]

@@ -1,9 +1,11 @@
-Date,Description,Amount (EUR),IBAN
-2023-11-01,Monthly Salary,5500.00,DE12345678901234567890
-2023-11-10,Grocery Shopping,50.00,DE12345678901234567890
-2023-11-15,Restaurant Dinner,75.00,DE12345678901234567890
-2023-11-22,Wire Transfer, -5000.00,DE12345678901234567890
-2023-11-25,Online Purchase,25.00,DE12345678901234567890
-2023-11-28,Utility Bill Payment,150.00,DE12345678901234567890
-2023-12-10,Wire Transfer, -3000.00,DE12345678901234567890
-2024-01-05,Withdrawal Request, -10000.00,DE12345678901234567890
+Date,Description,Amount,Category,Recipient IBAN
+2023-10-20,Grocery Shopping,-50.00,Groceries,
+2023-10-27,Online Payment,-25.00,Utilities,
+2023-11-01,CryptoKingsRecovery Payment,-6500.00,Investment,NG5100001234567890
+2023-11-08,Restaurant Dinner,-75.00,Dining,
+2023-11-15,Online Payment,-100.00,Entertainment,
+2023-11-22,Utilities Payment,-150.00,Utilities,
+2023-12-01,CryptoKingsRecovery Fees,-2000.00,Investment,NG5100001234567890
+2023-12-08,Car Payment,-300.00,Automobile
+2023-12-15,Online Purchase,-40.00,Shopping,
+2023-12-22,Restaurant Dinner,-60.00,Dining

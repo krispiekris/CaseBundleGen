@@ -1,14 +1,13 @@
-From: no-reply@novatradeai.com
-To: klaus.heinz@email.de
-Subject: Important Update Regarding Your Account
+From: ai.trading.support@globalinvestments.tech
+To: david.miller@example.com.au
+Subject: Important Update Regarding Your Withdrawal Request
 
-Dear Klaus,
+Dear David,
 
-We are writing to inform you that your account has been temporarily restricted due to suspicious activity. To resolve this issue and reactivate your account, please click on the following link and verify your information:
+We are experiencing a slight delay in processing your withdrawal request due to increased demand.  We apologize for any inconvenience.
 
-[http://verify-account.novatradeai.com]
-
-Failure to verify your account within 24 hours may result in permanent account closure.
+To expedite the process, please confirm your account details by replying to this email.
 
 Sincerely,
-The NovaTrade AI Security Team
+
+The Global Investments Team

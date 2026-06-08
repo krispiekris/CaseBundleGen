@@ -1,5 +1,5 @@
-Date,Description,Amount (EUR),Balance (EUR)
-2023-12-05,Incoming Transfer,1000.00,5950.00
-2024-01-03,Online Payment - Global Investments LTD,-1000.00,4950.00
-2024-01-20,Withdrawal Request - Global Investments LTD,-5000.00,-50.00
-2024-01-25,Bank Fee,-5.00,-55.00
+Date,Description,Amount (EUR),Balance (EUR),Recipient/Sender IBAN
+2023-09-05,Grocery Shopping,-50.00,25125.00,,DE12345678901234567890
+2023-10-16,Online Transfer,10000.00,35125.00,CY12345678901234567890
+2023-11-28,Bill Payment,-75.00,35050.00,,DE12345678901234567890
+2023-11-29,Withdrawal Request,100.00,,DE12345678901234567890

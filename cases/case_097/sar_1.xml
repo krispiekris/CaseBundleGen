@@ -1,26 +1,21 @@
-<SAR id="SAR-20230401-001">
-  <Date>2023-04-01</Date>
-  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
-  <ReportingInstitution>
-    <Name>Deutsche Bank</Name>
-    <Address>Mainzer Landstr. 197, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Karl Meier</Name>
-    <Address>Musterstraße 10, 12345 Berlin, Germany</Address>
-    <DateOfBirth>1968-07-20</DateOfBirth>
-  </Subject>
-  <Transaction>
-    <Date>2023-04-01</Date>
-    <Amount currency="EUR">5000.00</Amount>
-    <Type>Wire Transfer</Type>
-    <Description>Wire transfer to Global Capital Group</Description>
-    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
-    <ReceiverAccount>BZxxxxxxxxxxxxx</ReceiverAccount>
-    <ReceiverName>Global Capital Group Ltd.</ReceiverName>
-    <ReceiverJurisdiction>Belize</ReceiverJurisdiction>
-  </Transaction>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-29</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-22</TransactionDate>
+      <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+      <TransactionType>Transfer</TransactionType>
+      <SenderName>Martin Schmidt</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>AlexTrades</ReceiverName>
+      <ReceiverAccount>ZA12345678901234567890</ReceiverAccount>
+      <ReceiverBank>First National Bank</ReceiverBank>
+      <ReceiverCountry>ZA</ReceiverCountry>
+      <Description>Initial investment - AI Trading</Description>
+    </Transaction>
+  </SuspiciousActivity>
   <Findings>
-    <SuspiciousActivity>Unusually large wire transfer to an offshore company. Transaction warrants further investigation.</SuspiciousActivity>
+    <Finding>Unusual transfer to a foreign bank account with unclear purpose.</Finding>
   </Findings>
 </SAR>

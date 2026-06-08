@@ -1,18 +1,25 @@
-<SAR id="SAR-20231110-002">
-  <Header>
-    <DateTime>2023-11-10T14:15:00Z</DateTime>
-    <Originator>Deutsche Bank</Originator>
-  </Header>
-  <Transaction>
-    <Amount currency="EUR">5000</Amount>
-    <DateTime>2023-11-10</DateTime>
-    <Description>Attempted withdrawal - Rejected</Description>
-    <Sender>Marc Schneider</Sender>
-    <Receiver>Deutsche Bank</Receiver>
-    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Blocked withdrawal request - potential issue with account access or funds</SuspiciousActivity>
-    <Justification>Client reported difficulties in withdrawing funds after recent deposits.</Justification>
-  </Findings>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_id>SAR-2024-00124</report_id>
+  <date_filed>2024-02-01</date_filed>
+  <institution_name>Deutsche Bank</institution_name>
+  <reporter_name>Anna Schmidt</reporter_name>
+  <reporter_title>Compliance Officer</reporter_title>
+  <subject>
+    <name>Klaus Muller</name>
+    <address>Musterstraße 12, 10115 Berlin, Germany</address>
+    <date_of_birth>1967-05-10</date_of_birth>
+  </subject>
+  <transactions>
+    <transaction>
+      <date>2024-01-10</date>
+      <amount>8000.00</amount>
+      <currency>EUR</currency>
+      <type>Debit</type>
+      <description>Transfer to AI Trading Solutions</description>
+      <iban>NG3708336937880532955322</iban>
+      <suspicious_reason>Follow-up transaction to previously flagged account; potential investment fraud</suspicious_reason>
+    </transaction>
+  </transactions>
+  <findings>Further investigation warranted based on previous SAR filing. Subject continues to transfer funds to suspicious entity.</findings>
+</sar>

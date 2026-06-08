@@ -1,3 +1,4 @@
-Date,Description,Amount,Balance
-2023-10-22,-500.00,
-2023-10-26,Withdrawal Request,-10000.00,
+Date,Description,Amount (EUR),IBAN
+2024-01-05,Transfer, -100.00,DE563020000000123456
+2024-01-12,Interest, 0.05,DE563020000000123456
+2024-01-15,Withdrawal Request, -5000.00,DE563020000000123456

@@ -1,26 +1,18 @@
-<SAR id="SAR-20240122-002">
-  <ReportingInstitution>
-    <Name>First National Bank of Canada</Name>
-    <Address>123 Main Street, Anytown, ON</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>David Miller</Name>
-    <Address>456 Oak Avenue, Anytown, ON</Address>
-    <DateOfBirth>1972-01-15</DateOfBirth>
-  </Subject>
-  <SuspiciousActivity>
-    <TransactionDate>2024-01-22</TransactionDate>
-    <TransactionAmount currency="CAD">10000.00</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Description>Attempted withdrawal – rejected</Description>
-    <BeneficiaryName>Connect Innovations</BeneficiaryName>
-    <BeneficiaryAccount>1234567890</BeneficiaryAccount>
-    <BeneficiaryBank>International Trust Bank</BeneficiaryBank>
-    <BeneficiaryCountry>Belize</BeneficiaryCountry>
-  </SuspiciousActivity>
-  <Findings>
-    <SuspicionReason>Multiple attempts to withdraw funds resulting in rejection; possible unauthorized access</SuspicionReason>
-    <ReportingPerson>Jane Doe</ReportingPerson>
-    <ReportingDate>2024-01-23</ReportingDate>
-  </Findings>
+<SAR>
+  <Header>
+    <ReportDate>2024-02-25</ReportDate>
+    <ReportType>Suspicious Activity Report</ReportType>
+    <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionID>67890</TransactionID>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount currency="EUR">10000.00</TransactionAmount>
+    <SenderName>Wolfgang Meier</SenderName>
+    <SenderAccount>DE2374100500001234567890</SenderAccount>
+    <ReceiverName>Global Tech Solutions</ReceiverName>
+    <ReceiverAccount>GB21 NWBK 6000 0000 0000 000123</ReceiverAccount>
+    <Description>Withdrawal request denied</Description>
+    <SuspiciousActivity>Attempted withdrawal denial; potential fraud</SuspiciousActivity>
+  </Transaction>
 </SAR>

@@ -1,0 +1,14 @@
+Klaus Richter: Hello
+AI_Bot: Welcome to AI Trading Solutions! How can I help you?
+Klaus Richter: I’m interested in learning more about your automated trading system.
+AI_Bot: Excellent! Our AI algorithms are the best in the industry. They provide consistent profits with minimal risk.
+Klaus Richter: What’s the minimum investment?
+AI_Bot: A minimum deposit of €5,000 is required to activate your AI trading account.
+Klaus Richter: And how do I make a deposit?
+AI_Bot: You can deposit via bank transfer or cryptocurrency. Bank transfer details will be sent shortly.
+Klaus Richter: Thank you!
+AI_Bot: You're welcome! We're excited to have you onboard.
+Klaus Richter: What is the withdrawal process?
+AI_Bot: Withdrawals are processed within 24-48 hours.
+Klaus Richter: Great!
+AI_Bot: Welcome to the family!

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial deposit amount did Hans Meier make into the Forex Prime Global account, according to the SAR report?",
-    "answer": "50000.00 EUR"
+    "question": "What type of service does Aionautics claim to offer, according to the initial email?",
+    "answer": "Aionautics claims to utilize cutting-edge artificial intelligence to analyze market trends and generate returns through AI trading."
   },
   {
-    "question": "Based on email_3.txt, what trading pairs did Forex Prime Global claim generated the recent profits for Hans Meier?",
-    "answer": "EUR/USD and GBP/JPY"
+    "question": "According to the SAR report from December 5, 2023, what was the transaction amount and type for Mark Thomson\u2019s transfer to Aionautics?",
+    "answer": "The transaction amount was 25000, and the type was Debit."
   },
   {
-    "question": "What promotional offer was presented to new traders according to promotional_material_2.txt?",
-    "answer": "A \u20ac50,000 bonus for a \u20ac50,000 deposit."
+    "question": "What is the bank ID associated with Aionautics Capital Ltd. according to the SARs?",
+    "answer": "CYPRIANBANK"
   },
   {
-    "question": "What country is the bank associated with the cryptocurrency deposit from Hans Meier?",
-    "answer": "Belize"
+    "question": "Based on promotional material, what is one benefit offered to early adopters of Aionautics?",
+    "answer": "A complimentary consultation with an AI trading expert."
   },
   {
-    "question": "According to sar_2.xml, what prompted the suspicious activity during Hans Meier's withdrawal request?",
-    "answer": "Delayed withdrawal, customer expressing concerns about account activity."
+    "question": "What reason, given in the email from Aionautics support, explains the delay in processing withdrawals?",
+    "answer": "Ongoing market volatility."
   },
   {
-    "question": "According to email_1.txt, what is the stated goal of Forex Prime Global?",
-    "answer": "To help everyone achieve financial freedom through Forex trading."
+    "question": "What suspicious activity is noted in the SAR report from January 15, 2024?",
+    "answer": "Client expresses concerns about return on investment."
   },
   {
-    "question": "What was the amount of the interest earned in the account on 2023-05-10, according to bank_statement_2.csv?",
-    "answer": "250.00 EUR"
+    "question": "What does the screenshot of the website reveal about Aionautics' branding?",
+    "answer": "The website features a futuristic design with a dark blue and silver color scheme and emphasizes ease of use and advanced technology."
   },
   {
-    "question": "Besides EUR, what other currency deposit is mentioned in the case files?",
-    "answer": "BTC"
+    "question": "What does the email from 'Chinedu Okoro' request from Mark Thomson?",
+    "answer": "It requests Mark Thomson to verify his account by submitting additional documentation through a provided link."
   },
   {
-    "question": "What is the stated purpose of Forex Prime Global's platform, according to email_1.txt?",
-    "answer": "Cutting-edge tools, expert guidance, and a secure trading environment."
+    "question": "Considering the promotional materials, what average return percentage did Aionautics claim to achieve?",
+    "answer": "35% per month."
   },
   {
-    "question": "Based on the screenshot_2.txt, what is the tagline used to promote Forex Prime Global?",
-    "answer": "Forex Prime Global: Where Financial Dreams Come True"
+    "question": "Based on the third SAR report from July 22, 2024, what is Mark Thomson's primary concern?",
+    "answer": "He is unable to withdraw funds, and the platform is unresponsive."
   }
 ]

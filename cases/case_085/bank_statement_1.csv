@@ -1,7 +1,6 @@
-Date,Description,Amount (EUR),Balance (EUR),IBAN
-2023-03-10,Salary,3500.00,3500.00,DE12345678901234567890
-2023-03-25,Rent,800.00,2700.00,DE12345678901234567890
-2023-04-01,QuantumTrade Deposit,,-5000.00,DE12345678901234567890
-2023-05-15,QuantumTrade Profit Payout,250.00,-2500.00,DE12345678901234567890
-2023-06-10,Grocery Shopping,100.00,-2600.00,DE12345678901234567890
-2023-07-18,QuantumTrade Withdrawal Attempt,-,-,-
+Date,Description,Amount (EUR),IBAN
+2023-10-25,Innovative Investments Deposit,5000.00,DExxxxxxxxxxxxx
+2023-11-15,Innovative Investments Profit,1200.00,DExxxxxxxxxxxxx
+2023-11-22,Innovative Investments Profit,1350.00,DExxxxxxxxxxxxx
+2023-12-01,Innovative Investments Profit,1400.00,DExxxxxxxxxxxxx
+2024-01-05,Withdrawal Attempt - Rejected,-5000.00,DExxxxxxxxxxxxx

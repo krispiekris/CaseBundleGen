@@ -1,17 +1,27 @@
-<SAR id="SAR-20230401-001">
-  <ReportingInstitution>
-    <Name>Global Finance Solutions</Name>
-    <Address>123 Main Street, Anytown, USA</Address>
-  </ReportingInstitution>
+<SAR>
+  <Header>
+    <ReportDate>2023-09-10</ReportDate>
+    <InstitutionID>ANZ Bank - AU</InstitutionID>
+    <Currency>AUD</Currency>
+  </Header>
   <Transaction>
-    <Date>2023-04-01</Date>
-    <Amount>5000.00</Amount>
-    <Currency>USD</Currency>
-    <TransactionType>Credit</TransactionType>
-    <Sender>David Miller</Sender>
-    <Receiver>Aionautica Investments Ltd.</Receiver>
-    <ReceiverAccount>1234567890</ReceiverAccount>
-    <Description>Initial investment</Description>
-    <SuspiciousActivity>Potential investment fraud. Large sum transfer to unknown entity.</SuspiciousActivity>
+    <TransactionID>TXN-12345</TransactionID>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <Amount>5000</Amount>
+    <Currency>AUD</Currency>
+    <SenderName>Daniel MacMillan</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <ReceiverName>Innovative AI Trading</ReceiverName>
+    <ReceiverAccount>9876543210</ReceiverAccount>
+    <Description>Investment - AI Trading</Description>
+    <SuspiciousActivity>Potential Investment Fraud - Unusual Investment</SuspiciousActivity>
   </Transaction>
+  <Party>
+    <Name>Daniel MacMillan</Name>
+    <Address>123 Main Street, Melbourne, VIC 3000</Address>
+  </Party>
+  <Party>
+    <Name>Innovative AI Trading</Name>
+    <Address>Unit 4, 100 Business Park Drive, Lagos, Nigeria</Address>
+  </Party>
 </SAR>

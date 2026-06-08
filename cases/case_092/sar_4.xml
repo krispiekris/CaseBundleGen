@@ -1,0 +1,16 @@
+<SAR id="SAR-20240310-004">
+  <BankName>First National Bank</BankName>
+  <Date>2024-03-10</Date>
+  <Transaction>
+    <Type>Information</Type>
+    <Amount>0.00</Amount>
+    <Currency>USD</Currency>
+    <SenderAccount>Richard Henderson - Account ending in 4567</SenderAccount>
+    <ReceiverAccount>N/A</ReceiverAccount>
+    <Description>Report of suspected investment fraud. Account details provided.</Description>
+  </Transaction>
+  <Suspicion>
+    <Finding>Possible investment fraud. Account holder reporting suspicious activity and denial of withdrawal.</Finding>
+    <Reporter>Richard Henderson</Reporter>
+  </Suspicion>
+</SAR>

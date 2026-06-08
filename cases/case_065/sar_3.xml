@@ -1,31 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ReportDate>2024-01-16</ReportDate>
-  <InstitutionName>Federal Trade Commission</InstitutionName>
-  <InstitutionIdentifier>FTC-2024-001</InstitutionIdentifier>
-  <SARContact>
-    <Name>Robert Smith</Name>
-    <Title>Investigator</Title>
-    <PhoneNumber>202-588-0200</PhoneNumber>
-    <Email>robert.smith@ftc.gov</Email>
-  </SARContact>
-  <Subject>Investment Fraud - AI Trading Scam</Subject>
-  <Customer>
-    <Name>Alexander Harding</Name>
-    <Address>123 Main Street, Anytown, USA</Address>
-  </Customer>
-  <Fraudster>
-    <Name>David Miller (Alias)</Name>
-    <Location>Belize</Location>
-  </Fraudster>
-  <Company>
-    <Name>SecureInvest LLC</Name>
-    <Location>Belize</Location>
-  </Company>
-  <Transaction>
-    <Description>Wire Transfers totaling $20,000 to SecureInvest LLC</Description>
-    <Amount>20000.00</Amount>
-  </Transaction>
-  <SuspiciousActivity>Reported victim alleges being contacted via Telegram by an individual claiming to be an AI trading expert. Victim transferred funds to SecureInvest LLC, an entity located in Belize, under the false pretense of high-yield returns. Victim's subsequent withdrawal request was denied, and they are unable to access their funds. Suspected investment fraud scheme involving AI trading and offshore entities.</SuspiciousActivity>
-  <ReportType>Fraud</ReportType>
-</SAR>
+<sar>
+  <report_id>SAR-20240105-003</report_id>
+  <date_filed>2024-01-05</date_filed>
+  <reporting_institution>Deutsche Bank</reporting_institution>
+  <reporter_name>Sarah Müller</reporter_name>
+  <reporter_position>Compliance Officer</reporter_position>
+  <subject_account>
+    <account_number>1234567890</account_number>
+    <account_holder>Wilhelm Baumann</account_holder>
+    <account_type>Checking</account_type>
+  </subject_account>
+  <suspicious_activity>
+    <description>Victim reporting potential fraud. Account restricted following attempted withdrawal.</description>
+    <date_of_activity>2023-12-10</date_activity>
+    <amount>15500.00</amount>
+    <currency>EUR</currency>
+    <transaction_type>Withdrawal Attempt</transaction_type>
+    <recipient_name>Secure Payments Ltd.</recipient_name>
+    <recipient_account>GB12BBBB9912345678</recipient_account>
+  </suspicious_activity>
+  <findings>
+    <finding>Victim claims to be a victim of an investment fraud scheme. Account flagged for potential fraudulent activity and investigation initiated.</finding>
+  </findings>
+</sar>

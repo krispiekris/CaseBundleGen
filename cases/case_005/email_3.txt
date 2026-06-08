@@ -1,0 +1,14 @@
+From: mark.alexander@apexinvestments.com
+To: david.miller@example.com
+Subject: Important Update Regarding Your Account
+
+Dear David,
+
+Due to ongoing system maintenance, withdrawals are temporarily unavailable.  We anticipate this will be resolved within 24-48 hours.  Please do not attempt to initiate further withdrawal requests during this time.
+
+Thank you for your patience.
+
+Sincerely,
+Mark Alexander
+Investment Strategist
+Apex Investments

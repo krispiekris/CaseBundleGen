@@ -1,32 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportDate>2024-02-29</nReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-09-01</TransactionDate>
-      <TransactionAmount currency="EUR">5000</TransactionAmount>
-      <TransactionType>Credit</TransactionType>
-      <SenderName>Klaus Hartmann</SenderName>
-      <SenderAccount>DE12345678901234567890</SenderAccount>
-      <RecipientName>AI Trading Solutions</RecipientName>
-      <RecipientAccount>ZA12345678901234567890</RecipientAccount>
-      <RecipientCountry>Seychelles</RecipientCountry>
-      <Description>Investment in AI Trading Platform</Description>
-    </Transaction>
-    <Transaction>
-      <TransactionDate>2023-11-20</TransactionDate>
-      <TransactionAmount currency="EUR">10000</TransactionAmount>
-      <TransactionType>Credit</TransactionType>
-      <SenderName>Klaus Hartmann</SenderName>
-      <SenderAccount>DE12345678901234567890</SenderAccount>
-      <RecipientName>AI Trading Solutions</RecipientName>
-      <RecipientAccount>ZA12345678901234567890</RecipientAccount>
-      <RecipientCountry>Seychelles</RecipientCountry>
-      <Description>Further Investment in AI Trading Platform</Description>
-    </Transaction>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Unexplained large deposits from a retail customer into an offshore account, coupled with reports of unsuccessful withdrawal attempts.</Finding>
-  </Findings>
-</SAR>
+<sar>
+  <report_id>SAR-20231205-001</report_id>
+  <date_filed>2023-12-05</date_filed>
+  <reporting_institution>Barclays Bank</reporting_institution>
+  <reporter_id>4789321</reporter_id>
+  <suspect_name>Richard Elliott</suspect_name>
+  <suspect_address>12 Oak Avenue, London, SW1A 1AA, United Kingdom</suspect_address>
+  <beneficiary_name>Chimaobi Okoro</beneficiary_name>
+  <beneficiary_address>14 Adenuga Crescent, Ikeja, Lagos, Nigeria</beneficiary_address>
+  <transaction_date>2023-12-01</transaction_date>
+  <transaction_amount>10000.00</transaction_amount>
+  <transaction_currency>GBP</transaction_currency>
+  <transaction_type>Wire Transfer</transaction_type>
+  <purpose>Investment</purpose>
+  <suspicious_activity>Unusual transfer to Nigeria; high value transfer with vague purpose</suspicious_activity>
+  <reporter_comments>Customer states transfer was for investment purposes, but details are unclear.  Further investigation warranted.</reporter_comments>
+</sar>

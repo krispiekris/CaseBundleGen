@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount of the first investment made by David Miller?",
-    "answer": "5000.00"
+    "question": "What type of trading program was offered to Johannes Meier?",
+    "answer": "Forex trading program"
   },
   {
-    "question": "According to the promotional material, what is one benefit of using AI Trading Solutions' system?",
-    "answer": "Automated Trading"
+    "question": "According to the initial email, what was promised to potential clients?",
+    "answer": "Guaranteed returns"
   },
   {
-    "question": "What country is listed as the location of the receiver entity in the SAR reports?",
-    "answer": "Cyprus"
+    "question": "What did Johannes Meier inquire about in his reply to the initial email?",
+    "answer": "Minimum investment required and potential return on investment"
   },
   {
-    "question": "Which suspicious activity was initially flagged in SAR-20230905?",
-    "answer": "Potential Investment Fraud - Unsolicited Contact"
+    "question": "Which bank reported the suspicious activity involving Johannes Meier's transactions?",
+    "answer": "Deutsche Bank"
   },
   {
-    "question": "What action did David Miller take after receiving the initial email from AI Trading Solutions?",
-    "answer": "He expressed interest in learning more."
+    "question": "What was the amount of the first suspicious transaction detected by Deutsche Bank?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "Based on the provided bank statement, what happened to the account balance after the initial investment of 5000.00?",
-    "answer": "The balance was 5500.00"
+    "question": "What is the receiver account used for the transactions related to Global Investments?",
+    "answer": "GB22BARD37660400000001"
   },
   {
-    "question": "What is the primary purpose of the email sent from AI Trading Solutions after the account reached a new milestone?",
-    "answer": "To encourage David Miller to deposit more funds."
+    "question": "What was the amount of the second transaction flagged as suspicious?",
+    "answer": "10000 EUR"
   },
   {
-    "question": "What reason did David Miller give for contacting AI Trading Solutions in email_4?",
-    "answer": "Withdrawal Issue"
+    "question": "What reason was given in the third SAR for denying Johannes Meier's withdrawal attempt?",
+    "answer": "Insufficient funds and unusual activity on the account"
   },
   {
-    "question": "According to promotional material_2, what is one of the claims made about AI trading\u2019s ability to reduce financial risk?",
-    "answer": "AI eliminates emotional decision-making"
+    "question": "What reason was initially provided by Global Investments for the temporary suspension of Johannes Meier's withdrawal request?",
+    "answer": "Ongoing security review"
   },
   {
-    "question": "Considering the transactions listed in the SAR reports, what is the total amount transferred to Global Investments Ltd. by David Miller?",
-    "answer": "20000.00"
+    "question": "According to the screenshot description, what is the displayed balance on the Forex trading platform?",
+    "answer": "$12,500.00"
   }
 ]

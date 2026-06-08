@@ -1,10 +1,12 @@
-From: ulrich.baumann@email.de
-To: info@ai-tradingpro.com
-Subject: Question about Account Setup
+From: secure-trading@ai-investments.com
+To: david.miller@example.com.au
+Subject: Congratulations! Your Portfolio Value is Soaring!
 
-Dear AI Trading Pro Team,
+Dear David,
 
-I recently signed up and made my initial deposit of €5,000.  I'm a bit confused about how to navigate the platform.  Could you provide some clarification?
+Your AI-Investments portfolio is performing exceptionally well! Our algorithms have generated significant profits for you.
 
-Thank you,
-Ulrich Baumann
+As of today, your portfolio value is $13,000 AUD. Keep an eye on your account at [https://ai-investments.com](https://ai-investments.com) for more updates.
+
+Sincerely,
+The AI-Investments Team

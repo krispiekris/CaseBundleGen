@@ -1,1 +1,13 @@
-From: support@aionauticstrading.com\nTo: mark.hamilton@example.ca\nSubject: Welcome to Aionautics Trading - Your AI Advantage\n\nDear Mark,\n\nWelcome to the Aionautics Trading family! We're thrilled to have you join our community of sophisticated investors leveraging cutting-edge AI technology for unparalleled returns.\n\nYour personalized AI trading bot is now active and optimized.  You can view its performance and manage your account at [https://aionauticstrading.com](https://aionauticstrading.com).\n\nAs a special introductory offer, you'll receive a detailed market analysis report every week, highlighting opportunities identified by our AI.  \n\nIf you have any questions, please don't hesitate to contact our support team.\n\nSincerely,\nThe Aionautics Trading Team
+From: daniel.schmidt@example.com
+To: marc.baumann@example.com
+Subject: Connecting on LinkedIn - AI Trading Opportunities
+
+Dear Marc,
+
+I came across your profile on LinkedIn and was impressed with your experience in finance. My name is Daniel Schmidt, and I'm a consultant specializing in innovative AI-driven trading strategies.  I've been achieving exceptional results for my clients, and I believe your expertise could benefit from learning more.
+
+I'd love to schedule a brief call to discuss this further.  Are you available next week?
+
+Best regards,
+Daniel Schmidt
+Schmidt Consulting

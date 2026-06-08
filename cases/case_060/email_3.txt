@@ -1,0 +1,20 @@
+From: ben.adebayo@globexcapital.com
+To: david.miller@example.com
+Subject: Welcome to Globex Capital - Your Account Setup
+
+Dear David,
+
+Welcome to Globex Capital! We're thrilled to have you join our exclusive trading community.
+
+To activate your account, please transfer funds to the following account:
+
+Account Name: Globex Capital
+Bank: Zenith Bank Nigeria Plc
+Account Number: 1234567890
+
+Once the funds are received, your account will be credited, and you can begin trading.  We will personally guide you through your first trade to ensure you understand the platform.
+
+Best Regards,
+Ben Adebayo
+Account Manager
+Globex Capital

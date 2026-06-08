@@ -1,0 +1,3 @@
+[Screenshot Description: A screenshot of a Forex trading platform interface.  It displays real-time currency quotes (EUR/USD, GBP/USD) with charts showing fluctuating prices.  There are buttons for 'Buy' and 'Sell'.  A small banner at the top reads 'Global Capital Markets - Your Gateway to Forex Success'. The platform's UI is visually appealing and uses a green and white color scheme.]
+
+Note: This is a simulated screenshot. Actual platform appearance may vary.

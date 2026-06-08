@@ -1,24 +1,15 @@
-<SAR>
-  <Header>
-    <SARReference>20231205-001</SARReference>
-    <BankName>Commonwealth Bank of Australia</BankName>
-    <Date>2023-12-05</Date>
-  </Header>
-  <Transaction>
-    <TransactionID>TXN-123456789</TransactionID>
-    <TransactionDate>2023-12-01</TransactionDate>
-    <Amount>5000</Amount>
-    <Currency>USD</Currency>
-    <SenderName>David Miller</SenderName>
-    <SenderAccount>1234567890</SenderAccount>
-    <ReceiverName>Global Investments LTD</ReceiverName>
-    <ReceiverAccount>BG88UNCR7000140000001</ReceiverAccount>
-    <ReceiverBank>Unicredit Bank</ReceiverBank>
-    <ReceiverCountry>Bulgaria</ReceiverCountry>
-    <Description>Investment - Alpha AI Trading</Description>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Potential investment fraud. Unusually high returns promised. Destination country is high risk.</SuspiciousActivity>
-    <ReportOriginator>Automated System</ReportOriginator>
-  </Findings>
+<SAR id="SAR-2023-10-26-001">
+  <Date>2023-10-26</Date>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Currency>EUR</Currency>
+  <TransactionAmount>5000</TransactionAmount>
+  <SenderName>Dr. Markus Schmidt</SenderName>
+  <SenderAccount>1234567890</SenderAccount>
+  <ReceiverName>Reliable Trading Solutions Ltd.</ReceiverName>
+  <ReceiverAccount>9876543210</ReceiverAccount>
+  <ReceiverCountry>Malta</ReceiverCountry>
+  <TransactionType>Wire Transfer</TransactionType>
+  <Description>Initial investment to automated trading platform.</Description>
+  <SuspiciousActivity>Potential investment fraud. Large sum transferred to offshore company with limited verifiable information.</SuspiciousActivity>
+  <Investigator>Anna Weber</Investigator>
 </SAR>

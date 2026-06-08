@@ -1,55 +1,58 @@
 {
-  "case_id": "2024-08-23-CYB-0042",
+  "case_id": "2024-02-29-CS-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Romania",
-    "Bulgaria"
+    "Belize",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Victim contacts AI trading platform via Facebook ad."
+      "date": "2023-09-15",
+      "event": "Victim contacted by 'investment manager' via Telegram."
     },
     {
-      "date": "2023-12-05",
-      "event": "Initial deposit made."
+      "date": "2023-10-01",
+      "event": "Initial investment of \u20ac5,000 made."
+    },
+    {
+      "date": "2023-11-10",
+      "event": "Victim shown fabricated trading results, prompted for further investment."
+    },
+    {
+      "date": "2023-12-20",
+      "event": "Victim invests additional \u20ac15,000."
     },
     {
       "date": "2024-01-10",
-      "event": "Victim experiences fabricated profits."
+      "event": "Victim attempts to withdraw funds, receives excuses and is further pressured to invest."
     },
     {
       "date": "2024-02-28",
-      "event": "Victim attempts withdrawal; request denied."
-    },
-    {
-      "date": "2024-03-15",
-      "event": "Victim reports fraud to authorities."
+      "event": "Victim reports fraud to local authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac20,000 - \u20ac25,000"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac3,000 - \u20ac7,000"
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac25,000 - \u20ac30,000"
     }
   ]
 }

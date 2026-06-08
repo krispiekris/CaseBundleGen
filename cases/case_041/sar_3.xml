@@ -1,28 +1,27 @@
-<SAR id="SAR-20240125-003">
+<SAR id="SAR-20230722-003">
   <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
+    <Name>Global Trust Bank</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
   </ReportingInstitution>
-  <Subject>
-    <Name>Michael Weber</Name>
-    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    <DateOfBirth>1968-05-10</DateOfBirth>
-  </Subject>
+  <DateFiled>2023-07-22</DateFiled>
   <SuspiciousActivity>
-    <Date>2024-01-05</Date>
-    <Amount>10000.00</Amount>
-    <Currency>EUR</Currency>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Description>Attempted withdrawal denied. Customer expresses concerns about investment.</Description>
-    <Beneficiary>
-      <Name>N/A</Name>
-    </Beneficiary>
+    <Transaction>
+      <Date>2023-07-22</Date>
+      <Amount>1000.00</Amount>
+      <Currency>USD</Currency>
+      <TransactionType>Wire Transfer</TransactionType>
+      <OriginatingParty>
+        <Name>David Miller</Name>
+        <Address>456 Oak Avenue, Sydney, Australia</Address>
+      </OriginatingParty>
+      <Beneficiary>
+        <Name>Innovative AI Chart</Name>
+        <Address>Suite 789, Belize City, Belize</Address>
+      </Beneficiary>
+      <Description>Attempted withdrawal from Innovative AI Chart account</Description>
+    </Transaction>
+    <Findings>
+      <Finding>Attempted withdrawal denied by Innovative AI Chart.  Victim expressing concerns about withdrawal limitations. Consistent with potential investment fraud scheme.</Finding>
+    </Findings>
   </SuspiciousActivity>
-  <Findings>
-    <Finding>Attempted withdrawal of funds denied, raising suspicions of potential investment fraud.</Finding>
-  </Findings>
-  <ReportingPerson>
-    <Name>Anna Schmidt</Name>
-    <Title>Compliance Officer</Title>
-  </ReportingPerson>
 </SAR>

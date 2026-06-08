@@ -1,0 +1,1 @@
+Screenshot of the AI-Investments website's 'Verification' page. The page requests personal information including passport details and a scanned copy of a driver's license. The URL in the address bar is slightly different from the legitimate website - 'ai-investments.verify.com'.

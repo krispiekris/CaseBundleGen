@@ -1,13 +1,14 @@
-From: alex.volkov@aixcapital.com
-To: david.miller@email.com
-Subject: Important Update Regarding Your AIX Capital Portfolio
+From: hans.meier@email.de
+To: support@quantumai.tech
+Subject: Question about AI Strategy Performance
 
-Dear David,
+Dear QuantumAI Support,
 
-We've identified a significant opportunity in the cryptocurrency market that could potentially generate substantial returns. To capitalize on this, we recommend increasing your investment.
+I'm new to the platform and I'm curious about the performance of the 'Growth Accelerator' AI strategy. I've seen some promising results, but I'd like to understand the underlying methodology better.
 
-We understand that you may have questions, and our team is here to guide you. Please schedule a call with your account manager, Dimitri, at your convenience.
+Also, I'm considering increasing my initial deposit. Are there any recommendations for the optimal amount based on my risk tolerance?
+
+Thank you for your assistance.
 
 Sincerely,
-Alex Volkov
-AIX Capital Portfolio Manager
+Hans Meier

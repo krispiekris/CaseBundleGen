@@ -1,15 +1,5 @@
-Date,Description,Amount (CAD)
-2023-03-10,Grocery Store,50.00
-2023-03-15,Online Transfer,0.00
-2023-04-01,Forex Global Elite Deposit,25000.00
-2023-04-05,Restaurant,75.00
-2023-05-15,Forex Global Elite Deposit,10000.00
-2023-06-01,Movie Tickets,30.00
-2023-07-22,Withdrawal Request,25000.00
-2023-07-25,Utilities,150.00
-2023-08-01, ,,
-2023-08-15, ,,
-2023-09-01, ,,
-2023-09-15, ,,
-2023-10-01, ,,
-2023-10-15, ,,
+Date,Description,Amount (EUR),IBAN
+2023-03-10,Incoming Transfer,1000.00,DE12345678901234567890
+2023-04-01,Wire Transfer, -5000.00,NG45678901234567890123
+2023-07-28,Wire Transfer, -10000.00,NG45678901234567890123
+2023-09-05,Wire Transfer Request,,-,

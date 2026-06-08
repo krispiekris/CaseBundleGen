@@ -1,6 +1,9 @@
-Date,Description,Amount,Balance
-2023-08-28,ATM Withdrawal,100.00,12345.67
-2023-09-01,Wire Transfer - Innovative AIX, -5000.00, 7345.67
-2023-09-05,Grocery Store, -50.00, 7295.67
-2023-09-10,Online Purchase, -75.00, 7220.67
-2023-09-15,Restaurant, -25.00, 7195.67
+Date,Description,Amount (EUR),IBAN
+2023-08-20,Grocery Shopping,-50.00,DExxxxxxxxxxxxxxxxxxxxx
+2023-08-25,Utilities Payment,-120.00,DExxxxxxxxxxxxxxxxxxxxx
+2023-09-01,AI Trading Solutions,2000.00,GB12ABCD12345678901234
+2023-09-05,Online Purchase,-75.00,DExxxxxxxxxxxxxxxxxxxxx
+2023-09-15,Restaurant Dinner,-80.00,DExxxxxxxxxxxxxxxxxxxxx
+2023-09-22,Salary Credit,2500.00,DExxxxxxxxxxxxxxxxxxxxx
+2023-10-01,AI Trading Solutions,4000.00,GB12ABCD12345678901234
+2023-10-10,Online Purchase,-30.00,DExxxxxxxxxxxxxxxxxxxxx

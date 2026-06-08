@@ -1,7 +1,4 @@
-Date,Description,Amount (EUR),Recipient IBAN
-2023-12-05,Salary,6500.00,
-2024-01-10,Transfer Out, -5000.00,GB21NWBK00000000001234
-2024-01-15,Grocery Shopping, -150.00,
-2024-01-20,Rent Payment, -1200.00,
-2024-01-25,Utilities, -250.00,
-2024-02-01,Transfer Out, -5000.00,GB21NWBK00000000001234
+Date,Description,Amount (EUR),Balance (EUR)
+2023-11-20,Outgoing Transfer,50.00, -3950.00
+2023-12-10,Outgoing Transfer,100.00, -4050.00
+2024-01-10,Outgoing Transfer,50.00, -4100.00

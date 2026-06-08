@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is the minimum investment required to participate in the AI-Profit Solutions program?",
-    "answer": "\u20ac5,000"
+    "question": "What was the initial amount of money transferred by Hans Meier to AI Trading Pro?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What jurisdiction is AI Profit Solutions located in, as stated in the SAR?",
-    "answer": "Cyprus"
+    "question": "According to the email from AI Trading Pro, what is the purported benefit of using their system?",
+    "answer": "Maximizing profits through AI algorithms."
   },
   {
-    "question": "What is the purpose of the 'verification fee' requested in email_2?",
-    "answer": "To process the withdrawal request and ensure prompt receipt of profits."
+    "question": "What was the primary reason Deutsche Bank flagged the first transaction involving Hans Meier?",
+    "answer": "Unusually large initial deposit."
   },
   {
-    "question": "Based on the telegram conversation, what additional investment amount did David recommend to Klaus?",
-    "answer": "\u20ac10,000"
+    "question": "Based on the second SAR report, what was the approximate percentage increase in Hans Meier's portfolio, according to AI Trading Pro?",
+    "answer": "35%"
   },
   {
-    "question": "What is the risk level assigned to Klaus Heinz\u2019s second transfer to AI Profit Solutions, as indicated in SAR_2?",
-    "answer": "High"
+    "question": "What technical issue did AI Trading Pro cite as the reason for the delay in processing Hans Meier's withdrawal request?",
+    "answer": "A brief technical issue with their processing system."
   },
   {
-    "question": "Which bank account was used to transfer the verification fee?",
-    "answer": "Zenith Bank, Account Number: 4567890123"
+    "question": "Which promotional text emphasizes the idea of generating 'passive income'?",
+    "answer": "The second promotional text."
   },
   {
-    "question": "What does the screenshot of the trading platform display regarding the balance?",
-    "answer": "\u20ac17,430"
+    "question": "What action did the second SAR report indicate Hans Meier was taking, suggesting increasing conviction in the investment?",
+    "answer": "He was increasingly convinced by investment outcomes."
   },
   {
-    "question": "Considering both SAR reports, what pattern emerges regarding the transfer destinations and the associated risk levels?",
-    "answer": "Both SAR reports indicate transfers to AI Profit Solutions in Cyprus, with the second transfer being associated with a 'High' risk level, particularly due to the pressure from an account manager."
+    "question": "Which entity is identified as the sender in the third SAR report?",
+    "answer": "AI Trading Pro Ltd"
   },
   {
-    "question": "According to promotional_material_2, what characteristic of AI-Profit Solutions is advertised?",
-    "answer": "Guaranteed Profits (See Disclaimer)"
+    "question": "Considering the provided financial data, what sequence of events led to Hans Meier\u2019s account balance being at -20000.00 EUR?",
+    "answer": "An initial deposit of 5000 EUR, followed by a second deposit of 15000 EUR."
   },
   {
-    "question": "What prompted David (AI-Profit Solutions) to suggest Klaus transfer an additional \u20ac200?",
-    "answer": "To resolve a technical glitch and ensure the transaction goes through smoothly, allegedly unlocking his profits."
+    "question": "Which elements appear in both promotional materials and emails related to AI Trading Pro?",
+    "answer": "[Link to fake website]"
   }
 ]

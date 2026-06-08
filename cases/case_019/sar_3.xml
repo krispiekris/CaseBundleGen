@@ -1,31 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportDate>2024-01-15</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-09-01</TransactionDate>
-      <TransactionAmount currency="EUR">5000</TransactionAmount>
-      <TransactionType>Credit</TransactionType>
-      <SenderName>Oliver Baumann</SenderName>
-      <SenderAccount>DE12345678901234567890</SenderAccount>
-      <ReceiverName>Innovative Trading AI</ReceiverName>
-      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
-      <Purpose>Investment</Purpose>
-    </Transaction>
-    <Transaction>
-      <TransactionDate>2023-11-01</TransactionDate>
-      <TransactionAmount currency="EUR">10000</TransactionAmount>
-      <TransactionType>Credit</TransactionType>
-      <SenderName>Oliver Baumann</SenderName>
-      <SenderAccount>DE12345678901234567890</SenderAccount>
-      <ReceiverName>Innovative Trading AI</ReceiverName>
-      <ReceiverAccount>GB45NWBK40169400741234</ReceiverAccount>
-      <Purpose>Investment</Purpose>
-    </Transaction>
-    <Suspicion>
-      <Description>Victim unable to withdraw funds. Communication ceased abruptly. Potential investment fraud scheme.</Description>
-      <Reason>Investment Fraud</Reason>
-    </Suspicion>
-  </SuspiciousActivity>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <InstitutionID>DeutscheBank-1234</InstitutionID>
+    <Currency>EUR</Currency>
+  </Header>
+  <Transaction>
+    <TransactionID>TXN-003</TransactionID>
+    <TransactionDate>2023-08-30</TransactionDate>
+    <Amount>5000</Amount>
+    <Currency>EUR</Currency>
+    <SenderName>Ernst Wittmann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Global Solutions Ltd</ReceiverName>
+    <ReceiverAccount>GB81BOBKE22222222</ReceiverAccount>
+    <Description>Second Stage Recovery Fee</Description>
+    <SuspiciousActivity>Potential Fraud - Cryptocurrency Recovery Scam</SuspiciousActivity>
+  </Transaction>
 </SAR>

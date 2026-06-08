@@ -1,7 +1,7 @@
-Date,Description,Amount (EUR),IBAN
-2023-03-10,Incoming Transfer,0.00,[redacted]
-2023-04-05,Deposit from Hans Meier,50000.00,[redacted]
-2023-05-15,Interest,125.00,[redacted]
-2023-06-22,Withdrawal Request,0.00,[redacted]
-2023-07-01,Internal Transfer,0.00,[redacted]
-2023-07-15,Interest,125.00,[redacted]
+Date,Description,Amount,Balance
+2023-11-10,Salary,10000,90000
+2023-11-20,Groceries,150,89850
+2023-12-01,Aionautics Investment, -25000,64850
+2023-12-05,Bill Payment, -500,64350
+2023-12-10,Restaurant, -80,64270
+2023-12-15,Online Purchase, -120,64150

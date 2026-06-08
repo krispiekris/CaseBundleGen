@@ -1,0 +1,29 @@
+<SAR>
+  <Header>
+    <SARReferenceID>SAR-2023-11-22-002</SARReferenceID>
+    <DateTime>2023-11-22T14:45:00Z</DateTime>
+    <ReportingInstitution>
+      <Name>Deutsche Bank</Name>
+      <Address>Mainzer Landstraße 198, 60329 Frankfurt am Main, Germany</Address>
+    </ReportingInstitution>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">10000.00</Amount>
+    <DateTime>2023-11-22T09:15:00Z</DateTime>
+    <OriginatingParty>
+      <Name>Klaus Heinz</Name>
+      <Address>Unknown</Address>
+    </OriginatingParty>
+    <Beneficiary>
+      <Name>AI Wealth Solutions</Name>
+      <AccountIBAN>DE78501108000000353333</AccountIBAN>
+      <AccountName>AI Wealth Solutions</AccountName>
+      <Country>Germany</Country>
+    </Beneficiary>
+    <PurposeCode>11 - Investment</PurposeCode>
+    <SuspiciousActivity>
+      <Description>Victim expressed concern about lack of returns despite promised high yields.</Description>
+      <RiskLevel>High</RiskLevel>
+    </SuspiciousActivity>
+  </Transaction>
+</SAR>

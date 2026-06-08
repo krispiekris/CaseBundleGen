@@ -1,21 +1,23 @@
-<SAR id="SAR-20240305-003">
-  <ReportingInstitution>
-    <Name>Sparkasse Bank</Name>
-    <Address>München, Germany</Address>
-  </ReportingInstitution>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-02-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Ulrich Baumann</Name>
-    <Address>Munich, Germany</Address>
-    <DateOfBirth>1968-05-20</DateOfBirth>
+    <Name>Hans Meier</Name>
+    <Address>Musterstrasse 12, 10115 Berlin, Germany</Address>
+    <DateOfBirth>1968-03-10</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2024-03-01</Date>
-    <Amount currency="EUR">0.00</Amount>
-    <Description>Complaint Filed - Account Restricted</Description>
-    <Recipient>
-      <Name>Sparkasse Bank</Name>
-      <IBAN>DE89370400440532015000</IBAN>
-    </Recipient>
-    <SuspiciousActivity>Customer filed a fraud complaint regarding unauthorized investment scheme; account restricted</SuspiciousActivity>
+    <TransactionDate>2023-11-10</TransactionDate>
+    <Amount currency="EUR">10000</Amount>
+    <Description>Withdrawal Attempt Denied</Description>
+    <DestinationAccount>
+      <BankName>First Belize International Bank</BankName>
+      <AccountNumber>123456789</AccountNumber>
+      <IBAN>BZ00000123456789</IBAN>
+    </DestinationAccount>
   </Transaction>
+  <Findings>
+    <SuspiciousActivity>Attempted withdrawal denied due to insufficient funds and unusual activity.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

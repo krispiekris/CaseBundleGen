@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount of the first investment made by Hans Schmidt?",
-    "answer": "5000.00 EUR"
+    "question": "What initial amount was suggested for investment in QuantumAI?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "According to email_2.txt, what was suggested to maximize returns?",
-    "answer": "A further investment of \u20ac3000"
+    "question": "According to the SAR, what was the description provided for the initial transaction of \u20ac5000?",
+    "answer": "Investment - QuantumAI"
   },
   {
-    "question": "What country is the recipient bank located in, as indicated in the SAR reports?",
-    "answer": "Nigeria"
+    "question": "What was the reason given in email_2 for recommending that Werner reinvest a portion of his earnings?",
+    "answer": "To maximize gains, compound returns, and accelerate financial success."
   },
   {
-    "question": "Based on the promotional materials, what is the primary selling point of the AlphaGenesis system?",
-    "answer": "Automated wealth generation with minimal effort"
+    "question": "Based on the screenshot_1, what was Werner\u2019s reported profit as of 2023-05-10?",
+    "answer": "\u20ac1000"
   },
   {
-    "question": "What is the stated reason for the verification fee mentioned in email_3.txt?",
-    "answer": "To ensure the safety of your funds"
+    "question": "What documents were requested from Werner Schmidt in email_3 to review his withdrawal request?",
+    "answer": "A copy of his passport and a recent utility bill."
   },
   {
-    "question": "Which entities are directly involved in the transactions described in the SAR reports?",
-    "answer": "Hans Schmidt and AlphaGenesis Global"
+    "question": "What is the purpose, according to sar_2, of the transaction where Innovative Solutions Ltd sent \u20ac1000 to Werner Schmidt?",
+    "answer": "Profit Distribution"
   },
   {
-    "question": "What unusual activity was flagged in the SAR report associated with the initial investment?",
-    "answer": "Unusual Destination Country - Nigeria"
+    "question": "What is the primary concern highlighted in sar_3 regarding Werner Schmidt\u2019s withdrawal request?",
+    "answer": "Delayed and complex withdrawal process, potential attempt to prevent funds from leaving."
   },
   {
-    "question": "Besides the initial investment, what other reason is given for a transfer to AlphaGenesis Global in the SAR reports?",
-    "answer": "Additional Investment - AI Trading"
+    "question": "Considering the promotional material and the initial email, what is a key feature that QuantumAI claims to offer to investors?",
+    "answer": "Effortless Trading - No experience needed!"
   },
   {
-    "question": "According to promotional material_2.txt, what testimonials are advertised regarding the AlphaGenesis system?",
-    "answer": "\u201cI\u2019ve never seen profits like this!\u201d - J. Miller, London"
+    "question": "Which entity appears as both a sender and receiver in different transactions?",
+    "answer": "Werner Schmidt"
   },
   {
-    "question": "What does the screenshot of the trading platform display regarding the 'AlphaGenesis AI - Daily Profit'?",
-    "answer": "A steep upward trajectory"
+    "question": "What is the URL provided in the welcome email for accessing the dashboard?",
+    "answer": "http://quantumai.net/login"
   }
 ]

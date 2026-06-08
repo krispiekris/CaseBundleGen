@@ -1,21 +1,19 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-07-20</ReportDate>
-    <InstitutionID>FirstNationalBank</InstitutionID>
-    <FilerID>Branch007</FilerID>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-06-22</TransactionDate>
-    <TransactionAmount>5000</TransactionAmount>
-    <TransactionCurrency>USD</TransactionCurrency>
-    <TransactionType>Deposit</TransactionType>
-    <SenderName>David Miller</SenderName>
-    <SenderAccount>123456789</SenderAccount>
-    <ReceiverName>Global Capital Ventures</ReceiverName>
-    <ReceiverAccount>987654321</ReceiverAccount>
-    <ReceiverBank>InternationalTrustBank</ReceiverBank>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Potential investment fraud - unusually high returns claimed. Subsequent deposits after initial success.</SuspiciousActivity>
-    <Notes>Customer appeared anxious to further invest, despite limited understanding of investment.</Notes>
-  </Transaction>
+<SAR id="SAR-20240125-002">
+  <Date>2024-01-25</Date>
+  <Bank>Bank of Marshall Islands</Bank>
+  <Originator>
+    <Name>StellarFX Investments Ltd.</Name>
+    <Country>Marshall Islands</Country>
+  </Originator>
+  <Beneficiary>
+    <Name>Jan Berger</Name>
+    <Country>Germany</Country>
+  </Beneficiary>
+  <Amount currency="EUR">2250.00</Amount>
+  <TransactionType>Bank Transfer</TransactionType>
+  <Description>Withdrawal request denied. Suspicious activity identified.</Description>
+  <Findings>
+    <Finding>Withdrawal request denied due to suspected fraudulent activity.</Finding>
+    <Finding>Large sums of money received from multiple sources.</Finding>
+  </Findings>
 </SAR>

@@ -1,9 +1,4 @@
-Date,Description,Amount,Balance
-2023-01-15,Incoming Transfer,1000.00,15000.00
-2023-01-20,AIX Capital Investment, -5000.00,10000.00
-2023-02-01,Interest Earned,1.23,10001.23
-2023-02-15,Grocery Store, -75.00,9926.23
-2023-03-01,Utility Bill, -150.00,9776.23
-2023-03-10,Restaurant, -50.00,9726.23
-2023-04-01,Interest Earned,1.23,9727.46
-2023-04-15,Online Purchase, -25.00,9702.46
+Date,Description,Amount (EUR),IBAN
+2023-11-15,Quantum AI Deposit,5000.00,DE12345678901234567890
+2023-11-20,Quantum AI Deposit,5000.00,DE12345678901234567890
+2023-12-01,Transaction Fee, -10.00,DE12345678901234567890

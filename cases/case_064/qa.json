@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initially promised monthly return percentage for investments in the AI trading platform?",
-    "answer": "15-20%"
+    "question": "According to the initial promotional email, what type of algorithms does Quantum AI Trading use?",
+    "answer": "Cutting-edge artificial intelligence algorithms"
   },
   {
-    "question": "What was the minimum investment amount required to participate in the AI trading program?",
-    "answer": "\u20ac5000"
+    "question": "What was the initial investment amount made by Karl Heinz, as indicated in the TransactionID 12345?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "According to the first SAR report, what was the description provided for the transaction when Klaus Schmidt transferred funds?",
-    "answer": "Transfer to AI Trading Platform"
+    "question": "Based on the SAR reports, what countries are the victim and the potential fraudster associated with?",
+    "answer": "Germany, United Kingdom"
   },
   {
-    "question": "What was the reason given for the temporary suspension of Klaus Schmidt's withdrawal request?",
-    "answer": "A system upgrade"
+    "question": "What promotional material emphasizes the potential for daily returns for clients?",
+    "answer": "Promotional material 2"
   },
   {
-    "question": "What was the amount of the verification fee Klaus Schmidt was asked to pay to process his withdrawal?",
-    "answer": "\u20ac500"
+    "question": "What reason was given for the account being temporarily locked, as stated in email_4?",
+    "answer": "Suspicious activity"
   },
   {
-    "question": "What country is the recipient account (NG48901234567890123456) located in?",
-    "answer": "Nigeria"
+    "question": "What activity prompted a request from the alleged company for Karl Heinz to verify his account details, according to SAR 3?",
+    "answer": "Unusual activity in his account"
   },
   {
-    "question": "Based on the promotional material, what is the main benefit of using the AetherTrade platform according to its advertisements?",
-    "answer": "Guaranteed 20% monthly returns"
+    "question": "Which entity received the 1000 EUR payment related to account verification, as seen in bank_statement_2?",
+    "answer": "Verificationservices.net"
   },
   {
-    "question": "What did the second SAR report indicate regarding the timing of events and requests for funds?",
-    "answer": "An initial small transfer, followed by claims of profits and escalating requests for funds."
+    "question": "According to the screenshot description, what is a prominent feature of the Quantum AI Trading website\u2019s design?",
+    "answer": "A graphic of a futuristic-looking AI brain"
   },
   {
-    "question": "What was the balance in Klaus Schmidt's account after the first transfer to the AI trading platform?",
-    "answer": "\u20ac700.00"
+    "question": "What did Karl Heinz request from Quantum AI Trading team in email_2?",
+    "answer": "Further details on the initial investment required and the potential returns he can expect"
   },
   {
-    "question": "What type of file contained a screenshot of the 'AetherTrade' platform and described its design?",
-    "answer": "screenshot_trading_platform.txt"
+    "question": "Besides Bitcoin, what other type of cryptocurrency is highlighted in promotional material_1 as being automatically traded?",
+    "answer": "Other cryptocurrencies"
   }
 ]

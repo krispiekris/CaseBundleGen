@@ -1,0 +1,6 @@
+[Simulated screenshot of a trading platform showing charts and numbers.  The values displayed are exaggerated and show large profits.  The platform is branded with the 'Global Forex Investments' logo and uses technical jargon.]
+
+Example Chart Labels: EUR/USD: +250 pips, GBP/USD: +180 pips, USD/JPY: +120 pips.
+
+'Current Balance: €20,000.00' 
+'Available to Trade: €15,000.00'

@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sar>
-  <report_date>2023-08-05</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <customer_name>Ulrich Baumann</customer_name>
-  <customer_id>1234567890</customer_id>
-  <transaction_date>2023-08-02</transaction_date>
-  <transaction_amount>2500.00</transaction_amount>
-  <transaction_currency>EUR</transaction_currency>
-  <transaction_type>Wire Transfer</transaction_type>
-  <beneficiary_name>Innovative AIX</beneficiary_name>
-  <beneficiary_account>9876543210</beneficiary_account>
-  <beneficiary_country>United Arab Emirates</beneficiary_country>
-  <description>Wire transfer to Innovative AIX - potential investment</description>
-  <suspicious_activity>Potential investment scheme involving AI trading. Customer appears to be new to this type of investment.</suspicious_activity>
-  <reporter>Compliance Officer</reporter>
-</sar>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-11-03</ReportDate>
+  <OriginatingJurisdiction>United Kingdom</OriginatingJurisdiction>
+  <ReportingInstitution>Example Bank</ReportingInstitution>
+  <Account>
+    <AccountID>1234567890</AccountID>
+    <AccountName>David Miller</AccountName>
+    <AccountCurrency>USD</AccountCurrency>
+  </Account>
+  <BeneficialOwner>
+    <Name>David Miller</Name>
+    <DateOfBirth>1970-01-01</DateOfBirth>
+    <Address>1 Example Street, London, UK</Address>
+  </BeneficialOwner>
+  <Transaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount>15000.00</TransactionAmount>
+    <TransactionCurrency>USD</TransactionCurrency>
+    <Description>Funds transfer to Belize account</Description>
+    <BeneficiaryName>Belize Offshore Services Ltd.</BeneficiaryName>
+    <BeneficiaryAccount>9876543210</BeneficiaryAccount>
+    <BeneficiaryBank>Island Bank</BeneficiaryBank>
+    <BeneficiaryCountry>Belize</BeneficiaryCountry>
+  </Transaction>
+  <SuspiciousActivity>Possible investment fraud; unusually large transfer to offshore account with limited activity history.</SuspiciousActivity>
+  <ReportFiledBy>Sarah.Jones@examplebank.com</ReportFiledBy>
+</SAR>

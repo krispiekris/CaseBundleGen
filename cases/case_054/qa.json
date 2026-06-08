@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount of the exclusive Forex trading opportunity mentioned in the first email?",
-    "answer": "Not mentioned in the case files"
+    "question": "What type of investment strategy does AI Wealth Platform claim to utilize?",
+    "answer": "Artificial intelligence to identify and capitalize on lucrative trading opportunities."
   },
   {
-    "question": "According to the SAR report dated 2023-11-15, what type of transaction triggered the initial suspicious activity report?",
-    "answer": "Withdrawal Request"
+    "question": "According to the SAR reports, what is the primary reason for the suspicious activity designation for the transaction dated 2023-08-01?",
+    "answer": "Potential investment fraud - unsolicited contact, high-yield promises."
   },
   {
-    "question": "What is the account number associated with Klaus Meier\u2019s Global Forex Group account?",
-    "answer": "GFG12345"
+    "question": "What was the amount of the 'Profit Distribution' transaction on 2023-09-05?",
+    "answer": "1500.00 CAD"
   },
   {
-    "question": "Based on the bank statement, what was the total amount of online transfers received by Klaus Meier between 2023-08-20 and 2023-09-20?",
-    "answer": "30500.00"
+    "question": "What action was taken regarding the withdrawal attempt on 2023-10-25?",
+    "answer": "Withdrawal attempt denied"
   },
   {
-    "question": "What currency pair was traded in the Forex platform transaction history in September 2023, according to the logs?",
-    "answer": "EUR/USD, GBP/USD, USD/JPY"
+    "question": "What is the account balance shown in the screenshot of the platform?",
+    "answer": "6350.00"
   },
   {
-    "question": "What is the stated purpose of the promotional material from Global Forex Group?",
-    "answer": "To attract new members and promote Forex trading opportunities."
+    "question": "Based on the promotional documents, what benefit does AI Wealth Platform advertise regarding investment risk?",
+    "answer": "Risk-Free Investment"
   },
   {
-    "question": "What is the displayed account balance shown in the screenshot of the Forex platform?",
-    "answer": "\u20ac13,975.00"
+    "question": "Which entity received the transaction on 2023-09-05?",
+    "answer": "David Miller"
   },
   {
-    "question": "According to the SAR report dated 2024-01-20, what is the description of the suspicious activity?",
-    "answer": "Significant deposit received from Klaus Meier following initial small deposit."
+    "question": "What prompted the filing of a complaint on 2023-11-12?",
+    "answer": "Attempted withdrawal denied, possible fraud"
   },
   {
-    "question": "What did the reporting institution offer as a limited-time offer for new members?",
-    "answer": "Double their initial deposit."
+    "question": "Besides David Miller, what is the name of another entity involved in the transactions?",
+    "answer": "AI Wealth Platform"
   },
   {
-    "question": "According to the SAR report from 2024-02-15, what communication status is associated with Klaus Meier?",
-    "answer": "Communication attempts unsuccessful."
+    "question": "What is the description of the suspicious activity in the SAR report with ID 24680?",
+    "answer": "Withdrawal attempt denied; potential investment fraud; client complaint received"
   }
 ]

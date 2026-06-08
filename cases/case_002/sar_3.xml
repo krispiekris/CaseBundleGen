@@ -1,20 +1,44 @@
-<sar>
-  <report>
-    <report_date>2023-11-22</report_date>
-    <institution_name>Deutsche Bank</institution_name>
-    <reporter_name>Compliance Officer</reporter_name>
-    <suspicious_activity>
-      <activity_date>2023-11-01</activity_date>
-      <transaction_amount currency="EUR">5000</transaction_amount>
-      <transaction_type>Debit</transaction_type>
-      <account_number>DExxxxxxxxxxxxxxxxxxxx</account_number>
-      <payer_name>Hans Meier</payer_name>
-      <payer_address>Musterstrasse 12, 12345 Musterstadt</payer_address>
-      <recipient_name>Innovative AIX</recipient_name>
-      <recipient_account>USxxxxxxxxxxxxxxxxxxxx</recipient_account>
-      <recipient_country>Belize</recipient_country>
-      <description>Attempted full withdrawal</description>
-      <findings>Potential investment fraud - requested full withdrawal of funds, indicating a possible realization of a scam.</findings>
-    </suspicious_activity>
-  </report>
-</sar>
+<SAR id="SAR-2024-03-05-003">
+  <ReportingInstitution>
+    <Name>First Canadian Bank</Name>
+    <Address>123 Main Street, Toronto, ON</Address>
+  </ReportingInstitution>
+  <DateFiled>2024-03-05</DateFiled>
+  <SuspiciousActivity>
+    <Description>Customer reported potential investment fraud, filed police report.</Description>
+    <OriginatingJurisdiction>CA</OriginatingJurisdiction>
+    <DestinationJurisdiction>HK</DestinationJurisdiction>
+    <InvolvedParties>
+      <Party>
+        <Name>Alexander Dubois</Name>
+        <Address>456 Elm Avenue, Ottawa, ON</Address>
+        <Role>Customer</Role>
+      </Party>
+      <Party>
+        <Name>Chronos AI Investments</Name>
+        <Address>Unit 34, 789 Harbourview Drive, Hong Kong</Address>
+        <Role>Beneficiary</Role>
+      </Party>
+    </InvolvedParties>
+    <Transactions>
+      <Transaction>
+        <Date>2023-09-05</Date>
+        <Amount>10000.00</Amount>
+        <Currency>CAD</Currency>
+        <Description>Wire Transfer to Chronos AI Investments</Description>
+      </Transaction>
+      <Transaction>
+        <Date>2023-09-12</Date>
+        <Amount>5000.00</Amount>
+        <Currency>CAD</Currency>
+        <Description>Wire Transfer to Chronos AI Investments</Description>
+      </Transaction>
+      <Transaction>
+        <Date>2023-10-19</Date>
+        <Amount>7500.00</Amount>
+        <Currency>CAD</Currency>
+        <Description>Wire Transfer to Chronos AI Investments</Description>
+      </Transaction>
+    </Transactions>
+  </SuspiciousActivity>
+</SAR>

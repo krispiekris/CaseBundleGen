@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2023-10-05</ReportDate>
-  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
-  <CustomerName>Klaus Heinz</CustomerName>
-  <CustomerAccount>1234567890</CustomerAccount>
+<SAR id="SAR-2023-10-05-001">
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <DateFiled>2023-10-05</DateFiled>
+  <Subject>
+    <Name>Michael Davies</Name>
+    <Address>123 Main Street, Sydney, NSW, 2000, Australia</Address>
+  </Subject>
   <SuspiciousActivity>
-    <ActivityType>Unusual Transaction</ActivityType>
-    <TransactionDate>2023-09-01</TransactionDate>
-    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
-    <TransactionDescription>Transfer to Nova Trading Platform</TransactionDescription>
-    <BeneficiaryName>Nova Technologies Ltd</BeneficiaryName>
-    <BeneficiaryAccount>9876543210</BeneficiaryAccount>
-    <BeneficiaryBank>Globex International Bank</BeneficiaryBank>
-    <BeneficiaryCountry>United Arab Emirates</BeneficiaryCountry>
-    <SuspicionReason>Large cash transfer to an overseas entity with limited information available about the recipient company.</SuspicionReason>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount>10000.00</Amount>
+      <Currency>AUD</Currency>
+      <Type>Incoming Cryptocurrency Transfer (BTC)</Type>
+      <Description>Bitcoin deposit to AI Pro Solutions wallet.</Description>
+      <Counterparty>
+        <Name>AI Pro Solutions Wallet</Name>
+        <Address>1BitcoinAddressPlaceholder</Address>
+      </Counterparty>
+    </Transaction>
+    <Findings>
+      <Finding>Unusual cryptocurrency deposit of a significant amount, potentially linked to an investment scheme.</Finding>
+    </Findings>
   </SuspiciousActivity>
-  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
-</SuspiciousActivityReport>
+</SAR>

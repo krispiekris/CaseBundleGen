@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount made by Klaus Meier?",
-    "answer": "\u20ac5,000"
+    "question": "What initial investment amount did David Miller transfer to Globex Capital?",
+    "answer": "30000.00 GBP"
   },
   {
-    "question": "According to the promotional material, what is the average weekly return promised by the Chronos AI trading system?",
-    "answer": "12%"
+    "question": "According to promotional material, what potential benefit does Globex Capital offer to new traders?",
+    "answer": "A free consultation and a bonus $100 credit"
   },
   {
-    "question": "What type of transaction triggered the Suspicious Activity Report (SAR)?",
-    "answer": "Funds Transfer"
+    "question": "What is the name of the bank used for the transfers to Globex Capital?",
+    "answer": "Zenith Bank Nigeria Plc"
   },
   {
-    "question": "Based on the SAR reports, what are two findings that raise concerns about the investment opportunity?",
-    "answer": "Unusually large transaction for an individual with reported income, Recipient is a newly established company with limited public information"
+    "question": "What reason is given in the first Suspicious Activity Report (SAR) for the suspicious transaction?",
+    "answer": "Large sum transferred to an overseas account with limited customer interaction"
   },
   {
-    "question": "What reason was initially provided for the temporary restriction of Klaus Meier's account?",
-    "answer": "Ongoing system upgrades"
+    "question": "Which individual is identified as David Miller's Account Manager?",
+    "answer": "Ben Adebayo"
   },
   {
-    "question": "What does the website screenshot suggest about the team behind NovaTech AI?",
-    "answer": "They have generic stock photos and vague biographies"
+    "question": "What type of transaction is described in the third SAR report?",
+    "answer": "Withdrawal Request"
   },
   {
-    "question": "Besides Klaus Meier, which other entity is mentioned in both the SAR reports?",
-    "answer": "NovaTech AI Ltd."
+    "question": "What phrase is used in promotional material to describe the Forex market?",
+    "answer": "\"Your Gateway to Forex Riches!\""
   },
   {
-    "question": "According to the email sent to Klaus Meier, what action should he NOT attempt to take during the account restriction?",
-    "answer": "Accessing his account"
+    "question": "Based on the provided data, what is the purpose of the Globex Capital platform, according to promotional material?",
+    "answer": "To deliver consistent profits, even for beginners."
   },
   {
-    "question": "Considering the bank statements, what was the last amount Klaus Meier transferred from his account?",
-    "answer": "-2000.00"
+    "question": "What occurred on 2023-07-01, according to the second bank statement?",
+    "answer": "A deposit of 10000.00 GBP was received."
   },
   {
-    "question": "What promotional tactic does the second promotional material employ to attract new investors?",
-    "answer": "Exclusive Bonus: Sign up now and receive a free personalized investment consultation!"
+    "question": "What was the result of David Miller\u2019s withdrawal request?",
+    "answer": "Blocked Withdrawal Request"
   }
 ]

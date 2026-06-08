@@ -1,26 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <CaseID>20231205-002</CaseID>
-  <DateFiled>2023-12-05</DateFiled>
-  <BankName>Deutsche Bank</BankName>
-  <BranchID>DB-MU-005</BranchID>
-  <SuspiciousActivity>
+<SAR xmlns="http://www.finra.org/sar">
+  <Header>
+    <ReportDate>2024-07-27</ReportDate>
+    <InstitutionID>GFG-BEL-001</InstitutionID>
+    <ReportType>SuspiciousActivity</ReportType>
+  </Header>
+  <Parties>
+    <BeneficialOwner>
+      <Name>Hans Schmidt</Name>
+      <Address>Germany</Address>
+    </BeneficialOwner>
+    <Counterparty>
+      <Name>Global Forex Group</Name>
+      <Address>Belize</Address>
+    </Counterparty>
+  </Parties>
+  <Transactions>
     <Transaction>
-      <TransactionID>TXN-67890</TransactionID>
-      <TransactionDate>2023-12-05</TransactionDate>
-      <Amount>2000.00</Amount>
+      <TransactionDate>2023-12-01</TransactionDate>
+      <Amount>25000.00</Amount>
       <Currency>EUR</Currency>
-      <SenderAccount>DE45300100000000000000</SenderAccount>
-      <SenderName>Karl Heinz</SenderName>
-      <ReceiverAccount>0078901234</ReceiverAccount>
-      <ReceiverName>James Oluwafemi</ReceiverName>
-      <ReceiverBank>Sterling Bank</ReceiverBank>
-      <ReceiverCountry>Nigeria</ReceiverCountry>
-      <Description>Further Security Clearance</Description>
+      <Description>Deposit to Forex Trading Account</Description>
+      <TransactionType>Credit</TransactionType>
     </Transaction>
-  </SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-02-20</TransactionDate>
+      <Amount>25000.00</Amount>
+      <Currency>EUR</Currency>
+      <Description>Withdrawal Request</Description>
+      <TransactionType>Debit</TransactionType>
+    </Transaction>
+  </Transactions>
   <Findings>
-    <Finding>Follow-up transaction to same recipient account with similar description. Potentially linked to previous suspicious activity.</Finding>
+    <Finding>Further investigation warranted regarding victim's inability to access funds and suspicious verification requests.</Finding>
   </Findings>
-  <ReportingBankEmployee>Anna Schmidt</ReportingBankEmployee>
 </SAR>

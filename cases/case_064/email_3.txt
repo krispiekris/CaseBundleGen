@@ -1,17 +1,12 @@
-From: investor_ai@aethertrade.com
-To: klaus.schmidt@email.de
-Subject: Urgent: Verification Fee Payment
+From: support@quantumai.tech
+To: karl.heinz@email.de
+Subject: Important Update Regarding Your Quantum AI Trading Account
 
-Dear Klaus,
+Dear Karl,
 
-Your verification fee payment of €500 is overdue. Your withdrawal request cannot be processed until the fee is cleared.
+We've noticed some unusual activity in your account. To ensure the security of your investment, we require you to verify your account details. Please click the link below to complete the verification process:
 
-Kindly make the payment immediately to avoid further delays.
+[Phishing Link - omitted]
 
-Account Details:
-[Bank Details - Same as before]
-
-Thank you.
-
-Oluwaseun Adebayo
-AetherTrade
+Thank you for your cooperation.
+The Quantum AI Trading Support Team

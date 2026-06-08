@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial investment amount did Klaus Schmidt make with AI Trading Solutions, as indicated in the SAR?",
-    "answer": "5000 EUR"
+    "question": "According to the initial email, what is the primary function of Quantum AI Investments?",
+    "answer": "To identify and capitalize on lucrative trading opportunities in the cryptocurrency market using artificial intelligence."
   },
   {
-    "question": "According to the promotional material, what is one key benefit of using AI Trading Solutions?",
-    "answer": "Automated Trading"
+    "question": "What percentage increase in the victim's account balance was initially reported in email_profit_1.txt?",
+    "answer": "12.5%"
   },
   {
-    "question": "What was Klaus Schmidt's primary communication method with AI Trading Solutions, as evidenced by the Telegram chat log?",
-    "answer": "Telegram"
+    "question": "What reason is initially given for the delay in processing the victim's withdrawal request?",
+    "answer": "Ongoing system maintenance and security protocols."
   },
   {
-    "question": "What is the purpose of the email sent to Klaus Schmidt on 2023-11-20?",
-    "answer": "To welcome him to the AI Trading Solutions community and provide initial guidance."
+    "question": "Based on the bank statement, what was the initial investment made by the victim?",
+    "answer": "$5000.00"
   },
   {
-    "question": "What suspicious indicator was noted in the SAR regarding the initial transaction, according to the provided report?",
-    "answer": "Unusual investment amount for customer profile"
+    "question": "Which country is listed as the recipient country in the SAR reports associated with the victim's transactions?",
+    "answer": "Seychelles"
   },
   {
-    "question": "What did the support person recommend for the initial investment amount?",
-    "answer": "5000 EUR"
+    "question": "What specific documents are requested from the victim in the email_followup.txt to complete the KYC verification?",
+    "answer": "A utility bill and a government-issued photo ID."
   },
   {
-    "question": "What method of deposit did Klaus initially express interest in using?",
-    "answer": "Bank transfer"
+    "question": "According to promotional_material_2.txt, how does Quantum AI Investments handle complex algorithms and trading strategies?",
+    "answer": "They handle the complex algorithms and trading strategies so clients can watch their wealth grow."
   },
   {
-    "question": "What was the total amount of investment made by Klaus Schmidt across all the provided bank statements?",
-    "answer": "15000 EUR"
+    "question": "Based on the screenshot_trading_platform.txt, what is the prominent button displayed on the Quantum AI Investments platform?",
+    "answer": "Make a Deposit"
   },
   {
-    "question": "What does the website screenshot suggest about the platform's perceived performance?",
-    "answer": "Exponential growth"
+    "question": "What is the primary suspicious activity noted in SAR_3.xml regarding the victim\u2019s case?",
+    "answer": "Inability to withdraw funds and suspicious KYC requests."
   },
   {
-    "question": "Based on the second SAR report, what was the investment amount in the second transaction?",
-    "answer": "10000 EUR"
+    "question": "According to the bank_statement_fraudster_1.csv, what was the total amount withdrawn from the cryptocurrency exchange?",
+    "answer": "$25000.00"
   }
 ]

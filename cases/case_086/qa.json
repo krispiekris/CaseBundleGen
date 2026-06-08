@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial amount did Hans Meier invest with Innovative Profits, as recorded in the transaction details?",
-    "answer": "\u20ac5,000"
+    "question": "What was the initial deposit amount made by Hans Schmidt to QuantumAI Investments Ltd.?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "According to the SAR reports, what is the primary reason for the Suspicious Activity flags?",
-    "answer": "Potential investment fraud. Account appears to be related to an unregulated online trading platform."
-  },
-  {
-    "question": "What type of document requests additional information from Hans Meier regarding a withdrawal?",
-    "answer": "Email"
-  },
-  {
-    "question": "Based on the promotional documents, what is the name of the AI trading bot used by Innovative Profits?",
-    "answer": "Athena"
-  },
-  {
-    "question": "What is the account balance displayed on the screenshot of the trading platform?",
-    "answer": "\u20ac17,000"
-  },
-  {
-    "question": "Besides the initial investment, what is the second largest transaction amount associated with Innovative Profits?",
-    "answer": "\u20ac10,000"
-  },
-  {
-    "question": "What are the three pieces of information requested from Hans Meier to complete the verification process for his withdrawal?",
-    "answer": "Scanned copy of passport or national ID card, recent bank statement, proof of address (utility bill or bank statement)"
-  },
-  {
-    "question": "Which reporting institutions filed the Suspicious Activity Reports (SARs) related to Hans Meier's transactions?",
+    "question": "According to the SAR reports, what is the name of the reporting institution?",
     "answer": "Deutsche Bank"
   },
   {
-    "question": "According to promotional material, what is a potential benefit customers might receive when signing up?",
-    "answer": "A FREE consultation with an expert financial advisor"
+    "question": "What reason was given for the second deposit of 10000 EUR according to the SAR?",
+    "answer": "To unlock full potential and access larger profits, to activate the premium AI engine."
   },
   {
-    "question": "When was the first Suspicious Activity Report (SAR) filed?",
-    "answer": "2023-10-05"
+    "question": "Based on the Telegram chat log, what did the AI Trading Assistant initially tell Hans Schmidt when he expressed concerns about not seeing anything after logging in?",
+    "answer": "It takes a little time for the AI to analyze the market. Be patient."
+  },
+  {
+    "question": "What does the promotional material highlight as a key feature of QuantumAI?",
+    "answer": "AI-Powered Trading"
+  },
+  {
+    "question": "What was the total value of deposits made by Hans Schmidt to QuantumAI Investments Ltd.?",
+    "answer": "15000 EUR"
+  },
+  {
+    "question": "What is the description associated with the first transaction in SAR-2024-0215?",
+    "answer": "Initial deposit to QuantumAI trading platform"
+  },
+  {
+    "question": "What event triggered Hans Schmidt's realization that the system was fake?",
+    "answer": "This is fake!"
+  },
+  {
+    "question": "What type of transaction does the bank statement indicate for the initial deposit of 5000 EUR?",
+    "answer": "Credit"
+  },
+  {
+    "question": "What additional information is included in SAR-2024-0217 regarding the customer's actions?",
+    "answer": "The customer has reported the transaction as fraudulent and has filed a police report."
   }
 ]

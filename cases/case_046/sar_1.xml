@@ -1,20 +1,23 @@
 <sar>
-  <report_date>2023-06-29</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <reporter_id>DB-SAR-2023-0047</reporter_id>
-  <customer>
-    <name>Ulrich Baumann</name>
-    <address>Musterstraße 12, 10115 Berlin, Germany</address>
-    <date_of_birth>1968-07-22</date_of_birth>
-  </customer>
-  <suspicious_activity>
-    <activity_date>2023-06-28</activity_date>
-    <transaction_amount currency="EUR">7500.00</transaction_amount>
-    <transaction_type>Withdrawal Request</transaction_type>
-    <description>Customer attempted to withdraw funds from their account. Withdrawal was denied due to system maintenance.</description>
-    <account_number>1234567890</account_number>
-  </suspicious_activity>
-  <findings>
-    <finding>Unusual withdrawal request denied by system. Customer behavior warrants further investigation.</finding>
-  </findings>
+  <report>
+    <report_date>2023-12-10</report_date>
+    <reporting_institution>Deutsche Bank</reporting_institution>
+    <customer_name>Karl Meier</customer_name>
+    <customer_id>123456789</customer_id>
+    <transaction_details>
+      <transaction_date>2023-12-05</transaction_date>
+      <transaction_amount currency="EUR">5000.00</transaction_amount>
+      <transaction_type>Debit</transaction_type>
+      <recipient_name>AI-Wealth Pro</recipient_name>
+      <recipient_account>XX1234567890123456789012</recipient_account>
+      <recipient_bank>Malta International Bank</recipient_bank>
+      <iban>MT12MALT0001234567890123456789</iban>
+      <swift>MALTMTMM</swift>
+      <purpose>Investment</purpose>
+    </transaction_details>
+    <findings>
+      <suspicious_activity>Unusual transfer to an offshore account with a vague investment purpose.</suspicious_activity>
+      <risk_level>Medium</risk_level>
+    </findings>
+  </report>
 </sar>

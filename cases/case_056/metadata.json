@@ -1,58 +1,55 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-CX-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac75,000 - \u20ac100,000",
-    "country": "Germany",
+    "income_range": "$75,000 - $100,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
     "Nigeria",
-    "United Kingdom"
+    "United Arab Emirates"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Initial contact via email"
+      "event": "Victim contacts AI trading platform via Facebook ad"
     },
     {
       "date": "2023-09-01",
-      "event": "Victim transfers initial investment"
+      "event": "Initial investment made by victim"
     },
     {
-      "date": "2023-09-15",
-      "event": "Platform \u2018glitches\u2019 \u2013 victim encouraged to transfer more funds"
+      "date": "2023-10-15",
+      "event": "Victim receives fabricated profits"
     },
     {
-      "date": "2023-10-20",
-      "event": "Victim attempts withdrawal \u2013 denied"
+      "date": "2023-11-20",
+      "event": "Victim attempts to withdraw funds, unsuccessful"
     },
     {
-      "date": "2023-11-10",
-      "event": "Victim reports fraud"
-    },
-    {
-      "date": "2024-01-25",
-      "event": "Investigation commenced"
+      "date": "2024-01-10",
+      "event": "Victim files complaint with authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$5,000 - $10,000"
     },
     {
-      "type": "EUR Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Bank Transfers (AUD)",
+      "amount_range": "$10,000 - $20,000"
     }
   ]
 }

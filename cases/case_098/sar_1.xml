@@ -1,24 +1,22 @@
-<SAR xmlns="http://www.example.com/sar">
-  <Header>
-    <SAR_ID>SAR-20231115-001</SAR_ID>
-    <SubmissionDate>2023-11-15</SubmissionDate>
-    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
-  </Header>
-  <Transaction>
-    <TransactionID>TXN-12345</TransactionID>
-    <TransactionDate>2023-09-01</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <Sender>
-      <Name>Klaus Schmidt</Name>
-      <AccountID>DE1234567890</AccountID>
-    </Sender>
-    <Receiver>
-      <Name>Global Investments Ltd.</Name>
-      <AccountID>LC012345678</AccountID>
-      <Country>Belize</Country>
-    </Receiver>
-    <Description>Investment in AI Trading Platform</Description>
-    <SuspiciousActivity>Large transfer to offshore account with vague description.</SuspiciousActivity>
-  </Transaction>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-09-03</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">10000.00</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderAccount>DE89370400440532013700</SenderAccount>
+      <ReceiverAccount>US725649027</ReceiverAccount>
+      <Description>Payment to AI-Profit Solutions</Description>
+      <SuspiciousIndicator>Unusual Transaction Amount, Lack of Business Relationship</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <Party>
+    <PartyType>Beneficial Owner</PartyType>
+    <Name>David Okoro</Name>
+    <Country>Nigeria</Country>
+    <Address>Lagos, Nigeria</Address>
+  </Party>
 </SAR>

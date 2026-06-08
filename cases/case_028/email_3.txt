@@ -1,0 +1,10 @@
+From: Jan Berger <jan.berger@email.com>
+To: Broker Alex <alex.stellarfx@example.com>
+Subject: Withdrawal Request
+
+Dear Broker Alex,
+
+I would like to request a withdrawal of 2250€. Please confirm the process.
+
+Sincerely,
+Jan Berger

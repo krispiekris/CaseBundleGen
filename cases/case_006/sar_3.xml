@@ -1,20 +1,29 @@
-<SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2023-11-20</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-11-15</TransactionDate>
-      <TransactionAmount currency="EUR">500</TransactionAmount>
-      <SenderName>Klaus Richter</SenderName>
-      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxxx</SenderAccount>
-      <RecipientName>AI Trading Solutions</RecipientName>
-      <RecipientAccount>USxxxxxxxxxxxxxxxxxxxxxx</RecipientAccount>
-      <Description>Payment of 'verification fees'</Description>
-      <SuspiciousIndicators>
-        <Indicator>Request for additional fees after initial investment</Indicator>
-        <Indicator>Unusual payment for "verification"</Indicator>
-      </SuspiciousIndicators>
-    </Transaction>
-  </SuspiciousActivity>
-  <ReportingEmployee>Jane Doe</ReportingEmployee>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_date>2024-01-25</report_date>
+  <institution_id>GLOBALPAY</institution_id>
+  <reporter_name>GlobalPay Compliance Department</reporter_name>
+  <suspect_name>Karl Richter</suspect_name>
+  <suspect_address>
+    <street>Musterstraße 12</street>
+    <city>Berlin</city>
+    <postcode>10115</postcode>
+    <country>Germany</country>
+  </suspect_address>
+  <transaction_details>
+    <transaction_date>2023-12-20</transaction_date>
+    <transaction_amount currency="EUR">1500.00</transaction_amount>
+    <transaction_type>Debit</transaction_type>
+    <recipient_name>GlobalPay Solutions</recipient_name>
+    <recipient_account>US874930281</recipient_account>
+    <recipient_bank>GlobalPay Solutions</recipient_bank>
+    <iban>US874930281</iban>
+  </transaction_details>
+  <findings>
+    <finding>Payment of verification fee for withdrawal. Further investigation suggests ongoing fraudulent activity.</finding>
+  </findings>
+  <reporter_contact>
+    <phone>+1 555 123 4567</phone>
+    <email>compliance@globalpay.com</email>
+  </reporter_contact>
+</sar>

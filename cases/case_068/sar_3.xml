@@ -1,18 +1,36 @@
-<SAR id="SAR-20240120-003">
-  <Header>
-    <DateTime>2024-01-20T09:00:00Z</DateTime>
-    <Originator>Deutsche Bank</Originator>
-  </Header>
-  <Transaction>
-    <Amount currency="EUR">15000</Amount>
-    <DateTime>2023-09-01</DateTime>
-    <Description>Transfer to NovaTech Solutions</Description>
-    <Sender>Marc Schneider</Sender>
-    <Receiver>NovaTech Solutions - Cyprus Branch</Receiver>
-    <ReceiverAccount>CY8800200001000000000012345</ReceiverAccount>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Reported fraud by client</SuspiciousActivity>
-    <Justification>Client claims inability to withdraw funds and suspects fraudulent activity.</Justification>
-  </Findings>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_id>SAR-2024-02-15-001</report_id>
+  <date_filed>2024-02-15</date_filed>
+  <institution_name>Financial Intelligence Unit Germany</institution_name>
+  <reporter_name>Unknown</reporter_name>
+  <reporter_title>Internal Review</reporter_title>
+  <subject>
+    <name>AI Trading Solutions</name>
+    <address>Unknown</address>
+  </subject>
+  <transactions>
+     <transaction>
+        <date>2023-11-20</date>
+        <amount>15000.00</amount>
+        <currency>EUR</currency>
+        <description>Transfer from Klaus Muller</description>
+        <iban>NG3708336937880532955322</iban>
+     </transaction>
+     <transaction>
+        <date>2023-12-15</date>
+        <amount>3000.00</amount>
+        <currency>EUR</currency>
+        <description>Transfer from Klaus Muller</description>
+        <iban>NG3708336937880532955322</iban>
+     </transaction>
+     <transaction>
+        <date>2024-01-10</date>
+        <amount>8000.00</amount>
+        <currency>EUR</currency>
+        <description>Transfer from Klaus Muller</description>
+        <iban>NG3708336937880532955322</iban>
+     </transaction>
+  </transactions>
+  <findings>Suspicious activity related to possible investment fraud scheme.  Further investigation recommended. The entity's listed address is unverifiable.</findings>
+</sar>

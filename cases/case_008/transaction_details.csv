@@ -1,0 +1,6 @@
+Transaction ID,Date,Amount (USD),Currency,Description,Recipient Name,Recipient Account,Recipient Country
+1,2023-03-15,5000,USD,Transfer to Global Forex Capital,Global Forex Capital,GFX12345,Marshall Islands
+2,2023-04-05,10000,USD,Transfer to Global Forex Capital,Global Forex Capital,GFX12345,Marshall Islands
+3,2023-05-05,10000,USD,Transfer to Global Forex Capital,Global Forex Capital,GFX12345,Marshall Islands
+4,2023-05-20,10000,USD,Transfer to Global Forex Capital,Global Forex Capital,GFX12345,Marshall Islands
+5,2023-05-30,5000,USD,Transfer to Global Forex Capital,Global Forex Capital,GFX12345,Marshall Islands

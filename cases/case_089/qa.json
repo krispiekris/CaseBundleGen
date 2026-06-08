@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR report, what was the initial unusual characteristic detected regarding David Miller's transaction?",
-    "answer": "Unusual transaction amount for customer profile. Requires further investigation."
+    "question": "What initial incentive was offered to Richard Baker to engage with AI Trading Pro?",
+    "answer": "An exclusive introductory bonus."
   },
   {
-    "question": "What country is associated with the recipient bank, Offshore Global Bank?",
-    "answer": "Belize"
+    "question": "According to the first SAR filed, what was the initial suspicious activity reported regarding Richard Baker's transaction?",
+    "answer": "Potential investment scam - unusually large transfer for a new customer."
   },
   {
-    "question": "What was the approximate percentage increase in David Miller's portfolio, as claimed in email_2.txt?",
-    "answer": "12.5%"
+    "question": "What is the IBAN associated with the beneficiary 'AI Trading Pro'?",
+    "answer": "GB29NWBK00000000001234"
   },
   {
-    "question": "Based on the bank statements, what was the total amount David Miller transferred to AI Prosper Investments Ltd?",
-    "answer": "7500.00"
+    "question": "What amount of money did Richard Baker transfer to AI Trading Pro on November 1st, 2023?",
+    "answer": "-10000.00"
   },
   {
-    "question": "What action was taken regarding David Miller's withdrawal request, according to sar_2.xml?",
-    "answer": "Withdrawal request denied by AI Prosper. Customer reported inability to access funds."
+    "question": "What did the promotional material describe as a key feature of the AI Trading Pro system?",
+    "answer": "Risk-Free Investment"
   },
   {
-    "question": "What entities are named as the recipient of funds in the transaction records?",
-    "answer": "AI Prosper Investments Ltd"
+    "question": "Based on the SAR reports, what became Richard Baker's concern regarding AI Trading Pro in January 2024?",
+    "answer": "Difficulty withdrawing funds."
   },
   {
-    "question": "What other currencies, if any, are explicitly mentioned in the case files?",
-    "answer": "None"
+    "question": "What was the description given to the transfer of 20,000 GBP from Richard Baker to AI Trading Pro in SAR-2023-1222-UK?",
+    "answer": "Transfer to AI Trading Pro"
   },
   {
-    "question": "What potential fraudulent activities are highlighted in SAR-20230525-003?",
-    "answer": "Multiple transfers to offshore accounts in Belize and Seychelles. Potential involvement of cryptocurrency transactions."
+    "question": "What did the promotional material claim about the testimonial from 'John S.'?",
+    "answer": "\u2019I was skeptical at first, but AI Trading Pro has changed my life!\u2019"
   },
   {
-    "question": "According to the promotional text, what is one of the key benefits offered by AI Prosper to investors?",
-    "answer": "Passive Income"
+    "question": "What amount of money did Richard Baker attempt to transfer back to himself in December 2023 and January 2024?",
+    "answer": "-1.00"
   },
   {
-    "question": "Which entities are mentioned in the email from the fraud department?",
-    "answer": "Global Bank Fraud Department, AI Prosper Investments Ltd"
+    "question": "What does the screenshot of the website show about the overall impression of AI Trading Pro?",
+    "answer": "One of professionalism and trustworthiness."
   }
 ]

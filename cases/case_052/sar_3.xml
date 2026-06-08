@@ -1,23 +1,26 @@
-<sar>
-  <reportHeader>
-    <reportDate>2024-03-12</reportDate>
-    <reportingInstitution>Sparkasse Nürnberg</reportingInstitution>
-    <reporterId>12345</reporterId>
-  </reportHeader>
-  <transaction>
-    <transactionDate>2024-01-10</transactionDate>
-    <transactionAmount currency="EUR">1000.00</transactionAmount>
-    <transactionType>Wire Transfer</transactionType>
-    <sender>
-      <name>Hans Schmidt</name>
-      <accountNumber>DE89741105020001234567</accountNumber>
-    </sender>
-    <recipient>
-      <name>AlphaGenesis Global</name>
-      <accountNumber>ZA12345678901234567890</accountNumber>
-      <bankCountry>Nigeria</bankCountry>
-    </recipient>
-    <description>Withdrawal Request Fee</description>
-    <suspiciousActivity>Recipient demanding additional fees for withdrawal</suspiciousActivity>
-  </transaction>
-</sar>
+<SAR>
+  <Header>
+    <SARReference>20230710-003</SARReference>
+    <DateTime>2023-07-10T11:00:00Z</DateTime>
+    <BankName>Deutsche Bank</BankName>
+  </Header>
+  <Transaction>
+    <TransactionID>5555555555</TransactionID>
+    <TransactionDate>2023-06-18</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <SenderName>Werner Schmidt</SenderName>
+    <ReceiverAccount>GB24NWBK40199999999999</ReceiverAccount>
+    <ReceiverName>Innovative Solutions Ltd</ReceiverName>
+    <Description>Withdrawal Request</Description>
+    <SuspiciousActivity>Delayed and complex withdrawal process, potential attempt to prevent funds from leaving.</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <Name>Werner Schmidt</Name>
+    <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
+  </Party>
+  <Findings>
+    <Finding>Withdrawal request being delayed, requesting additional verification documents.  Potentially a tactic to prevent funds from being withdrawn.</Finding>
+  </Findings>
+</SAR>

@@ -1,21 +1,18 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-11-08</ReportDate>
-    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
-    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
-  </Header>
+<SAR xmlns="http://www.example.com/sar">
   <Transaction>
-    <TransactionDate>2023-11-01</TransactionDate>
-    <TransactionAmount currency="EUR">0.00</TransactionAmount>
-    <TransactionType>Withdrawal Attempt</TransactionType>
-    <SenderAccount>DE12345678901234567890</SenderAccount>
-    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
-    <ReceiverName>Klaus Schmidt</ReceiverName>
-    <ReceiverCountry>Germany</ReceiverCountry>
-    <Description>Withdrawal Request - Declined</Description>
+    <TransactionID>91011</TransactionID>
+    <Date>2024-03-15</Date>
+    <Amount currency="EUR">1000</Amount>
+    <Sender>Karl Heinz</Sender>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <Receiver>Verificationservices.net</Receiver>
+    <ReceiverAccount>USyyyyyyyyyyyyy</ReceiverAccount>
+    <Description>Account Verification - Quantum AI Trading</Description>
+    <SuspiciousActivity>Victim requested to provide personal information via email</SuspiciousActivity>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Attempted withdrawal request blocked due to technical issues and subsequent requests for additional fees to process withdrawal.</SuspiciousActivity>
-    <PotentialFraud>Possible investment fraud - refusal to release funds and additional demands for money.</PotentialFraud>
-  </Findings>
+  <PartyInformation>
+    <Party Name="Karl Heinz" Role="Victim" Country="Germany" />
+    <Party Name="Verificationservices.net" Role="Potential Fraudster" Country="United States" />
+  </PartyInformation>
+  <Findings>Further investigation recommended due to account verification request and unusual recipient.</Findings>
 </SAR>

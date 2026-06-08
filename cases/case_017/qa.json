@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial offer email, what is a key benefit of using the Nova AI trading platform?",
-    "answer": "Generate consistent profits, even in volatile markets."
+    "question": "According to the SAR reports, what is the reported address of Michael Davies?",
+    "answer": "123 Main Street, Sydney, NSW, 2000, Australia"
   },
   {
-    "question": "What is the primary reason provided for the delay in processing withdrawal requests?",
-    "answer": "Ongoing maintenance and security upgrades to our processing systems."
+    "question": "What cryptocurrency did Michael Davies initially use to deposit funds?",
+    "answer": "Bitcoin"
   },
   {
-    "question": "What country is listed as the beneficiary country for the transaction to Nova Trading Platform, as per SAR 1?",
-    "answer": "United Arab Emirates"
+    "question": "What was the initial deposit amount Michael Davies made to AI Pro Solutions, as stated in email_2.txt?",
+    "answer": "AUD $10,000"
   },
   {
-    "question": "Based on the bank statement, what was the initial balance of Klaus Heinz\u2019s account?",
-    "answer": "60000.00"
+    "question": "According to the bank statement, what was the amount of Michael Davies' salary received on 2023-12-01?",
+    "answer": "AUD $100,000.00"
   },
   {
-    "question": "What does the screenshot of the platform dashboard indicate regarding the results shown?",
-    "answer": "Simulated Results \u2013 Not Representative of Actual Trading Performance"
+    "question": "Based on the SAR reports, where is AI Pro Solutions reportedly operating from?",
+    "answer": "Nigeria"
   },
   {
-    "question": "What type of verification did Nova AI request from Klaus Heinz?",
-    "answer": "A copy of his passport or driver's license."
+    "question": "What reason did AI Pro Solutions provide for temporarily suspending withdrawal requests in email_3.txt?",
+    "answer": "Due to recent market volatility"
   },
   {
-    "question": "According to the promotional material, what is one way Nova AI helps investors?",
-    "answer": "AI-Powered Precision: Our cutting-edge algorithms analyze market trends 24/7."
+    "question": "Which promotional material highlights the benefit of automated trading, requiring no prior experience?",
+    "answer": "promotional_material_1.txt"
   },
   {
-    "question": "What is the estimated timeframe given for withdrawal processing, as stated in the withdrawal denial email?",
-    "answer": "7-10 business days"
+    "question": "What does the screenshot of the website emphasize as a key feature of AI Pro Solutions?",
+    "answer": "Let Our AI Algorithms Work for You!"
   },
   {
-    "question": "According to SAR 3, what is the primary reason for the fraud report filed by Klaus Heinz?",
-    "answer": "Inability to withdraw funds and unresponsive support."
+    "question": "Based on the bank statement_2.csv, what was the total amount transferred to overseas accounts between 2023-09-05 and 2023-10-31?",
+    "answer": "AUD $71375.00"
   },
   {
-    "question": "What are the legal jurisdiction associated with the Nova AI platform\u2019s terms and conditions?",
-    "answer": "The laws of the United Arab Emirates."
+    "question": "Which file mentions the phrase 'Unlock the Secrets of AI Trading'?",
+    "answer": "promotional_material_2.txt"
   }
 ]

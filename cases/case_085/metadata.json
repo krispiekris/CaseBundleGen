@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CX-1047",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,48 +12,43 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English",
       "Yoruba"
     ]
   },
   "destination_countries": [
-    "Marshall Islands",
-    "Saint Vincent and the Grenadines"
+    "United Arab Emirates",
+    "Hong Kong"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
-      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
+      "date": "2023-09-10",
+      "event": "Victim contacts AI trading platform via online advertisement."
     },
     {
-      "date": "2023-04-01",
-      "event": "Initial deposit made by victim"
+      "date": "2023-10-25",
+      "event": "Initial investment made by the victim."
     },
     {
-      "date": "2023-05-10",
-      "event": "Victim receives first 'profit' payout"
+      "date": "2023-11-15",
+      "event": "Victim receives fabricated trading profits."
     },
     {
-      "date": "2023-07-20",
-      "event": "Victim attempts to withdraw funds; encounter 'verification' issues"
+      "date": "2024-01-05",
+      "event": "Victim attempts to withdraw funds and is blocked."
     },
     {
-      "date": "2023-08-15",
-      "event": "Victim realizes the scam and reports to authorities"
-    },
-    {
-      "date": "2023-09-01",
-      "event": "Initial investigation launched"
+      "date": "2024-03-15",
+      "event": "Victim files a complaint with local authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     },
     {
       "type": "Bank Transfers",
-      "amount_range": "\u20ac10,000 - \u20ac15,000"
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

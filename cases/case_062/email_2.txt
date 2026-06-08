@@ -1,13 +1,10 @@
-From: support@ai-trader.tech
-To: Klaus.Schmidt@email.de
-Subject: Withdrawal Request – Account Update
+From: david.miller@email.com.au
+To: support@aiwealthpro.com
+Subject: Question about my account
 
-Dear Klaus,
+Hi,
 
-We have received your withdrawal request. Due to increased security measures, we require further verification. Please click on the link below to complete the process:
+I've made an initial investment of AUD $5,000 and I'm wondering how I can track the progress of my trades.
 
-[Suspicious Link - ai-trader-verification.com]
-
-Sincerely,
-
-The AI-Trader Support Team
+Regards,
+David Miller

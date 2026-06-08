@@ -1,25 +1,25 @@
-<sar>
-  <report_id>SAR-2023-10-05-002</report_id>
-  <reporting_institution>Barclays Bank</reporting_institution>
-  <date_filed>2023-10-05</date_filed>
-  <reporter_name>Suspicion Monitoring System</reporter_name>
-  <reporter_position>Automated System</reporter_position>
-  <customer_name>David Miller</customer_name>
-  <customer_dob>1968-05-20</customer_dob>
-  <customer_address>12 Oak Avenue, London, SW1A 0AA, UK</customer_address>
-  <suspicious_activity>
-    <activity_type>Large Cryptocurrency Transfers</activity_type>
-    <activity_date>2023-04-22</activity_date>
-    <transaction_amount>7500.00</transaction_amount>
-    <transaction_currency>BTC</transaction_currency>
-    <transaction_description>Cryptocurrency Purchase</transaction_description>
-    <recipient_name>Global Investments Ltd</recipient_name>
-    <recipient_account>1BvBqg9uXJbJz6jJqg9qJz6jJqg9qJz6jJ</recipient_account>
-    <recipient_country>Seychelles</recipient_country>
-    <suspicion_reason>Large Bitcoin transfer linked to potential investment fraud scheme. Customer reported initial success followed by withdrawal issues.</suspicion_reason>
-  </suspicious_activity>
-  <related_parties>
-    <party type="customer">David Miller</party>
-    <party type="recipient">Global Investments Ltd</party>
-  </related_parties>
-</sar>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <SARReference>20240225-DE-002</SARReference>
+    <DateFiled>2024-02-25</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
+  </Header>
+  <BeneficialOwner>
+    <Name>Jürgen Schmidt</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </BeneficialOwner>
+  <SuspiciousActivity>
+    <TransactionDate>2024-01-15</TransactionDate>
+    <TransactionAmount currency="EUR">2000</TransactionAmount>
+    <TransactionType>Withdrawal Attempt</TransactionType>
+    <Description>Attempted withdrawal denied by QuantumLeap platform.</Description>
+    <CounterpartyAccount> ,</CounterpartyAccount>
+    <CounterpartyName> ,</CounterpartyName>
+    <Jurisdiction> ,</Jurisdiction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Victim reports inability to withdraw funds from investment platform.</Finding>
+    <Finding>Potential investment fraud.</Finding>
+  </Findings>
+</SAR>

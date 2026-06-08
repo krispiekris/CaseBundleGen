@@ -1,59 +1,55 @@
 {
-  "case_id": "2024-CYB-00789",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "65-74",
-    "income_range": "$80,000 - $120,000",
-    "country": "United Kingdom",
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Igbo",
-      "Pidgin English"
+      "Pidgin English",
+      "Yoruba"
     ]
   },
   "destination_countries": [
-    "Cyprus",
+    "Nigeria",
     "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial Contact: Victim receives unsolicited email about AI trading platform."
+      "date": "2023-11-10",
+      "event": "Victim contacted via email with AI trading opportunity."
     },
     {
-      "date": "2023-09-01",
-      "event": "Initial Investment: Victim deposits $5,000 into platform."
+      "date": "2023-11-25",
+      "event": "Initial investment made by victim."
     },
     {
-      "date": "2023-09-15",
-      "event": "False Profits: Victim sees fabricated profits and deposits an additional $10,000."
+      "date": "2023-12-15",
+      "event": "Victim shown fabricated profits."
     },
     {
-      "date": "2023-10-01",
-      "event": "Withdrawal Attempt: Victim attempts to withdraw funds and is met with technical difficulties."
+      "date": "2024-01-05",
+      "event": "Victim requested withdrawal, initially approved then denied."
     },
     {
-      "date": "2023-10-15",
-      "event": "Account Restriction: Victim\u2019s account is restricted."
-    },
-    {
-      "date": "2023-11-01",
-      "event": "Report Filed: Victim reports the incident to local authorities."
+      "date": "2024-01-20",
+      "event": "Victim reports suspicious activity to bank."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "$15,000 - $20,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     },
     {
-      "type": "Bank Funds",
-      "amount_range": "$20,000 - $25,000"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac2,000 - \u20ac8,000"
     }
   ]
 }

@@ -1,14 +1,14 @@
-From: support@novatrade.ai
-To: richard.adams@example.com
-Subject: Welcome to NovaTrade AI - Your Account is Active!
+From: support@quantumtrading.ai
+To: klaus.heinz@email.de
+Subject: Important Update Regarding Your Quantum Trading AI Account
 
-Dear Richard Adams,
+Dear Klaus,
 
-Welcome to the NovaTrade AI platform! Your account has been successfully created and is now active.
+We regret to inform you that your recent withdrawal request for EUR 30,000 has been temporarily held due to a system upgrade.
 
-To get started, please review our brief tutorial video here: [https://novatrade.ai/tutorial]
+We understand this may be inconvenient, but these upgrades are essential for maintaining the security and performance of our platform.  Your funds are safe and secure.
 
-Your current balance is $5,000.00.
+We anticipate the upgrade to be completed within 72 hours.  We appreciate your patience and understanding.
 
-Best Regards,
-The NovaTrade AI Support Team
+Sincerely,
+The Quantum Trading AI Support Team

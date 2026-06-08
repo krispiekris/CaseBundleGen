@@ -1,6 +1,8 @@
-Date,Description,Amount (EUR),IBAN
-2023-04-05,Incoming Transfer,50000.00,[redacted]
-2023-05-10,Interest,250.00,[redacted]
-2023-06-22,Withdrawal Request,45000.00,[redacted]
-2023-07-22,System Fee,100.00,[redacted]
-2023-08-02,Incoming Transfer,1000.00,[redacted]
+Date,Description,Amount,Balance
+2023-11-10,Salary,10000,90000
+2023-11-20,Groceries,150,89850
+2023-12-01,Aionautics Investment, -25000,64850
+2023-12-05,Bill Payment, -500,64350
+2023-12-10,Restaurant, -80,64270
+2023-12-15,Online Purchase, -120,64150
+2024-01-10,Aionautics Investment, -10000,54150

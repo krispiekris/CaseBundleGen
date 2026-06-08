@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is QuantumTrade designed to do?",
-    "answer": "Generate consistent profits, even in volatile market conditions."
+    "question": "What initial amount did Hans Meier deposit into Innovative Investments, according to the bank statement?",
+    "answer": "5000.00"
   },
   {
-    "question": "What was the initial investment amount made by Klaus Mueller, as detailed in the SAR report?",
-    "answer": "\u20ac5000.00"
+    "question": "According to promotional material, what is one key advantage of using Innovative Investments?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "What is the jurisdiction listed for the receiving account in the transaction detailed in SAR 1?",
-    "answer": "Marshall Islands"
+    "question": "What was the description of the transaction that attempted to withdraw 5000 EUR?",
+    "answer": "Withdrawal Attempt - Rejected"
   },
   {
-    "question": "Based on the Telegram chat log, what was initially offered to new members of QuantumTrade?",
-    "answer": "Exclusive access to trading signals and performance updates."
+    "question": "Which dates are associated with fabricated profit distributions, according to SAR-20240317-003?",
+    "answer": "15-11-2023, 22-11-2023, 01-12-2023"
   },
   {
-    "question": "What reason is given in the SAR for the suspicious activity concerning Klaus Mueller's transaction?",
-    "answer": "Possible Investment Fraud - Unsolicited contact, high-pressure sales tactics, promised unrealistic returns."
+    "question": "Based on the screenshot description, what is the platform's claimed AI trading performance for one week?",
+    "answer": "+32%"
   },
   {
-    "question": "What date is mentioned in the verification email sent to Klaus Mueller?",
-    "answer": "July 20, 2023"
+    "question": "What country is Hans Meier associated with, as indicated in the SAR reports?",
+    "answer": "Germany"
   },
   {
-    "question": "What document was requested from Klaus Mueller during the verification process?",
-    "answer": "A copy of his passport and proof of address."
+    "question": "What type of platform does Innovative Investments claim to operate?",
+    "answer": "AI trading platform"
   },
   {
-    "question": "What was the amount of the 'Profit Payout' received by Klaus Mueller on 2023-05-10?",
-    "answer": "\u20ac250.00"
+    "question": "What is the subject line of the email sent from Innovative Investments to Hans Meier?",
+    "answer": "Welcome to Innovative Investments!"
   },
   {
-    "question": "According to the promotional material, what AI technology is leveraged by QuantumTrade?",
-    "answer": "Artificial Intelligence"
+    "question": "What was the description given for the initial investment by Hans Meier?",
+    "answer": "Initial investment - AI Trading Platform"
   },
   {
-    "question": "What purpose code was associated with the initial deposit of \u20ac5000 from Klaus Mueller\u2019s account?",
-    "answer": "0100"
+    "question": "According to bank_statement_2.csv, what is the value of the transaction recorded on 2023-09-10?",
+    "answer": "25000.00"
   }
 ]

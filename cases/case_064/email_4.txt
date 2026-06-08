@@ -1,0 +1,14 @@
+From: fraud@quantumai.tech
+To: karl.heinz@email.de
+Subject: Account Locked - Verify Now!
+
+Dear Karl,
+
+Your Quantum AI Trading account has been temporarily locked due to suspicious activity. Please verify your identity immediately by clicking the link below:
+
+[Phishing Link - omitted]
+
+Failure to verify your account within 24 hours will result in permanent account closure.
+
+Sincerely,
+The Quantum AI Trading Security Team

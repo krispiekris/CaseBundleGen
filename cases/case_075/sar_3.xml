@@ -1,21 +1,20 @@
-<SAR>
-  <ReportID>SAR-20240301-003</ReportID>
-  <Date>2024-03-01</Date>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
-  <SuspiciousActivity>
-    <Type>Customer Complaint - Potential Investment Fraud</Type>
-    <Description>Customer Hans Schmidt filed a complaint alleging unauthorized investment activity and denial of withdrawal requests. Customer believes he may be a victim of investment fraud.</Description>
-    <TransactionDetails>
-      <Amount currency="EUR">8000.00</Amount>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <ReportDate>2024-03-05</ReportDate>
+    <SuspiciousActivity>
+      <TransactionID>TXN-91011</TransactionID>
+      <TransactionType>Withdrawal Attempt</TransactionType>
+      <Amount>20000.00</Amount>
       <Currency>EUR</Currency>
-      <Date>2024-01-05</Date>
-      <Beneficiary>Innovative AI Investments</Beneficiary>
-      <IBAN/>
-    </TransactionDetails>
-    <PartyInformation>
-      <CustomerID>HS-12345</CustomerID>
-      <CustomerName>Hans Schmidt</CustomerName>
-      <CustomerAddress>Musterstraße 1, 10115 Berlin, Germany</CustomerAddress>
-    </PartyInformation>
-  </SuspiciousActivity>
+      <OriginatingBank>Commerzbank</OriginatingBank>
+      <BeneficiaryBank>ApexAlgo Finance Ltd.</BeneficiaryBank>
+      <BeneficiaryAccount>1234-5678-9012-3456</BeneficiaryAccount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAddress>Musterstrasse 1, 12345 Berlin, Germany</SenderAddress>
+    </SuspiciousActivity>
+    <Suspicion>
+      <Reason>Failed Withdrawal and Significant Deposits</Reason>
+      <Details>Victim attempted a large withdrawal following significant deposits. Previous communications indicate a possible denial of the withdrawal request, raising concerns of potential fraud.</Details>
+    </Suspicion>
+  </Header>
 </SAR>

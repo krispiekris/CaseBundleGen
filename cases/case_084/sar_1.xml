@@ -1,16 +1,27 @@
 <SAR>
   <Header>
-    <ReportDate>2023-10-25</DateTime>
-    <InstitutionIdentifier>Deutsche Bank</InstitutionIdentifier>
+    <ReportDate>2023-11-18</ReportDate>
+    <SuspiciousActivity>
+      <Description>Potential cryptocurrency recovery scam - unusual transaction activity</Description>
+    </SuspiciousActivity>
   </Header>
   <Transaction>
-    <TransactionDate>2023-10-20</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Credit</TransactionType>
-    <Sender>Hans Meier</Sender>
-    <Receiver>NovaTech AI Platform</Receiver>
-    <ReceiverAccount>1234567890</ReceiverAccount>
-    <Description>Initial deposit to AI trading platform</Description>
-    <SuspiciousActivity>Unusual transaction size for customer profile</SuspiciousActivity>
+    <TransactionID>12345</TransactionID>
+    <TransactionDate>2023-11-15</TransactionDate>
+    <Amount>5000</Amount>
+    <Currency>USD</Currency>
+    <Sender>
+      <Name>David Miller</Name>
+      <AccountID>AU1234567890</AccountID>
+      <Country>Australia</Country>
+    </Sender>
+    <Receiver>
+      <Name>CryptoRecoveryExperts Wallet</Name>
+      <AccountID>US9876543210</AccountID>
+      <Country>United States</Country>
+    </Receiver>
   </Transaction>
+  <Findings>
+    <Finding>Unusual large transaction to an unknown entity claiming to be a cryptocurrency recovery specialist.</Finding>
+  </Findings>
 </SAR>

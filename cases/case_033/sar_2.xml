@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2023-11-15</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <CustomerName>Hans Meier</CustomerName>
-  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
-  <TransactionDate>2023-10-01</TransactionDate>
-  <TransactionAmount currency="EUR">10000</TransactionAmount>
-  <TransactionDescription>Transfer to AI FX Capital</TransactionDescription>
-  <RecipientName>AI FX Capital</RecipientName>
-  <RecipientAccount>1234567890</RecipientAccount>
-  <RecipientBank>Global Finance Ltd.</RecipientBank>
-  <RecipientCountry>Belize</RecipientCountry>
-  <SuspicionDetails>Customer transferred funds to an entity with questionable legitimacy and a foreign banking location. Subsequent online research suggests possible fraudulent activity. Follows initial transfer of EUR 5000.</SuspicionDetails>
-  <ReportID>DB-SAR-20231115-002</ReportID>
-</SuspiciousActivityReport>
+<SAR>
+  <Transaction>
+    <TransactionID>SAR-002</TransactionID>
+    <Date>2023-09-15</Date>
+    <Amount>2500.00</Amount>
+    <Currency>EUR</Currency>
+    <Sender>Hans Meier</Sender>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <Receiver>Global Forex Partners</Receiver>
+    <ReceiverAccount>BZ770340100100000000</ReceiverAccount>
+    <Description>Second Investment</Description>
+    <SuspiciousActivity>Potential investment fraud - multiple transactions to offshore entity.</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <Name>Hans Meier</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+  </Party>
+  <Party>
+    <Name>Global Forex Partners</Name>
+    <Address>Belize City, Belize</Address>
+  </Party>
+</SAR>

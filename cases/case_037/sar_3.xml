@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <Header>
-    <ReportDate>2024-01-16</ReportDate>
-    <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
-    <ReportingEntity>
-      <Name>Deutsche Bank AG</Name>
-      <Address>Taunuschluse 2, 60308 Frankfurt am Main, Germany</Address>
-    </ReportingEntity>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-08-20</TransactionDate>
-    <TransactionAmount currency="EUR">35000.00</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Currency>EUR</Currency>
-    <OriginatingParty>
-      <Name>Markus Weber</Name>
-      <Address></Address>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>Innovative AIX</Name>
-      <Address>Suite 180, 1st Floor, Nemea Building, 6 Isocrates Street, 2360 Strovolos, Cyprus</Address>
-    </BeneficiaryParty>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Pattern of transfers to offshore entity with inconsistent communication and blocked withdrawal attempt.</SuspiciousActivity>
-    <Notes>Multiple transactions totaling significant amounts raised concerns. The recipient entity appears to have limited transparency.</Notes>
-  </Transaction>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.finra.org/sar">
+  <ReportingInstitution>
+    <Name>UK Financial Intelligence Unit</Name>
+    <Address>London, UK</Address>
+  </ReportingInstitution>
+  <SuspiciousActivity>
+    <Date>2023-11-21</Date>
+    <Type>Funds Transfer</Type>
+    <Description>Large sum of funds received from Global Forex Partners, origin potentially linked to investment fraud.</Description>
+    <Party>
+      <Type>Beneficiary</Type>
+      <Name>Mark Anderson (Pseudonym)</Name>
+      <Address>Seychelles</Address>
+    </Party>
+    <Transaction>
+      <Date>2023-10-20</Date>
+      <Amount>15000.00</Amount>
+      <Currency>EUR</Currency>
+      <Description>Funds from Global Forex Partners</Description>
+      <Recipient>Offshore Account - UK</Recipient>
+    </Transaction>
+    <Findings>Potential money laundering activity. Funds likely derived from fraudulent investment schemes.</Findings>
+  </SuspiciousActivity>
 </SAR>

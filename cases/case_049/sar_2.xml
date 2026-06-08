@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2024-02-28</ReportDate>
-  <ReportingInstitution>First Canadian Trust</ReportingInstitution>
-  <AccountName>David Miller</AccountName>
-  <AccountID>123456789</AccountID>
-  <TransactionDate>2024-01-22</TransactionDate>
-  <TransactionAmount>15000.00</TransactionAmount>
-  <TransactionCurrency>CAD</TransactionCurrency>
-  <TransactionType>Debit</TransactionType>
-  <BeneficiaryName>Apex Global Investments Ltd.</BeneficiaryName>
-  <BeneficiaryCountry>Cyprus</BeneficiaryCountry>
-  <Description>Large withdrawal request blocked by platform. Customer reporting difficulty withdrawing funds. Potential investment fraud scheme.</Description>
-  <SuspicionLevel>High</SuspicionLevel>
-  <Investigator>John Smith</Investigator>
-</SuspiciousActivityReport>
+<SAR>
+  <Header>
+    <ReportDate>2024-02-05</ReportDate>
+    <BankID>First National Bank</BankID>
+    <ReportType>Suspicious Activity</ReportType>
+  </Header>
+  <Transaction>
+    <TransactionID>67890</TransactionID>
+    <TransactionDate>2023-11-10</TransactionDate>
+    <TransactionAmount>500.00</TransactionAmount>
+    <Currency>USD</Currency>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>XXXXXXX123</SenderAccount>
+    <ReceiverName>AI Trading Pro</ReceiverName>
+    <ReceiverAccount>YYYYYYYY456</ReceiverAccount>
+    <Description>Withdrawal</Description>
+    <SuspiciousActivity>Small withdrawal after initial investment.</SuspiciousActivity>
+  </Transaction>
+</SAR>

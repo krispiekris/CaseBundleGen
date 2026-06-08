@@ -1,1 +1,18 @@
-<SAR xmlns="http://www.example.com/sar">\n  <Header>\n    <ReportDate>2023-05-25</ReportDate>\n    <FilerID>FirstNationalBank</FilerID>\n    <SuspiciousActivityType>Potential Investment Fraud</SuspiciousActivityType>\n  </Header>\n  <Transaction>\n    <TransactionID>TXN90123</TransactionID>\n    <TransactionDate>2023-05-20</TransactionDate>\n    <TransactionAmount>10000.00</TransactionAmount>\n    <Currency>USD</Currency>\n    <SenderName>David Miller</SenderName>\n    <SenderAccount>1234567890</SenderAccount>\n    <ReceiverName>AlgoTrade Pro</ReceiverName>\n    <ReceiverAccount>9876543210</ReceiverAccount>\n    <ReceiverCountry>Serbia</ReceiverCountry>\n    <Description>Attempted withdrawal denied</Description>\n  </Transaction>\n  <Findings>\n    <Finding>Customer reports inability to withdraw funds, raising concerns about legitimacy of investment platform.</Finding>\n  </Findings>\n</SAR>
+<SAR>
+  <Header>
+    <ReportDate>2024-01-15</ReportDate>
+    <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+    <CaseID>DB-2024-00123</CaseID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-12-01</TransactionDate>
+    <TransactionAmount currency="EUR">100</TransactionAmount>
+    <TransactionType>Small Transaction</TransactionType>
+    <Description>Payment for 'KYC Verification' (Suspicious Link)</Description>
+    <SenderName>Karl Schmidt</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>AI Trading Solutions</ReceiverName>
+    <ReceiverAccount>GB12345678</ReceiverAccount>
+    <SuspiciousActivity>Potential Investment Fraud - KYC Scam</SuspiciousActivity>
+  </Transaction>
+</SAR>

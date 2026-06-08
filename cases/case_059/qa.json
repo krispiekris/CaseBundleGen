@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary marketing message used to attract investors to ProfitMatrix, as described in the promotional material?",
-    "answer": "Stop Trading, Start Winning with ProfitMatrix!"
+    "question": "What is the primary claim made by AI Trading Pro in their promotional materials regarding investment returns?",
+    "answer": "Potential for High Returns"
   },
   {
-    "question": "According to the SAR reports, what are the key reasons for suspicion regarding David Miller's activities?",
-    "answer": "Possible investment fraud; initial investment with limited information available, and victim reports difficulty withdrawing funds; potential fraudulent investment scheme."
+    "question": "According to the email sent to Michael Davies on 2024-03-22, what was his account balance?",
+    "answer": "$10,000 AUD"
   },
   {
-    "question": "What is the initial investment amount made by David Miller, as shown in the bank statement?",
-    "answer": "5000.00"
+    "question": "Which country is listed as the location of the beneficiary account for the transactions involving Michael Davies?",
+    "answer": "Cyprus"
   },
   {
-    "question": "What specific features are highlighted as benefits of the ProfitMatrix AI trading system in the promotional material?",
-    "answer": "No Trading Experience Required, Automated Trading: Let our AI do the work, Real-Time Results: Watch your profits grow"
+    "question": "Based on the bank statements, what was the initial investment amount made by Michael Davies to AI Trading Pro?",
+    "answer": "5000"
   },
   {
-    "question": "According to the telegram chatlog, what percentage increase was initially reported to David on his investment?",
-    "answer": "+12%"
+    "question": "What reason did AI Trading Pro provide for temporarily suspending withdrawal requests?",
+    "answer": "Due to recent regulatory changes"
   },
   {
-    "question": "What is the email address provided for contact and support related to ProfitMatrix?",
-    "answer": "ai.trading.support@profitmatrix.net"
+    "question": "What are three features highlighted in promotional material 2?",
+    "answer": "Simple and Intuitive Interface, Real-Time Market Analysis, Dedicated Support Team"
   },
   {
-    "question": "Besides David Miller, what other names or entities are mentioned across multiple files (email, SAR, bank statement, chatlog)?",
-    "answer": "ProfitMatrix Ltd, Aiden"
+    "question": "What type of activity was flagged in the SAR report dated 2024-03-25?",
+    "answer": "Victim requests withdrawal, denied by beneficiary. Potential fraud."
   },
   {
-    "question": "Based on the website screenshot, what is the stated purpose of the 'team photo' section on the ProfitMatrix website?",
-    "answer": "The images appear to be generic stock photos"
+    "question": "What is the Subject line of the email sent on 2023-11-20?",
+    "answer": "Unlock Your Financial Potential with AI Trading Pro"
   },
   {
-    "question": "What date did the reporting institution, Canadian Bank of Commerce, first file a Suspicious Activity Report (SAR) concerning David Miller?",
-    "answer": "2023-12-05"
+    "question": "What type of institution initially reported the suspicious activity?",
+    "answer": "Commonwealth Bank of Australia"
   },
   {
-    "question": "What is the recipient country of the transactions made to ProfitMatrix, as indicated in the SAR reports?",
-    "answer": "United Arab Emirates"
+    "question": "Based on the website screenshot description, what color scheme is predominantly used on the AI Trading Pro website?",
+    "answer": "Blue and white"
   }
 ]

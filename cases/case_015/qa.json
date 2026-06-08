@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the stated purpose of Phoenix Rise AI, according to its promotional materials?",
-    "answer": "To leverage artificial intelligence to identify and capitalize on lucrative trading opportunities in the global markets."
+    "question": "According to the initial email, what technology is AI Trading Elite purportedly utilizing?",
+    "answer": "Artificial intelligence"
   },
   {
-    "question": "What initial amount did David Miller invest with Phoenix Rise AI?",
-    "answer": "5000 AUD"
+    "question": "What was the initial deposit amount made by Klaus Meier?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "According to the SAR reports, what is the name of the bank where Phoenix Rise Investments Ltd holds its account?",
-    "answer": "First Central Bank (Cyprus)"
+    "question": "What does the promotional material highlight as a potential benefit of joining AI Trading Elite?",
+    "answer": "Guaranteed profits"
   },
   {
-    "question": "What reason did Phoenix Rise AI give for temporarily suspending David Miller's withdrawal request?",
-    "answer": "A security verification process requiring account verification through a questionnaire and documentation submission."
+    "question": "Based on the screenshot, what is the account balance shown for Klaus Meier?",
+    "answer": "\u20ac12,500.00"
   },
   {
-    "question": "Based on the screenshot description, what was prominently displayed regarding the platform's performance?",
-    "answer": "A 237% return in the last 30 days."
+    "question": "What action was taken regarding Klaus Meier's withdrawal request as reported in the final SAR?",
+    "answer": "Withdrawal request denied by AI Trading Elite"
   },
   {
-    "question": "What was the description of the transaction made on 2023-12-15?",
-    "answer": "Small profit withdrawal"
+    "question": "Which entity sent the email promoting a 'limited-time offer' to Klaus Meier?",
+    "answer": "ai-trading-elite@gmail.com"
   },
   {
-    "question": "What promotional offer was mentioned in the platform promotion materials?",
-    "answer": "A 10% bonus on the first investment."
+    "question": "What was the purpose of the transaction of 2500.00 EUR in December 2023, as described in the SAR?",
+    "answer": "Additional Deposit"
   },
   {
-    "question": "According to the bank statements, what was David Miller's balance after the initial investment into Phoenix Rise AI?",
-    "answer": "85000 AUD"
+    "question": "What was the initial purpose of the transfer made by Klaus Meier to AI Trading Elite, as noted in SAR-20231210-001?",
+    "answer": "Initial Deposit"
   },
   {
-    "question": "Which entities are associated with the transaction involving a withdrawal attempt of 15000 AUD?",
-    "answer": "David.Miller@example.com.au, Phoenix Rise Investments Ltd"
+    "question": "According to the promotional material, what is offered to new members?",
+    "answer": "A FREE consultation with our AI Trading Experts"
   },
   {
-    "question": "What service does Phoenix Rise AI claim to offer regarding trading activities?",
-    "answer": "Automated trading, handling the trading while investors reap the rewards."
+    "question": "What is the recipient account listed in all of the listed transactions?",
+    "answer": "GB86NWBK01234567890123"
   }
 ]

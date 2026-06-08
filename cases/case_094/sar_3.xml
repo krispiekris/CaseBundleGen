@@ -1,17 +1,26 @@
 <SAR>
-  <ReportDate>2023-07-18</ReportDate>
-  <FilerID>AustralianFinancialAuthority</FilerID>
-  <SuspiciousActivity>
-    <ActivityType>Potential Investment Fraud</ActivityType>
-    <TransactionDetails>
-      <TransactionDate>2023-03-15</TransactionDate>
-      <TransactionAmount>0</TransactionAmount>
-      <TransactionCurrency>N/A</TransactionCurrency>
-      <SenderName>David Miller</SenderName>
-      <RecipientName>AI Trading Solutions</RecipientName>
-    </TransactionDetails>
-    <Findings>
-      Based on multiple complaints and preliminary investigations, this entity is suspected of operating an investment fraud scheme targeting individuals with promises of high returns through AI trading.  The entity’s location and associated financial transfers to offshore jurisdictions warrant further scrutiny.
-    </Findings>
-  </SuspiciousActivity>
+  <ReportDate>2024-05-05</ReportDate>
+  <ReportType>Suspicious Activity Report</ReportType>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Account>
+    <AccountName>Helmut Schneider</AccountName>
+    <AccountNumber>1234567890</AccountNumber>
+    <AccountCurrency>EUR</AccountCurrency>
+  </Account>
+  <Transaction>
+    <TransactionDate>2024-04-20</TransactionDate>
+    <TransactionAmount>0</TransactionAmount>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionType>Complaint</TransactionType>
+    <Description>Client reported fraudulent activity and delayed withdrawals.</Description>
+    <Counterparty>
+      <Name>Innovative Investments</Name>
+      <IBAN>ZZ98765432109876543210</IBAN>
+      <Country>Seychelles</Country>
+    </Counterparty>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Client alleges fraudulent activity and significant delays in fund withdrawals.  Account associated with previously flagged suspicious activity.</SuspiciousActivity>
+    <Justification>Client complaint warrants further investigation.  Recipient bank located in a high-risk jurisdiction.  Multiple SARs filed on similar activity.</Justification>
+  </Findings>
 </SAR>

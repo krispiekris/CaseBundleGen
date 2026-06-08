@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount deposited by David Miller on November 10th, according to the SAR report?",
-    "answer": "50000 AUD"
+    "question": "According to promotional materials, what potential monthly return was advertised by NovaTrade AI?",
+    "answer": "15-30%"
   },
   {
-    "question": "What type of incentive was offered to new members through a promotional material?",
-    "answer": "Double your investment with our exclusive AI Boost package"
+    "question": "What action was requested of new investors as part of a limited-time offer?",
+    "answer": "Receive a 200% bonus on their first deposit."
   },
   {
-    "question": "What initial action did the AI Trading Pro team ask David Miller to perform after welcoming him?",
-    "answer": "Please withdraw it [the initial profit] to confirm everything is working."
+    "question": "What was the initial deposit amount made by the victim on November 15th, according to the first bank statement?",
+    "answer": "2000.00 EUR"
   },
   {
-    "question": "According to the screenshot, what was the approximate balance displayed on David Miller\u2019s AI Trading Pro dashboard?",
-    "answer": "55000 AUD"
+    "question": "What does the 'Description' field in the SAR report from 2024-02-22 (dated 2023-11-29) indicate regarding the transaction?",
+    "answer": "Subsequent deposit to NovaTrade AI platform. Attempts to withdraw funds were unsuccessful."
   },
   {
-    "question": "What did the email from Agent_001 request from David Miller regarding security verification?",
-    "answer": "A copy of his passport"
+    "question": "What communication method was used by the fraudster to request personal information from the victim?",
+    "answer": "Whatsapp"
   },
   {
-    "question": "What was the amount requested by 'AI Trading Pro Team' to resolve technical issues with David\u2019s withdrawal?",
-    "answer": "1000 AUD"
+    "question": "What was the amount of the failed withdrawal request reported on 2024-01-24 in SAR report?",
+    "answer": "8000.00 EUR"
   },
   {
-    "question": "Which Nigerian bank was mentioned as the recipient account in the email regarding the technical difficulties?",
-    "answer": "Zenith Bank Nigeria"
+    "question": "List the entities mentioned in the promotional emails that were also listed as Sender Name in at least one SAR report.",
+    "answer": "NovaTrade AI"
   },
   {
-    "question": "Based on the SAR reports, what finding linked the initial profit withdrawal to a potentially deceptive scheme?",
-    "answer": "Initial profit withdrawal shortly after account creation, potentially indicative of a 'honeypot' scheme."
+    "question": "What seemingly positive statement did NovaTrade AI use to entice investors, as presented in promotional email 2?",
+    "answer": "\"I was skeptical at first, but NovaTrade AI has completely changed my financial outlook. The returns are truly astonishing!\" - Michael K."
   },
   {
-    "question": "What is the subject of the email containing a request for identity verification?",
-    "answer": "Important Update Regarding Your AI Trading Pro Account"
+    "question": "What was the primary reason given by the fraudster in the WhatsApp conversation for needing the victim's passport?",
+    "answer": "To complete KYC verification to process the withdrawal."
   },
   {
-    "question": "What is the purpose of the automated trading system, according to the promotional material?",
-    "answer": "To generate consistent profits, even while you sleep!"
+    "question": "According to the screenshot description, what term is used to describe the platform's analysis capabilities?",
+    "answer": "Real-time AI Analysis"
   }
 ]

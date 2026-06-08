@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-03-15-CryptoRecovery-007",
+  "case_id": "2024-10-27-0042",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Crypto Recovery Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "65-74",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "age_range": "55-64",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -13,48 +13,43 @@
     "languages_spoken": [
       "English",
       "Pidgin English",
-      "Hausa"
+      "Yoruba"
     ]
   },
   "destination_countries": [
     "United States",
-    "United Kingdom",
-    "Ghana"
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-11-10",
-      "event": "Victim contacted via Telegram"
+      "date": "2023-08-15",
+      "event": "Initial Contact - Email introducing 'Alpha AI'"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Small initial investment made"
+    },
+    {
+      "date": "2023-09-15",
+      "event": "Victim encouraged to deposit more funds"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim attempts withdrawal \u2013 rejected"
     },
     {
       "date": "2023-11-15",
-      "event": "Initial investment discussed"
-    },
-    {
-      "date": "2023-12-01",
-      "event": "Victim transfers funds to 'recovery' service"
-    },
-    {
-      "date": "2024-01-15",
-      "event": "Victim realizes fraud"
-    },
-    {
-      "date": "2024-03-10",
-      "event": "Suspicious activity report filed"
+      "event": "Victim reports suspicious activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bitcoin",
-      "amount_range": "0.5 - 1.5 BTC"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac15,000 - \u20ac30,000"
     },
     {
-      "type": "Ethereum",
-      "amount_range": "2 - 5 ETH"
-    },
-    {
-      "type": "USD",
-      "amount_range": "$5,000 - $15,000"
+      "type": "Bank Transfers (EUR)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

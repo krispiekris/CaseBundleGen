@@ -1,1 +1,19 @@
-<SAR xmlns="http://www.example.com/sar">\n  <Header>\n    <SAR_ID>SAR-20240228-002</SAR_ID>\n    <SubmissionDate>2024-02-28</SubmissionDate>\n  </Header>\n  <BeneficialOwner>\n    <Name>David Miller</Name>\n    <Address>123 Main Street, Anytown, Canada</Address>\n    <DateOfBirth>1972-05-10</DateOfBirth>\n  </BeneficialOwner>\n  <Transaction>\n    <TransactionDate>2024-02-28</TransactionDate>\n    <TransactionAmount currency="CAD">10000.00</TransactionAmount>\n    <TransactionType>Credit</TransactionType>\n    <Description>Attempted Withdrawal - Denied</Description>\n    <Recipient>ProfitMatrix Ltd</Recipient>\n    <RecipientCountry>United Arab Emirates</RecipientCountry>\n  </Transaction>\n  <SuspiciousActivity>Victim reports difficulty withdrawing funds; potential fraudulent investment scheme.</SuspiciousActivity>\n  <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>\n</SAR>
+<SAR>
+  <Header>
+    <ReportDate>2024-03-25</ReportDate>
+    <ReferenceNumber>SAR-2024-03-25-002</ReferenceNumber>
+    <OriginatingInstitution>Commonwealth Bank of Australia</OriginatingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-03-22</TransactionDate>
+    <TransactionAmount>15000</TransactionAmount>
+    <Currency>AUD</Currency>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingAccount>Michael Davies - 1234567890</OriginatingAccount>
+    <BeneficiaryAccount>ABC Global Investments - 9876543210</BeneficiaryAccount>
+    <BeneficiaryName>ABC Global Investments</BeneficiaryName>
+    <BeneficiaryCountry>Cyprus</BeneficiaryCountry>
+    <Description>Investment Withdrawal Request</Description>
+    <SuspiciousActivity>Victim requests withdrawal, denied by beneficiary. Potential fraud.</SuspiciousActivity>
+  </Transaction>
+</SAR>

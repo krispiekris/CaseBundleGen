@@ -1,16 +1,22 @@
-From: support@apextradingsolutions.com
-To: robert.harding@email.com
-Subject: Welcome to Apex Trading Solutions!
+From: Alex Alpha <alex.alpha@alphatrading.net>
+To: Günther Schmidt <gunther.schmidt@email.de>
+Subject: Welcome to AlphaTrade AI!
 
-Dear Robert,
+Dear Günther,
 
-Welcome to the Apex Trading Solutions platform! We're thrilled to have you join our community of successful traders.
+Welcome to the AlphaTrade AI family! We are thrilled to have you on board.
 
-Our AI-powered algorithms are designed to generate significant profits with minimal risk.  We've seen our clients achieve returns of up to 30% per month!
+As promised, here are the details for your initial investment of €5,000:
 
-To get started, please review our trading guidelines and FAQs: [Link to website]
+Account Name: Global Investments Ltd.
+Account Number: XX123456789
+Bank: Trust Bank (Marshall Islands)
+Swift Code: TBMIXXXX
 
-If you have any questions, please don't hesitate to contact our support team.
+Once you've completed the transfer, please send us a screenshot so we can finalize your account setup.
 
-Sincerely,
-The Apex Trading Solutions Team
+We're confident that AlphaTrade AI will deliver exceptional results for you.
+
+Best regards,
+
+The AlphaTrade AI Team

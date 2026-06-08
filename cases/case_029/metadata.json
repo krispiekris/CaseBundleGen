@@ -1,7 +1,7 @@
 {
-  "case_id": "2024-CYB-00789",
+  "case_id": "2024-Alpha-007",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
     "income_range": "\u20ac50,000 - \u20ac80,000",
@@ -9,42 +9,55 @@
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "St. Vincent and the Grenadines",
+    "Malta",
     "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
-      "event": "Initial contact via email"
+      "date": "2023-08-15",
+      "event": "Initial contact via email with promises of high returns."
     },
     {
-      "date": "2023-04-01",
-      "event": "First deposit made"
+      "date": "2023-09-01",
+      "event": "Victim transfers initial investment of \u20ac5,000."
     },
     {
-      "date": "2023-06-10",
-      "event": "Victim requests withdrawal, denied"
+      "date": "2023-10-10",
+      "event": "Victim receives fabricated 'profits' to build trust."
     },
     {
-      "date": "2023-08-22",
-      "event": "Victim reports suspicious activity"
+      "date": "2023-11-20",
+      "event": "Victim transfers additional \u20ac10,000."
+    },
+    {
+      "date": "2023-12-05",
+      "event": "Victim attempts to withdraw funds and is met with resistance and requests for more fees."
+    },
+    {
+      "date": "2024-01-18",
+      "event": "Victim reports the fraud to the police."
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac30,000 - \u20ac65,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.5 - 1.2 BTC"
+      "type": "EUR Bank Transfers",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
+    },
+    {
+      "type": "Investment Platform Credits",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     }
   ]
 }

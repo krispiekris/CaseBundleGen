@@ -1,8 +1,6 @@
-Date,Description,Amount (CAD),Recipient IBAN
-2023-11-15,Grocery Shopping,-50.00,
-2023-12-01,Online Payment - ProfitMatrix,5000.00,AE45000000000000000000123456
-2023-12-15,Utilities Payment,-150.00,
-2024-01-05,Online Payment - ProfitMatrix,5000.00,AE45000000000000000000123456
-2024-02-01,Mortgage Payment,-1800.00,
-2024-02-20,Online Payment - ProfitMatrix,5000.00,AE45000000000000000000123456
-2024-03-10,Gift Card Purchase,-200.00,
+Date,Description,Amount,Currency,Balance
+2023-11-15,Interest,100,AUD,100
+2023-11-20,Salary,5000,AUD,5100
+2023-12-05,Investment - AI Trading Pro, -5000,AUD,100
+2024-01-10,Investment Profit, 2500,AUD,1250
+2024-03-22,Investment Profit, 7500,AUD,10000

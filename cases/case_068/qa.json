@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial impression did Alistair Huber aim to create with his email to Marc Schneider?",
-    "answer": "He aimed to create an impression of being a Senior AI Strategist at a rapidly growing firm specializing in automated trading."
+    "question": "According to the initial email, what is the primary technology AI Trading Solutions claims to utilize for investment opportunities?",
+    "answer": "Artificial intelligence"
   },
   {
-    "question": "According to promotional material, what is a key advantage of NovaTech Solutions' AI-powered platform?",
-    "answer": "Consistently outperform traditional investment methods."
+    "question": "What is the date listed for the SAR filed regarding Klaus Muller's suspicious activity?",
+    "answer": "2024-02-01"
   },
   {
-    "question": "What specific document did NovaTech Solutions request from Marc Schneider when he attempted to withdraw funds?",
-    "answer": "A copy of his passport and a recent utility bill."
+    "question": "What type of asset did Klaus Muller purchase on December 15th, and how much did he spend (in EUR)?",
+    "answer": "Bitcoin; 3000.00"
   },
   {
-    "question": "What action did Deutsche Bank take regarding Marc Schneider\u2019s withdrawal attempt?",
-    "answer": "The withdrawal attempt was rejected."
+    "question": "Based on the promotional material, what is offered to new clients as a limited-time incentive?",
+    "answer": "A free consultation with expert financial advisors"
   },
   {
-    "question": "What reason did Deutsche Bank initially provide for flagging the transaction involving Marc Schneider?",
-    "answer": "Large transfer to an offshore company with limited online presence."
+    "question": "What is the IBAN used for the transfers to AI Trading Solutions?",
+    "answer": "NG3708336937880532955322"
   },
   {
-    "question": "What is the IBAN associated with the transfers to NovaTech Solutions?",
-    "answer": "CY8800200001000000000012345"
+    "question": "What does the screenshot of the trading platform indicate regarding the balance of Bitcoin and Ethereum?",
+    "answer": "Bitcoin: 0.75 BTC, Ethereum: 3.5 ETH"
   },
   {
-    "question": "What did the screenshot of NovaTechSolutions.com highlight regarding the firm's technology?",
-    "answer": "AI-Powered Investing"
+    "question": "What is the main reason Deutsche Bank flagged the transfer to AI Trading Solutions as suspicious in SAR-2024-00123?",
+    "answer": "Unusual large transfer to offshore account with high-risk investment scheme"
   },
   {
-    "question": "What additional evidence would support the claim that Marc Schneider's initial interaction with Alistair Huber may be fraudulent?",
-    "answer": "The request for passport and utility bill copies, coupled with difficulties withdrawing funds."
+    "question": "What did Mr. David Okoro suggest the victim consider to 'maximize returns'?",
+    "answer": "Adding additional funds to his account"
   },
   {
-    "question": "According to SAR-20231110-002, what was the main reason for the blocked withdrawal request?",
-    "answer": "Client reported difficulties in withdrawing funds after recent deposits."
+    "question": "Which entities are listed in the SAR report as having made transfers to AI Trading Solutions?",
+    "answer": "Klaus Muller"
   },
   {
-    "question": "What was the total value of funds transferred to NovaTech Solutions by Marc Schneider, as reflected in the provided bank statement?",
-    "answer": "30000.00"
+    "question": "What is the date of Klaus Muller\u2019s birth?",
+    "answer": "1967-05-10"
   }
 ]

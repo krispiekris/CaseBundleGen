@@ -1,8 +1,5 @@
-Date,Description,Amount (EUR),Balance (EUR)
-2023-08-28,Transfer to AI Profit Solutions, -5000, 10500
-2023-08-29,Interest, 5, 10505
-2023-08-30,Grocery Shopping, -50, 10455
-2023-08-31,Online Payment, -25, 10430
-2023-09-01,Transfer to AI Profit Solutions, -5000, 5430
-2023-09-02,Income, 2000, 7430
-2023-09-03,Restaurant, -80, 7350
+Date,Description,Amount (EUR),Balance (EUR),IBAN
+2023-03-28,Salary,2500.00,2500.00,DE12345678901234567890
+2023-04-01,Transfer to AI Trading Pro, -5000.00, -2500.00,DE12345678901234567890
+2023-04-05,Outgoing Transfer, -100.00, -2600.00,DE12345678901234567890
+2023-04-10,Incoming Transfer, 50.00, -2550.00,DE12345678901234567890

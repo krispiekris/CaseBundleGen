@@ -1,14 +1,15 @@
-From: johndavidson@ai-trading-pro.net
-To: hans.schmidt@email.de
-Subject: Important Update Regarding Your Account
+From: withdrawals@novatrade.global
+To: richard.hamilton@email.com
+Subject: Withdrawal Request - Pending
 
-Dear Hans,
+Dear Richard,
 
-We've noticed increased volatility in the market, but our AI algorithms are expertly navigating these conditions. We’re excited to see you continue to grow your portfolio. To ensure you’re fully maximizing your potential, we’ve implemented a new strategy which requires an initial investment of EUR 2,000.
+This email confirms receipt of your withdrawal request for $5,000.00.
 
-This is a mandatory contribution to unlock the benefits. Please confirm you’ve made this payment to maintain access to your account.
+Due to increased security protocols, your withdrawal is currently pending verification. We require you to complete a brief KYC (Know Your Customer) verification process. Please click the link below to submit the required documents:
 
-Best Regards,
-John Davidson
-Account Manager
-AI-Trading-Pro
+[https://kyc.novatrade.global/verification]
+
+Thank you for your patience.
+
+The NovaTrade Team

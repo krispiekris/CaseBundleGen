@@ -1,62 +1,55 @@
 {
-  "case_id": "2024-OCT-FIN-007",
+  "case_id": "2024-CX-7892",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac75,000",
-    "country": "Germany",
+    "age_range": "65-74",
+    "income_range": "$80,000 - $120,000",
+    "country": "Canada",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Marshall Islands",
-    "Saint Vincent and the Grenadines"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial Contact - Victim receives unsolicited email"
+      "date": "2023-07-15",
+      "event": "Initial contact via unsolicited email"
     },
     {
-      "date": "2023-09-05",
-      "event": "Small Initial Investment - Victim deposits \u20ac500"
+      "date": "2023-08-01",
+      "event": "Investment of $5,000 into 'AI Wealth Platform'"
     },
     {
-      "date": "2023-09-20",
-      "event": "Increased Deposits - Victim deposits \u20ac10,000"
+      "date": "2023-09-10",
+      "event": "Victim receives fabricated profits"
     },
     {
-      "date": "2023-11-10",
-      "event": "Withdrawal Request Denied - Victim attempts to withdraw funds"
+      "date": "2023-10-25",
+      "event": "Victim attempts withdrawal; request denied"
     },
     {
-      "date": "2023-12-01",
-      "event": "Final Contact - Victim ceases communication with fraudsters"
-    },
-    {
-      "date": "2024-01-15",
-      "event": "Formal Complaint Filed"
+      "date": "2023-11-12",
+      "event": "Victim files complaint with authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Accounts",
-      "amount_range": "\u20ac10,000 - \u20ac15,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "$5,000 - $15,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "<\u20ac100"
-    },
-    {
-      "type": "Forex Trading Platform Balance",
-      "amount_range": "\u20ac10,000 - \u20ac15,000"
+      "type": "Bank Transfers",
+      "amount_range": "$5,000 - $20,000"
     }
   ]
 }

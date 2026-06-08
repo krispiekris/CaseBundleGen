@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is Alexander Volkov\u2019s title at Innovative AIX?",
-    "answer": "Head of Investor Relations"
+    "question": "According to the initial email from AI Trading Solutions, what is the minimum investment amount required to start using the ChronosAI system?",
+    "answer": "\u20ac2,000"
   },
   {
-    "question": "What amount did Robert Miller initially indicate he wanted to invest?",
-    "answer": "$5,000"
+    "question": "What specific cryptocurrency market activity did AI Trading Solutions highlight in the follow-up email as showing potential profit?",
+    "answer": "The cryptocurrency market"
   },
   {
-    "question": "What is the SWIFT code associated with the recipient bank for the wire transfer documented in SAR-20230901-001?",
-    "answer": "OCBCCYCY"
+    "question": "Based on the SAR reports, what specific finding initially raised suspicion regarding Klaus Richter's investment activity?",
+    "answer": "Unusual transaction pattern for the customer profile. Investment in a foreign entity with limited transparency."
   },
   {
-    "question": "What reason does Innovative AIX provide for pausing withdrawals, as stated in email_3.txt?",
-    "answer": "To protect the investment due to increased market volatility and to recalibrate AI models"
+    "question": "What was the date of the initial transaction between Klaus Richter and AI Trading Solutions, as documented in the first SAR?",
+    "answer": "2023-09-01"
   },
   {
-    "question": "Based on promotional_material_2.txt, what is one of the promises made by Innovative AIX to potential investors?",
-    "answer": "Transparent Technology"
+    "question": "What was the purpose code assigned to the initial investment transaction in the SAR?",
+    "answer": "Investment"
   },
   {
-    "question": "What did the screenshot_website.txt reveal about the website's footer?",
-    "answer": "It includes contact information and legal disclaimers, seemingly generic."
+    "question": "What bonus was offered to new investors in the follow-up email?",
+    "answer": "A personalized consultation with one of our AI specialists"
   },
   {
-    "question": "What triggered the denial of the withdrawal request according to SAR-20231015-002?",
-    "answer": "Innovative AIX denied the request without a clear explanation"
+    "question": "According to promotional material, what phrase captures the intended user experience of the ChronosAI system?",
+    "answer": "Imagine a world where your investments work for you, even while you sleep."
   },
   {
-    "question": "Considering all the files, what is a potential red flag regarding Innovative AIX's operation?",
-    "answer": "Lack of transparency regarding investment strategy, offshore bank involvement, and restrictions on withdrawals."
+    "question": "What does the screenshot description reveal about the user's account balance on the ChronosAI trading platform?",
+    "answer": "\u20ac12,000"
   },
   {
-    "question": "What entity is mentioned in promotional_material_3.txt, in relation to providing personalized service?",
-    "answer": "Innovative AIX"
+    "question": "What was the date of the attempted withdrawal of funds by Klaus Richter, as indicated in the third SAR?",
+    "answer": "2023-11-25"
   },
   {
-    "question": "What type of report did Robert Miller file, as documented in SAR-20231122-003?",
-    "answer": "A formal complaint with regulatory agencies"
+    "question": "What evidence exists in the case files to suggest the victim had concerns about accessing his funds?",
+    "answer": "Customer has expressed concern about withdrawal limitations."
   }
 ]

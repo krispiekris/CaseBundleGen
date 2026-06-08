@@ -1,1 +1,26 @@
-<sar><header><sar_id>SAR-20240111-002</sar_id><submission_date>2024-01-11</submission_date></header><transaction><transaction_id>TXN-002</transaction_id><transaction_date>2023-12-12</transaction_date><transaction_amount>62500.00</transaction_amount><transaction_currency>USD</transaction_currency><sender_name>Global Tech Systems</sender_name><sender_account>1234567890</sender_account><receiver_name>Apex Trading Ltd</receiver_name><receiver_account>ZA71014700123456789</receiver_account><receiver_country>Hong Kong</receiver_country><description>Payment for Invoice 12345</description><suspicious_activity>Multiple SARs filed for similar transactions to Apex Trading Ltd. Further investigation required.</suspicious_activity><narrative>Continued suspicious activity involving payments to Apex Trading Ltd. Review vendor onboarding process.</narrative></transaction></sar>
+<SAR>
+  <Header>
+    <ReportDate>2023-11-05</ReportDate>
+    <ReferenceNumber>SAR-2023-11-002</ReferenceNumber>
+    <FinancialInstitution>Sparkasse Bremen</FinancialInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>DExxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverAccount>CYxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Payment to AI Trading Pro</Description>
+    <SuspiciousActivity>Potential investment fraud - high value transfer to offshore account, subsequent to small profit withdrawal</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Address>Musterstrasse 1, 12345 Musterstadt, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>AI Trading Pro Ltd.</Name>
+      <Address>Office 101, 123 Main Street, Nicosia, Cyprus</Address>
+    </Receiver>
+  </Parties>
+</SAR>

@@ -1,16 +1,1 @@
-From: ai.trading.support@innovativeprofits.com
-To: hans.meier@email.de
-Subject: Welcome to Innovative Profits AI Trading Bot!
-
-Dear Hans,
-
-Welcome to Innovative Profits! We're thrilled to have you join our exclusive community of AI-powered traders.
-
-Our cutting-edge AI algorithm, 'Athena', analyzes market trends and executes trades with unparalleled precision.  You'll be amazed at the potential for profit.
-
-To get started, simply log in to your account at [https://innovativeprofits.com/login](https://innovativeprofits.com/login).
-
-For any questions, please contact our support team at support@innovativeprofits.com.
-
-Sincerely,
-The Innovative Profits Team
+From: ai.trading.assistant@securemail.net\nTo: hans.schmidt@email.de\nSubject: Welcome to QuantumAI - Your Path to Automated Trading Success\n\nDear Hans,\n\nWelcome to the QuantumAI family! We're thrilled to have you join our exclusive community of traders leveraging the power of AI to maximize profits.\n\nOur sophisticated algorithms analyze market trends in real-time, identifying lucrative opportunities and executing trades with unparalleled precision.  You're now on your way to financial freedom!\n\nTo get started, simply log in to your account at [fake website URL].  Your unique login credentials have been sent separately.\n\nBest regards,\nThe QuantumAI Team\n\nDisclaimer: Trading involves risk. Past performance is not indicative of future results.

@@ -1,27 +1,24 @@
 <SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2024-01-15</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2024-01-10</TransactionDate>
-      <Amount>3500.00</Amount>
-      <Currency>EUR</Currency>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>Hans Meier</Name>
-        <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>SecurePay Solutions</Name>
-        <Account>1234567890</Account>
-        <Bank>Zenith Bank</Bank>
-        <Country>Nigeria</Country>
-      </Beneficiary>
-      <Description>Attempted withdrawal from AI Trading Platform</Description>
-    </Transaction>
-    <Findings>
-      <SuspiciousIndicator>Attempted withdrawal denied by platform</SuspiciousIndicator>
-      <SuspiciousIndicator>Account activity inconsistent with user profile</SuspiciousIndicator>
-    </Findings>
-  </SuspiciousActivity>
+  <Header>
+    <ReportDate>2023-10-26</ReportDate>
+    <InstitutionID>Deutsche Bank Munich</InstitutionID>
+    <SARID>DBM-20231026-002</SARID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-25</TransactionDate>
+    <Amount>15000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Credit</TransactionType>
+    <OriginatorAccount>DE12345678901234567890</OriginatorAccount>
+    <BeneficiaryAccount>GB26NBYE01017515373183</BeneficiaryAccount>
+    <Description>Investment - AI Investments Global</Description>
+    <SuspiciousActivity>Potential investment fraud - Unusual large transfer to overseas account.  Second similar transaction.</SuspiciousActivity>
+    <Party>
+      <Name>Hans Meier</Name>
+      <Address>Musterstrasse 1, 80331 München</Address>
+    </Party>
+    <Party>
+      <Name>AI Investments Global</Name>
+    </Party>
+  </Transaction>
 </SAR>

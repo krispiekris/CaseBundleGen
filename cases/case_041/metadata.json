@@ -1,54 +1,55 @@
 {
-  "case_id": "2024-07-26-001",
+  "case_id": "2024-03-27-NFT-Recovery-001",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "NFT Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
-    "country": "Germany",
+    "income_range": "$80,000 - $120,000",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "Saint Vincent and the Grenadines"
+    "Malaysia",
+    "Vietnam"
   ],
   "timeline": [
     {
+      "date": "2023-10-15",
+      "event": "Initial contact via Telegram"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Victim transfers first Bitcoin payment"
+    },
+    {
       "date": "2023-11-15",
-      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
+      "event": "Fraudsters claim to have recovered NFTs"
     },
     {
-      "date": "2023-11-22",
-      "event": "Initial investment of \u20ac5,000 made"
+      "date": "2023-12-01",
+      "event": "Victim transfers additional funds for 'fees'"
     },
     {
-      "date": "2023-12-10",
-      "event": "Victim shown fabricated gains and encouraged to invest more"
-    },
-    {
-      "date": "2024-01-05",
-      "event": "Victim attempts to withdraw funds, request denied"
-    },
-    {
-      "date": "2024-07-10",
-      "event": "Victim reports the incident to authorities"
+      "date": "2024-01-10",
+      "event": "Victim realizes they've been scammed and reports to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Bitcoin",
+      "amount_range": "$5,000 - $15,000"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "NFTs (Bored Ape Yacht Club)",
+      "amount_range": "$20,000 - $50,000"
     }
   ]
 }

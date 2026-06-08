@@ -1,0 +1,6 @@
+[Victim]: Hi, I'm having trouble withdrawing my funds.
+[Fraudster]: Hello [Victim Name], I see you're having some issues. There's a temporary system maintenance happening. You need to complete KYC verification to process your withdrawal. Please send a copy of your passport via secure link.
+[Victim]: Secure link?
+[Fraudster]: Yes, here is the secure link: [fake secure link]. It’s important for your funds to be released.
+[Victim]: Okay, sending it now.
+[Fraudster]: Thank you, this will resolve the issue.

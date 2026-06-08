@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-03-15-NFT-007",
-  "fraud_type": "Investment Fraud",
-  "fraud_subtype": "NFT Scam",
+  "case_id": "2024-03-15-SCAM-007",
+  "fraud_type": "Investment Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "45-54",
-    "income_range": "\u20ac75,000 - \u20ac100,000",
+    "age_range": "55-64",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -17,39 +17,31 @@
     ]
   },
   "destination_countries": [
-    "Seychelles",
+    "Nigeria",
     "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-11-10",
-      "event": "Initial contact via Telegram"
+      "date": "2023-10-27",
+      "event": "Victim contacted via email with unsolicited investment opportunity."
     },
     {
-      "date": "2023-11-22",
-      "event": "Investment of \u20ac5,000 in 'RareApe' NFT"
+      "date": "2023-11-15",
+      "event": "Initial investment made by the victim."
     },
     {
-      "date": "2023-12-15",
-      "event": "Second investment of \u20ac10,000"
+      "date": "2023-12-05",
+      "event": "Victim requested withdrawal, met with obstacles and pressure."
     },
     {
-      "date": "2024-01-05",
-      "event": "Victim realizes losses"
-    },
-    {
-      "date": "2024-01-15",
-      "event": "Report filed with local authorities"
+      "date": "2024-01-10",
+      "event": "Victim reports incident to authorities."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (ETH)",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
-    },
-    {
-      "type": "NFT (RareApe)",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     }
   ]
 }

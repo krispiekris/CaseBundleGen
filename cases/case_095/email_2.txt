@@ -1,14 +1,10 @@
-From: victor.olufemi@ai-profit-solutions.com
-To: markus.baumann@email.de
-Subject: Your AI Profit Solutions Account Update
+From: david.miller@example.com.au
+To: support@aithority.com
+Subject: Unable to Withdraw Funds
 
-Dear Markus,
+Dear AIthority Support,
 
-We're excited to inform you that your AI Profit Solutions account is performing exceptionally well! Your AI is generating significant profits. Your current balance is €7,850.
+I am attempting to withdraw my funds, but I am receiving an error message. My account balance is showing $34,560. Can you please investigate this issue and process my withdrawal?
 
-To unlock higher profit potential, consider depositing additional funds.  Our AI can handle even larger investments.
-
-Best regards,
-Victor Olufemi
-Account Manager
-AI Profit Solutions
+Thank you,
+David Miller

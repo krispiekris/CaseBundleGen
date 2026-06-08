@@ -1,7 +1,12 @@
 Date,Description,Amount (EUR),IBAN
-2023-09-10,Salary,5500.00,DExxxxxxxxxxxxx
-2023-10-01,Innovative Profits, -5000.00,GBxxxxxxxxxxxxx
-2023-11-15,Innovative Profits, +2000.00,GBxxxxxxxxxxxxx
-2023-11-20,Groceries, -150.00,DExxxxxxxxxxxxx
-2023-12-01,Innovative Profits, -10000.00,GBxxxxxxxxxxxxx
-2023-12-15,Rent, -1200.00,DExxxxxxxxxxxxx
+2023-11-10,Grocery Shopping,-50.00,DExxxxxxxxxxxxxxxxxxxx
+2023-11-15,ATM Withdrawal,-200.00,DExxxxxxxxxxxxxxxxxxxx
+2023-11-28,Salary Credit,2500.00,DExxxxxxxxxxxxxxxxxxxx
+2023-12-01,QuantumAI Deposit,5000.00,DExxxxxxxxxxxxxxxxxxxx
+2023-12-05,Online Purchase,-120.00,DExxxxxxxxxxxxxxxxxxxx
+2023-12-15,Restaurant Bill,-80.00,DExxxxxxxxxxxxxxxxxxxx
+2023-12-22,Utility Bill,-150.00,DExxxxxxxxxxxxxxxxxxxx
+2023-12-30,Grocery Shopping,-60.00,DExxxxxxxxxxxxxxxxxxxx
+2024-01-05,Interest Income,5.00,DExxxxxxxxxxxxxxxxxxxx
+2024-02-15,QuantumAI Deposit,10000.00,DExxxxxxxxxxxxxxxxxxxx
+2024-02-20,Restaurant Bill,-75.00,DExxxxxxxxxxxxxxxxxxxx

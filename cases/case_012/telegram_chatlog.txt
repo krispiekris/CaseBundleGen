@@ -1,14 +1,1 @@
-Klaus Werner: Hello
-Advisor: Hello Klaus, welcome! I’m David, your dedicated investment advisor. How are you doing?
-Klaus Werner: I'm well, thanks. I saw your ad about the AI trading.
-Advisor: Excellent! Aetherium Alpha is truly revolutionary. Our AI consistently outperforms the market.
-Klaus Werner: What's the minimum investment?
-Advisor: We recommend starting with €5,000 to experience the full potential. 
-Klaus Werner: Okay.
-Advisor: Fantastic! We can set you up quickly. Just need some details.
-Klaus Werner: Sure.
-Advisor: Great! Let’s get started...
-Klaus Werner: How do I withdraw my funds?
-Advisor: Withdrawing is simple. Just request it, and it's processed within 24-48 hours. Sometimes there are minor technical issues, but our team handles it promptly.
-Klaus Werner: Okay, thanks.
-Advisor: You're welcome! We're confident you’ll be very happy with your investment.
+[2023-09-15 14:32] 'Ethan' (ApexAlphaAdmin): Welcome, David! Glad you joined the Apex Alpha family. DM me with any questions.\n[2023-09-15 14:35] David: Hi Ethan, thanks for the welcome. I'm looking forward to seeing how this works.\n[2023-09-15 14:37] 'Ethan' (ApexAlphaAdmin): Awesome! Our AI is already working hard.  We have daily profit reports you'll be able to see.\n[2023-09-16 08:00] 'Ethan' (ApexAlphaAdmin): Daily Profit Report: +2.8%\n[2023-09-17 08:00] 'Ethan' (ApexAlphaAdmin): Daily Profit Report: +3.1%\n[2023-09-18 08:00] 'Ethan' (ApexAlphaAdmin): Daily Profit Report: +4.5%\n[2023-09-20 10:00] David: I'm ready to make my first investment. AUD 5,000.\n[2023-09-20 10:05] 'Ethan' (ApexAlphaAdmin): Great! Send to: [Cryptocurrency Wallet Address - Bitcoin]\n[2023-09-21 08:00] 'Ethan' (ApexAlphaAdmin): Daily Profit Report: +3.5%\n[2023-09-22 14:15] David: I want to withdraw AUD 1000.\n[2023-09-22 14:20] 'Ethan' (ApexAlphaAdmin): Withdrawal requests are processed weekly. Please be patient.\n[2023-09-29 08:00] 'Ethan' (ApexAlphaAdmin): Daily Profit Report: +2.9%\n[2024-01-10 10:00] David: I requested a withdrawal on September 22nd.  It hasn't been processed.\n[2024-01-10 10:05] 'Ethan' (ApexAlphaAdmin): There are some maintenance issues. We are working to resolve this as soon as possible.  Your funds are safe.

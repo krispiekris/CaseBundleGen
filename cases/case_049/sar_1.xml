@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2023-12-08</ReportDate>
-  <ReportingInstitution>First Canadian Trust</ReportingInstitution>
-  <AccountName>David Miller</AccountName>
-  <AccountID>123456789</AccountID>
-  <TransactionDate>2023-12-05</TransactionDate>
-  <TransactionAmount>5000.00</TransactionAmount>
-  <TransactionCurrency>CAD</TransactionCurrency>
-  <TransactionType>Credit</TransactionType>
-  <BeneficiaryName>Zenith Bank</BeneficiaryName>
-  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
-  <Description>Initial deposit to Quantum AI trading platform.  Potential investment fraud scheme.</Description>
-  <SuspicionLevel>Moderate</SuspicionLevel>
-  <Investigator>Jane Doe</Investigator>
-</SuspiciousActivityReport>
+<SAR>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <BankID>First National Bank</BankID>
+    <ReportType>Suspicious Activity</ReportType>
+  </Header>
+  <Transaction>
+    <TransactionID>12345</TransactionID>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <TransactionAmount>5000.00</TransactionAmount>
+    <Currency>USD</Currency>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>XXXXXXX123</SenderAccount>
+    <ReceiverName>AI Trading Pro</ReceiverName>
+    <ReceiverAccount>YYYYYYYY456</ReceiverAccount>
+    <Description>Initial Investment</Description>
+    <SuspiciousActivity>Unusual investment platform, high-yield claims</SuspiciousActivity>
+  </Transaction>
+</SAR>

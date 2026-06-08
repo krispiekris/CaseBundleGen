@@ -1,0 +1,24 @@
+<SAR id="SAR-2023-06-22-003">
+  <ReportingInstitution>
+    <Name>Sparkasse KölnBonn</Name>
+    <Address>Clarastraße 2, 50001 Köln, Germany</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Hermann Schulz</Name>
+    <Address>Goethestraße 10, 53113 Bonn, Germany</Address>
+    <DateOfBirth>1968-07-22</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2023-06-22</Date>
+    <Amount currency="EUR">35000</Amount>
+    <Description>Attempted withdrawal - rejected</Description>
+    <Counterparty>
+      <Name>Global Digital Assets Ltd</Name>
+      <Account>CY1234567890</Account>
+    </Counterparty>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Attempted large withdrawal from account, subsequent rejection by platform. Account now inaccessible to user.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud, account lockout following attempted withdrawal.</PotentialFraud>
+  </Findings>
+</SAR>

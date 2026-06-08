@@ -1,9 +1,5 @@
-Date,Description,Amount
-2023-03-10,Payment, -100.00
-2023-03-15,Transfer to AI-Trade Solutions, -5000.00
-2023-04-05,Grocery Store, -75.50
-2023-04-12,Online Purchase, -32.89
-2023-05-01,Utility Bill, -150.00
-2023-06-10,Restaurant, -60.00
-2023-06-20,Transfer to AI-Trade Solutions, -10000.00
-2023-07-01,Insurance Payment, -200.00
+Date,Description,Amount (GBP),Balance (GBP),Recipient IBAN
+2023-11-10,Salary,70000,70000,, 
+2023-12-01,Deposit - AI Trading,5000,75000,MT9900000000000000000000 
+2024-01-15,Deposit - AI Trading,7500,82500,MT9900000000000000000000 
+2024-03-22,Withdrawal Attempt, -10000,72500,, 

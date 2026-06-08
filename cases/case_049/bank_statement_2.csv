@@ -1,8 +1,9 @@
-Date,Description,Amount (CAD),Recipient/Sender,IBAN
-2023-11-10,Salary Deposit,10500.00,
-2023-11-15,Grocery Store,150.00,
-2023-11-20,Utility Payment,250.00,
-2023-12-05,Deposit to Quantum AI,5000.00,Zenith Bank,NG25ZENI1234567890
-2024-01-10,Quantum AI Withdrawal,2000.00,Apex Global Investments Ltd.,CY23ABC1234567890
-2024-01-20,Quantum AI Withdrawal,10000.00,Apex Global Investments Ltd.,CY23ABC1234567890
-2024-02-28,,,,
+Date,Description,Amount,Balance
+2023-08-20,-100.00,1200.00
+2023-08-25,Grocery Store,50.00,1150.00
+2023-09-01,AI Trading Pro, -5000.00, -3850.00
+2023-09-05,Restaurant,75.00, -3775.00
+2023-11-09,AI Trading Pro, 500.00, -3275.00
+2023-11-10,Grocery Store,60.00, -3215.00
+2024-01-15,Online Purchase,120.00, -3095.00
+2024-02-01,Bitcoin Payment, -200.00, -2895.00

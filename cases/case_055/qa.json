@@ -1,38 +1,42 @@
 [
   {
-    "question": "What is the stated purpose of Innovative AI Chart, according to promotional materials?",
-    "answer": "To provide an unparalleled trading experience utilizing advancements in artificial intelligence."
+    "question": "What initial amount did User123 deposit according to the first telegram conversation?",
+    "answer": "\u20ac1000"
   },
   {
-    "question": "According to the Telegram chat log, what initial return was promised to Hans Meier?",
-    "answer": "15% within 24 hours."
+    "question": "Based on the SAR reports, what is the primary suspicious activity consistently flagged regarding Hermann Schulz's transactions?",
+    "answer": "Unusual transfer to an offshore company claiming to offer AI trading services."
   },
   {
-    "question": "What is the location of Global Investments Ltd. as reported in the Suspicious Activity Report?",
-    "answer": "Road Town, Tortola, British Virgin Islands"
+    "question": "What is the name of the AI trading platform mentioned in the promotional material?",
+    "answer": "QuantumLeap"
   },
   {
-    "question": "What is the total amount of money Hans Meier transferred to Global Investments Ltd., as indicated across the various files?",
-    "answer": "20000"
+    "question": "According to the email from 'mark.quantumleap@gmail.com', what is the user instructed to do to maximize returns?",
+    "answer": "Consistent deposits"
   },
   {
-    "question": "According to the SAR, what is the nature of the suspicious activity involving Global Investments Ltd?",
-    "answer": "Receiving large sums of money from multiple individuals with no apparent business relationship. Funds being transferred to Belize."
+    "question": "What account balance is displayed in the screenshot of the platform login?",
+    "answer": "\u20ac3750"
   },
   {
-    "question": "What concern did Hans Meier express in the Telegram chat log?",
-    "answer": "I\u2019m starting to worry."
+    "question": "What is the description given for the transaction on 2023-06-22, according to the bank statement?",
+    "answer": "Withdrawal Request to Bank"
   },
   {
-    "question": "What is the date of the Suspicious Activity Report?",
-    "answer": "2024-01-25"
+    "question": "How much did Hermann Schulz deposit in total, across all recorded transactions mentioned in the provided files?",
+    "answer": "\u20ac4550"
   },
   {
-    "question": "What does the promotional material offer as an incentive to sign up?",
-    "answer": "A FREE consultation with AI Trading Specialists."
+    "question": "Based on the SAR reports, what is the sequence of events leading up to the final SAR?",
+    "answer": "Initial deposit of \u20ac1000, followed by a deposit of \u20ac2750, then a large attempted withdrawal of \u20ac35000, and finally account inaccessibility."
   },
   {
-    "question": "Besides Hans Meier, are any other individuals or entities mentioned as having sent funds to the account detailed in the SAR?",
-    "answer": "None"
+    "question": "What promotional offer is mentioned in the promotional material designed to encourage users to deposit a larger sum?",
+    "answer": "Deposit \u20ac10,000 and unlock exclusive VIP benefits!"
+  },
+  {
+    "question": "What is the account number associated with Global Digital Assets Ltd mentioned in the SAR reports?",
+    "answer": "CY1234567890"
   }
 ]

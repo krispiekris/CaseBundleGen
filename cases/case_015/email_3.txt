@@ -1,11 +1,10 @@
-From: support@phoenixrise.ai
-To: David.Miller@example.com.au
-Subject: Important Update Regarding Your Withdrawal Request
+From: klaus.meier@email.de
+To: support@ai-trading-elite.com
+Subject: Withdrawal Request
 
-Dear David,
+Dear Support,
 
-We regret to inform you that your recent withdrawal request has been temporarily suspended due to a security verification process. For your protection, we require you to verify your account by completing a short questionnaire and submitting additional documentation.
+I would like to request a withdrawal of €10,000 from my account. Please confirm receipt and processing time.
 
-Thank you for your understanding.
-
-The Phoenix Rise AI Team
+Thanks,
+Klaus Meier

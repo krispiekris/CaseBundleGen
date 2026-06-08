@@ -1,1 +1,19 @@
-<SAR xmlns="http://www.example.com/sar">\n  <Header>\n    <SAR_ID>SAR-20231205-001</SAR_ID>\n    <SubmissionDate>2023-12-05</SubmissionDate>\n  </Header>\n  <BeneficialOwner>\n    <Name>David Miller</Name>\n    <Address>123 Main Street, Anytown, Canada</Address>\n    <DateOfBirth>1972-05-10</DateOfBirth>\n  </BeneficialOwner>\n  <Transaction>\n    <TransactionDate>2023-12-05</TransactionDate>\n    <TransactionAmount currency="CAD">5000.00</TransactionAmount>\n    <TransactionType>Credit</TransactionType>\n    <Description>Online Payment to ProfitMatrix</Description>\n    <Recipient>ProfitMatrix Ltd</Recipient>\n    <RecipientCountry>United Arab Emirates</RecipientCountry>\n  </Transaction>\n  <SuspiciousActivity>Possible investment fraud; initial investment with limited information available.</SuspiciousActivity>\n  <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>\n</SAR>
+<SAR>
+  <Header>
+    <ReportDate>2023-11-20</ReportDate>
+    <ReferenceNumber>SAR-2023-11-20-001</ReferenceNumber>
+    <OriginatingInstitution>Commonwealth Bank of Australia</OriginatingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-12-05</TransactionDate>
+    <TransactionAmount>5000</TransactionAmount>
+    <Currency>AUD</Currency>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingAccount>Michael Davies - 1234567890</OriginatingAccount>
+    <BeneficiaryAccount>ABC Global Investments - 9876543210</BeneficiaryAccount>
+    <BeneficiaryName>ABC Global Investments</BeneficiaryName>
+    <BeneficiaryCountry>Cyprus</BeneficiaryCountry>
+    <Description>Investment - AI Trading Pro</Description>
+    <SuspiciousActivity>Potential investment fraud; unusual beneficiary location</SuspiciousActivity>
+  </Transaction>
+</SAR>

@@ -1,54 +1,51 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-07-26-CYB-001",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac80,000 - \u20ac120,000",
-    "country": "Germany",
+    "income_range": "80,000 - 120,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "St. Vincent and the Grenadines"
+    "Cyprus",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
-      "event": "Victim contacts forex investment platform online."
+      "date": "2023-11-15",
+      "event": "Initial Contact via Social Media"
     },
     {
-      "date": "2023-04-05",
-      "event": "Initial investment made by the victim."
+      "date": "2023-12-01",
+      "event": "Victim deposits initial investment"
     },
     {
-      "date": "2023-05-10",
-      "event": "Victim receives fabricated profit statements."
+      "date": "2024-01-10",
+      "event": "Victim requests withdrawal, denied"
     },
     {
-      "date": "2023-06-22",
-      "event": "Victim requests withdrawal, faces delays and excuses."
-    },
-    {
-      "date": "2023-08-01",
-      "event": "Victim realizes they have been defrauded and reports the incident."
+      "date": "2024-07-20",
+      "event": "Victim files complaint"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac50,000 - \u20ac100,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "5,000 - 15,000"
     },
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac1,000 - \u20ac5,000"
+      "type": "Bank Transfers (AUD)",
+      "amount_range": "20,000 - 50,000"
     }
   ]
 }

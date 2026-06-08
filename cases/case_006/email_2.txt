@@ -1,20 +1,18 @@
-From: "AI Trading Solutions" <support@aitradingsolutions.com>
-To: Klaus Richter <klaus.richter@email.de>
-Subject: Important: Verification Required for Withdrawal
+From: QuantumAI Investments <support@quantumai.com>
+To: karl.richter@email.com
+Subject: Withdrawal Request Processing
 
-Dear Klaus,
+Dear Karl,
 
-Before we can process your withdrawal request, we need to verify your identity.  This is standard procedure to protect your account.
+We received your withdrawal request of €10,000.
 
-Please transfer €500 to the following account to complete the verification process:
+Due to increased security protocols, we require a small verification fee of €1,500 to process your request. This fee covers transaction processing and regulatory compliance.
 
-Account Name: Global Verification Services
-Bank Name: First Mercantile Bank
-Account Number: GBxxxxxxxxxxxxxxxxxxxxxx
-SWIFT Code: FRBBGB2L
+Please transfer the fee to the following account:
+Account Name: GlobalPay Solutions
+Account Number: US874930281
 
-Once the verification is complete, your withdrawal will be processed immediately.
+Once the fee is received, your withdrawal will be processed within 24 hours.
 
-Thank you for your cooperation.
-
-The AI Trading Solutions Team
+Sincerely,
+The QuantumAI Support Team

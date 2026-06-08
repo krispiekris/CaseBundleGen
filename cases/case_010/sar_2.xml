@@ -1,23 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <Header>
-    <SAR_Reference>20311230-GER-AI2</SAR_Reference>
-    <Date_Filed>2023-12-30</Date_Filed>
-    <Filer_Institution>Deutsche Bank</Filer_Institution>
-  </Header>
-  <Transaction>
-    <Transaction_ID>TXN-56789</Transaction_ID>
-    <Date>2023-12-05</Date>
-    <Amount>10000.00</Amount>
-    <Currency>EUR</Currency>
-    <Sender_Name>Hans Baumann</Sender_Name>
-    <Sender_Account>DE12345678901234567890</Sender_Account>
-    <Receiver_Name>Global Investments Ltd.</Receiver_Name>
-    <Receiver_Account>GB26NWBK00000000001234</Receiver_Account>
-    <Purpose>Investment</Purpose>
-    <Suspicious_Activity>Multiple large deposits to a foreign account with limited public information.</Suspicious_Activity>
-  </Transaction>
-  <Party>
-    <Name>Hans Baumann</Name>
-    <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
-  </Party>
+  <ReportDate>2024-02-01</ReportDate>
+  <SuspiciousActivity>
+    <TransactionDate>2023-12-10</TransactionDate>
+    <TransactionAmount currency="EUR">2000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <OriginatingBank>Commerzbank</OriginatingBank>
+    <BeneficiaryBank>FinGlobal Limited</BeneficiaryBank>
+    <BeneficiaryAccountName>AI-Traders Investment Fund</BeneficiaryAccountName>
+    <BeneficiaryAccountNumber>CY12345678901234567890</BeneficiaryAccountNumber>
+    <Description>Additional Investment</Description>
+    <SuspicionReason>Follow-up transaction; increased investment amount</SuspicionReason>
+  </SuspiciousActivity>
+  <ReportingInstitution>
+    <Name>Commerzbank</Name>
+    <Contact>
+      <Name>Peter Weber</Name>
+      <Position>AML Officer</Position>
+    </Contact>
+  </ReportingInstitution>
 </SAR>

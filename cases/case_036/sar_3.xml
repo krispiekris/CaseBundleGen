@@ -1,21 +1,25 @@
-<SAR id="SAR-20240229-003">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunusturm, Frankfurt</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Klaus Richter</Name>
-    <Address>Musterstrasse 12, Berlin</Address>
-    <DateOfBirth>1968-05-10</DateOfBirth>
-  </Subject>
-  <Transaction>
-    <Date>2024-02-28</Date>
-    <Amount currency="EUR">0.00</Amount>
-    <Type>Report</Type>
-    <Description>Suspicious activity report filed by client regarding denied withdrawal request and potential fraud.</Description>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Client reporting inability to access funds and suspecting fraudulent activity; potentially related to previous SAR regarding offshore platform.</SuspiciousActivity>
-    <RiskLevel>High</RiskLevel>
-  </Findings>
-</SAR>
+<sar xmlns="http://www.example.com/sar">
+  <reportDate>2023-06-20</reportDate>
+  <reporterType>Financial Institution</reporterType>
+  <reporterName>First Canadian Trust</reporterName>
+  <subject>
+    <name>David Miller</name>
+    <address>123 Main St, Anytown, Canada</address>
+    <dateOfBirth>1970-01-01</dateOfBirth>
+  </subject>
+  <transaction>
+    <transactionDate>2023-05-20</transactionDate>
+    <amount>25000.00</amount>
+    <currency>CAD</currency>
+    <transactionType>Debit</transactionType>
+    <description>Attempted Withdrawal - Rejected</description>
+    <recipient>
+      <name>AI Trading Solutions</name>
+      <accountNumber>XXXXXXXXXXXXXXX</accountNumber>
+      <iban>CA1234567890123456</iban>
+    </recipient>
+  </transaction>
+  <findings>
+    <suspiciousActivity>Large attempted withdrawal abruptly rejected after multiple deposits. Potential scam activity.</suspiciousActivity>
+  </findings>
+</sar>

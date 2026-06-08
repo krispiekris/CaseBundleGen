@@ -1,30 +1,15 @@
-<SAR id="SAR-20240120-002">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Michael Weber</Name>
-    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    <DateOfBirth>1968-05-10</DateOfBirth>
-  </Subject>
-  <SuspiciousActivity>
-    <Date>2023-12-10</Date>
-    <Amount>3000.00</Amount>
-    <Currency>EUR</Currency>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Description>Additional wire transfer - possible encouragement to increase investment.</Description>
-    <Beneficiary>
-      <Name>Global Investments Ltd.</Name>
-      <Account>1234567890</Account>
-      <Jurisdiction>Belize</Jurisdiction>
-    </Beneficiary>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Increased investment following encouragement from alleged 'AI Trading Expert'. Potential investment fraud scheme.</Finding>
-  </Findings>
-  <ReportingPerson>
-    <Name>Anna Schmidt</Name>
-    <Title>Compliance Officer</Title>
-  </ReportingPerson>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2024-01-15</ReportDate>
+  <FilerInstitution>Chase Bank</FilerInstitution>
+  <AccountName>David Miller</AccountName>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2023-12-01</TransactionDate>
+  <TransactionAmount>2.0</TransactionAmount>
+  <TransactionCurrency>USD</TransactionCurrency>
+  <BeneficiaryName>CryptoKingsRecovery</BeneficiaryName>
+  <BeneficiaryAccount>9876543210</BeneficiaryAccount>
+  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
+  <SuspicionDescription>Subsequent international transfer to the same account, described as "fees" for NFT recovery. Further investigation warranted.</SuspicionDescription>
+  <FiledBy>Jane Doe, BSA Analyst</FiledBy>
+</SuspiciousActivityReport>

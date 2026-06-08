@@ -1,30 +1,13 @@
-<SAR>
-  <Header>
-    <SARReference>20231003-NGA-001</SARReference>
-    <DateTime>2023-10-03T14:30:00Z</DateTime>
-    <SubmittedBy>Zenith Bank Nigeria</SubmittedBy>
-  </Header>
-  <TransactionDetails>
-    <TransactionID>TXN-90123</TransactionID>
-    <TransactionDate>2023-09-18</TransactionDate>
-    <TransactionAmount currency="EUR">200</TransactionAmount>
-    <TransactionType>Credit</TransactionType>
-    <OriginatingBank>Commerzbank</OriginatingBank>
-    <BeneficiaryBank>Zenith Bank Nigeria</BeneficiaryBank>
-    <BeneficiaryAccount>5678901234</BeneficiaryAccount>
-  </TransactionDetails>
-  <PartyInformation>
-    <Sender>
-      <Name>Klaus Heinz</Name>
-      <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    </Sender>
-    <Receiver>
-      <Name>Unclear</Name>
-      <Location>Nigeria</Location>
-    </Receiver>
-  </PartyInformation>
-  <Findings>
-    <SuspiciousActivity>Small transfer to Nigeria following previous large transfers.  Recipient account details unclear.</SuspiciousActivity>
-    <RiskLevel>High</RiskLevel>
-  </Findings>
+<SAR id="SAR-20230610-003">
+  <ReportDate>2023-06-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <TransactionDate>2023-06-10</ReportDate>
+  <TransactionAmount currency="EUR">10000</TransactionAmount>
+  <TransactionType>Debit Request</TransactionType>
+  <Sender>AI Trading Pro Ltd</Sender>
+  <SenderAccount>GB87BNKP2050000011234567</ReceiverAccount>
+  <Receiver>Hans Meier</Sender>
+  <SenderAccount>DE12345678901234567890</SenderAccount>
+  <SuspiciousActivity>Attempted withdrawal blocked due to technical issues. Client reports being unable to access funds.</SuspiciousActivity>
+  <Notes>Client expresses concern over inability to withdraw funds. Further investigation warranted.</Notes>
 </SAR>

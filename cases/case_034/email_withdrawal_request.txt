@@ -1,0 +1,17 @@
+From: hans.schmidt@email.de
+To: support@globalforexgroup.com
+Subject: Withdrawal Request - Account #123456789
+
+Dear Global Forex Group Support,
+
+Please process a withdrawal of €25,000 to my bank account.
+
+Bank Name: Deutsche Bank
+Account Name: Hans Schmidt
+IBAN: DE12110000000000000000
+SWIFT: DEUTDEFFXXX
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Hans Schmidt

@@ -1,28 +1,25 @@
-<SAR id="SAR-20230820-002">
-  <ReportingInstitution>
-    <Name>Canadian Trust Bank</Name>
-    <Address>123 Main Street, Anytown, ON</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Mark Peterson</Name>
-    <Address>456 Oak Avenue, Anytown, ON</Address>
-    <DateOfBirth>1968-07-22</DateOfBirth>
-  </Subject>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-11-22</ReportDate>
+  <ReportingBank>Deutsche Bank</ReportingBank>
+  <Account>
+    <AccountHolder>Stefan Meier</AccountHolder>
+    <AccountNumber>1234567890</AccountNumber>
+  </Account>
   <SuspiciousActivity>
-    <Date>2023-08-20</Date>
-    <Type>Unusual Activity</Type>
-    <Description>Further cryptocurrency transactions to offshore accounts, consistent with potential investment fraud.</Description>
-    <TransactionDetails>
-      <TransactionDate>2023-06-10</TransactionDate>
-      <TransactionAmount currency="USD">3000</TransactionAmount>
-      <TransactionType>Debit</TransactionType>
-      <RecipientName>Belizean Investments Ltd.</RecipientName>
-      <RecipientAccount>1234567890</RecipientAccount>
-      <RecipientCountry>Belize</RecipientCountry>
-    </TransactionDetails>
+    <Transaction>
+      <TransactionDate>2023-11-20</TransactionDate>
+      <Amount>15000</Amount>
+      <Currency>EUR</Currency>
+      <Description>Withdrawal request - pending</Description>
+      <Recipient>
+        <Name>AlphaTradeAI Ltd</Name>
+        <IBAN>MT12MALT001100018000100001</IBAN>
+      </Recipient>
+    </Transaction>
   </SuspiciousActivity>
   <Findings>
-    <Finding>Pattern of transactions consistent with previous suspicious activity.</Finding>
-    <Finding>Potential involvement in an investment fraud scheme.</Finding>
+    <Reason>Large withdrawal request with reported delays, potential difficulty accessing funds</Reason>
+    <Reviewer>Anna Schmidt</Reviewer>
   </Findings>
 </SAR>

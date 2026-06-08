@@ -1,0 +1,5 @@
+Date,Type,Amount (EUR),Recipient,IBAN,Description
+2023-11-25,Debit,5000,AI Trading Solutions,USxxxxxxxxxxxxx,Initial Deposit
+2023-12-15,Debit,2500,AI Trading Solutions,USxxxxxxxxxxxxx,Additional Deposit
+2024-01-10,Debit,1000,AI Trading Solutions,USxxxxxxxxxxxxx,Deposit Attempt
+2024-01-20,Credit,500,AI Trading Solutions,USxxxxxxxxxxxxx,Withdrawal Attempt

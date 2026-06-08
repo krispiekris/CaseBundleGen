@@ -1,0 +1,11 @@
+---LinkedIn Profile Screenshot---
+[Image: Blurred screenshot of a LinkedIn profile]
+
+Name: Daniel O'Connell
+Title: Senior Investment Strategist
+Company: Global Alpha Partners
+Location: London, United Kingdom (Note: Timezone slightly inconsistent with email origin)
+Summary: "Results-driven investment professional with a passion for leveraging technology to drive financial success. Expertise in AI-powered trading strategies and portfolio management."
+Connections: 452
+Education: MBA, London Business School
+Experience: Previous roles at various financial institutions.

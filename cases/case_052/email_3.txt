@@ -1,20 +1,12 @@
-From: support@alphagenesis.trade
-To: hans.schmidt@email.de
-Subject: Regarding Your Withdrawal Request
+From: support@innovativebots.com
+To: werner.schmidt@email.de
+Subject: Important Update Regarding Your Withdrawal Request
 
-Dear Hans,
+Dear Werner,
 
-We've received your withdrawal request.  Due to increased security measures, we require a verification fee of €1000.00 to process your withdrawal.  This fee is standard practice and ensures the safety of your funds.
+We are currently reviewing your recent withdrawal request.  To ensure the security of your account, we require additional verification documents: a copy of your passport and a recent utility bill.
 
-Once the verification fee is received, your funds will be released within 24 hours.
+We apologize for any inconvenience this may cause.  Your cooperation is greatly appreciated.
 
-Please transfer the fee to the following account:
-
-Account Name: AlphaGenesis Verification
-Account Number: XXXXXXXXXXXXXXXX
-Bank: Zenith Bank
-Country: Nigeria
-
-Thank you for your cooperation.
-
-The AlphaGenesis Support Team
+Sincerely,
+The QuantumAI Support Team

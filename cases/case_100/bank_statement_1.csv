@@ -1,4 +1,6 @@
-Date,Description,Amount (EUR),IBAN
-2023-11-15,Transfer to Forex Alpha,15000.00,BZ12345678901234567890
-2023-11-10,Grocery Store,50.00,DE45678901234567890123
-2023-11-03,Salary Credit,2500.00,DE12345678901234567890
+Date,Description,Amount (EUR),Balance (EUR)
+2023-08-20,Salary,75000.00,75000.00
+2023-09-01,Innovative Trade AI Deposit, -5000.00,65000.00
+2023-09-15,Utilities, -500.00, 64500.00
+2023-10-15,Innovative Trade AI Deposit, -15000.00, 49500.00
+2023-11-10,Innovative Trade AI Release Fee, -10000.00,39500.00

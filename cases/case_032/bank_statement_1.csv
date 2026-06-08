@@ -1,6 +1,8 @@
-Date,Description,Amount (EUR),IBAN
-2023-11-10,Incoming Salary,6500.00,DExxxxxxxxxxxxxxxxxxxxx
-2023-11-20,Outgoing Transfer,15000.00,USxxxxxxxxxxxxxxxxxxxxx
-2023-12-01,Interest,15.00,DExxxxxxxxxxxxxxxxxxxxx
-2024-01-15,Outgoing Transfer,5000.00,USxxxxxxxxxxxxxxxxxxxxx
-2024-01-22,Interest,15.00,DExxxxxxxxxxxxxxxxxxxxx
+Date,Description,Amount,Currency,IBAN
+2023-08-10,Salary,8500.00,GBP,GB12BANK40403140991234
+2023-09-01,Various Expenses, -1500.00,GBP,GB12BANK40403140991234
+2023-09-22,Investment - Nova AI Trading, -5000.00,USD,GB12BANK40403140991234
+2023-10-01,Various Expenses, -1200.00,GBP,GB12BANK40403140991234
+2023-11-01,Various Expenses, -800.00,GBP,GB12BANK40403140991234
+2023-11-10,Investment - Nova AI Trading, -10000.00,USD,GB12BANK40403140991234
+2023-12-01,Various Expenses, -1000.00,GBP,GB12BANK40403140991234

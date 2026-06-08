@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the initial minimum investment amount required by AI Global Trading?",
-    "answer": "\u20ac5,000"
+    "question": "According to the email from the EnigmaCoin Dev Team, what was offered to Richard Henderson?",
+    "answer": "An exclusive early access opportunity to the EnigmaCoin project."
   },
   {
-    "question": "According to promotional material, what is one potential benefit of using AI Global Trading's system?",
-    "answer": "Automated Trading \u2013 No experience needed!"
+    "question": "What type of activity triggered the first Suspicion report (SAR-20231201-001)?",
+    "answer": "Unusual investment activity and a large amount sent to an unfamiliar recipient."
   },
   {
-    "question": "What is the withdrawal fee associated with AI Global Trading?",
-    "answer": "1%"
+    "question": "What reason was provided in the email (email_2.txt) for the delay in EnigmaCoin withdrawal processing?",
+    "answer": "Increased demand."
   },
   {
-    "question": "What country is identified as the recipient country for the initial transaction to AI Global Trading?",
-    "answer": "United Arab Emirates"
+    "question": "Based on the promotional text (promotion_2.txt), what is suggested about the potential gains from investing in EnigmaCoin NFTs?",
+    "answer": "Massive gains potential."
   },
   {
-    "question": "What is the IBAN associated with the initial transfer to AI Global Trading?",
-    "answer": "AE1205000000000000012345"
+    "question": "What did the screenshot (screenshot_1.txt) indicate regarding the perceived value of EnigmaCoin NFTs?",
+    "answer": "They were soaring in value and early investors were seeing incredible returns."
   },
   {
-    "question": "Which individual is offered a call to discuss investment strategy?",
-    "answer": "Mr. Adebayo"
+    "question": "What action was taken with regards to Richard Henderson's withdrawal request (SAR-20240310-004)?",
+    "answer": "Withdrawal request denied."
   },
   {
-    "question": "What is the total amount of the second recorded transaction involving Hans Meier?",
-    "answer": "\u20ac7500.00"
+    "question": "According to email_3.txt, what action are investors requested to take concerning their EnigmaCoin holdings?",
+    "answer": "Hold their coins for a minimum of 3 months."
   },
   {
-    "question": "What concerning development did Deutsche Bank note regarding Hans Meier's withdrawal attempt?",
-    "answer": "Withdrawal request repeatedly denied. Customer reports difficulties accessing funds."
+    "question": "What does the second promotional text (promotion_2.txt) mention besides massive gains?",
+    "answer": "Limited supply and a strong community."
   },
   {
-    "question": "Based on the SAR reports, what is the primary concern regarding AI Global Trading?",
-    "answer": "Potential investment scam \u2013 unusually high returns promised, limited information available about the company."
+    "question": "What did Richard Henderson report in SAR-20240310-004?",
+    "answer": "Report of suspected investment fraud, including suspicious activity and denial of withdrawal."
   },
   {
-    "question": "What is the phone number listed for contact in one of the promotional materials?",
-    "answer": "+234-700-123-4567"
+    "question": "What was the total amount, in USD, transferred to the 'EnigmaCoin Treasury' account ending in 8901 according to the available transaction data?",
+    "answer": "7500.00"
   }
 ]

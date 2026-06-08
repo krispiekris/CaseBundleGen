@@ -1,19 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sar>
-  <report_date>2024-01-25</report_date>
-  <institution_id>DEUTSCHBANK</institution_id>
-  <reporter_name>Deutsche Bank</reporter_name>
-  <suspicious_activity>
-    <transaction>
-      <transaction_date>2023-12-20</transaction_date>
-      <amount currency="EUR">2500.00</amount>
-      <sender_account>DE78123456781234567890</sender_account>
-      <recipient_account>GB22NWBK20701724542814</recipient_account>
-      <recipient_name>Aetherium Alpha Investments</recipient_name>
-      <description>Investment - Aetherium Alpha -  Technical Issue Fee</description>
-    </transaction>
-    <activity_type>Unusual Transaction</activity_type>
-    <finding>Potential investment fraud - customer reporting difficulties with withdrawals and new fees</finding>
-    <reporter_comments>Customer is reporting difficulties withdrawing funds and being asked to pay a 'technical issue fee'.  Customer expresses concern about the legitimacy of the investment.</reporter_comments>
-  </suspicious_activity>
-</sar>
+<SAR>
+  <Header>
+    <SARReference>20240120-0009</SARReference>
+    <DateTime>2024-01-20T09:00:00Z</DateTime>
+    <Originator>
+      <Name>German Federal Financial Supervisory Authority (BaFin)</Name>
+      <Jurisdiction>DE</Jurisdiction>
+    </Originator>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">15000</Amount>
+    <Date>2023-10-15</Date>
+    <Description>Series of investments to Elite AI Trading – Crypto</Description>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Account>DE12345678901234567890</Account>
+    </Sender>
+    <Receiver>
+      <Name>Elite AI Trading</Name>
+      <Account>GB87BBIB40120401091234</Account>
+      <IBAN>GB87BBIB40120401091234</IBAN>
+    </Receiver>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Multiple transactions to a UK-based entity ('Elite AI Trading') with potential links to fraudulent investment activities. Victim reported inability to withdraw funds.  Lack of transparency regarding the AI technology and investment strategy.</SuspiciousActivity>
+    <Recommendation>Further investigation into the entity 'Elite AI Trading' and associated accounts.  Contact UK authorities for potential collaboration.</Recommendation>
+  </Findings>
+</SAR>

@@ -1,0 +1,8 @@
+Date,Description,Amount,Currency,Balance
+2023-08-01,Opening Balance,0.00,AUD,100000.00
+2023-09-02,Investment Transfer - AI Wealth, -10000.00,AUD,90000.00
+2023-09-15,Interest Earned, 50.00,AUD,90050.00
+2023-10-15,Fee Charge, -5.00,AUD,90045.00
+2023-11-01,Investment Transfer - AI Wealth, -5000.00,AUD,85045.00
+2023-12-01,Interest Earned, 50.00,AUD,85100.00
+2024-01-15,Fee Charge, -5.00,AUD,85095.00

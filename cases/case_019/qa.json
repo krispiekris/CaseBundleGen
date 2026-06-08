@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to David Adebayo's LinkedIn profile, what was his role at Global Investments Ltd?",
-    "answer": "Analyst"
+    "question": "What was the initial fee requested from Ernst Wittmann, and what was its stated purpose?",
+    "answer": "\u20ac200 to cover preliminary investigation costs."
   },
   {
-    "question": "What was the initial investment amount made by Oliver Baumann?",
-    "answer": "\u20ac5,000"
+    "question": "According to the SAR reports, what was the stated reason for Ernst Wittmann\u2019s payments to Global Solutions Ltd?",
+    "answer": "Preliminary Investigation Fee, Second Stage Recovery Fee, and Final Funds Transfer Processing Fee."
   },
   {
-    "question": "What is the stated reason for the delay in processing Oliver Baumann's withdrawal request, according to the email?",
-    "answer": "An unexpected technical issue"
+    "question": "What cryptocurrency types were mentioned as potentially recoverable in the promotional text?",
+    "answer": "Bitcoin and Ethereum."
   },
   {
-    "question": "Based on the promotional material, what is a key advantage of Innovative Trading AI?",
-    "answer": "AI-Powered Precision"
+    "question": "Based on the bank statement, what was Ernst Wittmann's balance after the second payment to Global Solutions Ltd?",
+    "answer": "-10"
   },
   {
-    "question": "Which two entities are listed as sender and receiver in SAR report dated 2023-09-05?",
-    "answer": "Oliver Baumann, Innovative Trading AI"
+    "question": "What details are provided about the London address listed on the website?",
+    "answer": "It is described as a residential building."
   },
   {
-    "question": "What profit was initially claimed for Oliver Baumann\u2019s \u20ac5,000 investment?",
-    "answer": "\u20ac2,350"
+    "question": "What was the promised return in cryptocurrency for the second payment of \u20ac5000?",
+    "answer": "Approximately 0.75 BTC and 8 ETH within 72 hours."
   },
   {
-    "question": "What is the purpose listed for the transactions recorded in the SAR reports?",
-    "answer": "Investment"
+    "question": "What is the email domain used for communications from Crypto Recovery Experts?",
+    "answer": "@cryptorecoveryexperts.com"
   },
   {
-    "question": "Which dates do two failed withdrawal attempts appear on the bank statement?",
-    "answer": "2023-12-05, 2024-01-05"
+    "question": "What does the website screenshot description suggest about the testimonials displayed on the website?",
+    "answer": "They are clearly fabricated."
   },
   {
-    "question": "According to the promotional material, what is suggested to investors wanting to benefit from AI?",
-    "answer": "Join a select group of investors"
+    "question": "According to the email requesting the final funds transfer, what is the reason given for needing an additional \u20ac8000?",
+    "answer": "To cover international transfer taxes and compliance."
   },
   {
-    "question": "What does the description in SAR_3 identify as a potential problem?",
-    "answer": "Victim unable to withdraw funds. Communication ceased abruptly."
+    "question": "Which bank is involved in processing Ernst Wittmann's transactions?",
+    "answer": "DeutscheBank"
   }
 ]

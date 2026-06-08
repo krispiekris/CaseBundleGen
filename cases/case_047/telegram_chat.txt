@@ -1,0 +1,14 @@
+David: Hi
+Alex: Hello David! Welcome to the group. I'm Alex, your personal trading advisor.
+David: Thanks, Alex. Excited to get started.
+Alex: Excellent! Our AI is performing exceptionally well. Are you ready for your first deposit?
+David: Yes, I am.
+Alex: Wonderful. Minimum deposit is $5,000. You can use Bitcoin, Ethereum, or USD.
+David: Okay, I'll do USD.
+Alex: Great. Let me send you the payment details.
+[Payment details for a Belize-based account are sent]
+David: Received.
+Alex: You'll be seeing incredible returns very soon. This is a game-changer.
+David: I hope so!
+Alex: Absolutely. Just trust the process.
+David: Alright.

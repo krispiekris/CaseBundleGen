@@ -1,11 +1,13 @@
-From: AI_Trader_Support@ai-trader.tech
-To: Klaus.Schmidt@email.de
-Subject: Account Suspension Notification
+From: support@aiwealthpro.com
+To: david.miller@email.com.au
+Subject: Regarding your withdrawal request
 
-Sehr geehrter Herr Schmidt,
+Dear David,
 
-Aufgrund von ungewöhnlichen Transaktionen wurde Ihr Konto temporär gesperrt.  Bitte kontaktieren Sie unseren Support unter +212-555-1212 um die Angelegenheit zu klären.
+We received your withdrawal request.  Due to ongoing system maintenance, withdrawals are temporarily suspended. We apologize for any inconvenience this may cause.
 
-Mit freundlichen Grüßen,
+To ensure the security of your account, we require you to verify your identity by completing a short KYC (Know Your Customer) verification process. Please follow this link:
+[https://aiwealthpro.com/kyc]
 
-Das AI-Trader Team
+Sincerely,
+The AI Wealth Pro Team

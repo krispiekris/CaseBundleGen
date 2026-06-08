@@ -1,12 +1,10 @@
-From: support@NovaTechAI.com
-To: klaus.meier@email.de
-Subject: Account Maintenance Notification
+From: david.miller@example.com
+To: forex.opportunities@globexcapital.com
+Subject: Re: Exclusive Forex Trading Opportunity
 
-Dear Klaus,
+Dear Globex Capital Team,
 
-Due to ongoing system upgrades, your account access has been temporarily restricted. We apologize for any inconvenience this may cause. Our technical team is working diligently to resolve the issue and restore full functionality as soon as possible.  Please do not attempt to access your account during this period. 
+Thank you for the information. I am very interested in learning more.
 
-A follow-up email will be sent when access is restored.
-
-Sincerely,
-The NovaTech AI Support Team
+Regards,
+David Miller

@@ -1,23 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportDate>2024-03-05</ReportDate>
-  <ReportingBank>Deutsche Bank</ReportingBank>
-  <AccountIdentifier>DExxxxxxxxxxxxx</AccountIdentifier>
-  <AccountName>Michael Weber</AccountName>
-  <SuspiciousActivity>
+  <ReportDate>2023-06-02</ReportDate>
+  <ReportingInstitution>Lloyds Bank</ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Address>12 Oak Avenue, London, SW1A 0AA, UK</Address>
+    <DateOfBirth>1968-07-10</DateOfBirth>
+  </Subject>
+  <Transactions>
     <Transaction>
-      <TransactionDate>2024-02-27</TransactionDate>
-      <TransactionAmount currency="EUR">1000</TransactionAmount>
-      <TransactionDescription>Attempted Withdrawal</TransactionDescription>
-      <Counterparty>
-        <Name>AI Trading Platform</Name>
-        <Country>Unknown</Country>
-      </Counterparty>
+      <TransactionDate>2023-04-05</TransactionDate>
+      <Amount>10000.00</Amount>
+      <Currency>USD</Currency>
+      <Description>Transfer to Global Forex Capital</Description>
+      <RecipientName>Global Forex Capital</RecipientName>
+      <RecipientAccount>GFX12345</RecipientAccount>
+      <RecipientCountry>Marshall Islands</RecipientCountry>
+      <SuspiciousActivity>Potential investment fraud - follow-up deposits</SuspiciousActivity>
     </Transaction>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Account holder experiencing difficulty withdrawing funds.</Finding>
-    <Finding>Account potentially linked to investment fraud.</Finding>
-  </Findings>
-  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
+    <Transaction>
+      <TransactionDate>2023-05-05</TransactionDate>
+      <Amount>10000.00</Amount>
+      <Currency>USD</Currency>
+      <Description>Transfer to Global Forex Capital</Description>
+      <RecipientName>Global Forex Capital</RecipientName>
+      <RecipientAccount>GFX12345</RecipientAccount>
+      <RecipientCountry>Marshall Islands</RecipientCountry>
+      <SuspiciousActivity>Potential investment fraud - follow-up deposits</SuspiciousActivity>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-05-20</TransactionDate>
+      <Amount>10000.00</Amount>
+      <Currency>USD</Currency>
+      <Description>Transfer to Global Forex Capital</Description>
+      <RecipientName>Global Forex Capital</RecipientName>
+      <RecipientAccount>GFX12345</RecipientAccount>
+      <RecipientCountry>Marshall Islands</RecipientCountry>
+      <SuspiciousActivity>Potential investment fraud - follow-up deposits</SuspiciousActivity>
+    </Transaction>
+     <Transaction>
+      <TransactionDate>2023-05-30</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>USD</Currency>
+      <Description>Transfer to Global Forex Capital</Description>
+      <RecipientName>Global Forex Capital</RecipientName>
+      <RecipientAccount>GFX12345</RecipientAccount>
+      <RecipientCountry>Marshall Islands</RecipientCountry>
+      <SuspiciousActivity>Potential investment fraud - follow-up deposits</SuspiciousActivity>
+    </Transaction>
+  </Transactions>
 </SAR>

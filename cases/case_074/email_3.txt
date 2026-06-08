@@ -1,14 +1,13 @@
-From: "AI Trading Solutions" <support@aitradingsolutions.com>
-To: David.Miller@example.ca
-Subject: Your AI Trading Account Update
+From: support@globalinvestments.net
+To: johannes.meier@email.de
+Subject: Important Update Regarding Your Global Investments Account
 
-Dear David,
+Dear Johannes,
 
-We're pleased to inform you that your AI trading account has reached a new milestone! Your automated system has generated significant profits.
+We regret to inform you that your recent withdrawal request has been temporarily suspended due to an ongoing security review. This is a precautionary measure to ensure the safety of your funds.
 
-To continue maximizing your returns, we recommend adding more funds to your account.
-
-Click here to deposit funds: [link to fake deposit page]
+Please verify your account details by clicking on the link below:
+[link removed]
 
 Sincerely,
-The AI Trading Solutions Team
+The Global Investments Support Team

@@ -1,39 +1,24 @@
-<SAR>
-  <ReportDate>2024-01-25</ReportDate>
-  <OriginatingInstitution>Europäische Zentralbank</OriginatingInstitution>
+<SAR id="SAR-2023-05-12-002">
+  <ReportingInstitution>
+    <Name>Sparkasse KölnBonn</Name>
+    <Address>Clarastraße 2, 50001 Köln, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Global Investments Ltd.</Name>
-    <Location>Road Town, Tortola, British Virgin Islands</Location>
+    <Name>Hermann Schulz</Name>
+    <Address>Goethestraße 10, 53113 Bonn, Germany</Address>
+    <DateOfBirth>1968-07-22</DateOfBirth>
   </Subject>
-  <SuspiciousActivity>
-    <ActivityType>Money Laundering</ActivityType>
-    <Description>Receiving large sums of money from multiple individuals with no apparent business relationship. Funds being transferred to Belize.</Description>
-    <Transaction>
-      <Date>2023-09-01</Date>
-      <Amount currency="EUR">5000.00</Amount>
-      <SenderName>Hans Meier</SenderName>
-      <SenderAccount>DE2312344567890123456789</SenderAccount>
-    </Transaction>
-    <Transaction>
-      <Date>2023-09-15</Date>
-      <Amount currency="EUR">8000.00</Amount>
-      <SenderName>Hans Meier</SenderName>
-      <SenderAccount>DE2312344567890123456789</SenderAccount>
-    </Transaction>
-    <Transaction>
-      <Date>2023-09-29</Date>
-      <Amount currency="EUR">2000.00</Amount>
-      <SenderName>Hans Meier</SenderName>
-      <SenderAccount>DE2312344567890123456789</SenderAccount>
-    </Transaction>
-    <Transaction>
-      <Date>2023-10-13</Date>
-      <Amount currency="EUR">3000.00</Amount>
-      <SenderName>Hans Meier</SenderName>
-      <SenderAccount>DE2312344567890123456789</SenderAccount>
-    </Transaction>
-  </SuspiciousActivity>
+  <Transaction>
+    <Date>2023-05-10</Date>
+    <Amount currency="EUR">2750</Amount>
+    <Description>Transfer to crypto platform - QuantumLeap Trading</Description>
+    <Counterparty>
+      <Name>Global Digital Assets Ltd</Name>
+      <Account>CY1234567890</Account>
+    </Counterparty>
+  </Transaction>
   <Findings>
-    <Finding>Possible money laundering operation linked to investment fraud.</Finding>
+    <SuspiciousActivity>Subsequent transfers exceeding initial deposit to a platform offering AI trading services.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud, increased deposit size.</PotentialFraud>
   </Findings>
 </SAR>

@@ -1,18 +1,23 @@
-<SAR>
-  <ReportDate>2024-02-15</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+<SAR id="SAR-2023-08-05-003">
+  <ReportingInstitution>
+    <Name>Cyprus International Bank</Name>
+    <Address>Limassol, Cyprus</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>GlobalTradeAI</Name>
+    <Address>Cyprus, Offshore Business Centre</Address>
+  </Subject>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2024-02-10</TransactionDate>
-      <Amount>10000.00</Amount>
-      <Currency>EUR</Currency>
-      <SenderName>Klaus Heinz</SenderName>
-      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxx</SenderAccount>
-      <ReceiverName>Golden Future Investments</ReceiverName>
-      <ReceiverAccount>USxxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
-      <PurposeCode>13 - Other</PurposeCode>
-      <Description>Additional deposit</Description>
-      <SuspicionReason>Victim reports potential investment fraud.</SuspicionReason>
-    </Transaction>
+    <Date>2023-04-15</Date>
+    <Amount>1000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Incoming Transfer</TransactionType>
+    <Description>Recurring deposits from multiple sources with no apparent business connection.</Description>
+    <Location>Limassol, Cyprus</Location>
   </SuspiciousActivity>
+  <Findings>
+    <Finding>Potential money laundering.</Finding>
+    <Finding>Lack of transparency in financial transactions.</Finding>
+  </Findings>
+  <ReportDate>2023-08-05</ReportDate>
 </SAR>

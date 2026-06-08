@@ -1,30 +1,15 @@
-<SAR id="SAR-20231205-001">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunuschmidtstraße 28, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Michael Weber</Name>
-    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    <DateOfBirth>1968-05-10</DateOfBirth>
-  </Subject>
-  <SuspiciousActivity>
-    <Date>2023-11-22</Date>
-    <Amount>5000.00</Amount>
-    <Currency>EUR</Currency>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Description>Wire transfer to offshore account - potentially linked to investment fraud.</Description>
-    <Beneficiary>
-      <Name>Global Investments Ltd.</Name>
-      <Account>1234567890</Account>
-      <Jurisdiction>Belize</Jurisdiction>
-    </Beneficiary>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Unusual wire transfer to an offshore jurisdiction. Potential investment fraud scheme.</Finding>
-  </Findings>
-  <ReportingPerson>
-    <Name>Anna Schmidt</Name>
-    <Title>Compliance Officer</Title>
-  </ReportingPerson>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-11-05</ReportDate>
+  <FilerInstitution>Chase Bank</FilerInstitution>
+  <AccountName>David Miller</AccountName>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2023-11-01</TransactionDate>
+  <TransactionAmount>6.5</TransactionAmount>
+  <TransactionCurrency>USD</TransactionCurrency>
+  <BeneficiaryName>CryptoKingsRecovery</BeneficiaryName>
+  <BeneficiaryAccount>9876543210</BeneficiaryAccount>
+  <BeneficiaryCountry>Nigeria</BeneficiaryCountry>
+  <SuspicionDescription>Unusual international transfer to an account with vague description. Potential investment scam.</SuspicionDescription>
+  <FiledBy>Jane Doe, BSA Analyst</FiledBy>
+</SuspiciousActivityReport>

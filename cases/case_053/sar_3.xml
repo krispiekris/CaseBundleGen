@@ -1,22 +1,18 @@
-<SAR>
-  <CaseID>2024-01-15-GHI</CaseID>
-  <Date>2024-01-15</Date>
-  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <Customer>
-    <Name>Hans Meier</Name>
-    <Address>Musterstrasse 123, 12345 Musterstadt, Germany</Address>
-    <DateOfBirth>1968-03-10</DateOfBirth>
-  </Customer>
-  <SuspiciousActivity>
-    <TransactionDate>2023-12-01</TransactionDate>
-    <TransactionAmount currency="EUR">2000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <BeneficiaryName>Hans Meier</BeneficiaryName>
-    <BeneficiaryAccount>DE45370400440532015588</BeneficiaryAccount>
-    <PurposeCode>Withdrawal Request</PurposeCode>
-    <Description>Attempted withdrawal request blocked, subsequent requests for additional fees</Description>
-  </SuspiciousActivity>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2024-01-22</ReportDate>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <AccountHolder>Johannes Schmidt</AccountHolder>
+  <AccountID>1234567890</AccountID>
+  <TransactionDate>2024-01-15</TransactionDate>
+  <TransactionAmount currency="EUR">0.01</TransactionAmount>
+  <TransactionDescription>Verification Transaction - Dr. AI Trading Bot</TransactionDescription>
+  <BeneficiaryName>Dr. AI Trading</BeneficiaryName>
+  <BeneficiaryAccount>9876543210</BeneficiaryAccount>
+  <BeneficiaryBank>Overseas Payment Gateway</BeneficiaryBank>
   <Findings>
-    Withdrawal request blocked, followed by insistent requests for additional processing fees, a common indicator of investment fraud.</Findings>
-</SAR>
+    <Finding>Suspicious transaction flagged as potential scam.</Finding>
+    <Finding>Account holder reported suspicious communication from Dr. AI Trading Bot.</Finding>
+  </Findings>
+  <ReportingEmployeeID>EMP003</ReportingEmployeeID>
+</SuspiciousActivityReport>

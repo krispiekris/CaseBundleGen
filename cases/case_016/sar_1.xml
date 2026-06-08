@@ -1,20 +1,18 @@
-<SAR>
+<SAR xmlns="http://www.example.com/sar">
   <Header>
-    <ReportDate>2023-11-16</ReportDate>
-    <ReferenceNumber>SAR-20231116-001</ReferenceNumber>
+    <ReportDate>2023-09-05</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseID>DB-SAR-2023-0042</CaseID>
   </Header>
   <Transaction>
-    <TransactionDate>2023-11-15</TransactionDate>
-    <Amount>2500</Amount>
+    <TransactionDate>2023-09-02</TransactionDate>
+    <Amount>15000.00</Amount>
     <Currency>EUR</Currency>
-    <SenderAccount>DE89370400440532013000</SenderAccount>
-    <SenderName>Ulrich Baumann</SenderName>
-    <ReceiverAccount>GB25NWBK00000012345678</ReceiverAccount>
-    <ReceiverName>Global Investments LTD</ReceiverName>
-    <Description>Online payment to investment platform</Description>
+    <SenderName>Markus Wagner</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>Global Investments Ltd.</RecipientName>
+    <RecipientAccount>CY12345678901234567890</RecipientAccount>
+    <PurposeCode>International Payment</PurposeCode>
+    <SuspiciousActivity>Possible investment fraud - Unusually large transfer to offshore account.</SuspiciousActivity>
   </Transaction>
-  <SuspiciousActivity>
-    <Finding>Unusual amount transferred to an overseas account.</Finding>
-    <Justification>Initial deposit exceeding typical investment amounts for a new client.</Justification>
-  </SuspiciousActivity>
 </SAR>

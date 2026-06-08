@@ -1,0 +1,1 @@
+Screenshot Description: The account settings page shows the user's 'available balance' as €18,500.00, despite the initial deposits only being €10,000.00. The options to withdraw funds are clearly visible, but a 'verification pending' message is displayed beneath them. There’s a prominent button labeled 'Maximize Profits' next to the balance display.

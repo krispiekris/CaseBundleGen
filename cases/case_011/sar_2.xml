@@ -1,19 +1,21 @@
 <SAR>
   <Header>
-    <ReferenceNumber>SAR-20231115-002</ReferenceNumber>
-    <DateFiled>2023-11-15</DateFiled>
-    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
+    <SARReference>20231120-002</SARReference>
+    <DateFiled>2023-11-20</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
   </Header>
   <Transaction>
-    <TransactionDate>2023-10-01</TransactionDate>
-    <TransactionAmount currency="EUR">2500.00</TransactionAmount>
-    <TransactionType>Credit</TransactionType>
-    <SenderName>Markus Richter</SenderName>
-    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
-    <ReceiverName>AI Trading Pro Ltd.</ReceiverName>
-    <ReceiverAccount>BBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
-    <Description>Additional Investment - Unlock Profits</Description>
-    <SuspiciousActivity>Possible investment fraud - AI trading platform</SuspiciousActivity>
-    <Notes>Customer appears to be experiencing difficulties withdrawing funds and has been pressured to invest more. Further investigation recommended.</Notes>
+    <TransactionID>9876543210</TransactionID>
+    <TransactionDate>2023-11-18</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <SenderName>Klaus Heinz</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Global Investments Ltd.</ReceiverName>
+    <ReceiverAccount>CY12345678901234567890</ReceiverAccount>
+    <PurposeCode>Wire Transfer</PurposeCode>
+    <SuspiciousActivity>Customer expresses concern about withdrawal.</SuspiciousActivity>
   </Transaction>
+  <Findings>
+    <Finding>Customer expressing concerns regarding withdrawal requests.</Finding>
+  </Findings>
 </SAR>

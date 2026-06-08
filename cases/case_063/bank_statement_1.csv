@@ -1,5 +1,5 @@
-Date,Description,Amount (EUR),IBAN
-2023-10-28,Transfer to AI Trading Elite, -5000.00,DExxxxxxxxxxxxx
-2023-10-29,Interest,0.12,DExxxxxxxxxxxxx
-2023-11-01,Withdrawal, -100.00,DExxxxxxxxxxxxx
-2023-11-05,Incoming Transfer,10.00,DExxxxxxxxxxxxx
+Date,Description,Amount (CAD),Balance (CAD)
+2023-08-28,Grocery Store,,5500.00
+2023-08-30,Online Payment, -100.00,5400.00
+2023-09-01,Online Transfer,-5000.00,400.00
+2023-09-05,Payroll Deposit,3000.00,4300.00

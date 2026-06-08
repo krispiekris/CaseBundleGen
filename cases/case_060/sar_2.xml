@@ -1,24 +1,21 @@
-<SAR id="SAR-2024-02-15-002">
-  <ReportingInstitution>
-    <Name>Deutsche Bank</Name>
-    <Address>Main Street 123, Frankfurt</Address>
-  </ReportingInstitution>
+<SAR>
+  <ReportDate>2023-10-07</ReportDate>
   <SuspiciousActivity>
-    <Date>2024-02-15</Date>
-    <Type>Account Restriction</Type>
-    <Amount currency="EUR">0</Amount>
-    <Description>Account access restricted by NovaTech AI.</Description>
-    <OriginatingParty>
-      <Name>Klaus Meier</Name>
-      <Address>Example Street 45, Berlin</Address>
-    </OriginatingParty>
-    <Beneficiary>
-      <Name>NovaTech AI Ltd.</Name>
-      <Address>Sofia Business Park, Bulgaria</Address>
-    </Beneficiary>
-    <Findings>
-      <Finding>Investor unable to access account or withdraw funds.</Finding>
-      <Finding>Communication from NovaTech AI is unresponsive.</Finding>
-    </Findings>
-  </SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-07-01</TransactionDate>
+      <AmountCurrency>GBP</AmountCurrency>
+      <Amount>10000</Amount>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>123456789</SenderAccount>
+      <ReceiverName>Globex Capital</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <ReceiverBank>Zenith Bank Nigeria Plc</ReceiverBank>
+      <IBAN></IBAN>
+      <Description>Additional Investment</Description>
+    </SuspiciousActivity>
+    <Suspicion>
+      <Type>Follow-up Transaction</Type>
+      <Details>Further funds transferred after initial large transaction.</Details>
+    </Suspicion>
+  </ReportDate>
 </SAR>

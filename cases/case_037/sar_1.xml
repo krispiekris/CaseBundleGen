@@ -1,28 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <Header>
-    <ReportDate>2023-09-08</ReportDate>
-    <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
-    <ReportingEntity>
-      <Name>Deutsche Bank AG</Name>
-      <Address>Taunuschluse 2, 60308 Frankfurt am Main, Germany</Address>
-    </ReportingEntity>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-09-05</TransactionDate>
-    <TransactionAmount currency="EUR">35000.00</TransactionAmount>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-07-21</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-04-05</TransactionDate>
+    <TransactionAmount currency="EUR">25000.00</TransactionAmount>
     <TransactionType>Wire Transfer</TransactionType>
-    <Currency>EUR</Currency>
     <OriginatingParty>
-      <Name>Markus Weber</Name>
-      <Address></Address>
+      <Name>Karl Heinrich</Name>
+      <Address>Musterstrasse 12, 10115 Berlin</Address>
+      <Country>Germany</Country>
     </OriginatingParty>
     <BeneficiaryParty>
-      <Name>Innovative AIX</Name>
-      <Address>Suite 180, 1st Floor, Nemea Building, 6 Isocrates Street, 2360 Strovolos, Cyprus</Address>
+      <Name>Global Investments LTD</Name>
+      <Address>Beach Road, Victoria, Mahe</Address>
+      <Country>Seychelles</Country>
+      <AccountIBAN>1234567890123456789</AccountIBAN>
     </BeneficiaryParty>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Large wire transfer to an offshore entity with limited public information.</SuspiciousActivity>
-    <Notes>Further investigation recommended.  Beneficiary’s website lacks detailed information. Contact details seem generic.</Notes>
-  </Transaction>
+    <Description>Wire transfer from Karl Heinrich to Global Investments LTD in Seychelles. Large sum, uncharacteristic of previous transaction history.</Description>
+    <Findings>Potential investment fraud. Source of funds unclear. Beneficiary jurisdiction considered high-risk.</Findings>
+  </SuspiciousActivity>
 </SAR>

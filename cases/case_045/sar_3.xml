@@ -1,15 +1,20 @@
 <SAR>
   <Header>
-    <ReportDate>2023-10-03</ReportDate>
-    <SuspiciousActivity>
-      <TransactionType>Withdrawal Attempt</TransactionType>
-      <TransactionAmount>5000.00</TransactionAmount>
-      <Currency>USD</Currency>
-    </SuspiciousActivity>
-    <Party>
-      <SenderName>Richard Adams</SenderName>
-      <SenderAccount>XXXXXXXXXXXXXXX</SenderAccount>
-    </Party>
-    <Description>Withdrawal attempt failed, citing technical issues. Victim reports inability to access funds.</Description>
+    <ReportDate>2024-01-22</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <SARID>DB-20240122-003</SARID>
   </Header>
+  <Transaction>
+    <TransactionDate>2024-01-05</TransactionDate>
+    <TransactionAmount currency="EUR">3000</TransactionAmount>
+    <SenderName>NovaTrade Solutions Ltd.</SenderName>
+    <SenderAccount>GB83NWBK000000000012345</SenderAccount>
+    <RecipientName>Hans Meier</RecipientName>
+    <RecipientAccount>DE12345678901234567890</RecipientAccount>
+    <Description>Withdrawal request - initially approved, subsequently denied.</Description>
+    <SuspiciousActivity>Initial approval of withdrawal followed by denial without explanation.  Consistent with potential fraud scheme.</SuspiciousActivity>
+    <Findings>
+      <Finding>Potential investment fraud. Initial approval of withdrawal followed by unexplained denial. Recipient entity located offshore.</Finding>
+    </Findings>
+  </Transaction>
 </SAR>

@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The screenshot shows a web-based trading platform. The platform displays a graph showing a sharp upward trend, labelled 'AI-Driven Profit Growth'. Below the graph, there are several buttons including 'Automate Trading', 'View Portfolio', and 'Withdraw Funds'. A prominent display shows a current account balance of €9800.00. The overall design is clean and modern, with a blue and white color scheme. There is a banner across the top stating 'Welcome, Klaus! Your AI is working for you.'

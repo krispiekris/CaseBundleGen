@@ -1,28 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <Header>
-    <ReportDate>2024-01-15</ReportDate>
-    <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
-    <ReportingEntity>
-      <Name>Deutsche Bank AG</Name>
-      <Address>Taunuschluse 2, 60308 Frankfurt am Main, Germany</Address>
-    </ReportingEntity>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-11-20</TransactionDate>
-    <TransactionAmount currency="EUR">18000.00</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <Currency>EUR</Currency>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-07-21</ReportDate>
+  <ReportingInstitution>Bitfinex</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-05-10</TransactionDate>
+    <TransactionAmount currency="BTC">0.75</TransactionAmount>
+    <TransactionType>Cryptocurrency Transfer</TransactionType>
     <OriginatingParty>
-      <Name>Markus Weber</Name>
-      <Address></Address>
+      <Name>Karl Heinrich</Name>
+      <Country>Germany</Country>
     </OriginatingParty>
     <BeneficiaryParty>
-      <Name>Innovative AIX</Name>
-      <Address>Suite 180, 1st Floor, Nemea Building, 6 Isocrates Street, 2360 Strovolos, Cyprus</Address>
+      <Name>Global Investments LTD</Name>
+      <Address>Beach Road, Victoria, Mahe</Address>
+      <Country>Seychelles</Country>
     </BeneficiaryParty>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Attempted withdrawal blocked by Innovative AIX.  Customer reports difficulty accessing funds and conflicting information from the company.</SuspiciousActivity>
-    <Notes>Customer previously made several large transfers to Innovative AIX.  Company’s communication is evasive and unresponsive.</Notes>
-  </Transaction>
+    <Description>Cryptocurrency transfer from Karl Heinrich to Global Investments LTD in Seychelles.  Unusual transaction for this customer.</Description>
+    <Findings>Potential investment fraud. Cryptocurrency transfer to high-risk jurisdiction.</Findings>
+  </SuspiciousActivity>
 </SAR>

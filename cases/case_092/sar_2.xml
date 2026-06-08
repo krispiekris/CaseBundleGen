@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sar>
-  <report_date>2023-11-15</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <reporter_id>DB-20231115-002</reporter_id>
-  <beneficial_owner>
-    <name>Hans Meier</name>
-    <address>Musterstraße 123, 10115 Berlin, Germany</address>
-  </beneficial_owner>
-  <transaction>
-    <transaction_date>2023-11-10</transaction_date>
-    <amount currency="EUR">7500.00</amount>
-    <description>Withdrawal attempt</description>
-    <recipient_account>Hans Meier</recipient_account>
-    <recipient_bank>Deutsche Bank</recipient_bank>
-    <recipient_country>Germany</recipient_country>
-    <iban>DE89370400440532013000</iban>
-  </transaction>
-  <findings>Withdrawal request repeatedly denied. Customer reports difficulties accessing funds. Suspicious activity due to conflicting information from AI Global Trading.</findings>
-</sar>
+<SAR id="SAR-20240110-002">
+  <BankName>First National Bank</BankName>
+  <Date>2024-01-10</Date>
+  <Transaction>
+    <Type>Credit</Type>
+    <Amount>2500.00</Amount>
+    <Currency>USD</Currency>
+    <SenderAccount>Richard Henderson - Account ending in 4567</SenderAccount>
+    <ReceiverAccount>EnigmaCoin Treasury - Account ending in 8901</ReceiverAccount>
+    <Description>Additional Investment - EnigmaCoin</Description>
+  </Transaction>
+  <Suspicion>
+    <Finding>Continued investment activity, potential pyramid scheme.</Finding>
+    <Reporter>Automated System</Reporter>
+  </Suspicion>
+</SAR>

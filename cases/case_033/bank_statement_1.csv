@@ -1,6 +1,9 @@
-Date,Description,Amount (EUR),IBAN
-2023-08-10,Salary,5500.00,DE12345678901234567890
-2023-08-25,Bill Payment,150.00,DE12345678901234567890
-2023-09-01,Transfer to AI FX Capital,5000.00,GB98765432109876543210
-2023-09-05,Grocery Shopping,75.00,DE12345678901234567890
-2023-09-15,Online Purchase,120.00,DE12345678901234567890
+Date,Description,Amount
+2023-11-15,Bitcoin Transfer, -2000.00
+2023-11-22,Interest, 15.25
+2023-11-29,Debit Card Purchase, -75.50
+2023-12-06,Ethereum Transfer, -5000.00
+2023-12-13,Direct Deposit, 9500.00
+2024-01-03,Bitcoin Transfer, -8000.00
+2024-01-10,Withdrawal Request, ,,
+2024-01-17,Direct Deposit, 9500.00

@@ -1,21 +1,23 @@
-<SAR>
-  <Header>
-    <ReportDate>2024-01-25</ReportDate>
-    <InstitutionID>DeutscheBank</InstitutionID>
-    <ReportType>Suspicious Activity Report</ReportType>
-  </Header>
-  <Transaction>
-    <TransactionDate>2024-01-20</TransactionDate>
-    <TransactionAmount>10000.00</TransactionAmount>
-    <Currency>EUR</Currency>
-    <SenderName>Hans Meier</SenderName>
-    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
-    <ReceiverName>AI Trading Elite Limited</ReceiverName>
-    <ReceiverAccount>CYxxxxxxxxxxxxx</ReceiverAccount>
-    <Description>Attempted Withdrawal - Rejected</Description>
-    <Suspicion>
-      <Finding>Restricted Withdrawal - Potential Exit Scam</Finding>
-      <Narrative>Client attempted to withdraw a significant amount of funds. The withdrawal was reportedly rejected by the platform. This, combined with prior suspicious activity, indicates a potential exit scam scenario. Further investigation urgently needed.</Narrative>
-    </Suspicion>
-  </Transaction>
+<SAR id="SAR-20231122-003">
+  <ReportDate>2023-11-22</ReportDate>
+  <ReportingInstitution>TD Canada Trust</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-20</TransactionDate>
+      <Amount>100.00</Amount>
+      <Currency>CAD</Currency>
+      <TransactionType>Debit</TransactionType>
+      <Description>Attempted Withdrawal - NovaAI Trading</Description>
+      <OriginatingAccount>1234567890</OriginatingAccount>
+      <BeneficiaryAccount>US84923438489</BeneficiaryAccount>
+      <BeneficiaryName>NovaAI Trading</BeneficiaryName>
+      <BeneficiaryCountry>United Arab Emirates</BeneficiaryCountry>
+    </Transaction>
+    <Subject>
+      <Name>Jane Doe</Name>
+      <Address>123 Main Street, Anytown, ON</Address>
+      <DOB>1968-03-10</DOB>
+    </Subject>
+    <Findings>Failed withdrawal attempt from account regularly transferring funds to overseas entity.  Consistent with ongoing suspected fraudulent activity.</Findings>
+  </SuspiciousActivity>
 </SAR>

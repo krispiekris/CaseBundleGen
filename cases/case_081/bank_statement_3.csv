@@ -1,4 +1,6 @@
-Date,Description,Amount,Currency
-2023-11-18,Failed Withdrawal Attempt,-45000.00,AUD
-2023-11-20,Customer Support Call,-30.00,AUD
-2024-01-10,Legal Consultation,-500.00,AUD
+Date,Description,Amount (EUR),Recipient IBAN
+2023-12-01,Salary,6500.00,
+2023-12-05,Transfer to Global Investments Ltd.,-5000.00,XX123456789
+2024-01-10,Withdrawal,1000.00,
+2024-02-20,Withdrawal Attempt, -1500.00,
+2024-03-10,Complaint lodged, ,,

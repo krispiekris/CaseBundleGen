@@ -1,24 +1,21 @@
-<SAR id="SAR-2023-12-05-001">
-  <ReportingInstitution>
-    <Name>Deutsche Bank</Name>
-    <Address>Main Street 123, Frankfurt</Address>
-  </ReportingInstitution>
+<SAR>
+  <ReportDate>2023-04-26</ReportDate>
   <SuspiciousActivity>
-    <Date>2023-12-05</Date>
-    <Type>Funds Transfer</Type>
-    <Amount currency="EUR">5000</Amount>
-    <Description>Funds transfer from Klaus Meier to NovaTech AI (Bulgaria)</Description>
-    <OriginatingParty>
-      <Name>Klaus Meier</Name>
-      <Address>Example Street 45, Berlin</Address>
-    </OriginatingParty>
-    <Beneficiary>
-      <Name>NovaTech AI Ltd.</Name>
-      <Address>Sofia Business Park, Bulgaria</Address>
-    </Beneficiary>
-    <Findings>
-      <Finding>Unusually large transaction for an individual with reported income.</Finding>
-      <Finding>Recipient is a newly established company with limited public information.</Finding>
-    </Findings>
-  </SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-04-22</TransactionDate>
+      <AmountCurrency>GBP</AmountCurrency>
+      <Amount>30000</Amount>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>123456789</SenderAccount>
+      <ReceiverName>Globex Capital</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <ReceiverBank>Zenith Bank Nigeria Plc</ReceiverBank>
+      <IBAN></IBAN>
+      <Description>Initial Investment</Description>
+    </SuspiciousActivity>
+    <Suspicion>
+      <Type>Unusual Transaction Amount</Type>
+      <Details>Large sum transferred to an overseas account with limited customer interaction.</Details>
+    </Suspicion>
+  </ReportDate>
 </SAR>

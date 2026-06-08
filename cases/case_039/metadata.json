@@ -1,11 +1,11 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-Alpha-789",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac75,000 - \u20ac100,000",
-    "country": "Germany",
+    "income_range": "80000-120000 USD",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -13,39 +13,47 @@
     "languages_spoken": [
       "English",
       "Pidgin English",
-      "Yoruba"
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Nigeria",
+    "Malta",
     "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
+      "date": "2023-08-15",
       "event": "Initial contact via email"
     },
     {
-      "date": "2023-04-01",
-      "event": "Victim deposits funds into AI trading platform"
+      "date": "2023-09-01",
+      "event": "Investment of 5000 AUD"
     },
     {
-      "date": "2023-05-10",
-      "event": "Victim attempts to withdraw funds, request denied"
+      "date": "2023-10-15",
+      "event": "Second investment of 10000 AUD"
     },
     {
-      "date": "2023-06-01",
-      "event": "Victim reports incident to authorities"
+      "date": "2023-12-01",
+      "event": "Victim requests withdrawal"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim realizes funds are lost"
+    },
+    {
+      "date": "2024-02-28",
+      "event": "Report filed with Australian authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC, ETH)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "15000-25000 USD"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Bank Funds",
+      "amount_range": "15000-25000 AUD"
     }
   ]
 }

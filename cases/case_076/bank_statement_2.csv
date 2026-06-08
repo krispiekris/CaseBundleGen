@@ -1,3 +1,7 @@
-Date,Description,Amount (EUR),Balance (EUR),IBAN
-2023-09-01,Credit, 8000.00, ,GB22NWBK000000000012345678
-2023-11-21,Debit, -300.00, 16700.00,DE12345678901234567890
+Date,Description,Amount,Currency,IBAN
+2023-11-10,Salary,5500.00,EUR,DExxxxxxxxxx
+2023-11-15,Online Payment,10000.00,EUR,DExxxxxxxxxx
+2023-11-20,Groceries,150.00,EUR,DExxxxxxxxxx
+2023-11-25,Rent,1200.00,EUR,DExxxxxxxxxx
+2024-01-05,Online Payment,5000.00,EUR,DExxxxxxxxxx
+2024-01-10,Online Payment,100.00,EUR,DExxxxxxxxxx

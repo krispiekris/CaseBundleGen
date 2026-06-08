@@ -1,28 +1,23 @@
 <SAR>
   <Header>
-    <ReportDate>2023-09-05</ReportDate>
-    <BankName>Deutsche Bank</BankName>
-    <ReportID>SAR-2023-00478</ReportID>
+    <ReportDate>2023-12-10</ReportDate>
+    <InstitutionID>Deutsche Handelsbank</InstitutionID>
+    <ReferenceNumber>SAR-20231210-001</ReferenceNumber>
   </Header>
   <Transaction>
-    <TransactionDate>2023-09-01</TransactionDate>
-    <Amount>5000</Amount>
-    <Currency>EUR</Currency>
-    <TransactionType>Credit</TransactionType>
-    <SenderAccount>DE89370400440532013000</SenderAccount>
-    <ReceiverAccount>BE98363636363636</ReceiverAccount>
-    <Description>Incoming transfer - AI Elite Trading</Description>
-    <SuspiciousActivity>Potential investment fraud - unsolicited contact, high yield promise</SuspiciousActivity>
+    <TransactionDate>2023-12-05</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <OriginatingParty>
+      <Name>Klaus Meier</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+    </OriginatingParty>
+    <Beneficiary>
+      <Name>AI Trading Pro</Name>
+      <AccountID>BZ000000000000000000</AccountID>
+      <BankName>Belize International Bank</BankName>
+      <Country>Belize</Country>
+    </Beneficiary>
+    <SuspiciousActivity>Unusual large debit to an overseas account with vague description.</SuspiciousActivity>
   </Transaction>
-  <Parties>
-    <Sender>
-      <Name>Hans Meier</Name>
-      <Account>DE89370400440532013000</Account>
-    </Sender>
-    <Receiver>
-      <Name>AI Elite Trading</Name>
-      <Account>BE98363636363636</Account>
-      <Country>Belgium</Country>
-    </Receiver>
-  </Parties>
 </SAR>

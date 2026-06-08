@@ -1,1 +1,3 @@
-[Image Description: Screenshot of a website dashboard.  The dashboard displays a graph showing a rapidly increasing line labeled 'Account Balance'.  Numbers are displayed in a large, stylized font indicating a current balance of £25,000. There are buttons labeled 'Deposit', 'Withdraw', and 'Automated Trading'. The top of the screen displays the logo 'AlphaTrade AI' and a timestamp of 'Last Updated: 2023-06-10 14:35 GMT+1']
+[Imagine a screenshot depicting a user-friendly interface with graphs showing steadily increasing values.  Labels include 'AI Trading Dashboard,' 'Account Balance: €12,500,' 'Monthly Returns: +22.5%,' and a chart labeled 'Recent Trade History' showing numerous buy/sell transactions.]
+
+This screenshot is a representation of the NovaTech AI trading platform. It showcases the real-time performance and automated trading capabilities.

@@ -1,13 +1,15 @@
-From: support@ai-tradingpro.com
-To: ulrich.baumann@email.de
-Subject: Important Update Regarding Your Withdrawal Request
+From: support@ai-investments.com
+To: david.miller@example.com.au
+Subject: Regarding Your Withdrawal Request
 
-Dear Ulrich,
+Dear David,
 
-We regret to inform you that your recent withdrawal request is currently being processed. Due to increased security measures, we require an additional verification fee of €500 to ensure the safety of your funds. 
+We are currently experiencing a high volume of withdrawal requests.  Your withdrawal of $12,000 AUD is being processed, but may take slightly longer than usual (up to 7 business days).
 
-Once the verification fee is received, your withdrawal will be processed promptly.
+For security reasons, we require you to verify your identity.  Please click the link below to complete the verification process:
 
-Thank you for your understanding.
+[https://ai-investments.com/verification](https://ai-investments.com/verification)
 
-The AI Trading Pro Support Team
+Thank you for your patience.
+
+The AI-Investments Support Team

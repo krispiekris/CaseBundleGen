@@ -1,24 +1,17 @@
-<sar>
-  <report_date>2024-01-15</report_date>
-  <report_type>Suspicious Activity Report</report_type>
-  <reporting_institution>Alpha Beta Bank (Cyprus)</reporting_institution>
-  <customer>
-    <customer_id>9876543</customer_id>
-    <customer_name>AI Trading Pro</customer_name>
-  </reporting_institution>
-  <transaction>
-    <transaction_date>2024-01-10</transaction_date>
-    <transaction_amount currency="EUR">15000.00</transaction_amount>
-    <transaction_type>Debit</transaction_type>
-    <description>Withdrawal request from Klaus Schmidt</description>
-    <recipient>
-      <name>Klaus Schmidt</name>
-      <account_number>DE785001000000000000</account_number>
-      <bank_name>Deutsche Bank</bank_name>
-    </recipient>
-  </transaction>
-  <findings>
-    <finding>Withdrawal request flagged due to potential fraudulent activity.</finding>
-    <finding>Large value withdrawal inconsistent with typical customer behavior</finding>
-  </findings>
-</sar>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-12-06</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-16</TransactionDate>
+      <Amount currency="EUR">1000</Amount>
+      <Sender>Hans Meier</Sender>
+      <Receiver>CryptoExchange.com</Receiver>
+      <ReceiverAccount>GB27NWBK0000000000012345</ReceiverAccount>
+      <Description>Withdrawal attempt rejected</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Client attempting withdrawal request denied, potential fraudulent activity</Finding>
+  </Findings>
+</SAR>

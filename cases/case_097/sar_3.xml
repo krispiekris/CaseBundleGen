@@ -1,24 +1,21 @@
-<SAR id="SAR-20230922-003">
-  <Date>2023-09-22</Date>
-  <OriginatingJurisdiction>Germany</OriginatingJurisdiction>
-  <ReportingInstitution>
-    <Name>Deutsche Bank</Name>
-    <Address>Mainzer Landstr. 197, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Karl Meier</Name>
-    <Address>Musterstraße 10, 12345 Berlin, Germany</Address>
-    <DateOfBirth>1968-07-20</DateOfBirth>
-  </Subject>
-  <Transaction>
-    <Date>2023-09-22</Date>
-    <Amount currency="EUR">0.00</Amount>
-    <Type>Withdrawal Request Attempt</Type>
-    <Description>Failed withdrawal request - insufficient funds</Description>
-    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
-    <ReceiverAccount>DExxxxxxxxxxxxx</ReceiverAccount>
-  </Transaction>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-02-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-05</TransactionDate>
+      <TransactionAmount currency="EUR">1000.00</TransactionAmount>
+      <TransactionType>Withdrawal Request</TransactionType>
+      <SenderName>Martin Schmidt</SenderName>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverName>AlexTrades</ReceiverName>
+      <ReceiverAccount>ZA12345678901234567890</ReceiverAccount>
+      <ReceiverBank>First National Bank</ReceiverBank>
+      <ReceiverCountry>ZA</ReceiverCountry>
+      <Description>Withdrawal Attempt - Denied</Description>
+    </Transaction>
+  </SuspiciousActivity>
   <Findings>
-    <SuspiciousActivity>Failed withdrawal request. Client reported inability to access funds. Potential fraud.</SuspiciousActivity>
+    <Finding>Withdrawal request denied by AlexTrades due to alleged 'insufficient funds'. Prior transfers to the account were of considerable amounts.</Finding>
   </Findings>
 </SAR>

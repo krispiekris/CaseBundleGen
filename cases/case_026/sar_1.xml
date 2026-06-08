@@ -1,35 +1,28 @@
-<SAR>
-  <Header>
-    <SARReferenceNumber>20231201-001</SARReferenceNumber>
-    <DateFiled>2023-12-01</DateFiled>
-    <FilingBank>Deutsche Bank</FilingBank>
-  </Header>
-  <SuspectTransaction>
-    <TransactionDate>2023-09-05</TransactionDate>
-    <TransactionAmount>5000.00</TransactionAmount>
-    <Currency>EUR</Currency>
-    <TransactionType>Wire Transfer</TransactionType>
-    <SenderName>Karl Schmidt</SenderName>
-    <SenderAccount>DE91370400440532014900</SenderAccount>
-    <ReceiverName>NovaTrade Solutions</ReceiverName>
-    <ReceiverAccount>GB22NWBK00000000001234</ReceiverAccount>
-    <ReceiverCountry>United Kingdom</ReceiverCountry>
-    <Description>Online investment</Description>
-  </SuspectTransaction>
-  <SuspectTransaction>
-    <TransactionDate>2023-10-05</TransactionDate>
+<SAR id="SAR-2023-10-27-001">
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Identifier>DB-DE-001</Identifier>
+  </ReportingInstitution>
+  <ReportDate>2023-10-27</ReportDate>
+  <Subject>
+    <Name>Klaus Heinz</Name>
+    <Address>Musterstraße 12, 12345 Musterstadt, Germany</Address>
+    <IdentificationType>Passport</IdentificationType>
+    <IdentificationNumber>123456789</IdentificationNumber>
+  </Subject>
+  <Transaction>
+    <TransactionDate>2023-04-01</TransactionDate>
     <TransactionAmount>10000.00</TransactionAmount>
-    <Currency>EUR</Currency>
-    <TransactionType>Wire Transfer</TransactionType>
-    <SenderName>Karl Schmidt</SenderName>
-    <SenderAccount>DE91370400440532014900</SenderAccount>
-    <ReceiverName>NovaTrade Solutions</ReceiverName>
-    <ReceiverAccount>GB22NWBK00000000001234</ReceiverAccount>
-    <ReceiverCountry>United Kingdom</ReceiverCountry>
-    <Description>Online investment</Description>
-  </SuspectTransaction>
-  <Findings>
-    <SuspiciousActivity>Unusually large wire transfers to an overseas entity with limited information available.</SuspiciousActivity>
-    <PotentialFraud>Possible investment fraud.</PotentialFraud>
-  </Findings>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionDescription>Deposit to AI Trading Platform</TransactionDescription>
+    <Beneficiary>
+      <Name>AI-Traders Ltd.</Name>
+      <Country>Belize</Country>
+    </Beneficiary>
+  </Transaction>
+  <SuspiciousActivity>
+    <Type>Unusual Transaction Pattern</Type>
+    <Description>Client deposited a significant sum and appears to be engaging in high-risk trading activities on an unregulated platform.</Description>
+    <Findings>Potential investment fraud. Further investigation recommended.</Findings>
+  </SuspiciousActivity>
 </SAR>

@@ -1,11 +1,15 @@
-From: "NWBK Fraud Department" <fraud@nwbk.co.uk>
-To: "Andreas Schmidt" <a.schmidt@example.com>
-Subject: Urgent: Suspicious Activity Detected
-Date: November 22, 2023 17:45:00
+From: Chukwu@innovativetrading.net
+To: Klaus.Müller@email.de
+Subject: Important Account Verification Update
 
-Dear Andreas,
+Dear Klaus,
 
-We have detected unusual activity on your account. We are unable to process your withdrawal request at this time. Please contact AI Trade Solutions immediately to resolve this issue.
+We've noticed a slight discrepancy in your account information. To ensure the security of your funds and expedite your withdrawal request, we require a scanned copy of your passport for verification purposes.
+
+Please reply to this email with a clear image of your passport. This is a standard procedure and helps us protect your investment.
+
+Thank you for your cooperation.
 
 Sincerely,
-NWBK Fraud Department
+Chukwu
+Innovative Trading Support

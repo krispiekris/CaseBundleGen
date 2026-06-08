@@ -1,29 +1,24 @@
-<SAR>
-  <ReportDate>2023-11-12</ReportDate>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+<SAR id="SAR-2023-04-05-001">
+  <ReportingInstitution>
+    <Name>Sparkasse KölnBonn</Name>
+    <Address>Clarastraße 2, 50001 Köln, Germany</Address>
+  </ReportingInstitution>
   <Subject>
-    <Name>Hans Meier</Name>
-    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <Name>Hermann Schulz</Name>
+    <Address>Goethestraße 10, 53113 Bonn, Germany</Address>
+    <DateOfBirth>1968-07-22</DateOfBirth>
   </Subject>
-  <SuspiciousActivity>
-    <ActivityType>Unusual Transaction Pattern</ActivityType>
-    <Description>Multiple transfers to an offshore account with no apparent business relationship.  Possible investment fraud.</Description>
-    <Transaction>
-      <Date>2023-09-01</Date>
-      <Amount currency="EUR">5000.00</Amount>
-      <RecipientName>Global Investments Ltd.</RecipientName>
-      <RecipientAccount>SC0012345678</RecipientAccount>
-      <RecipientBank>Grace Bank (Seychelles)</RecipientBank>
-    </Transaction>
-    <Transaction>
-      <Date>2023-09-15</Date>
-      <Amount currency="EUR">8000.00</Amount>
-      <RecipientName>Global Investments Ltd.</RecipientName>
-      <RecipientAccount>SC0012345678</RecipientAccount>
-      <RecipientBank>Grace Bank (Seychelles)</RecipientBank>
-    </Transaction>
-  </SuspiciousActivity>
+  <Transaction>
+    <Date>2023-04-01</Date>
+    <Amount currency="EUR">1000</Amount>
+    <Description>Transfer to crypto platform - QuantumLeap Trading</Description>
+    <Counterparty>
+      <Name>Global Digital Assets Ltd</Name>
+      <Account>CY1234567890</Account>
+    </Counterparty>
+  </Transaction>
   <Findings>
-    <Finding>Potential investment fraud scheme utilizing AI trading platform.</Finding>
+    <SuspiciousActivity>Unusual transfer to an offshore company claiming to offer AI trading services.</SuspiciousActivity>
+    <PotentialFraud>Possible investment fraud.</PotentialFraud>
   </Findings>
 </SAR>

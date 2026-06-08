@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount of the investment made by David Miller to AI Trading Pro, according to the transaction history?",
-    "answer": "10000 USD"
+    "question": "What is the initial return percentage promised to Hans Meier in the first email?",
+    "answer": "15%"
   },
   {
-    "question": "According to the promotional material, what is the key selling point of AI Trading Pro?",
-    "answer": "It uses artificial intelligence to identify and capitalize on market opportunities 24/7"
+    "question": "According to the SAR report, what is the country of registration for Global Investments Ltd?",
+    "answer": "Belize"
   },
   {
-    "question": "What is the primary reason cited by the Commonwealth Bank of Australia in SAR-20231205-001 for flagging the transaction as suspicious?",
-    "answer": "Unusual large transfer to an overseas entity with unclear business purpose"
+    "question": "Based on the bank statement, what was Hans Meier\u2019s salary on September 10, 2023?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "Based on the AI Trading Pro platform screenshot description, what disclaimer is displayed to users?",
-    "answer": "Simulated Results. Past performance is not indicative of future results."
+    "question": "What is the primary reason for Deutsche Bank to flag the wire transfer to Global Investments as suspicious?",
+    "answer": "High-yield promise, offshore location, denial of withdrawal."
   },
   {
-    "question": "What potential return percentages were advertised to David Miller in email_followup_1.txt?",
-    "answer": "15-20% per month"
+    "question": "What additional amount was Hans Meier prompted to invest in his account by Global Investments\u2019 support team, according to email_2.txt?",
+    "answer": "10000 EUR"
   },
   {
-    "question": "According to the SAR-20240201-003, what further action is warranted regarding the recipient\u2019s business?",
-    "answer": "Further investigation warranted regarding the recipient's business operations and legitimacy."
+    "question": "What security measure does Global Investments claim to use, as stated on the website screenshot?",
+    "answer": "Cutting-edge technology"
   },
   {
-    "question": "What country is associated with AI Trading Pro Ltd as the beneficiary party in the SAR reports?",
-    "answer": "AE (United Arab Emirates)"
+    "question": "What is the purpose of the verification process mentioned in email_3.txt?",
+    "answer": "To prevent potential security breaches"
   },
   {
-    "question": "What is the purpose of the complimentary consultation offered to David Miller in email_followup_1.txt?",
-    "answer": "To help you get started"
+    "question": "What is the account number that Hans Meier is asked to transfer funds to for account verification?",
+    "answer": "SCIB123456789"
   },
   {
-    "question": "What are the timezones mentioned in the screenshot of the AI trading platform, and what implication does that have?",
-    "answer": "The timestamps are consistently 8-12 hours ahead of Australian Eastern Standard Time."
+    "question": "Considering the promotional materials and the email exchanges, what is the overarching strategy employed by Global Investments?",
+    "answer": "Aggressive and repeated solicitation for increased investment and leveraging urgency to manipulate investors."
   },
   {
-    "question": "Which entities are associated with receiving deposits from David Miller in the bank statements?",
-    "answer": "AI Trading Pro Ltd"
+    "question": "What is the Swift code for First Caribbean International Bank mentioned in email_3.txt?",
+    "answer": "FCIBPMWI"
   }
 ]

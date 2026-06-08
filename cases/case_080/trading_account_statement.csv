@@ -1,0 +1,5 @@
+Transaction Date,Asset,Type,Quantity,Price,Total (USD),
+2023-12-01,BTC,Deposit,0.05,38000,1900,
+2024-01-10,BTC,Trade,0.05,39500,1975,
+2024-01-15,BTC,Deposit,0.1,40000,4000,
+2024-03-22,BTC,Withdrawal,0.1,55000,5500,

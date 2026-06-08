@@ -1,8 +1,7 @@
 Date,Description,Amount (EUR),IBAN
-2023-11-11,ETH Transfer, -5000.00,DExxxxxxxxxx
-2023-11-15,Credit Card Payment, -25.50,DExxxxxxxxxx
-2023-11-20,Salary, 3500.00,DExxxxxxxxxx
-2023-11-28,Online Shopping, -75.00,DExxxxxxxxxx
-2023-12-15,ETH Transfer, -10000.00,DExxxxxxxxxx
-2023-12-20,Credit Card Payment, -42.75,DExxxxxxxxxx
-2024-01-10,ATM Withdrawal, -100.00,DExxxxxxxxxx
+2023-11-10,Payment to Global Capital Partners, -5000.00,GB23NWBK000000000001234567
+2023-11-15,Credit from Global Capital Partners, 1250.00,GB23NWBK000000000001234567
+2023-11-22,Credit from Global Capital Partners, 1250.00,GB23NWBK000000000001234567
+2023-11-29,Credit from Global Capital Partners, 1250.00,GB23NWBK000000000001234567
+2023-12-01,Payment to Global Capital Partners, -10000.00,GB23NWBK000000000001234567
+2024-01-05,Debit, -500.00,DE12345678901234567890

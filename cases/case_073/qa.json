@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial message did the TraderAI_Bot send to Mark Peterson, and what did it offer?",
-    "answer": "The TraderAI_Bot greeted Mark Peterson and offered to leverage artificial intelligence to maximize returns, inviting him to join an exclusive community and providing a link for a demo."
+    "question": "What initial investment amount was recommended by AlphaTradeAI?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "According to the SAR report (SAR-20230805-001), what type of suspicious activity was reported regarding Mark Peterson?",
-    "answer": "Multiple cryptocurrency transactions to offshore accounts potentially linked to investment fraud."
+    "question": "According to the promotional material, what is the range of monthly returns clients might expect?",
+    "answer": "15-30%"
   },
   {
-    "question": "What amounts were transacted to Belizean Investments Ltd. and St. Vincent Trading Group, according to the SAR-20230805-001?",
-    "answer": "Belizean Investments Ltd. received $10,000 USD, and St. Vincent Trading Group received $5,000 USD."
+    "question": "What reason did Deutsche Bank provide for flagging the initial transaction in SAR_1?",
+    "answer": "Unusual transfer to offshore company with high-yield investment claims"
   },
   {
-    "question": "What benefit was promised to Mark Peterson in the promotional email, aside from the platform itself?",
-    "answer": "A FREE demo and personalized onboarding session."
+    "question": "What was the description of the transaction when Stefan Meier initially transferred funds to AlphaTradeAI?",
+    "answer": "Transfer to AlphaTradeAI - Investment"
   },
   {
-    "question": "What action was Mark Peterson expected to take in response to Nikola's email (email_2.txt) to secure a place in a limited opportunity?",
-    "answer": "Reply with 'CONFIRM'."
+    "question": "What is the reported reason for delays in processing Stefan Meier's withdrawal request, as indicated in SAR_3?",
+    "answer": "Extended delays in processing withdrawal request, inability to contact support, potentially fraudulent scheme"
   },
   {
-    "question": "According to SAR-20230820-002, which entity received a transaction and what was the amount?",
-    "answer": "Belizean Investments Ltd. received a transaction of $3000 USD."
+    "question": "What did the promotional material offer as a bonus for a \u20ac5,000 deposit?",
+    "answer": "\u20ac1,000"
   },
   {
-    "question": "What does the screenshot of the trading platform (screenshot_trading_platform.txt) show regarding potential profits?",
-    "answer": "A pop-up window displays a message: 'Daily Profit +12.5%'."
+    "question": "What was the balance in Stefan Meier's account after the interest payment on September 28, 2023?",
+    "answer": "11850"
   },
   {
-    "question": "Which entities are mentioned in promotional email_1.txt but not explicitly present in the SAR-20230805-001?",
-    "answer": "TraderAI Team"
+    "question": "Based on the screenshot of the website, what design elements are prominent?",
+    "answer": "A sleek, modern design with a dark blue and white color scheme."
   },
   {
-    "question": "Based on SAR-20230815-003, what action did Mark Peterson take after repeated deposits?",
-    "answer": "Large cryptocurrency withdrawals."
+    "question": "What IBAN was used for the transfers in the suspicious activity reports?",
+    "answer": "MT12MALT001100018000100001"
   },
   {
-    "question": "What was the stated reason for requiring verification from Nikola in email_3.txt?",
-    "answer": "To ensure the security of funds due to unusual activity detected on Mark Peterson\u2019s account."
+    "question": "What date appears on the SAR report indicating the withdrawal request was still pending?",
+    "answer": "2023-11-20"
   }
 ]

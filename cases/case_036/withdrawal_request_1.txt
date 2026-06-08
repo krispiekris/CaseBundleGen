@@ -1,0 +1,10 @@
+To: support@aitradingsolutions.com
+From: David.Miller@example.ca
+Subject: Withdrawal Request
+
+Dear AI Trading Solutions,
+
+I would like to request a withdrawal of 15000 CAD to my bank account.
+
+Thank you,
+David Miller

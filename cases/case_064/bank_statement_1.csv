@@ -1,6 +1,7 @@
-Date,Description,Amount (EUR),Balance (EUR),Recipient IBAN
-2023-08-28,Groceries, -50.00,1200.00,
-2023-09-01,Transfer to AI Trading Platform, -5000.00, 700.00, NG48901234567890123456
-2023-09-05,Incoming Transfer, 100.00, 800.00,
-2023-09-10,Restaurant, -30.00, 770.00,
-2023-09-15,Online Shopping, -75.00, 695.00,
+Date,Description,Amount (EUR),IBAN
+2023-11-10,Online Payment,,-DExxxxxxxxxxxxx
+2023-12-05,Payment to Quantum AI Trading,5000.00,GBxxxxxxxxxxxxx
+2023-12-15,Online Payment,,-DExxxxxxxxxxxxx
+2024-01-05,Payment to Quantum AI Trading,2000.00,GBxxxxxxxxxxxxx
+2024-01-10,Withdrawal Request - Quantum AI Trading,-2000.00,GBxxxxxxxxxxxxx
+2024-02-15,Online Payment,,-DExxxxxxxxxxxxx

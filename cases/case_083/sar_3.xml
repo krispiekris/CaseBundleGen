@@ -1,18 +1,22 @@
-<SAR id="SAR-20231122-003">
-  <ReportDate>2023-11-22</ReportDate>
-  <OriginatingInstitution>First National Bank</OriginatingInstitution>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-12-04</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionDate>2023-11-22</TransactionDate>
-    <TransactionAmount currency="USD">0.00</TransactionAmount>
-    <TransactionType>Complaint</TransactionType>
-    <SenderName>Robert Miller</SenderName>
-    <RecipientName>Innovative AIX</RecipientName>
-    <Description>Customer reports inability to withdraw funds and concerns regarding the legitimacy of Innovative AIX. Filed a formal complaint with regulatory agencies.</Description>
-    <Suspicion>Client reports difficulty accessing funds and expresses suspicion about the investment firm. Escalation of concern regarding potential fraud.</Suspicion>
+    <Transaction>
+      <TransactionDate>2023-11-25</TransactionDate>
+      <TransactionAmount currency="EUR">500.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <SenderName>AI Trading Solutions</SenderName>
+      <SenderAccount>GB12ABCD12345678901234</RecipientAccount>
+      <RecipientName>Klaus Richter</RecipientName>
+      <RecipientAccount>DExxxxxxxxxxxxxxxxxxxxx</SenderAccount>
+      <PurposeCode>Withdrawal</PurposeCode>
+      <Description>Attempted withdrawal of funds.</Description>
+    </Transaction>
   </SuspiciousActivity>
-  <ReportingInstitutionContact>
-    <Name>Jane Doe</Name>
-    <Title>AML Officer</Title>
-    <Phone>555-123-4567</Phone>
-  </ReportingInstitutionContact>
+  <Findings>
+    <Finding>Customer reports difficulty withdrawing funds and alleges the platform is unresponsive. Prior reports indicate potential fraudulent activity.</Finding>
+  </Findings>
+  <ReportingPerson>Anna Schmidt</ReportingPerson>
 </SAR>

@@ -1,12 +1,6 @@
-Date,Description,Amount (EUR),Balance (EUR)
-2023-09-30,Opening Balance,,50000
-2023-10-15,Deposit,20000,70000
-2023-11-05,Deposit,20000,90000
-2023-11-10,Trading Fee,-500,89500
-2023-11-15,Trading Profit,12000,101500
-2023-11-20,Trading Fee,-250,101250
-2023-11-25,Trading Profit,3000,104250
-2023-12-05,Trading Fee,-100,104150
-2023-12-10,Trading Profit,4000,108150
-2023-12-20,Withdrawal Request,-18000,90150
-2023-12-31,Closing Balance,,90150
+Date,Description,Amount (EUR),Balance (EUR),Recipient IBAN
+2023-09-01,Wire Transfer, -15000.00,1000.00,BB12470600000000000000
+2023-09-19,Incoming Transfer,200.00,1202.50,
+2023-09-26,Outgoing Payment,-100.00,1102.50,
+2023-11-08,Wire Transfer, -5000.00,602.50,BB12470600000000000000
+2023-11-15,Interest,3.00,605.50,

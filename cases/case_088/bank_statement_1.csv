@@ -1,5 +1,8 @@
-Date,Description,Amount,Currency,IBAN
-2023-11-15,Vendor Invoice 12345,62500.00,USD,
-2023-12-05,Payment to Apex Trading Ltd,62500.00,USD,ZA71014700123456789
-2023-12-12,Payment to Apex Trading Ltd,62500.00,USD,ZA71014700123456789
-2024-01-10,Credit from Apex Trading Ltd,62500.00,USD,ZA71014700123456789
+Date,Description,Amount (EUR),IBAN
+2023-08-10,Incoming Salary,78000.00,DExxxxxxxxxxxxxxxxx
+2023-09-01,Payment to AI Trading Pro, -5000.00,CYxxxxxxxxxxxxxxxxx
+2023-09-15,Interest,10.00,DExxxxxxxxxxxxxxxxx
+2023-10-10,Grocery Shopping, -50.00,DExxxxxxxxxxxxxxxxx
+2023-10-15,Withdrawal from AI Trading Pro, 1000.00,DExxxxxxxxxxxxxxxxx
+2023-11-01,Payment to AI Trading Pro, -10000.00,CYxxxxxxxxxxxxxxxxx
+2023-11-15,Utilities, -200.00,DExxxxxxxxxxxxxxxxx

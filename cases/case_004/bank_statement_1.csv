@@ -1,8 +1,8 @@
-Date,Description,Amount (CAD)
-2023-09-20,Balance,100000.00
-2023-09-28,Wire Transfer to QuantumLeap Investments, -50000.00
-2023-10-05,Transaction Fee,-10.00
-2023-10-10,Interest,5.00
-2023-11-15,Dividend,200.00
-2023-12-01,Wire Transfer, -25000.00
-2023-12-05,Transaction Fee,-5.00
+Date,Description,Amount (EUR),Balance (EUR),Recipient/Sender
+2023-03-10,Salary,2500.00,7500.00,
+2023-03-28,Rent,1200.00,6300.00,
+2023-04-01,Online Transfer, -5000.00,1300.00,GB23NWBK00000000001234 - Global Investments
+2023-04-05,Grocery Shopping, -100.00,1200.00,
+2023-04-15,Bill Payment, -250.00,950.00,
+2023-04-22,Restaurant, -75.00,875.00,
+2023-04-30,Insurance, -300.00,575.00,

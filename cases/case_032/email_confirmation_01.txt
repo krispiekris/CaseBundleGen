@@ -1,0 +1,14 @@
+From: GlobalTradeAI <support@globaltradeAI.com>
+To: michael.schmidt@email.de
+Subject: Welcome to GlobalTradeAI!
+
+Dear Michael Schmidt,
+
+Thank you for registering with GlobalTradeAI! Your account has been successfully created.
+
+Your User ID is 789456.
+
+To begin trading, please log in at www.globaltradeAI.com.
+
+Sincerely,
+The GlobalTradeAI Team

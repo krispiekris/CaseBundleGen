@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary method AI-Trading-Pro claims to use for identifying trading opportunities?",
-    "answer": "Artificial intelligence algorithms that analyze market trends."
+    "question": "According to the SAR reports, what characteristic(s) were initially flagged as suspicious regarding Hans Meier's transactions?",
+    "answer": "Unusually large deposit; inconsistent with customer profile."
   },
   {
-    "question": "According to the first email, what is promised to the recipient if they visit the website?",
-    "answer": "An exclusive introductory bonus."
+    "question": "What was the initial amount Hans Meier deposited into his account, as indicated in the bank statement?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "What was the description provided for the second transaction involving a credit of 10000 EUR?",
-    "answer": "Additional investment in AI Trading Platform"
+    "question": "What reason did 'Marcus' provide for the delay in processing Hans Meier's withdrawal request?",
+    "answer": "System upgrades; unprecedented trading volume."
   },
   {
-    "question": "What suspicious activity was noted regarding the second transaction of 10000 EUR, as reported in SAR 2?",
-    "answer": "Customer exhibits signs of potential pressure."
+    "question": "What is the stated website address for Quantum AI Trading?",
+    "answer": "https://quantumaitrading.com"
   },
   {
-    "question": "Which company received the investment from Hans Schmidt?",
-    "answer": "Global Investment Solutions Ltd"
+    "question": "Based on the Telegram chat logs, which actions was Hans Meier encouraged to take?",
+    "answer": "Consider adding more funds to accelerate profits."
   },
   {
-    "question": "What is the website URL promoted in the initial email from AI-Trading-Pro?",
-    "answer": "www.ai-trading-pro.net"
+    "question": "What country is associated with the beneficiary account of Quantum AI Trading?",
+    "answer": "Marshall Islands"
   },
   {
-    "question": "What phrase does promotional material 2 use to describe AI-Trading-Pro's trading opportunities?",
-    "answer": "Lucrative trading opportunities that you won't find anywhere else."
+    "question": "What does the screenshot description highlight about the 'AI Profit Generation' graph?",
+    "answer": "It shows rapidly increasing values."
   },
   {
-    "question": "According to email 3, what is required from Hans Schmidt to maintain access to his account?",
-    "answer": "A mandatory contribution of EUR 2,000."
+    "question": "Based on the promotional email, what is the minimum investment amount stated to begin trading with Quantum AI?",
+    "answer": "\u20ac500"
   },
   {
-    "question": "What was the description associated with the denied withdrawal request in SAR 3?",
-    "answer": "Withdrawal Request - Denied"
+    "question": "Which entities are listed in both the SAR report and the Telegram chatlog?",
+    "answer": "Hans Meier, Quantum AI Trading"
   },
   {
-    "question": "Based on the screenshot of the website, what elements are prominently displayed?",
-    "answer": "A logo displaying a stylized circuit board, rapidly increasing line graphs, testimonials, and a button that reads 'Start Trading Now'."
+    "question": "What is the stated total account balance as of the time of Hans Meier\u2019s withdrawal request?",
+    "answer": "25000.00 EUR"
   }
 ]

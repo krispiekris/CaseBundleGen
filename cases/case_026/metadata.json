@@ -1,59 +1,58 @@
 {
-  "case_id": "2024-CF-0078",
+  "case_id": "2024-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "65-74",
+    "age_range": "55-64",
     "income_range": "\u20ac60,000 - \u20ac90,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Arab Emirates"
+    "Belize",
+    "Panama"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact via Telegram"
+      "date": "2023-03-15",
+      "event": "Initial Contact - Victim receives unsolicited email"
     },
     {
-      "date": "2023-09-05",
-      "event": "Victim transfers initial investment of \u20ac5,000"
+      "date": "2023-04-01",
+      "event": "Victim deposits funds into AI trading platform"
     },
     {
-      "date": "2023-09-20",
-      "event": "Platform demonstrates alleged profitability"
-    },
-    {
-      "date": "2023-10-10",
-      "event": "Victim transfers additional \u20ac10,000"
-    },
-    {
-      "date": "2023-11-15",
+      "date": "2023-05-10",
       "event": "Victim attempts withdrawal - denied"
     },
     {
-      "date": "2023-12-01",
-      "event": "Victim reports to authorities"
+      "date": "2023-06-22",
+      "event": "Victim files police report"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "SAR filed by German bank"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "Bank Transfer",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
+      "type": "EUR Bank Account",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
+    },
+    {
+      "type": "Investment Account",
+      "amount_range": "\u20ac0 - \u20ac5,000 (simulated gains)"
     }
   ]
 }

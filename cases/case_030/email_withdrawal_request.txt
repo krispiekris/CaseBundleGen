@@ -1,0 +1,13 @@
+From: hans.meier@example.com
+To: support@globalinvestments.net
+Subject: Withdrawal Request - Account #12345
+
+Dear Support Team,
+
+I would like to request a withdrawal of €10,000 from my account. Please process this request as soon as possible.
+
+My account number is 12345.
+
+Thank you for your assistance.
+
+Hans Meier

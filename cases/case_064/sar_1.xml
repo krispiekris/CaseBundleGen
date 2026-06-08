@@ -1,21 +1,18 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-09-05</ReportDate>
-    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
-    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
-  </Header>
+<SAR xmlns="http://www.example.com/sar">
   <Transaction>
-    <TransactionDate>2023-09-01</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <SenderAccount>DE12345678901234567890</SenderAccount>
-    <ReceiverAccount>NG48901234567890123456</ReceiverAccount>
-    <ReceiverName>Oluwaseun Adebayo</ReceiverName>
-    <ReceiverCountry>Nigeria</ReceiverCountry>
-    <Description>Transfer to AI Trading Platform</Description>
+    <TransactionID>12345</TransactionID>
+    <Date>2023-12-05</Date>
+    <Amount currency="EUR">5000</Amount>
+    <Sender>Karl Heinz</Sender>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <Receiver>Quantum AI Trading Ltd</Receiver>
+    <ReceiverAccount>GBxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Initial Investment - Quantum AI Trading</Description>
+    <SuspiciousActivity>Potential investment fraud - AI trading platform</SuspiciousActivity>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Unusually large transfer to foreign account with limited information about receiver.</SuspiciousActivity>
-    <PotentialFraud>Possible investment fraud.</PotentialFraud>
-  </Findings>
+  <PartyInformation>
+    <Party Name="Karl Heinz" Role="Victim" Country="Germany" />
+    <Party Name="Quantum AI Trading Ltd" Role="Potential Fraudster" Country="United Kingdom" />
+  </PartyInformation>
+  <Findings>Further investigation recommended due to unusual transaction description and foreign company.</Findings>
 </SAR>

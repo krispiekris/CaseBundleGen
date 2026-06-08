@@ -1,26 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>\n<SAR id="SAR-2024-01-25-003">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunuschrift 1, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Baumann, Hans</Name>
-    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
-  </Subject>
+<SAR>
+  <Header>
+    <ReportDate>2024-01-10</ReportDate>
+    <SuspiciousActivity>
+      <Type>Funds Transfer</Type>
+      <Description>Multiple funds transfers to an overseas account potentially linked to a cryptocurrency recovery scam. Suspicious activity reported by client.</Description>
+    </SuspiciousActivity>
+  </Header>
   <Transaction>
-    <Date>2023-11-30</Date>
-    <Amount currency="EUR">500.00</Amount>
-    <Description>Attempted withdrawal from NovaTrade AG</Description>
-    <OriginatingParty>
-      <Name>Deutsche Bank AG</Name>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>NovaTrade AG</Name>
-      <Account>1234567890</Account>
-      <Bank>Sterling Bank Nigeria Limited</Bank>
-    </BeneficiaryParty>
+    <Date>2023-11-22</Date>
+    <Amount currency="USD">5000.00</Amount>
+    <Sender>
+      <Name>David Miller</Name>
+      <Account>xxxxxxxxxxxxxxx</Account>
+    </Sender>
+    <Receiver>
+      <Name>Gabriel Onyekachi</Name>
+      <Account>yyyyyyyyyyyyyyyyy</Account>
+      <Country>Nigeria</Country>
+    </Receiver>
+    <Purpose>Funds transfer for cryptocurrency recovery services</Purpose>
+  </Transaction>
+  <Transaction>
+    <Date>2023-12-05</Date>
+    <Amount currency="USD">10000.00</Amount>
+    <Sender>
+      <Name>David Miller</Name>
+      <Account>xxxxxxxxxxxxxxx</Account>
+    </Sender>
+    <Receiver>
+      <Name>Gabriel Onyekachi</Name>
+      <Account>yyyyyyyyyyyyyyyyy</Account>
+      <Country>Nigeria</Country>
+    </Receiver>
+    <Purpose>Funds transfer for cryptocurrency recovery services</Purpose>
   </Transaction>
   <Findings>
-    <SuspiciousActivity>Attempted withdrawal denied; potential investment fraud; lack of clear explanation for denial.</SuspiciousActivity>
+    <Concern>Client now reports suspicion that they have been scammed.  Multiple transfers to the same recipient, coupled with escalating requests for funds, raise significant concerns about fraudulent activity. Recipient located in Nigeria.</Findings>
   </Findings>
 </SAR>

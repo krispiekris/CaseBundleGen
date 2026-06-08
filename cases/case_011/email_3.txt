@@ -1,13 +1,17 @@
-From: "AI Trading Platform" <support@aitradingpro.com>
-To: markus.richter@email.de
-Subject: Urgent: Withdrawal Processing Issues
+From: support@ai-trading-pro.com
+To: klaus.heinz@email.de
+Subject: Regarding Your Withdrawal Request
 
-Dear Markus,
+Dear Klaus,
 
-We're writing to inform you that there's a slight delay in processing your withdrawal request. Due to recent market volatility, an additional €5000 is required to cover transaction fees and regulatory compliance.
+We received your request for withdrawal. Due to unforeseen circumstances, your account requires an additional verification fee of EUR 2,500 to process your request. Please transfer this amount to the following account:
 
-Without this additional deposit, we regret that we won't be able to process your withdrawal.
+Account Name: Global Security Fund
+Bank: First National Bank (Nigeria)
+Account Number: 9876543210
+Swift Code: FNBNNGLA
 
-Thank you for your understanding.
+Once the verification fee is received, your withdrawal will be processed immediately.
 
-The AI Trading Pro Team
+Sincerely,
+The AI Trading Pro Support Team

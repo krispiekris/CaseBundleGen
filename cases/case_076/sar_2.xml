@@ -1,22 +1,18 @@
 <SAR>
-  <Header>
-    <ReferenceID>SAR-20231124-002</ReferenceID>
-    <Date>2023-11-24</Date>
-    <Submitter>NWBK</Submitter>
-  </Header>
-  <Transaction>
-    <Amount currency="EUR">300.00</Amount>
-    <Date>2023-11-21</Date>
-    <Originator>
-      <Name>Andreas Schmidt</Name>
-      <Account>DE12345678901234567890</Account>
-    </Originator>
-    <Beneficiary>
-      <Name>AI Trade Solutions</Name>
-      <Account>GB22NWBK000000000012345678</Account>
-    </Beneficiary>
-    <Purpose>Verification Fee</Purpose>
-    <SuspiciousActivity>Potential Investment Fraud - Verification Fee</SuspiciousActivity>
-    <Notes>Customer reported paying verification fee to withdraw funds. Account known to be associated with fraudulent activity.</Notes>
-  </Transaction>
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-10</TransactionDate>
+      <Amount>5000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Müller</SenderName>
+      <SenderAccount>DExxxxxxxxxx</SenderAccount>
+      <ReceiverName>Innovativ Trading Ltd</ReceiverName>
+      <ReceiverAccount>GBxxxxxxxxxx</ReceiverAccount>
+      <Description>Withdrawal Request Denied</Description>
+      <SuspiciousIndicator>Withdrawal Denied - Account Restrictions</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingPerson>Bank Compliance Officer</ReportingPerson>
 </SAR>

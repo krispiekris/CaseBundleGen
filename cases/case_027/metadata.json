@@ -1,51 +1,50 @@
 {
-  "case_id": "2024-04-27-CYB-0012",
+  "case_id": "2024-02-29-FX-007",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Arab Emirates"
+    "Seychelles",
+    "Mauritius"
   ],
   "timeline": [
     {
-      "date": "2023-10-15",
-      "event": "Initial Contact \u2013 Victim receives unsolicited email."
+      "date": "2023-08-15",
+      "event": "Initial Contact - Email"
     },
     {
-      "date": "2023-11-05",
-      "event": "Victim deposits funds into AI trading platform."
+      "date": "2023-09-01",
+      "event": "First Deposit"
     },
     {
-      "date": "2023-12-20",
-      "event": "Victim attempts to withdraw funds; request denied."
+      "date": "2023-11-10",
+      "event": "Significant Losses Reported"
     },
     {
-      "date": "2024-01-10",
-      "event": "Victim files a complaint with local authorities."
+      "date": "2024-01-20",
+      "event": "Victim Files Police Report"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Bank Account",
+      "amount_range": "\u20ac15,000 - \u20ac30,000"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "0.5 - 1.5 BTC"
     }
   ]
 }

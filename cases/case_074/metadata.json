@@ -1,11 +1,11 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "AI Trading Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "$75,000 - $100,000",
-    "country": "Canada",
+    "income_range": "\u20ac60,000 - \u20ac90,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -13,43 +13,43 @@
     "languages_spoken": [
       "English",
       "Pidgin English",
-      "Yoruba"
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Cyprus",
-    "United Kingdom"
+    "Seychelles",
+    "British Virgin Islands"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact via unsolicited email"
+      "date": "2023-10-26",
+      "event": "Initial contact via email"
     },
     {
-      "date": "2023-09-01",
-      "event": "Victim invests $5,000"
+      "date": "2023-11-15",
+      "event": "Victim deposits initial \u20ac5,000"
     },
     {
-      "date": "2023-10-15",
-      "event": "Victim invests $10,000"
-    },
-    {
-      "date": "2023-12-01",
-      "event": "Victim attempts withdrawal, denied"
+      "date": "2023-12-05",
+      "event": "Victim deposits second \u20ac10,000"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim reports fraud"
+      "event": "Victim attempts withdrawal, denied"
+    },
+    {
+      "date": "2024-02-18",
+      "event": "Victim files complaint"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "$15,000 - $20,000"
+      "type": "Bank Account",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     },
     {
-      "type": "Bank Account Funds",
-      "amount_range": "$15,000 - $20,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac1,000 - \u20ac3,000"
     }
   ]
 }

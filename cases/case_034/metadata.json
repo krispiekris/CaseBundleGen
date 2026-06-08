@@ -1,58 +1,58 @@
 {
-  "case_id": "2024-08-29-CryptoRecoveryScam-007",
+  "case_id": "2024-07-27-001",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Crypto Recovery Scam",
+  "fraud_subtype": "Forex Scam",
   "victim_profile": {
-    "age_range": "65-74",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "age_range": "55-64",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
-    "education_level": "High School Diploma"
+    "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English"
+      "Spanish"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "Ghana"
+    "Seychelles",
+    "British Virgin Islands"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Initial Contact via Email"
+      "event": "Victim contacts forex broker via online advertisement"
     },
     {
-      "date": "2023-11-22",
-      "event": "Victim Transfers Initial Funds"
-    },
-    {
-      "date": "2023-12-05",
-      "event": "Further Attempts to Extract Funds"
+      "date": "2023-12-01",
+      "event": "Initial deposit made by victim"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim Reports Incident"
+      "event": "Victim requests withdrawal; request delayed and justification provided"
     },
     {
-      "date": "2024-08-29",
-      "event": "Case Opened"
+      "date": "2024-02-20",
+      "event": "Victim realizes funds are inaccessible and reports fraud"
+    },
+    {
+      "date": "2024-07-27",
+      "event": "Case File Creation"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bitcoin",
-      "amount_range": "0.5 - 1.5 BTC"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac20,000"
     },
     {
-      "type": "Ethereum",
-      "amount_range": "2 - 5 ETH"
+      "type": "Bank Transfer",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     },
     {
-      "type": "USD",
-      "amount_range": "$5,000 - $15,000"
+      "type": "Forex Trading Account Balance",
+      "amount_range": "\u20ac20,000 - \u20ac30,000"
     }
   ]
 }

@@ -1,0 +1,3 @@
+Screenshot Description: AutotradeAI login page.
+
+The page has the AutotradeAI logo at the top, followed by fields for 'Email' and 'Password'. Below the fields is a 'Login' button. There's a small text link at the bottom saying 'Forgot Password?'. The overall design is modern and sleek, with a dark blue and white color scheme. The URL bar shows a domain name: autotradeai.com.

@@ -1,26 +1,19 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-11-01</ReportDate>
-    <InstitutionID>Royal Bank of Canada</InstitutionID>
-    <Currency>CAD</Currency>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-10-22</TransactionDate>
-    <TransactionAmount>500.00</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <OriginatingAccount>Richard Boudreau - [Account Number Redacted]</OriginatingAccount>
-    <BeneficiaryAccount>[Redacted]</BeneficiaryAccount>
-    <BeneficiaryName>[Redacted]</BeneficiaryName>
-    <BeneficiaryCountry>Serbia</BeneficiaryCountry>
-    <Description>Verification Fee</Description>
-    <SuspiciousActivity>Potential Fraud - Verification Fee</SuspiciousActivity>
-  </Transaction>
-  <Party>
-    <Name>Richard Boudreau</Name>
-    <Address>[Redacted]</Address>
-    <DateOfBirth>[Redacted]</DateOfBirth>
-  </Party>
-  <Findings>
-    The transaction for a 'Verification Fee' paid to an account in Serbia, following a withdrawal request, is considered highly suspicious and indicative of fraud.
-  </Findings>
-</SAR>
+<SuspiciousActivityReport>
+  <ReportDate>2024-03-12</ReportDate>
+  <InstitutionName>Deutsche Bank</InstitutionName>
+  <InstitutionID>DEIN0000001</InstitutionID>
+  <FilerID>DB_SAR_Team</FilerID>
+  <SuspiciousActivity>
+    <ActivityType>Potential Fraud</ActivityType>
+    <TransactionDate>2023-11-28</TransactionDate>
+    <TransactionAmount>5000</TransactionAmount>
+    <Currency>EUR</Currency>
+    <TransactionDescription>Initial Investment</TransactionDescription>
+    <BeneficiaryName>Global AI Investments Ltd</BeneficiaryName>
+    <BeneficiaryCountry>Malaysia</BeneficiaryCountry>
+    <BeneficiaryAccount>MY1234567890</BeneficiaryAccount>
+    <SenderName>Klaus Werner</SenderName>
+    <SenderAccount>DE563020000000123456</SenderAccount>
+    <Findings>Victim reports being contacted via email and persuaded to invest; withdrawal request denied. Account may be associated with fraudulent activities.</Findings>
+  </SuspiciousActivity>
+</SuspiciousActivityReport>

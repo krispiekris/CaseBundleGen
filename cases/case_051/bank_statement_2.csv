@@ -1,7 +1,5 @@
-Date,Description,Amount (EUR),Balance (EUR)
-2023-09-15,Transfer to AI Profit Solutions, -10000, -2670
-2023-09-16,Interest, 5, -2665
-2023-09-17,Online Payment, -25, -2690
-2023-09-18,Transfer to Zenith Bank, -200, -2490
-2023-09-19,Salary, 3000, 510
-2023-09-20,Attempted Withdrawal, -500, 10
+Date,Description,Amount (EUR),Balance (EUR),IBAN
+2023-04-01,Transfer to AI Trading Pro, -5000.00, -2500.00,DE12345678901234567890
+2023-05-20,Transfer to AI Trading Pro, -15000.00, -20000.00,DE12345678901234567890
+2023-05-25,Outgoing Transfer, -50.00, -20050.00,DE12345678901234567890
+2023-05-30,Incoming Transfer, 200.00, -19850.00,DE12345678901234567890

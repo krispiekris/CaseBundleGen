@@ -1,5 +1,7 @@
 Date,Description,Amount (EUR),IBAN
-2023-12-05,Transfer to AI Trading Solutions, -5000.00,ZA88011100110000123456
-2023-12-08,Interest Income,15.50,,DE12345678901234567890
-2024-01-10,Transfer to AI Trading Solutions, -3000.00,ZA88011100110000123456
-2024-02-22,Withdrawal Request - AI Trading Solutions, -2000.00,ZA88011100110000123456
+2023-11-01,Incoming Transfer,,-DExxxxxxxxxxxxx
+2023-11-05,Credit Card Payment,-34.56,DExxxxxxxxxxxxx
+2023-11-15,Withdrawal,,-DExxxxxxxxxxxxx
+2023-11-25,Outgoing Transfer,-5000,DExxxxxxxxxxxxx
+2023-11-30,ATM Withdrawal,-100,DExxxxxxxxxxxxx
+2023-12-15,Outgoing Transfer,-2500,DExxxxxxxxxxxxx

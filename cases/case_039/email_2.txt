@@ -1,12 +1,10 @@
-From: support@novatradeai.com
-To: klaus.heinz@email.de
-Subject: Regarding Your Recent Withdrawal Request
+From: david.miller@example.com.au
+To: ai.trading.support@globalinvestments.tech
+Subject: Withdrawal Request
 
-Dear Klaus,
+Dear Global Investments Support,
 
-We received your recent withdrawal request.  Due to ongoing system maintenance and security verification protocols, your request is currently being processed. We appreciate your patience and understanding.
+I would like to request a withdrawal of 5000 AUD from my account. Please confirm the process and timeframe for this.
 
-To expedite the process, please confirm your account details by replying to this email with a screenshot of your ID and a recent utility bill.
-
-Sincerely,
-The NovaTrade AI Support Team
+Thank you,
+David Miller

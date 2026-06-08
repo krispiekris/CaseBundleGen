@@ -1,13 +1,12 @@
-From: "AI Trading Pro Support" <support@aitradingpro.com>
-To: Klaus Schmidt <klaus.schmidt@email.de>
-Subject: Withdrawal Request Update
+From: John Doe <john.doe@quantum-ai-trading.com>
+To: hans.meier@email.de
+Subject: Your Quantum AI Trading Progress
 
-Dear Klaus,
+Dear Hans,
 
-We've received your withdrawal request. Due to standard security protocols, we require further verification before processing it.
+Your Quantum AI Trading account is showing excellent progress! Our AI has identified a new opportunity with the potential for significant returns. To maximize your profits, we recommend increasing your investment by another €10,000.
 
-Please provide us with a copy of your government-issued identification and a recent utility bill.
-
-Thank you for your understanding.
-
-The AI Trading Pro Team
+Best regards,
+John Doe
+Account Manager
+Quantum AI Trading

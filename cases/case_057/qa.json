@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to promotional material, what is a key benefit of using Aionautica's platform?",
-    "answer": "Guaranteed returns"
+    "question": "Based on the emails, what initially sparked Daniel MacMillan's interest in Innovative AI Trading?",
+    "answer": "Daniel MacMillan was impressed by Innovative AI Trading's work in AI and finance, as mentioned on their LinkedIn profile."
   },
   {
-    "question": "What was the initial investment amount made by David Miller?",
-    "answer": "$5,000"
+    "question": "What key element did Jide Oluwafemi highlight regarding Innovative AI Trading's success in his email response to Daniel MacMillan?",
+    "answer": "Jide Oluwafemi emphasized that Innovative AI Trading's proprietary AI algorithms are delivering exceptional returns."
   },
   {
-    "question": "What is the minimum investment required to start using Aionautica's system?",
-    "answer": "$5,000"
+    "question": "According to the SAR reports, what initial description was used to categorize Daniel MacMillan\u2019s transactions with Innovative AI Trading?",
+    "answer": "The initial description was 'Investment - AI Trading'."
   },
   {
-    "question": "Based on the SAR reports, which financial institution filed the suspicious activity reports?",
-    "answer": "Global Finance Solutions"
+    "question": "Which location is listed as the address for Innovative AI Trading in the SAR reports?",
+    "answer": "Unit 4, 100 Business Park Drive, Lagos, Nigeria."
   },
   {
-    "question": "What was the description provided for the initial investment transaction in SAR-20230401-001?",
-    "answer": "Initial investment"
+    "question": "What was the total amount invested by Daniel MacMillan based on the provided bank statements?",
+    "answer": "A total of 15000 AUD was invested."
   },
   {
-    "question": "What was the reported current balance of David Miller\u2019s account according to email_2.txt?",
-    "answer": "$6,500"
+    "question": "According to the promotional material, what bonus is offered to first-time investors?",
+    "answer": "First-time investors receive a 20% bonus on their initial deposit."
   },
   {
-    "question": "What additional investment was recommended to David Miller based on the AI's analysis?",
-    "answer": "$25,000"
+    "question": "What specific activity is highlighted in the screenshot of InnovativeAItrading.com regarding the company's algorithms?",
+    "answer": "The screenshot highlights that the company\u2019s algorithms analyze market trends with unparalleled accuracy."
   },
   {
-    "question": "According to the Facebook ad screenshot, who is the target audience for Aionautica's advertisements?",
-    "answer": "Users aged 55-64 interested in investing and finance"
+    "question": "Based on the SAR reports, which event occurred on 2023-12-15 concerning a transaction with Innovative AI Trading?",
+    "answer": "An attempt to block a withdrawal was made."
   },
   {
-    "question": "In what month and year did David Miller attempt a withdrawal, based on the bank statement_2.csv?",
-    "answer": "August 2023"
+    "question": "In which timeframe did the suspicious activity 'Withdrawal Request Denied' occur, according to the SAR reports?",
+    "answer": "February 2024."
   },
   {
-    "question": "Based on promotional material_2.txt, what sentiment does David M. express about his experience with Aionautica?",
-    "answer": "He felt intimidated by investing before using Aionautica and now sees incredible results."
+    "question": "Considering the email correspondence and promotional materials, what primary technology is being leveraged by Innovative AI Trading?",
+    "answer": "Artificial Intelligence (AI)."
   }
 ]

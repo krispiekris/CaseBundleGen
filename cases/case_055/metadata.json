@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-CZ-0789",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac50,000 - \u20ac80,000",
+    "income_range": "\u20ac60,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -17,39 +17,43 @@
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "Belize"
+    "Cyprus",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
+      "date": "2023-03-15",
       "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-09-01",
-      "event": "First deposit made"
+      "date": "2023-04-01",
+      "event": "First investment made"
     },
     {
-      "date": "2023-11-10",
-      "event": "Victim reports suspicious activity"
+      "date": "2023-05-10",
+      "event": "Victim demonstrates initial profit"
     },
     {
-      "date": "2024-01-28",
-      "event": "Case officially opened"
+      "date": "2023-06-22",
+      "event": "Victim requests large withdrawal, denied"
+    },
+    {
+      "date": "2023-07-15",
+      "event": "Account locked, victim realizes fraud"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Bitcoin",
+      "amount_range": "0.5 - 1.5 BTC"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Ethereum",
+      "amount_range": "2 - 5 ETH"
     },
     {
-      "type": "Online Investment Platform Funds",
-      "amount_range": "\u20ac10,000 - \u20ac20,000"
+      "type": "Fiat Currency (EUR)",
+      "amount_range": "\u20ac15,000 - \u20ac35,000"
     }
   ]
 }

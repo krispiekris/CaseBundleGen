@@ -1,5 +1,3 @@
-Date,Description,Amount (EUR),Balance (EUR),IBAN
-2023-03-28,Incoming Transfer,10000.00,10000.00,DExxxxxxxxxxxxx
-2023-04-01,Wire Transfer, -5000.00,5000.00,DExxxxxxxxxxxxx
-2023-04-05,Credit Interest, 0.10, 5000.10,DExxxxxxxxxxxxx
-2023-06-10,Wire Transfer, -15000.00, -10000.00,DExxxxxxxxxxxxx
+Date,Description,Amount (EUR),Balance (EUR)
+2023-12-03,Incoming Transfer,2500.00,2500.00
+2023-12-05,Outgoing Transfer - AlexTrades, -2500.00,0.00

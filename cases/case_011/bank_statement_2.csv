@@ -1,6 +1,5 @@
 Date,Description,Amount (EUR),IBAN
-2023-09-01,AI Trading Pro Ltd.,-5000.00,BBxxxxxxxxxxxxxxxxxxxx
-2023-09-05,Interest,1.23,-DExxxxxxxxxxxxxxxxxxxx
-2023-10-01,AI Trading Pro Ltd.,-2500.00,BBxxxxxxxxxxxxxxxxxxxx
-2023-10-05,Interest,1.23,-DExxxxxxxxxxxxxxxxxxxx
-2023-10-12,Grocery Store,,-DExxxxxxxxxxxxxxxxxxxx
+2023-12-01,Standing Order,-DE12345678901234567890
+2023-12-08,Wire Transfer to Global Investments Ltd.,10000.00,CY12345678901234567890
+2023-12-15,Credit Interest,0.27,DE12345678901234567890
+2023-12-22,Online Payment,-DE12345678901234567890

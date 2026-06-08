@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the stated average return on investment (ROI) promised by AI Elite Trading, according to promotional material?",
-    "answer": "25% per month"
+    "question": "What is the primary function of AI Trading Pro, according to its promotional materials?",
+    "answer": "To utilize artificial intelligence to identify and capitalize on lucrative trading opportunities in the global markets."
   },
   {
-    "question": "According to the SAR reports, what two factors initially raised suspicion regarding Hans Meier's transactions with AI Elite Trading?",
-    "answer": "Unsolicited contact, high yield promise"
-  },
-  {
-    "question": "What initial investment amount did Hans Meier make according to the first SAR report?",
+    "question": "According to the SAR report from Deutsche Handelsbank, what was the initial transaction amount and currency debited from Klaus Meier's account?",
     "answer": "5000 EUR"
   },
   {
-    "question": "Based on the telegram chat log, what additional investment amount did 'David' suggest to Hans Meier to unlock 'even greater potential'?",
-    "answer": "10000 EUR"
+    "question": "What reason did AI Trading Pro provide for freezing Klaus Meier's withdrawal request, as stated in email_2.txt?",
+    "answer": "Due to unforeseen market volatility, your withdrawal request has been temporarily frozen."
   },
   {
-    "question": "What was the approximate timestamp of the screenshot showing Hans Meier\u2019s AI Elite Trading dashboard?",
-    "answer": "2023-09-28 14:35 GMT+2"
+    "question": "Based on bank_statement_2.csv, to which country was a payment made from Klaus Meier's account in February 2024?",
+    "answer": "United Kingdom"
   },
   {
-    "question": "Which country is listed as the location of AI Elite Trading in the SAR reports?",
-    "answer": "Belgium"
+    "question": "What is the purpose of the webinar mentioned in promotional_material_3.txt?",
+    "answer": "To learn how AI algorithms generate consistent profits."
   },
   {
-    "question": "According to the SAR reports, what additional factor contributed to the suspicion regarding the increasing transaction amounts?",
-    "answer": "Increasing deposit amounts"
+    "question": "Which bank is listed as the beneficiary's bank in the SAR report from Deutsche Handelsbank (SAR-20231210-001)?",
+    "answer": "Belize International Bank"
   },
   {
-    "question": "What did Hans Meier request in his email to support@ai-elite-trading.com?",
-    "answer": "Investigation of a failed withdrawal attempt"
+    "question": "What specific phrase is used in promotional_material_2.txt to describe the investment opportunity?",
+    "answer": "Limited Time Offer: Get a 100% Bonus on Your First Deposit!"
   },
   {
-    "question": "Based on the available files, what is the primary method of communication between the company and Hans Meier?",
-    "answer": "Telegram"
+    "question": "What is the key characteristic of the client relationship offered by Mark Jones in email_3.txt?",
+    "answer": "VIP client"
   },
   {
-    "question": "Which entity appeared as the sender of the transaction on 2023-10-01, and what was the transaction amount?",
-    "answer": "AI Elite Trading, -10000 EUR"
+    "question": "According to the SAR report from Belize International Bank (SAR-20240205-002), what was flagged as suspicious activity?",
+    "answer": "Withdrawal request flagged due to alleged market volatility and freezing of funds."
+  },
+  {
+    "question": "What description is used in screenshot_website_ai_trading_pro.txt to describe the visual design of the AI Trading Pro website?",
+    "answer": "Modern, sleek design"
   }
 ]

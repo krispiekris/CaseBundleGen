@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The screenshot depicts a website resembling a Forex trading platform.  It displays a graph showing fluctuating currency values (EUR/USD, GBP/USD) with exaggerated upward trends.  A prominent section displays a balance of 'EUR 15,000.00'.  Buttons are labeled 'Trade Now' and 'Withdraw Funds'. The platform's logo is 'Global Investments'. The background is a professional-looking stock market image.  There are frequent pop-up notifications stating 'Congratulations! Your profits are growing!'

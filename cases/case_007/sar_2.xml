@@ -1,25 +1,21 @@
-<SAR xmlns="http://www.example.com/sar">
-  <Header>
-    <SARReferenceID>SAR-20240108-002</SARReferenceID>
-    <DateFiled>2024-01-08</DateFiled>
-    <ReportingBank>Deutsche Bank</ReportingBank>
-  </Header>
-  <Customer>
-    <CustomerID>123456789</CustomerID>
-    <Name>Hans Baumann</Name>
-    <Address>Musterstrasse 1, 10115 Berlin</Address>
-  </Customer>
+<SAR id="SAR-20240125-002">
+  <ReportDate>2024-01-25</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionDate>2024-01-05</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <RecipientName>Crypto Innovations</RecipientName>
-    <RecipientAccount>X789012345</RecipientAccount>
-    <RecipientBank>United Bank of Singapore</RecipientBank>
-    <SWIFTCode>UBSBXXXX</SWIFTCode>
-    <Description>Investment in Crypto Innovations</Description>
+    <Transaction>
+      <TransactionDate>2023-10-06</TransactionDate>
+      <Amount currency="USD">10000</Amount>
+      <TransactionType>Withdrawal</TransactionType>
+      <OriginatorAccount>Unknown - Investigating</OriginatorAccount>
+      <BeneficiaryAccount>DE89370400440532015000</BeneficiaryAccount>
+      <Description>Withdrawal attempt denied due to suspicious activity</Description>
+    </Transaction>
   </SuspiciousActivity>
-  <Findings>
-    Customer expressed concerns regarding investment returns. Potential investment fraud scheme.
-  </Findings>
+  <Party>
+    <Name>Ulrich Baumann</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <IdentificationType>German ID</IdentificationType>
+    <IdentificationNumber>1234567890</IdentificationNumber>
+  </Party>
+  <Findings>Account access restricted due to suspected fraudulent activity.  Potential loss of funds.</Findings>
 </SAR>

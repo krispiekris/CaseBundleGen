@@ -1,24 +1,20 @@
-<SAR id="SAR-20240301-003">
-  <ReportDate>2024-03-01</ReportDate>
-  <ReportingInstitution>Westpac Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-12-15</TransactionDate>
-      <TransactionAmount currency="AUD">250</TransactionAmount>
-      <TransactionType>Credit</TransactionType>
-      <OriginatingAccount>
-        <AccountName>David.Miller@example.com.au</AccountName>
-      </OriginatingAccount>
-      <BeneficiaryAccount>
-        <AccountName>Phoenix Rise Investments Ltd</AccountName>
-        <AccountNumber>1234567890</AccountNumber>
-        <BankName>First Central Bank (Cyprus)</BankName>
-        <IBAN>CY340000000000000000000000</IBAN>
-      </BeneficiaryAccount>
-      <Description>Small profit withdrawal</Description>
-    </Transaction>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Small profit withdrawal followed by significant loss attempts.</Finding>
-  </Findings>
+<SAR>
+  <Header>
+    <ReportDate>2024-02-05</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-20240205-003</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-01-18</TransactionDate>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>AI Trading Elite</SenderName>
+    <SenderAccount>GB86NWBK01234567890123</SenderAccount>
+    <RecipientName>Klaus Meier</RecipientName>
+    <RecipientAccount>DE12345678901234567890</RecipientAccount>
+    <Purpose>Withdrawal Request</Purpose>
+    <SuspiciousActivity>Potential Investment Fraud - AI Trading</SuspiciousActivity>
+    <Notes>Withdrawal request denied by AI Trading Elite. Customer reports account inaccessible. High probability of fraud.</Notes>
+  </Transaction>
 </SAR>

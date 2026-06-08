@@ -1,19 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <Header>
-    <ReportDate>2023-11-18</ReportDate>
-    <BankName>Deutsche Bank</BankName>
-    <ReferenceID>SAR-20231118-001</ReferenceID>
-  </Header>
+  <ReportDate>2023-11-11</ReportDate>
+  <Subject>
+    <Name>Innovative Trade AI</Name>
+    <Address>Virtual Address, PO Box 123, Lagos, Nigeria</Address>
+  </Subject>
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Address>Main Street 1, Frankfurt, Germany</Address>
+  </ReportingInstitution>
   <Transaction>
-    <TransactionDate>2023-11-15</TransactionDate>
-    <Amount>15000.00</Amount>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <Amount currency="EUR">5000</Amount>
     <Currency>EUR</Currency>
-    <SenderName>Hans Meier</SenderName>
-    <SenderAccount>DE12345678901234567890</SenderAccount>
-    <ReceiverName>Forex Alpha Ltd.</ReceiverName>
-    <ReceiverAccount>BZ12345678901234567890</ReceiverAccount>
-    <Description>Initial Investment</Description>
-    <SuspiciousActivity>Potential Investment Fraud</SuspiciousActivity>
-    <Notes>Customer deposited a large sum into an account registered to Forex Alpha Ltd., a company located in Belize. Further investigation is warranted.</Notes>
+    <Description>Deposit to Innovative Trade AI</Description>
+    <Originator>
+      <Name>Hans Meier</Name>
+    </Originator>
+    <Beneficiary>
+      <Name>Innovative Trade AI</Name>
+      <AccountIBAN>DE55370400440532018000</AccountIBAN>
+    </Beneficiary>
+    <SuspiciousActivity>Possible investment fraud - high-pressure tactics for additional fees.</SuspiciousActivity>
   </Transaction>
+  <Transaction>
+    <TransactionDate>2023-10-15</TransactionDate>
+    <Amount currency="EUR">15000</Amount>
+    <Currency>EUR</Currency>
+    <Description>Deposit to Innovative Trade AI</Description>
+    <Originator>
+      <Name>Hans Meier</Name>
+    </Originator>
+    <Beneficiary>
+      <Name>Innovative Trade AI</Name>
+      <AccountIBAN>DE55370400440532018000</AccountIBAN>
+    </Beneficiary>
+    <SuspiciousActivity>Possible investment fraud - high-pressure tactics for additional fees.</SuspiciousActivity>
+  </Transaction>
+  <Transaction>
+    <TransactionDate>2023-11-10</TransactionDate>
+    <Amount currency="EUR">10000</Amount>
+    <Currency>EUR</Currency>
+    <Description>Deposit to Innovative Trade AI - Release fee</Description>
+    <Originator>
+      <Name>Hans Meier</Name>
+    </Originator>
+    <Beneficiary>
+      <Name>Innovative Trade AI</Name>
+      <AccountIBAN>DE55370400440532018000</AccountIBAN>
+    </Beneficiary>
+    <SuspiciousActivity>Possible investment fraud - high-pressure tactics for additional fees.</SuspiciousActivity>
+  </Transaction>
+  <Findings>Client appears to be under duress. Further investigation recommended.</Findings>
 </SAR>

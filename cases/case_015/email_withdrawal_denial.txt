@@ -1,0 +1,13 @@
+From: support@secureglobalinvestments.com
+To: richard.avery@example.co.uk
+Subject: Important Notice - Account Maintenance
+
+Dear Richard,
+
+Due to scheduled maintenance on our platform, all withdrawal requests are currently being processed with a slight delay.  We apologize for any inconvenience this may cause.
+
+Our technical team is working diligently to resolve the issue.  We appreciate your patience and understanding.
+
+Sincerely,
+
+The Secure Global Investments Support Team

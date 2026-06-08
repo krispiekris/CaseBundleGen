@@ -1,19 +1,21 @@
 <SAR>
   <Header>
-    <ReferenceNumber>SAR-20231115-003</ReferenceNumber>
-    <DateFiled>2023-11-15</DateFiled>
-    <FinancialInstitution>Belize Bank International Limited</FinancialInstitution>
+    <SARReference>20231210-003</SARReference>
+    <DateFiled>2023-12-10</DateFiled>
+    <FilingBank>Deutsche Bank</FilingBank>
   </Header>
   <Transaction>
-    <TransactionDate>2023-10-01</TransactionDate>
-    <TransactionAmount currency="EUR">2500.00</TransactionAmount>
-    <TransactionType>Credit</TransactionType>
-    <SenderName>Markus Richter</SenderName>
-    <SenderAccount>DExxxxxxxxxxxxxxxxxxxx</SenderAccount>
-    <ReceiverName>AI Trading Pro Ltd.</ReceiverName>
-    <ReceiverAccount>BBxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
-    <Description>Unlock Profits</Description>
-    <SuspiciousActivity>Possible investment fraud - AI trading platform</SuspiciousActivity>
-    <Notes>Funds transferred to unlock withdrawal. Account associated with potentially fraudulent AI trading scheme.</Notes>
+    <TransactionID>5432109876</TransactionID>
+    <TransactionDate>2023-12-08</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <SenderName>Klaus Heinz</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Global Investments Ltd.</ReceiverName>
+    <ReceiverAccount>CY12345678901234567890</ReceiverAccount>
+    <PurposeCode>Wire Transfer</PurposeCode>
+    <SuspiciousActivity>Customer reporting fraudulent activity and attempted withdrawal issues.</SuspiciousActivity>
   </Transaction>
+  <Findings>
+    <Finding>Customer reporting suspicious activity and difficulty withdrawing funds.</Finding>
+  </Findings>
 </SAR>

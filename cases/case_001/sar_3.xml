@@ -1,18 +1,24 @@
 <SAR>
-  <ReportDate>2023-09-05</ReportDate>
-  <Institution>Commonwealth Bank of Australia</Institution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-08-15</TransactionDate>
-      <Amount>0.00</Amount>
-      <Currency>AUD</Currency>
-      <SenderName>David Miller</SenderName>
-      <ReceiverName>AI Extra Trading</ReceiverName>
-      <ReceiverAccount>1234567890</ReceiverAccount>
-      <ReceiverBank>Global Finance Corp</ReceiverBank>
-      <Description>Withdrawal Request Denied</Description>
-      <SuspiciousIndicator>Withdrawal request denied after previous investments</SuspiciousIndicator>
-    </Transaction>
-  </SuspiciousActivity>
-  <ReportingPerson>Bank Compliance Officer</ReportingPerson>
+  <Report>
+    <ReportingInstitution>Bundeskriminalamt (BKA)</ReportingInstitution>
+    <Date>2024-03-05</Date>
+    <SuspiciousActivity>
+      <Customer>
+        <Name>Klaus Meier</Name>
+        <Address>Musterstraße 123, 10115 Berlin</Address>
+      </Customer>
+      <Fraudster>
+        <Name>Alex (Pseudonym)</Name>
+        <ContactMethod>Telegram</ContactMethod>
+      </Fraudster>
+      <Company>
+        <Name>AI Trading Pro</Name>
+        <Jurisdiction>Cyprus</Jurisdiction>
+      </Company>
+      <Findings>
+        <SuspicionReason>Customer reports being defrauded of funds following promises of high returns through AI-driven investment platform.  Lack of verifiable information regarding the platform's operations and personnel.  Funds transferred to a Cypriot company with questionable legitimacy.</SuspicionReason>
+        <PotentialFraudType>Investment Fraud, Online Scams</PotentialFraudType>
+      </Findings>
+    </SuspiciousActivity>
+  </Report>
 </SAR>

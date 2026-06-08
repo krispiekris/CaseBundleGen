@@ -1,24 +1,25 @@
-<SAR>
+<SAR xmlns="http://www.example.com/sar">
   <Header>
-    <ReferenceID>SAR-2023-0522</ReferenceID>
-    <Date>2023-07-01</Date>
-    <Bank>Commonwealth Bank of Australia</Bank>
-    <BranchID>12345</BranchID>
+    <ReportDate>2023-11-12</ReportDate>
+    <SuspiciousActivity>
+      <TransactionType>Funds Transfer</TransactionType>
+      <Amount>2000.00</Amount>
+      <Currency>EUR</Currency>
+    </SuspiciousActivity>
   </Header>
-  <Transaction>
-    <TransactionID>TXN-002</TransactionID>
-    <Date>2023-05-10</Date>
-    <Amount>1500.00</Amount>
-    <Currency>AUD</Currency>
-    <SenderAccount>1234567890</SenderAccount>
-    <SenderName>David Anderson</SenderName>
-    <RecipientAccount>GB21NWBK202040082800</RecipientAccount>
-    <RecipientName>Apex Global Investments Ltd</RecipientName>
-    <Description>Withdrawal Attempt - Blocked</Description>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Potential investment fraud - AI Trading Pro</SuspiciousActivity>
-    <RiskLevel>High</RiskLevel>
-    <Notes>Customer attempting to withdraw funds. Account flagged due to previous unusual activity and recipient location.  Customer reported difficulties withdrawing funds.</Notes>
-  </Findings>
+  <Parties>
+    <Sender>
+      <Name>Helmut Meier</Name>
+      <Account>DE12345678901234567890</Account>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd</Name>
+      <Account>MT1234567890</Account>
+      <Country>MT</Country>
+    </Receiver>
+  </Parties>
+  <Details>
+    <Description>Additional investment transfer to AI Trading Pro platform.</Description>
+    <Justification>Multiple investments, potential pressure from investment advisor.</Justification>
+  </Details>
 </SAR>

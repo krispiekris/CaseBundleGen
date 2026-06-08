@@ -1,0 +1,15 @@
+Klaus: Hi
+Chukwu: Hello Klaus, welcome to AI Trading Solutions! I am Chukwu, your personal account manager.
+Klaus: Thanks! Excited to get started.
+Chukwu: Great!  Our AI is currently showing significant opportunity. You should see good returns.
+Klaus: Fantastic!
+Chukwu:  Just to confirm, you’ve deposited the initial 5000 EUR?
+Klaus: Yes, done.
+Chukwu: Excellent! The AI is already working.  You'll see profits accumulating.  A small withdrawal of 500 EUR is available now to demonstrate.
+Klaus: Really? That’s amazing.
+Chukwu: Yes.  The AI is proving its worth!  Consider increasing your deposit to maximize returns.
+Klaus: I think I will.
+Chukwu: Wonderful decision.
+Klaus: Just a question - where is the AI based?
+Chukwu: Our servers are located in a secure data center in the US. They are very advanced.
+Klaus: Okay, great.

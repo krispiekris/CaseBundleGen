@@ -1,12 +1,16 @@
-From: support@email.de
-To: karl.heinrich@email.de
-Subject: Important Update Regarding Your Account
+From: alex.volkov@aixcapital.com
+To: john.smith@example.com.au
+Subject: Regarding your Withdrawal Request
 
-Dear Karl,
+Dear John,
 
-We've received reports of suspicious activity regarding your account. To protect your funds, we've temporarily suspended your access.
+We've received your request to withdraw funds from your AIX Capital account.
 
-Please verify your identity by clicking on the following link: [Suspicious Link to Phishing Site]
+Due to recent market volatility, all withdrawal requests are currently being processed with a slight delay. We anticipate your funds will be available within 7-10 business days.
 
-Sincerely,
-The Email.de Support Team
+We appreciate your patience and understanding.
+
+Best regards,
+Alex Volkov
+Senior Investment Advisor
+AIX Capital

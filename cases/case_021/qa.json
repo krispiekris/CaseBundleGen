@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is the name of the AI algorithm used by AI Trading Solutions?",
-    "answer": "Athena"
+    "question": "What was the initial deposit amount made by Klaus M\u00fcller to AI Trading Solutions?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What was the amount of the first transfer made by Klaus Richter to AI Trading Solutions, according to the SAR report?",
-    "answer": "5000.00 EUR"
+    "question": "According to the promotional material, what is a key advantage of using AI Trading Solutions?",
+    "answer": "Passive income. Earn profits while you sleep, work, or travel."
   },
   {
-    "question": "Based on promotional material 2, what percentage of monthly return does AI Trading Solutions claim to achieve?",
-    "answer": "10-15%"
+    "question": "Based on the telegram chat log, what percentage return was initially promised to Klaus M\u00fcller within the first month?",
+    "answer": "15-20%"
   },
   {
-    "question": "What was the risk level assigned to the second SAR (SAR Reference 20240115-GER-002)?",
-    "answer": "High"
+    "question": "What country is the recipient account located in, as indicated in the SAR reports?",
+    "answer": "United States"
   },
   {
-    "question": "What special bonus was offered to new investors in the follow-up email?",
-    "answer": "A complimentary strategy session with one of our senior AI analysts"
+    "question": "What does the screenshot of the trading platform display regarding the account balance?",
+    "answer": "\u20ac8,250.00"
   },
   {
-    "question": "What description was used for the failed withdrawal attempt in SAR 3?",
-    "answer": "Failed Withdrawal Attempt - AI Trading Solutions"
+    "question": "What incentive is offered in the VIP upgrade promotional material?",
+    "answer": "A bonus \u20ac1,000 in trading credits"
   },
   {
-    "question": "What is the URL mentioned in the promotional material for receiving a personalized investment strategy?",
-    "answer": "https://www.aitradingsolutions.net/success"
+    "question": "Besides the initial deposit, what other amounts were transferred from Klaus M\u00fcller\u2019s account to AI Trading Solutions?",
+    "answer": "\u20ac2500 and \u20ac1000"
   },
   {
-    "question": "What does the screenshot of the trading platform display regarding 'Athena Performance'?",
-    "answer": "98.7%"
+    "question": "What triggered the Sparkasse N\u00fcrnberg to file a Suspicious Activity Report (SAR) regarding Klaus M\u00fcller's initial transaction?",
+    "answer": "Unusual large credit to an overseas account. Customer is new to international investments."
   },
   {
-    "question": "According to the email, why is AI Trading Solutions' algorithm advantageous?",
-    "answer": "It analyzes market trends and executes trades with unparalleled precision."
+    "question": "According to the email, what benefit does a VIP member receive?",
+    "answer": "Personalized support from a dedicated account manager"
   },
   {
-    "question": "Which entity name appears in both SAR 1 and SAR 2?",
-    "answer": "AI Trading Solutions"
+    "question": "What is the description provided for the transaction on 2024-01-10 in the SAR report?",
+    "answer": "Attempted deposit"
   }
 ]

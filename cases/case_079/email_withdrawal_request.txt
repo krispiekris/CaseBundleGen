@@ -1,0 +1,12 @@
+From: hans.meier@example.de
+To: support@aiinvestmentsglobal.com
+Subject: Withdrawal Request
+
+Dear AI Investments Global Support,
+
+Please process a withdrawal of €10,000.00 to my bank account: DE12345678901234567890.
+
+Thank you for your assistance.
+
+Sincerely,
+Hans Meier

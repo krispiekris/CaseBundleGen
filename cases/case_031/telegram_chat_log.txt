@@ -1,0 +1,18 @@
+David Miller: Hello
+OmegaIQ_Support: Hello David, welcome to OmegaIQ! How can we help you today?
+David Miller: I'm interested in learning more about the AI trading platform.
+OmegaIQ_Support: Great! Our AI algorithms are the best in the world. You'll see returns of 10-20% daily!
+David Miller: That sounds incredible. What's the minimum investment?
+OmegaIQ_Support: A minimum of $5,000 is required to activate the AI trading system.
+David Miller: Okay, I'm ready to invest.
+OmegaIQ_Support: Fantastic! Please send the funds to the account details we sent you.
+David Miller: Funds sent.
+OmegaIQ_Support: Excellent! Your AI trading system is now active. Check your dashboard for daily updates.
+David Miller: I see a profit of £8,000! Amazing!
+OmegaIQ_Support: That's just the beginning! With continued investment, your profits will grow exponentially.
+David Miller: Can I withdraw my initial investment plus profits?
+OmegaIQ_Support: Yes, of course. Please initiate a withdrawal request through your dashboard.
+David Miller: Request initiated.
+OmegaIQ_Support: Withdrawal approved. Funds will be processed shortly.
+David Miller: I tried to withdraw again today, but it's been denied.
+OmegaIQ_Support: There seems to be a temporary processing issue. Please wait 24-48 hours.

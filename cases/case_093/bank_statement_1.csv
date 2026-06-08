@@ -1,6 +1,1 @@
-Date,Description,Amount (EUR),IBAN
-2023-11-15,Facebook Ad,,- 
-2023-12-05,Transfer to Apex Trading Solutions,-5000.00,SC05XXXXXXX
-2024-01-15,Transfer to Apex Trading Solutions,-3000.00,SC05XXXXXXX
-2024-01-20,Interest,5.00,
-2024-02-10,Transfer to Apex Trading Solutions,-2000.00,SC05XXXXXXX
+Date,Description,Amount,Currency,Balance\n2023-08-31,Opening Balance,,-,100000\n2023-09-01,Payment to Global Investments Ltd,5000,USD,95000\n2023-09-05,Interest Earned,10,AUD,95010\n2023-11-10,Payment to Global Investments Ltd,3000,USD,92000\n2023-11-15,Utility Bill Payment,,-,91950\n2023-12-01,Grocery Purchase,,-,91850

@@ -1,0 +1,19 @@
+User: Hi
+Support: Welcome to Quantum Profits! How can I help you?
+User: I’m interested in learning more about the AI trading.
+Support: Our AI is currently generating 15% daily returns. Would you like a link to a case study?
+User: Yes please.
+Support: [Link to promotional material]
+User: Wow, that’s amazing! How do I get started?
+Support: Simply deposit €5000 to get started. It's a small investment for potentially huge gains.
+User: Ok, I’ll do that now.
+User: I’ve made the deposit.
+Support: Excellent! Your AI trading will begin immediately. Expect to see profits in your account within 24 hours.
+User: (Several messages about profits and withdrawing)
+Support: There’s a small processing fee to withdraw your profits. Please send €2000 to this account: GB21 NWBK 6000 0000 0000 000123
+User: I want to withdraw my original €5000 now.
+Support: We are experiencing technical difficulties with withdrawals. Please be patient. It's just a temporary issue.
+User: How long will this take?
+Support: A few days.
+User: Can I speak to someone?
+Support: We’re very busy right now, please check back later.

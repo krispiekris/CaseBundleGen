@@ -1,0 +1,5 @@
+Website Screenshot Description:
+
+The Apex Investments homepage features a sleek, modern design. A large headline reads "Unlock Your Financial Future with AI". Below, there's a graph showing rapidly increasing returns, labeled "Average Investor Gains: +35% Monthly".  There are prominent buttons: "Get Started" and "Learn More".  A testimonial section features a quote from "John S., Sydney" saying "Apex Investments has changed my life!"
+
+The footer includes links to "About Us", "Contact Us", and "Terms of Service".

@@ -1,7 +1,14 @@
-From: robert.harding@email.com
-To: support@apextradingsolutions.com
-Subject: Withdrawal Issue
+From: Günther Schmidt <gunther.schmidt@email.de>
+To: Alex Alpha <alex.alpha@alphatrading.net>
+Subject: Screenshot of Transfer
 
-I'm trying to withdraw funds from my account, but the withdrawal is blocked. Can you please assist me?
+Dear Alex,
 
-My account ID is RH12345.
+Here's the screenshot of the transfer I made to Global Investments Ltd.
+
+[Screenshot attached]
+
+Let me know when my account is set up and I can start trading.
+
+Regards,
+Günther Schmidt

@@ -1,20 +1,18 @@
-<SAR>
+<SAR xmlns="http://www.example.com/sar">
   <Header>
-    <ReportDate>2024-01-26</ReportDate>
-    <ReferenceNumber>SAR-20240126-002</ReferenceNumber>
+    <ReportDate>2023-11-01</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <CaseID>DB-SAR-2023-0055</CaseID>
   </Header>
   <Transaction>
-    <TransactionDate>2024-01-20</TransactionDate>
-    <Amount>5000</Amount>
+    <TransactionDate>2023-10-17</TransactionDate>
+    <Amount>10000.00</Amount>
     <Currency>EUR</Currency>
-    <SenderAccount>GB25NWBK00000012345678</SenderAccount>
-    <SenderName>Global Investments LTD</SenderName>
-    <ReceiverAccount>DE89370400440532013000</ReceiverAccount>
-    <ReceiverName>Ulrich Baumann</ReceiverName>
-    <Description>Withdrawal request</Description>
+    <SenderName>Markus Wagner</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>Global Investments Ltd.</RecipientName>
+    <RecipientAccount>CY12345678901234567890</RecipientAccount>
+    <PurposeCode>International Payment</PurposeCode>
+    <SuspiciousActivity>Possible investment fraud - Large transfer following promises of high returns. Account holder may be under pressure.</SuspiciousActivity>
   </Transaction>
-  <SuspiciousActivity>
-    <Finding>Withdrawal request flagged due to account inactivity and prior positive balance.</Finding>
-    <Justification>Account balance significantly higher than initial deposit, no prior withdrawal requests.</Justification>
-  </SuspiciousActivity>
 </SAR>

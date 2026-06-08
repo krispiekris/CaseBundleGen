@@ -1,0 +1,15 @@
+Screenshot of NovaTrade AI Trading Platform
+
+Account Balance: €18,750.00
+Available Balance: €1,500.00
+
+Open Positions:
+EUR/USD: Long, 100 units
+GBP/USD: Short, 50 units
+
+Recent Transactions:
+2023-09-01: +€2,500.00
+2023-09-08: +€1,800.00
+2023-09-15: +€3,200.00
+
+[Image of a graph showing exponential growth]

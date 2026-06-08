@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the stated average weekly return for members of the NovaTrade system, according to the initial invitation email?",
-    "answer": "18%"
+    "question": "What type of cryptocurrency did David Miller initially report losing?",
+    "answer": "Bitcoin and Ethereum"
   },
   {
-    "question": "What specific detail did Hans Baumann request from the Global Assets Team following the initial invitation?",
-    "answer": "More detail on the minimum investment required and the typical withdrawal process."
+    "question": "According to the SAR reports, what is the stated purpose of the funds transfers from David Miller?",
+    "answer": "Funds transfer for cryptocurrency recovery services"
   },
   {
-    "question": "According to the SAR reports, what is the account number associated with the transactions to NovaTrade AG?",
-    "answer": "1234567890"
+    "question": "What country is associated with the recipient, Gabriel Onyekachi, in the SAR reports?",
+    "answer": "Nigeria"
   },
   {
-    "question": "What is the initial amount of the first transfer made by Hans Baumann to NovaTrade AG, as documented in the bank statement?",
-    "answer": "5000.00 EUR"
+    "question": "What amount, in USD, did David Miller transfer to Gabriel Onyekachi on December 5th, 2023?",
+    "answer": "10,000.00"
   },
   {
-    "question": "Based on the Telegram conversation, what is the minimum deposit amount David Sterling suggests to maximize Hans Baumann\u2019s gains?",
-    "answer": "2000 EUR"
+    "question": "What is one potential red flag mentioned in the SAR findings regarding the cryptocurrency recovery services?",
+    "answer": "The recipient is located in Nigeria, a known source country for online scams."
   },
   {
-    "question": "Describe the overall impression conveyed by the NovaTrade platform login screen, as depicted in the screenshot.",
-    "answer": "Legitimate and trustworthy, designed to instill confidence in potential users."
+    "question": "Based on the Telegram chat log, what did Gabriel request from David after the initial contact?",
+    "answer": "$5,000 to cover the security fees"
   },
   {
-    "question": "What does the promotional material highlight as a key benefit of the NovaTrade system?",
-    "answer": "Consistent profits while users sleep"
+    "question": "What is a key claim made in the promotional website copy about Crypto Recovery Experts?",
+    "answer": "They have a proven track record of success"
   },
   {
-    "question": "What was the reason given for denying Hans Baumann\u2019s attempted withdrawal, according to SAR-2024-01-25-003?",
-    "answer": "Lack of clear explanation for denial"
+    "question": "What date is mentioned in the SAR report (SAR_3) as the date that client reported suspicion?",
+    "answer": "2024-01-10"
   },
   {
-    "question": "Which bank is listed as the beneficiary bank for the transfers to NovaTrade AG?",
-    "answer": "Sterling Bank Nigeria Limited"
+    "question": "What concerns were raised by the SAR reporting entity when the client reported suspicion of being scammed?",
+    "answer": "Multiple transfers to the same recipient, coupled with escalating requests for funds, raise significant concerns about fraudulent activity"
   },
   {
-    "question": "Which entities are linked to both an investment opportunity and a wire transfer destination?",
-    "answer": "Global Assets Team, NovaTrade AG"
+    "question": "What amount, in USD, did David Miller transfer on January 10th, 2024?",
+    "answer": "15000.00"
   }
 ]

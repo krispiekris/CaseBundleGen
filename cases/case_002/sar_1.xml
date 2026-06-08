@@ -1,20 +1,18 @@
-<sar>
-  <report>
-    <report_date>2023-09-20</report_date>
-    <institution_name>Deutsche Bank</institution_name>
-    <reporter_name>Compliance Officer</reporter_name>
-    <suspicious_activity>
-      <activity_date>2023-09-15</activity_date>
-      <transaction_amount currency="EUR">5000</transaction_amount>
-      <transaction_type>Debit</transaction_type>
-      <account_number>DExxxxxxxxxxxxxxxxxxxx</account_number>
-      <payer_name>Hans Meier</payer_name>
-      <payer_address>Musterstrasse 12, 12345 Musterstadt</payer_address>
-      <recipient_name>Innovative AIX</recipient_name>
-      <recipient_account>USxxxxxxxxxxxxxxxxxxxx</recipient_account>
-      <recipient_country>Belize</recipient_country>
-      <description>Initial deposit to automated trading platform</description>
-      <findings>Potential investment fraud - high-risk jurisdiction. Further investigation recommended.</findings>
-    </suspicious_activity>
-  </report>
-</sar>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReportDate>2023-10-17</ReportDate>
+  <InstitutionName>Deutsche Bank</InstitutionName>
+  <SuspiciousActivity>
+    <TransactionDate>2023-09-05</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Karl Heinz</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <RecipientName>NovaTrade AI</RecipientName>
+    <RecipientAccount>GBxxxxxxxxxxxxx</RecipientAccount>
+    <Description>Deposit to AI Trading Platform</Description>
+    <Suspicion>Unusual activity; Potential investment fraud</Suspicion>
+  </SuspiciousActivity>
+  <Investigator>Anna Schmidt</Investigator>
+  <ReportID>DB-20231017-001</ReportID>
+</SAR>

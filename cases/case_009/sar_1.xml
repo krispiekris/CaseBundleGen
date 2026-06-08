@@ -1,23 +1,16 @@
 <SAR>
-  <Header>
-    <ReportDate>2023-03-15</ReportDate>
-    <InstitutionID>First National Bank</InstitutionID>
-    <SuspiciousActivity>
-      <TransactionDate>2023-01-20</TransactionDate>
-      <TransactionAmount>5000.00</TransactionAmount>
-      <Currency>USD</Currency>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>David Miller</Name>
-        <Address>123 Main Street, Anytown, USA</Address>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>AIX Capital</Name>
-        <AccountID>XXXXXXXXXXXXXX</AccountID>
-        <Country>Belize</Country>
-      </Beneficiary>
-      <Description>Initial investment to AI Trading Platform</Description>
-      <SuspicionReason>Unusual investment destination and lack of transparency regarding the platform's operations.</SuspicionReason>
-    </SuspiciousActivity>
-  </Header>
+  <ReportDate>2023-11-22</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Quantum AI Technologies Ltd.</ReceiverName>
+    <ReceiverAccount>BZ9999999999</ReceiverAccount>
+    <ReceiverCountry>Belize</ReceiverCountry>
+    <Description>Deposit to investment account</Description>
+    <SuspicionReason>Unusually large deposit for a new customer. Origin of funds unclear.</SuspicionReason>
+  </SuspiciousActivity>
 </SAR>

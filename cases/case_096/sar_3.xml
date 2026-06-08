@@ -1,27 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sar>
-  <header>
-    <sar_id>SAR-20240201-003</sar_id>
-    <submission_date>2024-02-01</submission_date>
-    <reporter_institution>Commonwealth Bank of Australia</reporter_institution>
-  </header>
-  <transaction>
-    <transaction_id>TXN-20230901-001</transaction_id>
-    <transaction_date>2023-09-01</transaction_date>
-    <amount>10000.00</amount>
-    <currency>USD</currency>
-    <transaction_type>Debit</transaction_type>
-    <description>Transfer to AI Trading Pro</description>
-    <originating_party>
-      <name>David Miller</name>
-      <account_number>123456789</account_number>
-      <country>AU</country>
-    </originating_party>
-    <beneficiary_party>
-      <name>AI Trading Pro Ltd</name>
-      <account_number>987654321</account_number>
-      <country>AE</country>
-    </beneficiary_party>
-    <suspicious_activity>Further investigation warranted regarding the recipient's business operations and legitimacy.</suspicious_activity>
-  </transaction>
-</sar>
+<SAR>
+  <ReportDate>2024-01-20</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <OriginatingParty>
+      <Name>Hans Meier</Name>
+      <Address>Musterstrasse 1, 10115 Berlin, Germany</Address>
+      <AccountID>DE12345678901234567890</AccountID>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Global Investments Ltd.</Name>
+      <Country>Belize</Country>
+      <AccountID>BZ123456789</AccountID>
+    </BeneficiaryParty>
+    <Description>Subsequent wire transfer after being prompted by support and offered a "free consultation".</Description>
+    <Suspicion>Possible investment fraud. Aggressive and repeated solicitation for increased investment.</Suspicion>
+  </SuspiciousActivity>
+</SAR>

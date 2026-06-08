@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the welcome email, what is the primary purpose of AI Trading Pro's algorithms?",
-    "answer": "To identify and capitalize on market opportunities, generating returns for members."
+    "question": "What is the primary activity type reported in the first Suspicious Activity Report?",
+    "answer": "Unusual Transaction"
   },
   {
-    "question": "What was the initial amount transferred from Richard Boudreau's account to AI Trading Pro, as indicated in the SAR report?",
-    "answer": "5000.00"
+    "question": "According to promotional material, what is a key feature of Global AI Investments?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "What country is listed as the beneficiary country for transactions involving AI Trading Pro?",
-    "answer": "Serbia"
+    "question": "What amount was initially transferred to Global AI Investments by Klaus Werner?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "Based on the promotional material, what is highlighted as a key benefit of AI Trading Pro for users who are tired of traditional investing?",
-    "answer": "Real results"
+    "question": "Based on the email from 'GlobalAIInvestments_AccountManager@gmail.com', what percentage increase was initially reported in the AI trading portfolio?",
+    "answer": "32%"
   },
   {
-    "question": "What is the stated reason given by AI Trading Pro for the 5% processing fee applied to withdrawals?",
-    "answer": "Regulatory requirements and security protocols"
+    "question": "What is the stated purpose of the link provided in the email claiming to require account verification?",
+    "answer": "To verify account information and ensure security."
   },
   {
-    "question": "What was the total amount of the one-time verification fee requested by AI Trading Pro?",
-    "answer": "500"
+    "question": "What country is associated with the beneficiary account 'MY1234567890'?",
+    "answer": "Malaysia"
   },
   {
-    "question": "Describe the design and appearance of the AI Trading Pro website, as observed in the screenshot.",
-    "answer": "Sleek, modern design with a dark blue and white color scheme, a rotating carousel of testimonials, charts and graphs demonstrating returns, and a 'Join Now' button."
+    "question": "What triggered the withdrawal request denial mentioned in the second Suspicious Activity Report?",
+    "answer": "Victim attempting to withdraw funds"
   },
   {
-    "question": "What is a key feature mentioned in promotional material that emphasizes the simplicity of using AI Trading Pro?",
-    "answer": "No complicated strategies to learn!"
+    "question": "According to promotional material, what is the timeframe offered for doubling an investment?",
+    "answer": "30 days"
   },
   {
-    "question": "List the transaction types involved in the reported suspicious activity, including deposits to, and withdrawals from, Richard Boudreau's account.",
-    "answer": "Debit, Credit"
+    "question": "Which entities were communicated with Klaus Werner?",
+    "answer": "support@globalaiinvestments.com and GlobalAIInvestments_AccountManager@gmail.com"
   },
   {
-    "question": "According to the bank statement, when was a transaction fee of -10.00 registered?",
-    "answer": "2023-09-22, 2023-10-12, 2023-10-18"
+    "question": "What date appears in both the first and third Suspicious Activity Reports?",
+    "answer": "2024-03-12"
   }
 ]

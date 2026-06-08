@@ -1,25 +1,24 @@
 <SAR>
   <Header>
-    <ReportDate>2023-08-02</ReportDate>
-    <InstitutionID>Deutsche Handelsbank</InstitutionID>
-    <ReportingPersonID>S-67890</ReportingPersonID>
+    <ReportDate>2024-01-15</ReportDate>
+    <InstitutionID>BNZ1234</InstitutionID>
+    <Currency>AUD</Currency>
   </Header>
   <Transaction>
-    <TransactionDate>2023-06-22</TransactionDate>
-    <Amount currency="EUR">45000.00</Amount>
+    <TransactionID>TXN002</TransactionID>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount>10000</TransactionAmount>
     <TransactionType>Debit</TransactionType>
-    <Description>Withdrawal request from Hans Meier</Description>
-    <Party>
-      <CustomerID>HM-12345</CustomerID>
-      <Name>Hans Meier</Name>
-      <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
-    </Party>
-    <Beneficiary>
-      <AccountName>Hans Meier</AccountName>
-      <AccountNumber>[redacted]</AccountNumber>
-      <BankName>Deutsche Handelsbank</BankName>
-      <Country>Germany</Country>
-    </Beneficiary>
-    <SuspiciousActivity>Delayed withdrawal, customer expressing concerns about account activity.</SuspiciousActivity>
+    <OriginatingParty>
+      <Name>Mark Thomson</Name>
+      <Address>123 Main Street, Sydney, NSW 2000</Address>
+    </OriginatingParty>
+    <BeneficiaryParty>
+      <Name>Aionautics Capital Ltd</Name>
+      <Account>1234567890</Account>
+      <BankID>CYPRIANBANK</BankID>
+      <Country>CY</Country>
+    </BeneficiaryParty>
+    <SuspiciousActivity>Request for withdrawal denied. Client expresses concerns about return on investment.</SuspiciousActivity>
   </Transaction>
 </SAR>

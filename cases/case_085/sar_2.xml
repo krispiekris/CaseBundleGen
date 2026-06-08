@@ -1,28 +1,16 @@
-<SAR>
-  <Header>
-    <SARReference>20230915-GER-002</SARReference>
-    <DateTime>2023-09-15T09:00:00Z</DateTime>
-    <Bank>
-      <Name>Deutsche Bank</Name>
-      <Identifier>DEIN00000000</Identifier>
-    </Bank>
-  </Header>
+<SAR id="SAR-20240108-002">
   <Transaction>
-    <TransactionID>TXN-20230510-001</TransactionID>
-    <TransactionDateTime>2023-05-10T14:48:00Z</TransactionDateTime>
-    <Amount currency="EUR">250.00</Amount>
-    <Currency>EUR</Currency>
-    <Sender>
-      <Name>QuantumTrade Ltd.</Name>
-      <Account>MU12345678901234567890</Account>
-      <Jurisdiction>Marshall Islands</Jurisdiction>
-    </Sender>
-    <Receiver>
-      <Name>Klaus Mueller</Name>
-      <Account>DE12345678901234567890</Account>
-    </Receiver>
-    <PurposeCode>2020</PurposeCode>
-    <Description>Profit Payout - AI Trading</Description>
-    <SuspiciousActivity>Possible Investment Fraud - Unsolicited contact, high-pressure sales tactics, promised unrealistic returns.</SuspiciousActivity>
+    <Date>2024-01-05</Date>
+    <Amount currency="EUR">5000</Amount>
+    <Sender>Innovative Investments</Sender>
+    <Receiver>Hans Meier</Receiver>
+    <ReceiverAccount>DExxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Withdrawal attempt - Rejected</Description>
+    <SuspiciousActivity>Withdrawal blocked by platform. User reports inability to access funds.</SuspiciousActivity>
   </Transaction>
+  <Party>
+    <Name>Hans Meier</Name>
+    <Country>Germany</Country>
+  </Party>
+  <Findings>Withdrawal blocked. Possible scam. Further investigation required.</Findings>
 </SAR>

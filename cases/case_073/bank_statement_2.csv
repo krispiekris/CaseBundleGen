@@ -1,1 +1,5 @@
-Date,Description,Amount (CAD),\n2023-03-01,Income Deposit,4500,\n2023-03-15,Transfer to Crypto Exchange,1000,\n2023-04-22,Crypto Payment - Belizean Investments,8800,\n2023-05-01,Income Deposit,4500,\n2023-05-15,Crypto Payment - St. Vincent Trading,4400,\n2023-06-10,Crypto Payment - Belizean Investments,2650,\n2023-07-10,Withdrawal,10000,\n2023-07-31,Income Deposit,4500
+Date,Description,Amount (EUR),Balance (EUR)
+2023-09-12,Incoming transfer,2000,11800
+2023-09-28,Interest,50,11850
+2023-10-10,Withdrawal, -1000, 10850
+2023-11-20,Withdrawal request, -15000, -4150

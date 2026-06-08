@@ -1,58 +1,51 @@
 {
-  "case_id": "2024-Gamma-782",
+  "case_id": "2024-CYB-00789",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac75,000 - \u20ac100,000",
-    "country": "Germany",
+    "age_range": "65-74",
+    "income_range": "$75,000 - $100,000",
+    "country": "United States",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Seychelles"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Initial contact via Telegram"
+      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
     },
     {
       "date": "2023-09-01",
-      "event": "First investment made"
+      "event": "Initial deposit made by victim"
     },
     {
       "date": "2023-11-10",
-      "event": "Victim expresses concern about lack of withdrawals"
+      "event": "Victim requested withdrawal, denied"
     },
     {
-      "date": "2023-12-05",
-      "event": "Communication abruptly ceases"
-    },
-    {
-      "date": "2024-01-20",
+      "date": "2024-01-22",
       "event": "Victim reports fraud to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bitcoin",
-      "amount_range": "0.5 - 1.5 BTC"
-    },
-    {
-      "type": "Ethereum",
-      "amount_range": "2 - 5 ETH"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "$5,000 - $15,000"
     },
     {
       "type": "Bank Transfers",
-      "amount_range": "\u20ac15,000 - \u20ac35,000"
+      "amount_range": "$2,000 - $8,000"
     }
   ]
 }

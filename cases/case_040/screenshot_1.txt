@@ -1,0 +1,3 @@
+Screenshot Description: NovaTrade AI Dashboard
+
+The screenshot shows a web page with a clean, modern design.  The header prominently displays the NovaTrade AI logo.  Below the header is a large graph showing an upward trend, labeled "Account Performance."  Next to the graph is a box displaying the current account balance: €15,000.  A section titled "Recent Trades" lists several simulated trades with positive profit margins.  A large button at the bottom reads "Deposit Funds Now."

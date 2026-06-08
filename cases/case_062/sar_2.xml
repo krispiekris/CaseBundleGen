@@ -1,22 +1,24 @@
-<SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2023-11-22</ReportDate>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
-  <SuspiciousTransaction>
-    <TransactionDate>2023-11-18</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <OriginatingParty>
-      <Name>Klaus Schmidt</Name>
-      <Address>Musterstrasse 1, 12345 Musterstadt</Address>
-      <Country>Germany</Country>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>GlobalTech Investments Ltd.</Name>
-      <Account>1234567890</Account>
-      <BankName>Fidelity Bank</BankName>
-      <Country>Malta</Country>
-    </BeneficiaryParty>
-    <SuspiciousActivity>Large transfer amount for the customer's profile. Customer attempting withdrawal denied.</SuspiciousActivity>
-    <ReportReferenceNumber>SAR-2023-11-002</ReportReferenceNumber>
-  </SuspiciousTransaction>
+<SAR id="SAR-20240115-002">
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Address>Level 1, 10 Martin Place, Sydney NSW 2000</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Address>12 Acacia Avenue, Melbourne VIC 3000</Address>
+    <DateOfBirth>1972-05-10</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2024-01-10</Date>
+    <Amount currency="AUD">2000</Amount>
+    <Type>Credit</Type>
+    <Description>Withdrawal request</Description>
+    <Beneficiary>
+      <Name>David Miller</Name>
+    </Beneficiary>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unsuccessful withdrawal request after significant deposits. Further investigation warranted.</SuspiciousActivity>
+    <RiskLevel>Low</RiskLevel>
+  </Findings>
 </SAR>

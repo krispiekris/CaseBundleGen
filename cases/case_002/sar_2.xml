@@ -1,20 +1,18 @@
-<sar>
-  <report>
-    <report_date>2023-11-20</report_date>
-    <institution_name>Deutsche Bank</institution_name>
-    <reporter_name>Compliance Officer</reporter_name>
-    <suspicious_activity>
-      <activity_date>2023-11-01</activity_date>
-      <transaction_amount currency="EUR">1000</transaction_amount>
-      <transaction_type>Credit</transaction_type>
-      <account_number>DExxxxxxxxxxxxxxxxxxxx</account_number>
-      <payer_name>Innovative AIX</payer_name>
-      <payer_address>Belize</payer_address>
-      <recipient_name>Hans Meier</recipient_name>
-      <recipient_account>DExxxxxxxxxxxxxxxxxxxx</recipient_account>
-      <recipient_country>Germany</recipient_country>
-      <description>Withdrawal of profits</description>
-      <findings>Potential investment fraud - withdrawal of small amount before full withdrawal attempt.</findings>
-    </suspicious_activity>
-  </report>
-</sar>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReportDate>2023-11-01</ReportDate>
+  <InstitutionName>Deutsche Bank</InstitutionName>
+  <SuspiciousActivity>
+    <TransactionDate>2023-09-26</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Karl Heinz</SenderName>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <RecipientName>NovaTrade AI</RecipientName>
+    <RecipientAccount>GBxxxxxxxxxxxxx</RecipientAccount>
+    <Description>Deposit to AI Trading Platform</Description>
+    <Suspicion>Unusual activity; Potential investment fraud</Suspicion>
+  </SuspiciousActivity>
+  <Investigator>Anna Schmidt</Investigator>
+  <ReportID>DB-20231101-002</ReportID>
+</SAR>

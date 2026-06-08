@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is the name of the AI trading platform?",
-    "answer": "Athena"
+    "question": "What is the initial amount that Hans Meier transferred to Global Forex Partners, according to the bank statement?",
+    "answer": "5000.00"
   },
   {
-    "question": "What was the guaranteed minimum return offered to new investors in the second follow-up email?",
-    "answer": "8%"
+    "question": "According to the promotional material, what is one key benefit that Global Forex Partners offers to new clients?",
+    "answer": "Earn High Returns"
   },
   {
-    "question": "What country is the recipient bank, Global Finance Ltd., located in?",
-    "answer": "Belize"
+    "question": "What is the recipient bank account number for the initial investment transaction, as documented in SAR-001?",
+    "answer": "BZ770340100100000000"
   },
   {
-    "question": "Based on the Suspicious Activity Reports, what two amounts were transferred by Hans Meier to AI FX Capital?",
-    "answer": "5000 EUR and 10000 EUR"
+    "question": "What is stated in the screenshot description about the client's experience with Global Forex Partners?",
+    "answer": "Results vary, but our clients consistently experience significant returns."
   },
   {
-    "question": "What did the promotional brochure state as a benefit of using the AI system, beyond financial returns?",
-    "answer": "Minimizes human error and emotional decision-making, reducing overall risk."
+    "question": "What specific risk management technique is mentioned in the promotional material for Global Forex Partners' trading strategy?",
+    "answer": "Robust risk management techniques"
   },
   {
-    "question": "According to the promotional video transcript, what did a testimonial claim about AI FX Capital?",
-    "answer": "It has exceeded expectations and is achieving financial freedom."
+    "question": "What date did Hans Meier request a withdrawal of \u20ac10,000?",
+    "answer": "2023-12-05"
   },
   {
-    "question": "What was the outcome of the attempted withdrawal on November 1st?",
-    "answer": "The transaction failed."
+    "question": "Based on the SAR report SAR-002, what concern prompted the suspicious activity flag for the second transaction?",
+    "answer": "Multiple transactions to offshore entity."
   },
   {
-    "question": "Besides the initial and secondary transfer amounts mentioned in SARs, what other type of transaction is recorded related to Hans Meier?",
-    "answer": "Attempted withdrawal"
+    "question": "What are the two entities named in the SAR files?",
+    "answer": "Hans Meier, Global Forex Partners"
   },
   {
-    "question": "What does the screenshot of the trading platform indicate regarding the system\u2019s performance as of September 15th?",
-    "answer": "+12.7%"
+    "question": "According to the email_followup_1.txt, what is the concern that potential clients often express before starting to trade Forex?",
+    "answer": "Fear of the unknown"
   },
   {
-    "question": "Which entities appear in both the promotional brochure and the Suspicious Activity Reports?",
-    "answer": "AI FX Capital, Global Finance Ltd."
+    "question": "What is the main purpose of Global Forex Partners\u2019 automated trading algorithms, as described in promotional_material_strategy.txt?",
+    "answer": "Analyze market trends and execute trades 24/7"
   }
 ]

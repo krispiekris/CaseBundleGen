@@ -1,21 +1,20 @@
-<SAR>
-  <ReportID>SAR-20240105-002</ReportID>
-  <Date>2024-01-05</Date>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
-  <SuspiciousActivity>
-    <Type>Withdrawal Request Denial</Type>
-    <Description>Customer Hans Schmidt attempted to withdraw funds (€3,000) from his account, which was subsequently denied by the Innovative AI Investments platform.  Reason cited was "system maintenance".</Description>
-    <TransactionDetails>
-      <Amount currency="EUR">3000</Amount>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <ReportDate>2024-02-10</ReportDate>
+    <SuspiciousActivity>
+      <TransactionID>TXN-67890</TransactionID>
+      <TransactionType>Deposit</TransactionType>
+      <Amount>10000.00</Amount>
       <Currency>EUR</Currency>
-      <Date>2024-01-05</Date>
-      <Beneficiary>Hans Schmidt</Beneficiary>
-      <IBAN/>
-    </TransactionDetails>
-    <PartyInformation>
-      <CustomerID>HS-12345</CustomerID>
-      <CustomerName>Hans Schmidt</CustomerName>
-      <CustomerAddress>Musterstraße 1, 10115 Berlin, Germany</CustomerAddress>
-    </PartyInformation>
-  </SuspiciousActivity>
+      <OriginatingBank>Commerzbank</OriginatingBank>
+      <BeneficiaryBank>ApexAlgo Finance Ltd.</BeneficiaryBank>
+      <BeneficiaryAccount>1234-5678-9012-3456</BeneficiaryAccount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAddress>Musterstrasse 1, 12345 Berlin, Germany</SenderAddress>
+    </SuspiciousActivity>
+    <Suspicion>
+      <Reason>Pattern of Deposits</Reason>
+      <Details>Second deposit from the same individual within a short timeframe, raising concerns about potential investment fraud.</Details>
+    </Suspicion>
+  </Header>
 </SAR>

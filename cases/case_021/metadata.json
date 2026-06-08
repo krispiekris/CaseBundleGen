@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,7 +12,8 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
@@ -21,34 +22,30 @@
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Initial contact via email"
+      "date": "2023-11-10",
+      "event": "Initial contact via Telegram"
     },
     {
-      "date": "2023-12-05",
-      "event": "Investment of \u20ac5,000"
+      "date": "2023-11-25",
+      "event": "First deposit made"
     },
     {
-      "date": "2024-01-10",
-      "event": "Request for additional investment"
+      "date": "2024-01-15",
+      "event": "Victim expresses concern about withdrawals"
     },
     {
-      "date": "2024-02-22",
-      "event": "Victim realizes funds are lost"
-    },
-    {
-      "date": "2024-03-01",
-      "event": "Formal complaint filed"
+      "date": "2024-02-01",
+      "event": "Victim reports suspicious activity"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac30,000"
     },
     {
       "type": "Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

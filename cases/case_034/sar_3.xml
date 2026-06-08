@@ -1,39 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <CaseID>20240110-003</CaseID>
-  <DateFiled>2024-01-10</DateFiled>
-  <BankName>Deutsche Bank</BankName>
-  <BranchID>DB-MU-005</BranchID>
-  <SuspiciousActivity>
+<SAR xmlns="http://www.finra.org/sar">
+  <Header>
+    <ReportDate>2024-07-27</ReportDate>
+    <InstitutionID>GLOBAL_FOREX_BEL</InstitutionID>
+    <ReportType>SuspiciousActivity</ReportType>
+  </Header>
+  <Parties>
+    <BeneficialOwner>
+      <Name>Hans Schmidt</Name>
+      <Address>Germany</Address>
+    </BeneficialOwner>
+    <Counterparty>
+      <Name>Global Forex Group</Name>
+      <Address>Belize</Address>
+    </Counterparty>
+  </Parties>
+  <Transactions>
     <Transaction>
-      <TransactionID>TXN-90123</TransactionID>
-      <TransactionDate>2023-11-22</TransactionDate>
-      <Amount>5000.00</Amount>
-      <Currency>USD</Currency>
-      <SenderAccount>DE45300100000000000000</SenderAccount>
-      <SenderName>Karl Heinz</SenderName>
-      <ReceiverAccount>0078901234</ReceiverAccount>
-      <ReceiverName>James Oluwafemi</ReceiverName>
-      <ReceiverBank>Sterling Bank</ReceiverBank>
-      <ReceiverCountry>Nigeria</ReceiverCountry>
-      <Description>Security Clearance Fee</Description>
-    </Transaction>
-    <Transaction>
-      <TransactionID>TXN-45678</TransactionID>
-      <TransactionDate>2023-12-05</TransactionDate>
-      <Amount>2000.00</Amount>
+      <TransactionDate>2023-12-01</TransactionDate>
+      <Amount>25000.00</Amount>
       <Currency>EUR</Currency>
-      <SenderAccount>DE45300100000000000000</SenderAccount>
-      <SenderName>Karl Heinz</SenderName>
-      <ReceiverAccount>0078901234</ReceiverAccount>
-      <ReceiverName>James Oluwafemi</ReceiverName>
-      <ReceiverBank>Sterling Bank</ReceiverBank>
-      <ReceiverCountry>Nigeria</ReceiverCountry>
-      <Description>Further Security Clearance</Description>
+      <Description>Deposit from Hans Schmidt</Description>
+      <TransactionType>Credit</TransactionType>
     </Transaction>
-  </SuspiciousActivity>
+  </Transactions>
   <Findings>
-    <Finding>Multiple transactions to same recipient account with suspicious descriptions.  Potential indication of fraud. Customer has reported concerns about the legitimacy of the recipient.</Finding>
+    <Finding>Multiple instances of delayed withdrawal requests and requests for additional verification from a user.</Finding>
+    <Finding>Suspicious activity warranting further investigation into client access and platform security.</Finding>
   </Findings>
-  <ReportingBankEmployee>Anna Schmidt</ReportingBankEmployee>
 </SAR>

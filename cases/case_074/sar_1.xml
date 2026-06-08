@@ -1,27 +1,19 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-09-05</ReportDate>
-    <ReferenceID>SAR-20230905-001</ReferenceID>
-    <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-09-01</TransactionDate>
-    <TransactionAmount currency="CAD">5000.00</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <SenderAccount>CA1234567890123456</SenderAccount>
-    <ReceiverAccount>CY8912345678901234567890</ReceiverAccount>
-    <ReceiverName>Global Investments Ltd.</ReceiverName>
-    <Description>Online Investment</Description>
-    <SuspiciousActivity>Potential Investment Fraud - Unsolicited Contact</SuspiciousActivity>
-  </Transaction>
-  <Parties>
-    <Sender>
-      <Name>David Miller</Name>
-      <Address>123 Main Street, Anytown, Canada</Address>
-    </Sender>
-    <Receiver>
-      <Name>Global Investments Ltd.</Name>
-      <Country>Cyprus</Country>
-    </Receiver>
-  </Parties>
+<SAR id="SAR-20231115-001">
+  <ReportDate>2023-11-16</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-15</TransactionDate>
+      <TransactionAmount currency="EUR">5000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverAccount>GB22BARD37660400000001</ReceiverAccount>
+      <ReceiverName>Global Investments Ltd</ReceiverName>
+      <SuspiciousIndicator>Unusual transaction for customer profile. Large credit from unknown source.</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <CustomerInformation>
+    <CustomerID>123456789</CustomerID>
+    <CustomerName>Johannes Meier</CustomerName>
+  </CustomerInformation>
 </SAR>

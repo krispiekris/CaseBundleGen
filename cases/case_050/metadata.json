@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-10-27-Alpha-007",
+  "case_id": "2024-03-15-Alpha-007",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac90,000",
+    "income_range": "\u20ac75,000 - \u20ac125,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -17,39 +17,43 @@
     ]
   },
   "destination_countries": [
-    "United States",
-    "Hong Kong"
+    "Seychelles",
+    "Marshall Islands"
   ],
   "timeline": [
     {
+      "date": "2023-09-10",
+      "event": "Initial contact via Telegram"
+    },
+    {
+      "date": "2023-10-05",
+      "event": "Victim deposits \u20ac5,000"
+    },
+    {
       "date": "2023-11-15",
-      "event": "Initial Contact - Victim receives unsolicited email"
+      "event": "Victim deposits \u20ac15,000"
     },
     {
-      "date": "2023-11-22",
-      "event": "Victim invests \u20ac5,000"
+      "date": "2023-12-20",
+      "event": "Victim attempts withdrawal; receives excuses"
     },
     {
-      "date": "2023-12-10",
-      "event": "Victim attempts withdrawal - denied"
-    },
-    {
-      "date": "2024-01-18",
-      "event": "Victim invests additional \u20ac10,000"
+      "date": "2024-01-15",
+      "event": "Victim realizes fraud"
     },
     {
       "date": "2024-03-01",
-      "event": "Victim reports to authorities"
+      "event": "Report filed with German police"
     }
   ],
   "assets_involved": [
     {
       "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
+      "amount_range": "\u20ac20,000 - \u20ac30,000"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac15,000 - \u20ac20,000"
+      "type": "Bank Account (EUR)",
+      "amount_range": "\u20ac20,000 - \u20ac30,000"
     }
   ]
 }

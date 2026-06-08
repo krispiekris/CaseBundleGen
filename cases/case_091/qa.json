@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is a key characteristic of the AI trading system offered by Secure Investments?",
-    "answer": "Generates consistent profits for investors."
+    "question": "According to the initial email, what bonus was offered to new clients?",
+    "answer": "A 100% match on your first deposit!"
   },
   {
-    "question": "What was the amount of the initial transaction reported in the SAR, and what was its description?",
-    "answer": "5000.00 EUR, Payment to Secure Investments"
+    "question": "What is the stated jurisdiction for resolving any disputes arising from the account agreement?",
+    "answer": "The courts of Belize."
   },
   {
-    "question": "Based on promotional material, what is one benefit offered to individuals who join the VIP program?",
-    "answer": "Access to our most profitable AI models"
+    "question": "What type of activity was recorded on 2023-07-10, according to the first Suspicious Activity Report?",
+    "answer": "Withdrawal Denial"
   },
   {
-    "question": "What actions did Secure Investments request from Klaus to reactivate his account?",
-    "answer": "Proof of identity (copy of passport or driver\u2019s license), Proof of address (utility bill or bank statement), Detailed explanation of your investment history"
+    "question": "What was the total amount deposited into Hans Meier's account between April 1st and June 1st, 2023, according to the bank statement?",
+    "answer": "23000.00"
   },
   {
-    "question": "What was the account balance displayed in the screenshot of the trading platform?",
-    "answer": "\u20ac5750.00"
+    "question": "What is the primary concern highlighted in the second Suspicious Activity Report regarding Forex Elite Global?",
+    "answer": "Concerns raised regarding legitimacy of Forex Elite Global."
   },
   {
-    "question": "What is the domain name displayed at the top left corner of the screenshot of the trading platform?",
-    "answer": "secureinvestments.co"
+    "question": "What did the screenshot of the trading platform prominently display?",
+    "answer": "The Forex Elite Global logo"
   },
   {
-    "question": "What did the second SAR (SAR-20231206-002) identify as a suspicious activity?",
-    "answer": "Fabricated profit statement, lack of transparency"
+    "question": "Based on the promotional material, what are two perceived benefits of joining Forex Elite Global?",
+    "answer": "Simple & User-Friendly Platform, Expert Support & Guidance"
   },
   {
-    "question": "What reason did Secure Investments provide for the temporary suspension of Klaus's trading privileges?",
-    "answer": "Suspicious activity on your account"
+    "question": "What did Hans Meier express when requesting the closure of his account, as reported in the third Suspicious Activity Report?",
+    "answer": "Concerns about withdrawal limitations and lack of clarity regarding fees and investment strategy."
   },
   {
-    "question": "Based on the bank statements, what was Klaus\u2019s salary?",
-    "answer": "2500.00"
+    "question": "What action was taken regarding the account on 2023-09-20 and what did this indicate?",
+    "answer": "Investigation Hold, indicating concerns regarding the legitimacy of Forex Elite Global."
   },
   {
-    "question": "Which entity is mentioned in the promotional material but not the SAR reports?",
-    "answer": "None"
+    "question": "What fees were deducted from the account after the withdrawal request, according to the bank statement?",
+    "answer": "An Account Closure Fee of 100.00"
   }
 ]

@@ -1,24 +1,15 @@
-<SAR>
-  <Header>
-    <SARReference>20240115-002</SARReference>
-    <BankName>Commonwealth Bank of Australia</BankName>
-    <Date>2024-01-15</Date>
-  </Header>
-  <Transaction>
-    <TransactionID>TXN-987654321</TransactionID>
-    <TransactionDate>2024-01-10</TransactionDate>
-    <Amount>10000</Amount>
-    <Currency>USD</Currency>
-    <SenderName>David Miller</SenderName>
-    <SenderAccount>1234567890</SenderAccount>
-    <ReceiverName>Global Investments LTD</ReceiverName>
-    <ReceiverAccount>BG88UNCR7000140000001</ReceiverAccount>
-    <ReceiverBank>Unicredit Bank</ReceiverBank>
-    <ReceiverCountry>Bulgaria</ReceiverCountry>
-    <Description>Withdrawal Request Denial</Description>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Withdrawal request denied. Inconsistent with reported returns. Possible attempt to obstruct funds recovery.</SuspiciousActivity>
-    <ReportOriginator>Automated System</ReportOriginator>
-  </Findings>
+<SAR id="SAR-2023-11-17-002">
+  <Date>2023-11-17</Date>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <Currency>EUR</Currency>
+  <TransactionAmount>2500</TransactionAmount>
+  <SenderName>Dr. Markus Schmidt</SenderName>
+  <SenderAccount>1234567890</SenderAccount>
+  <ReceiverName>Reliable Trading Solutions Ltd.</ReceiverName>
+  <ReceiverAccount>9876543210</ReceiverAccount>
+  <ReceiverCountry>Malta</ReceiverCountry>
+  <TransactionType>Wire Transfer</TransactionType>
+  <Description>Additional investment to automated trading platform.</Description>
+  <SuspiciousActivity>Victim attempting to withdraw funds denied by platform. Multiple SARs filed regarding similar platform. Requires further investigation.</SuspiciousActivity>
+  <Investigator>Markus Klein</Investigator>
 </SAR>

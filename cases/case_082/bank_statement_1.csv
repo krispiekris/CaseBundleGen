@@ -1,7 +1,6 @@
-Date,Description,Amount (EUR),Recipient IBAN
-2023-11-10,Salary,6500.00,
-2023-11-15,Transfer Out, -5000.00,GB21NWBK00000000001234
-2023-11-20,Grocery Shopping, -150.00,
-2023-11-25,Rent Payment, -1200.00,
-2023-11-30,Utilities, -250.00,
-2023-12-01,Transfer Out, -5000.00,GB21NWBK00000000001234
+Date,Description,Amount (EUR),Balance (EUR)
+2023-08-10,Incoming Salary,3500.00,8500.00
+2023-08-25,Rent Payment,-900.00,7600.00
+2023-09-01,Transfer to Global Forex Pro,-5000.00,2600.00
+2023-10-15,Transfer to Global Forex Pro,-10000.00,-7400.00
+2023-11-10,Incoming Salary,3500.00,-3900.00

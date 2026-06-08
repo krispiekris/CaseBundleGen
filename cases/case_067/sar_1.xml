@@ -1,30 +1,24 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-09-05</ReportDate>
-    <SuspiciousActivity>
-      <Type>Unusual Transaction</Type>
-      <Description>Large cash deposits followed by rapid transfers to overseas accounts.</Description>
-    </SuspiciousActivity>
-  </Header>
-  <Parties>
-    <Sender>
-      <Name>Klaus Heinz</Name>
-      <Address>Musterstraße 123, 10115 Berlin, Germany</Address>
-    </Sender>
-    <Receiver>
-      <Name>Global Forex Solutions</Name>
-      <Country>Nigeria</Country>
-    </Receiver>
-  </Parties>
-  <Transactions>
-    <Transaction>
-      <Date>2023-09-01</Date>
-      <Amount>30000 EUR</Amount>
-      <Currency>EUR</Currency>
-      <Description>Cash Deposit</Description>
-    </Transaction>
-  </Transactions>
-  <Findings>
-    <Finding>Suspicious pattern of cash deposits and rapid international transfers.</Finding>
-  </Findings>
+<SAR id="SAR-20231201-001">
+  <ReportDate>2023-12-02</ReportDate>
+  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+  <ReportingInstitutionIdentifier>DEBA0001</ReportingInstitutionIdentifier>
+  <Customer>
+    <Name>Hans Mueller</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Customer>
+  <Transaction>
+    <TransactionDate>2023-12-01</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Beneficiary>
+      <Name>Innovative Investments Ltd.</Name>
+      <Address>Suite 714, First Floor, Heritage Plaza, PO Box 958, Road Town, Tortola, VG, British Virgin Islands</Address>
+      <Account>1234567890</Account>
+      <Bank>RBC Royal Bank (Cayman) Ltd.</Bank>
+    </Beneficiary>
+    <Description>Initial Investment - AI Trading</Description>
+    <SuspiciousActivity>Unusual investment activity, high transfer amount relative to customer profile.</SuspiciousActivity>
+  </Transaction>
+  <Investigator>Klaus Schmidt</Investigator>
 </SAR>

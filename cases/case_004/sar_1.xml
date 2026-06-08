@@ -1,14 +1,23 @@
-<SAR id="SAR-2023-10-05-001">
-  <ReportDate>2023-10-05</SwingConstants>T</ReportDate>
-  <BankName>Canadian Risk Bank</BankName>
-  <AccountName>David Miller</AccountName>
-  <AccountID>1234567890</AccountID>
-  <TransactionDate>2023-09-28</TransactionDate>
-  <TransactionAmount currency="CAD">50000.00</TransactionAmount>
-  <TransactionDescription>Wire Transfer to QuantumLeap Investments - Belize</TransactionDescription>
-  <BeneficiaryName>QuantumLeap Investments</BeneficiaryName>
-  <BeneficiaryAccount>XYZ123456789</BeneficiaryAccount>
-  <BeneficiaryBank>Belize International Bank</BeneficiaryBank>
-  <Finding>Potential investment fraud. Unusual transfer to offshore account.</Finding>
-  <ReportSubmittedBy>Sarah Chen</ReportSubmittedBy>
+<SAR>
+  <Header>
+    <ReportDate>2023-04-05</ReportDate>
+    <InstitutionID>Deutsche Bank</InstitutionID>
+    <SuspiciousActivityID>SAR-2023-001</SuspiciousActivityID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-04-01</TransactionDate>
+    <TransactionAmount>5000.00</TransactionAmount>
+    <Currency>EUR</Currency>
+    <SenderName>Klaus Heinz</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>Global Investments</RecipientName>
+    <RecipientAccount>GB23NWBK00000000001234</RecipientAccount>
+    <Description>Online Forex Investment</Description>
+    <SuspicionReason>Unusual large transfer to offshore entity. Lack of transparency regarding investment activity.</SuspicionReason>
+  </Transaction>
+  <Party>
+    <PartyName>Klaus Heinz</PartyName>
+    <Address>Musterstrasse 1, 10115 Berlin, Germany</Address>
+  </Party>
+  <Findings>Potential investment fraud. Further investigation recommended.</Findings>
 </SAR>

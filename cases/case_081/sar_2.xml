@@ -1,27 +1,26 @@
-<SAR xmlns="http://www.irs.gov/">
+<SAR>
   <Header>
-    <SARID>20240115-AU-002</SARID>
-    <FilingDate>2024-01-15</FilingDate>
-    <FilerID>XYZ Bank Australia</FilerID>
+    <ReportID>20240221-002</ReportID>
+    <DateFiled>2024-02-21</DateFiled>
+    <FilerID>Deutsche Bank</FilerID>
   </Header>
   <Transaction>
     <TransactionID>TXN-002</TransactionID>
-    <TransactionDate>2023-09-05</TransactionDate>
-    <Amount>30000</Amount>
-    <Currency>AUD</Currency>
-    <TransactionType>Deposit</TransactionType>
-    <Description>Online transfer from personal account to trading account</Description>
-    <OriginatingParty>
-      <Name>Robert Harding</Name>
-      <Address>12 Acacia Avenue, Sydney, NSW, 2000, Australia</Address>
-      <TaxpayerID>XXX-XXX-XXX</TaxpayerID>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>Apex Trading Solutions</Name>
-      <Address>Level 7, 152 Elizabeth Street, Sydney, NSW, 2000, Australia</Address>
-    </BeneficiaryParty>
-    <SuspiciousActivity>Potential investment fraud, unusual activity pattern</SuspiciousActivity>
-    <SuspicionType>Unusual Transaction</SuspicionType>
-    <FilerComments>Customer initiated a significant transfer to a trading platform after initial small profits.</FilerComments>
+    <TransactionDate>2024-02-20</TransactionDate>
+    <TransactionAmount currency="EUR">1500</TransactionAmount>
+    <Sender>
+      <Name>Günther Schmidt</Name>
+      <AccountID>DE12345678901234567890</AccountID>
+    </Sender>
+    <Receiver>
+      <Name>Global Investments Ltd.</Name>
+      <AccountID>XX123456789</AccountID>
+      <Country>Marshall Islands</Country>
+    </Receiver>
+    <Description>Withdrawal attempt - rejected by system</Description>
   </Transaction>
+  <Findings>
+    <SuspiciousActivity>Attempted withdrawal from account with unusual transaction history. Prior large deposit followed by smaller withdrawals. Potential fraud.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

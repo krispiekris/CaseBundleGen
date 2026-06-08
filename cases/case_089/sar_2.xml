@@ -1,25 +1,22 @@
-<sar>
-  <header>
-    <sar_id>SAR-20230515-002</sar_id>
-    <submission_date>2023-05-15</submission_date>
-    <financial_institution>Global Bank Australia</financial_institution>
-  </header>
-  <customer>
-    <name>David Miller</name>
-    <address>12 Acacia Avenue, Sydney, NSW 2000, Australia</address>
-    <customer_id>DM12345</customer_id>
-  </customer>
-  <transaction>
-    <transaction_date>2023-05-10</transaction_date>
-    <transaction_amount>2500.00</transaction_amount>
-    <transaction_currency>AUD</transaction_currency>
-    <transaction_description>Withdrawal Request - AI Prosper</transaction_description>
-    <recipient_name>AI Prosper Investments Ltd</recipient_name>
-    <recipient_account>1234567890</recipient_account>
-    <recipient_bank>Offshore Global Bank</recipient_bank>
-    <recipient_country>Belize</recipient_country>
-  </transaction>
-  <findings>
-    <finding>Withdrawal request denied by AI Prosper. Customer reported inability to access funds.</finding>
-  </findings>
-</sar>
+<SAR>
+  <Header>
+    <ReferenceNumber>SAR-2023-1222-UK</ReferenceNumber>
+    <DateFiled>2024-01-15</DateFiled>
+    <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="GBP">20000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Description>Transfer to AI Trading Pro</Description>
+    <OriginatingParty>
+      <Name>Richard Baker</Name>
+      <Address>12 Oak Avenue, London, SW1A 1AA, UK</Address>
+    </OriginatingParty>
+    <Beneficiary>
+      <Name>AI Trading Pro</Name>
+      <IBAN>GB29NWBK00000000001234</IBAN>
+    </Beneficiary>
+    <SuspiciousActivity>Multiple transfers to the same beneficiary following unsolicited communications.  Customer appeared overly enthusiastic about investment returns.</SuspiciousActivity>
+  </Transaction>
+</SAR>

@@ -1,0 +1,10 @@
+[2023-08-15 14:32:00] David (AI Trading Pro): Hello Helmut! Welcome to AI Trading Pro. I'm David, your personal investment advisor.
+[2023-08-15 14:35:00] Helmut Meier: Hello David. Thanks for reaching out.
+[2023-08-15 14:37:00] David (AI Trading Pro): Great! Are you ready to experience the power of AI trading?
+[2023-08-15 14:40:00] Helmut Meier: I'm interested. Tell me more.
+[2023-08-15 14:45:00] David (AI Trading Pro): Our AI has a win rate of over 85%! You can start with a small investment and see the profits roll in.
+[2023-09-01 10:00:00] David (AI Trading Pro): Your first investment has been processed. You'll start seeing profits very soon!
+[2023-11-08 16:00:00] Helmut Meier: David, I would like to withdraw my funds now.
+[2023-11-08 16:15:00] David (AI Trading Pro): There's been a slight technical issue with withdrawals. Please wait 24 hours.
+[2023-11-09 18:00:00] Helmut Meier: It’s been more than 24 hours. Any update?
+[2023-11-09 18:30:00] David (AI Trading Pro): We are still resolving the issue. Please be patient.  Your profits are growing!

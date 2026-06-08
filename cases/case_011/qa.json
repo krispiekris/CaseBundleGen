@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount Markus Richter transferred to AI Trading Pro?",
-    "answer": "5000.00 EUR"
+    "question": "According to the initial email, what technology does AI Trading Pro claim to utilize?",
+    "answer": "Artificial intelligence"
   },
   {
-    "question": "According to promotional material, what is one of the advertised benefits of joining AI Trading Pro?",
-    "answer": "Potential for High Returns"
+    "question": "What is the purpose code listed for the transactions involving Klaus Heinz and Global Investments Ltd.?",
+    "answer": "Wire Transfer"
   },
   {
-    "question": "What is the name of the bank Markus Richter's account is with?",
+    "question": "What concerns did Klaus Heinz express to Victor Adebayo regarding his withdrawal request?",
+    "answer": "The withdrawal seemed delayed and he inquired if everything was alright."
+  },
+  {
+    "question": "Based on the promotional material, what is one benefit of using AI Trading Pro mentioned to potential investors?",
+    "answer": "Consistent returns, even in volatile markets."
+  },
+  {
+    "question": "Which bank filed the SARs related to Klaus Heinz\u2019s transactions?",
     "answer": "Deutsche Bank"
   },
   {
-    "question": "Besides the initial investment, how much more money was requested from Markus Richter to 'Unlock Profits'?",
-    "answer": "2500.00 EUR"
+    "question": "What additional verification fee, and to what account, was Klaus Heinz asked to pay according to email_3.txt?",
+    "answer": "EUR 2,500 to Account Name: Global Security Fund, Bank: First National Bank (Nigeria), Account Number: 9876543210, Swift Code: FNBNNGLA"
   },
   {
-    "question": "What reason did AI Trading Pro cite for needing an additional \u20ac5000 deposit to process Markus's withdrawal?",
-    "answer": "Transaction fees and regulatory compliance"
+    "question": "What is the reference number of the SAR filed on December 10th, 2023?",
+    "answer": "20231210-003"
   },
   {
-    "question": "What does the screenshot of the AI Trading Pro platform display?",
-    "answer": "A graph of fluctuating lines, an account balance of \u20ac7500.00, a 'Withdraw Funds' button, and a note about an unlocking fee."
+    "question": "What action is flagged as suspicious activity in the SAR filed on September 6th, 2023?",
+    "answer": "Unusual large transfer to offshore account"
   },
   {
-    "question": "Which bank is listed in the SAR report relating to the second transfer of 2500 EUR?",
-    "answer": "Belize Bank International Limited"
+    "question": "Which entity appears to be facilitating the transactions mentioned in the case files?",
+    "answer": "Global Investments Ltd."
   },
   {
-    "question": "Based on the promotional material, what is one advantage of AI Trading Pro's technology?",
-    "answer": "Uses cutting-edge artificial intelligence to analyze market trends."
-  },
-  {
-    "question": "What appears to be the sequence of events related to Markus Richter's interactions with AI Trading Pro, starting with the first deposit?",
-    "answer": "Initial investment of 5000 EUR, additional investment of 2500 EUR, request for 2500 EUR to unlock profits, request for 5000 EUR to cover transaction fees and regulatory compliance."
-  },
-  {
-    "question": "What is the email address used for communication with Markus Richter regarding his AI Trading Pro account?",
-    "answer": "markus.richter@email.de"
+    "question": "Besides Klaus Heinz, what other names are mentioned in the provided files?",
+    "answer": "Victor Adebayo"
   }
 ]

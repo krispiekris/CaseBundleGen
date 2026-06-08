@@ -1,7 +1,7 @@
-Date,Description,Amount (EUR),IBAN
-2023-08-15,Transfer to Global Investments, -5000,DE1234567890
-2023-09-01,Investment in AI, -10000,DE1234567890
-2023-09-05,Income, 2500,DE1234567890
-2023-09-10,Income, 2500,DE1234567890
-2023-11-10,Withdrawal request, -5000,DE1234567890
-2024-01-28,Additional Investment, -1000,DE1234567890
+Date,Description,Amount (EUR),Balance (EUR)
+2023-09-05,Salary Credit,4000.00,44000.00
+2023-09-19,Interest Income,50.00,43950.00
+2023-10-03,Online Purchase,-75.00,43875.00
+2023-10-17,Salary Credit,4000.00,47875.00
+2023-11-10,Withdrawal Attempt,,-1000.00
+2023-12-05,Transfer Blocked,,-20000.00

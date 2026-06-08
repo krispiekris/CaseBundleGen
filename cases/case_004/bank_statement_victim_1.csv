@@ -1,0 +1,9 @@
+Date,Description,Amount (EUR),Balance (EUR)
+2023-03-01,Starting Balance,,
+2023-03-15,Transfer to Global Forex,20000,-20000
+2023-04-01,Funds Transfer,20000,-20000
+2023-04-15,Interest,1200,-18800
+2023-06-15,Transfer to Global Forex,10000,-28800
+2023-07-15,Interest,600,-28200
+2023-08-15,Transfer to Global Forex,5000,-33200
+2023-09-15,Interest,300,-32900

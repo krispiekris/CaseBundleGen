@@ -1,0 +1,14 @@
+From: support@globalinvestments.net
+To: hans.meier@example.com
+Subject: URGENT: Account Verification Required
+
+Dear Hans,
+
+We have detected unusual activity on your account and require immediate verification to prevent unauthorized access. Please click on the link below to verify your account within 24 hours.
+
+[Suspicious Link]
+
+Failure to verify your account within the specified time frame may result in temporary suspension.
+
+Sincerely,
+The Global Investments Team

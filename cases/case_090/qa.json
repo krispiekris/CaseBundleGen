@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR reports, what is the primary reason for the initial suspicious activity?",
-    "answer": "Unusually large initial transfer to a newly established online investment platform."
+    "question": "What was the initial amount of the wire transfer from Marc Baumann to Fincorp Investments Ltd.?",
+    "answer": "15000.00 EUR"
   },
   {
-    "question": "What was the initial deposit amount made by Mark Hamilton to Aionautics Trading, as indicated in the SAR reports?",
-    "answer": "$20,000.00"
+    "question": "What is the purpose of 'Apex AI Trading' as described in its promotional materials?",
+    "answer": "To generate returns using artificial intelligence."
   },
   {
-    "question": "Based on the promotional material, what is the minimum investment required to utilize Aionautics Trading's AI technology?",
-    "answer": "$20,000"
+    "question": "What type of suspicious activity was reported in SAR-2023-07-10-002?",
+    "answer": "Customer Marc Baumann attempted a withdrawal request which was subsequently denied due to platform restrictions."
   },
   {
-    "question": "What service did Mark Hamilton seek from Aionautics Trading support after experiencing issues accessing his account?",
-    "answer": "Regaining access to his account"
+    "question": "What is the subject of the email exchange between Daniel Schmidt and Marc Baumann?",
+    "answer": "Connecting on LinkedIn - AI Trading Opportunities"
   },
   {
-    "question": "What is the subject line of the email Mark Hamilton sent to Aionautics Trading support?",
-    "answer": "Unable to access my account"
+    "question": "According to the screenshot of the trading platform, what is the general trend of the 'AI Performance' graph?",
+    "answer": "Steady upward trend with several exaggerated spikes."
   },
   {
-    "question": "What date does the SAR report concerning Mark Hamilton\u2019s initial deposit (SAR-20230401-001) indicate?",
-    "answer": "2023-04-01"
+    "question": "What did Marc Baumann report in SAR-2023-09-22-003?",
+    "answer": "Fraudulent activity and inability to withdraw funds from Apex AI Trading account."
   },
   {
-    "question": "What details are provided in the screenshot description regarding the appearance of the Aionautics Trading website?",
-    "answer": "Modern, clean design with a dark blue and white color scheme. Prominent use of AI and robotics imagery."
+    "question": "What is the origin country of the wire transfers involving Marc Baumann and Fincorp Investments Ltd.?",
+    "answer": "Germany"
   },
   {
-    "question": "Considering the telegram chat export and the SAR reports, what happened after Mark Hamilton\u2019s initial deposit and first withdrawal?",
-    "answer": "Mark Hamilton was unable to contact his account manager and experienced difficulties accessing the platform."
+    "question": "Based on the information provided, list the entities involved in the investment scheme.",
+    "answer": "Daniel Schmidt, Marc Baumann, Fincorp Investments Ltd., Schmidt Consulting, Apex AI Trading"
   },
   {
-    "question": "According to the promotional material, what is Aionautics Trading\u2019s claim about the win rate of its AI trading bots?",
-    "answer": "97%"
+    "question": "Which promotional material highlights the concept of effortless investment growth?",
+    "answer": "Apex AI Trading - Your Path to Financial Freedom"
   },
   {
-    "question": "What is the sequence of events described in the telegram chat export relating to Mark Hamilton\u2019s initial interaction with Alex?",
-    "answer": "Alex welcomed Mark, informed him of the $20,000 minimum deposit, confirmed the deposit receipt, and later mentioned exceptionally good bot performance before processing a withdrawal."
+    "question": "What is the destination country for the wire transfers originating from Germany?",
+    "answer": "Belize"
   }
 ]

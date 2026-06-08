@@ -1,0 +1,1 @@
+Screenshot Description: The AETradingBots platform displays a dashboard with simulated trading charts showing rapid and unrealistic gains.  There's a prominent 'Auto-Trade' button and various graphs labeled 'AI Performance' and 'Profit Margin.' The user interface has a sleek, modern design, with a chat window open showing a message: 'Welcome! Your AI is working hard for you!'

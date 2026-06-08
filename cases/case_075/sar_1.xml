@@ -1,21 +1,20 @@
-<SAR>
-  <ReportID>SAR-20231117-001</ReportID>
-  <Date>2023-11-17</Date>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
-  <SuspiciousActivity>
-    <Type>Unusual Investment Activity</Type>
-    <Description>Customer Hans Schmidt made an initial investment of €5,000 via BTC to Innovative AI Investments platform. The transaction originated from an unknown wallet.</Description>
-    <TransactionDetails>
-      <Amount currency="EUR">5000</Amount>
+<SAR xmlns="http://www.example.com/sar">
+  <Header>
+    <ReportDate>2023-11-20</ReportDate>
+    <SuspiciousActivity>
+      <TransactionID>TXN-12345</TransactionID>
+      <TransactionType>Deposit</TransactionType>
+      <Amount>5000.00</Amount>
       <Currency>EUR</Currency>
-      <Date>2023-11-17</Date>
-      <Beneficiary>Innovative AI Investments</Beneficiary>
-      <IBAN/>
-    </TransactionDetails>
-    <PartyInformation>
-      <CustomerID>HS-12345</CustomerID>
-      <CustomerName>Hans Schmidt</CustomerName>
-      <CustomerAddress>Musterstraße 1, 10115 Berlin, Germany</CustomerAddress>
-    </PartyInformation>
-  </SuspiciousActivity>
+      <OriginatingBank>Sparkasse</OriginatingBank>
+      <BeneficiaryBank>ApexAlgo Finance Ltd.</BeneficiaryBank>
+      <BeneficiaryAccount>1234-5678-9012-3456</BeneficiaryAccount>
+      <SenderName>Hans Meier</SenderName>
+      <SenderAddress>Musterstrasse 1, 12345 Berlin, Germany</SenderAddress>
+    </SuspiciousActivity>
+    <Suspicion>
+      <Reason>Unusual Transaction Amount</Reason>
+      <Details>Initial investment from a German resident to an entity with unclear origin.</Details>
+    </Suspicion>
+  </Header>
 </SAR>

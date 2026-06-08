@@ -1,15 +1,15 @@
-<sar>
-  <report_id>SAR-20230915-002</report_id>
-  <date>2023-09-15</date>
-  <bank_name>Deutsche Bank</bank_name>
-  <transaction_type>Credit</transaction_type>
-  <amount>3000.00</amount>
-  <currency>EUR</currency>
-  <sender_name>Ulrich Baumann</sender_name>
-  <sender_account>DExxxxxxxxxxxxxxxxxxxx</sender_account>
-  <recipient_name>AI Trading Pro Ltd</recipient_name>
-  <recipient_account>GBxxxxxxxxxxxxxxxxxxxx</recipient_account>
-  <recipient_bank>Barclays Bank</recipient_bank>
-  <description>Additional Investment - AI Trading Pro</description>
-  <findings>Potential investment fraud. Victim reported platform "glitches" and encouragement to deposit more funds.</findings>
-</sar>
+<SAR id="SAR-20231020-002">
+  <ReportDate>2023-10-20</ReportDate>
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-10-15</TransactionDate>
+    <TransactionAmount currency="AUD">3000</TransactionAmount>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>AI Investments Platform</SenderName>
+    <SenderAccount>9876543210</SenderAccount>
+    <ReceiverName>David Miller</ReceiverName>
+    <ReceiverAccount>1234567890</ReceiverAccount>
+    <Description>Automated Trading Profits</Description>
+    <Suspicion>Potential fraudulent activity - unsolicited transfer of funds claiming to be investment profits</Suspicion>
+  </SuspiciousActivity>
+</SAR>

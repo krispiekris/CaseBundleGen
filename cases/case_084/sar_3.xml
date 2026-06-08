@@ -1,16 +1,27 @@
 <SAR>
   <Header>
-    <ReportDate>2024-01-10</ReportDate>
-    <InstitutionIdentifier>Barclays</InstitutionIdentifier>
+    <ReportDate>2023-12-07</ReportDate>
+    <SuspiciousActivity>
+      <Description>Continued unusual transfers related to cryptocurrency recovery scam</Description>
+    </SuspiciousActivity>
   </Header>
   <Transaction>
-    <TransactionDate>2024-01-05</TransactionDate>
-    <TransactionAmount currency="EUR">15000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <Sender>NovaTech AI Platform</Sender>
-    <Receiver>Hans Meier</Receiver>
-    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
-    <Description>Withdrawal request denied</Description>
-    <SuspiciousActivity>Withdrawal request denial followed by insistent communication from platform.</SuspiciousActivity>
+    <TransactionID>90123</TransactionID>
+    <TransactionDate>2023-12-06</TransactionDate>
+    <Amount>1000</Amount>
+    <Currency>USD</Currency>
+    <Sender>
+      <Name>David Miller</Name>
+      <AccountID>AU1234567890</AccountID>
+      <Country>Australia</Country>
+    </Sender>
+    <Receiver>
+      <Name>CryptoRecoveryExperts Wallet</Name>
+      <AccountID>US9876543210</AccountID>
+      <Country>United States</Country>
+    </Receiver>
   </Transaction>
+  <Findings>
+    <Finding>Continued transfers to CryptoRecoveryExperts, indicating ongoing fraudulent activity.</Finding>
+  </Findings>
 </SAR>

@@ -1,31 +1,20 @@
-<SAR>
-  <Header>
-    <SARReference>20240115-GER-002</SARReference>
-    <DateTime>2024-01-15T14:15:00Z</DateTime>
-    <Institution>
-      <Name>Deutsche Bank</Name>
-      <Identifier>DB-GER-001</Identifier>
-    </Institution>
-  </Header>
-  <Transaction>
-    <Amount Currency="EUR">3000.00</Amount>
-    <Date>2024-01-10</Date>
-    <Description>Transfer to AI Trading Solutions - Additional Investment</Description>
-    <Origin>
-      <Account>
-        <IBAN>DE12345678901234567890</IBAN>
-        <Name>Klaus Richter</Name>
-      </Account>
-    </Origin>
-    <Destination>
-      <Account>
-        <IBAN>ZA88011100110000123456</IBAN>
-        <Name>AI Trading Solutions</Name>
-      </Account>
-    </Destination>
-  </Transaction>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-01-22</ReportDate>
+  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-15</TransactionDate>
+      <TransactionAmount currency="EUR">2500</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Klaus Müller</SenderName>
+      <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+      <RecipientName>AI Trading Solutions</RecipientName>
+      <RecipientAccount>USxxxxxxxxxxxxx</RecipientAccount>
+      <RecipientCountry>United States</RecipientCountry>
+      <Description>Additional deposit to investment platform</Description>
+    </Transaction>
+  </SuspiciousActivity>
   <Findings>
-    <SuspiciousActivity>Follow-up transfer to the same foreign entity after initial investment, requested for increased returns.</SuspiciousActivity>
-    <RiskLevel>High</RiskLevel>
+    <Finding>Follow-up deposit made after initial investment. Customer shows high engagement with AI Trading Solutions.</Finding>
   </Findings>
 </SAR>

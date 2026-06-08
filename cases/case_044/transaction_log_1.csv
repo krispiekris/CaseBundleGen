@@ -1,0 +1,6 @@
+Transaction ID,Date,Type,Amount (EUR),Description,Status
+12345,2023-08-28,Incoming,1234.56,Salary Payment,Completed
+12346,2023-09-01,Outgoing,5000.00,Investment - Alpha AI,Completed
+12347,2023-09-15,Outgoing,7500.00,Investment - Alpha AI,Completed
+12348,2023-11-01,Outgoing,1000.00,Withdrawal Request,Failed
+12349,2023-11-03,Incoming,1000.00,Withdrawal - Returned,Completed

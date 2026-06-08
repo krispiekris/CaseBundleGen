@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial bonus offered to new members of NovaTrade AI, according to the first email?",
-    "answer": "100 EUR in trading credits"
+    "question": "What average monthly return was initially advertised for the 'Chronos' AI Trading System?",
+    "answer": "15-30%"
   },
   {
-    "question": "According to the SAR report from March 22, 2023, what was the description associated with the transaction involving Klaus Heinz's account?",
-    "answer": "Transfer to NovaTrade AI"
+    "question": "According to the SAR reports, what was the initial description given for the transactions involving David Miller and Global Investments?",
+    "answer": "Investment - AI Trading System"
   },
   {
-    "question": "What was the balance in Klaus Heinz's account after the transfer to NovaTrade AI, as shown in the bank statement?",
-    "answer": "-5000.00"
+    "question": "What country is Global Investments' office located in, as stated on the website?",
+    "answer": "Malta"
   },
   {
-    "question": "What are two potential benefits of using NovaTrade AI, as described in the promotional material?",
-    "answer": "Maximize your returns with our advanced algorithms and No trading experience required"
+    "question": "What reason was given in email 3 for the delay in processing David Miller\u2019s withdrawal request?",
+    "answer": "Increased demand"
   },
   {
-    "question": "What reason did NovaTrade AI give for delaying Klaus Heinz\u2019s withdrawal request, according to email 2?",
-    "answer": "Ongoing system maintenance and security verification protocols"
+    "question": "Besides the initial investment, what was the total amount David Miller invested with Global Investments, according to the bank statements?",
+    "answer": "15000"
   },
   {
-    "question": "Based on SAR-2023-05-15-002, what was the main reason for the denied withdrawal request?",
-    "answer": "Withdrawal Request Denied - NovaTrade AI"
+    "question": "What was the primary reason for the Suspicious Activity flagged in the SAR report dated 2023-12-05?",
+    "answer": "victim requesting withdrawal experiencing difficulties"
   },
   {
-    "question": "What action was Klaus Heinz instructed to take to expedite the verification process in email 2?",
-    "answer": "Reply to the email with a screenshot of his ID and a recent utility bill"
+    "question": "What phrase or tagline is associated with Global Investments in promotional material 2?",
+    "answer": "Your Path to Financial Freedom"
   },
   {
-    "question": "According to the third email, what consequence could Klaus face if he fails to verify his account within 24 hours?",
-    "answer": "Permanent account closure"
+    "question": "What detail does Global Investments request from David Miller in email 3 to expedite the withdrawal process?",
+    "answer": "account details"
   },
   {
-    "question": "What additional amount was Klaus Heinz instructed to transfer to a specified account in email 4 to prevent account closure?",
-    "answer": "2,500 EUR"
+    "question": "Considering the SAR reports, what is the sequence of events regarding David Miller\u2019s investment and withdrawal attempts?",
+    "answer": "Initial investment, second investment, withdrawal request, withdrawal attempt failure."
   },
   {
-    "question": "According to promotional material 2, what sentiment is expressed about the effectiveness of NovaTrade AI by Ingrid B.?",
-    "answer": "It has completely transformed my investment strategy!"
+    "question": "Which entities were involved in the transactions described in the SAR report with the most recent report date?",
+    "answer": "David Miller, Global Investments, ABCCorp"
   }
 ]

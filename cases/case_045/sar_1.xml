@@ -1,15 +1,20 @@
 <SAR>
   <Header>
-    <ReportDate>2023-09-05</ReportDate>
-    <SuspiciousActivity>
-      <TransactionType>Deposit</TransactionType>
-      <TransactionAmount>5000.00</TransactionAmount>
-      <Currency>USD</Currency>
-    </SuspiciousActivity>
-    <Party>
-      <SenderName>Richard Adams</SenderName>
-      <SenderAccount>XXXXXXXXXXXXXXX</SenderAccount>
-    </Party>
-    <Description>Possible investment fraud. Initial deposit to online trading platform.</Description>
+    <ReportDate>2023-11-27</ReportDate>
+    <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
+    <SARID>DB-20231127-001</SARID>
   </Header>
+  <Transaction>
+    <TransactionDate>2023-11-25</TransactionDate>
+    <TransactionAmount currency="EUR">5000</TransactionAmount>
+    <SenderName>Hans Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>NovaTrade Solutions Ltd.</RecipientName>
+    <RecipientAccount>GB83NWBK000000000012345</RecipientAccount>
+    <Description>Investment - NovaTrade AI</Description>
+    <SuspiciousActivity>Unusually large transfer to an unknown entity.</SuspiciousActivity>
+    <Findings>
+      <Finding>Potential investment fraud. Recipient entity located offshore.</Finding>
+    </Findings>
+  </Transaction>
 </SAR>

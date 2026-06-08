@@ -1,0 +1,15 @@
+From: support@ai-tradingpro.com
+To: david.miller@email.com
+Subject: Important Update Regarding Your Withdrawal Request
+
+Dear David,
+
+We received your withdrawal request.  Due to increased security protocols, we require a small verification fee of $200 to process your request.  This is a one-time fee and ensures the safety of your funds.
+
+To proceed, please send the verification fee to the following Bitcoin wallet address:
+[Bitcoin Wallet Address - Fictitious]
+
+Once the fee is received, your withdrawal will be processed immediately.
+
+Sincerely,
+The AI Trading Pro Support Team

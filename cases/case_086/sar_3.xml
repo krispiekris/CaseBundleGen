@@ -1,15 +1,21 @@
-<SAR id="SAR-20240220-003">
-  <ReportDate>2024-02-20</ReportDate>
+<SAR id="SAR-2024-0217">
+  <ReportDate>2024-03-07</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <TransactionDate>2024-01-10</TransactionDate>
-  <TransactionAmount currency="EUR">0</TransactionAmount>
-  <TransactionType>Debit</TransactionType>
-  <SenderName>Hans Meier</SenderName>
-  <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
-  <RecipientName>Innovative Profits Limited</RecipientName>
-  <RecipientAccount>GBxxxxxxxxxxxxx</RecipientAccount>
-  <PurposeCode>14 - Other</PurposeCode>
-  <Description>Attempted withdrawal from online trading platform - rejected</Description>
-  <SuspiciousActivity>Potential investment fraud. Customer reports difficulty withdrawing funds. Platform unresponsive.</SuspiciousActivity>
-  <FiledBy>SuspicionMonitoringTeam</FiledBy>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-02-20</TransactionDate>
+      <TransactionAmount currency="EUR">10000</TransactionAmount>
+      <TransactionType>Credit</TransactionType>
+      <SenderName>Hans Schmidt</SenderName>
+      <ReceiverName>QuantumAI Investments Ltd.</ReceiverName>
+      <ReceiverAccount>DExxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
+      <Description>Additional deposit to unlock profits</Description>
+      <SuspiciousIndicator>Large deposit requested to "unlock" profits; potential pressure tactic</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <CustomerInformation>
+    <CustomerName>Hans Schmidt</CustomerName>
+    <CustomerAddress>Musterstraße 1, 12345 Musterstadt</CustomerAddress>
+  </CustomerInformation>
+  <AdditionalNotes>The customer has reported the transaction as fraudulent and has filed a police report.</AdditionalNotes>
 </SAR>

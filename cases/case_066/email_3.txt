@@ -1,0 +1,12 @@
+From: aionautics.support@globalfinance.eu
+To: david.miller@email.com
+Subject: Withdrawal Request Processing
+
+Dear David,
+
+This email confirms receipt of your withdrawal request. Due to increased security protocols, we require verification of your account. Please click the link below to complete the verification process:
+
+[https://verify-aionautics.com/verification.php?user=david.miller]
+
+Sincerely,
+The Aionautics Support Team

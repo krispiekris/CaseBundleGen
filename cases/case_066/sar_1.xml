@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportDate>2023-10-12</ReportDate>
-  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+<SAR id="SAR-20231021-001">
+  <ReportingInstitution>
+    <Name>First National Bank</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Address>456 Oak Avenue, Anytown, USA</Address>
+    <DateOfBirth>1968-05-10</DateOfBirth>
+  </Subject>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-10-11</TransactionDate>
-      <TransactionAmount>7500.00</TransactionAmount>
-      <Currency>USD</Currency>
-      <TransactionType>Wire Transfer</TransactionType>
-      <OriginatingParty>
-        <Name>David Miller</Name>
-        <Address>123 Main Street, Sydney, NSW, 2000, Australia</Address>
-        <AccountID>XXXXXXXXXXXXXX</AccountID>
-      </OriginatingParty>
-      <BeneficiaryParty>
-        <Name>Global Investments LTD</Name>
-        <Country>Cyprus</Country>
-        <AccountID>YYYYYYYYYYYYY</AccountID>
-        <BankName>Horizon Bank</BankName>
-        <SwiftCode>HORIBANK</SwiftCode>
-      </BeneficiaryParty>
-      <Description>Wire transfer to Global Investments LTD</Description>
-    </Transaction>
-    <SuspicionSummary>Funds transferred to an overseas entity with limited public information.  Potential for investment fraud.  Recipient matches a known entity associated with fraudulent investment schemes.</SuspicionSummary>
-    <ReportingPerson>John Smith</ReportingPerson>
-    <Position>Suspicion Monitoring Officer</Position>
+    <Date>2023-10-20</Date>
+    <Amount>10000.00</Amount>
+    <Currency>USD</Currency>
+    <TransactionType>Wire Transfer</TransactionType>
+    <Description>Wire transfer from David Miller to Aionautics Trading Platform</Description>
+    <Recipient>
+      <Name>Aionautics Trading Platform</Name>
+      <Account>XXXXXX</Account>
+      <Bank>Global Finance Ltd.</Bank>
+      <Country>Cyprus</Country>
+    </Recipient>
+    <Findings>Potential investment fraud. Unusual wire transfer destination.</Findings>
   </SuspiciousActivity>
 </SAR>

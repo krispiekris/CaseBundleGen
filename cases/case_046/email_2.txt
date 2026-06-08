@@ -1,10 +1,15 @@
-From: ulrich.baumann@email.de
-To: support@ai-trading-elite.com
-Subject: Question about platform
+From: "AI Trading Solutions" <support@aitradingsolutions.net>
+To: Klaus Werner <klaus.werner@email.de>
+Subject: Regarding Your Withdrawal Request
+Date: Fri, 16 Oct 2023 08:00:00 +0000
 
-Dear Support,
+Dear Klaus,
 
-I'm new to the platform and wanted to confirm how the automated trading works.  Can I see a demo?
+We received your recent withdrawal request for EUR 12,000.  Due to increased security protocols, we require additional verification to process this request.  Please provide us with copies of your passport and a recent utility bill in your name.
 
-Thanks,
-Ulrich Baumann
+This is a standard procedure to ensure the safety of your funds.
+
+Thank you for your understanding.
+
+Sincerely,
+AI Trading Solutions Support Team

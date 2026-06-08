@@ -1,18 +1,23 @@
-<SAR>
-  <ReportDate>2024-01-25</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+<SAR id="SAR-2023-07-15-002">
+  <ReportingInstitution>
+    <Name>GlobalTradeAI Support</Name>
+    <Address>Cyprus, Offshore Business Centre</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>Michael Schmidt</Name>
+    <Address>Musterstraße 12, 10115 Berlin</Address>
+  </Subject>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2024-01-20</TransactionDate>
-      <Amount>5000.00</Amount>
-      <Currency>EUR</Currency>
-      <SenderName>Klaus Heinz</SenderName>
-      <SenderAccount>DExxxxxxxxxxxxxxxxxxxxx</SenderAccount>
-      <ReceiverName>Golden Future Investments</ReceiverName>
-      <ReceiverAccount>USxxxxxxxxxxxxxxxxxxxxx</ReceiverAccount>
-      <PurposeCode>13 - Other</PurposeCode>
-      <Description>Withdrawal attempt - Denied</Description>
-      <SuspicionReason>Victim reported concerns about withdrawal; potential scam activity.</SuspicionReason>
-    </Transaction>
+    <Date>2023-07-10</Date>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Withdrawal Request</TransactionType>
+    <Description>Large withdrawal request denied due to system maintenance. Customer shows signs of pressure.</Description>
+    <Location>Cyprus</Location>
   </SuspiciousActivity>
+  <Findings>
+    <Finding>Potential withdrawal fraud.</Finding>
+    <Finding>Customer demonstrates signs of emotional distress.</Finding>
+  </Findings>
+  <ReportDate>2023-07-15</ReportDate>
 </SAR>

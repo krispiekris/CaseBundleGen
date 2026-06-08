@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial promotional material, what is a key feature of AI Trading Solutions' algorithms?",
-    "answer": "They analyze market data 24/7, identifying opportunities that human traders miss."
+    "question": "According to the initial welcome email, what is the stated purpose of AI Trading Solutions' algorithms?",
+    "answer": "To maximize profits and minimize risk."
   },
   {
-    "question": "What jurisdiction is listed for the recipient account in the SAR reports?",
-    "answer": "Belize"
+    "question": "What was the initial transaction amount David Miller sent to AI Trading Solutions, as recorded in the first SAR?",
+    "answer": "5000.00 CAD"
   },
   {
-    "question": "What was the amount of Klaus Richter's initial deposit to AI Trading Solutions?",
-    "answer": "\u20ac2,500.00"
+    "question": "What is the website address provided in the welcome email from AI Trading Solutions?",
+    "answer": "https://aitradingsolutions.net"
   },
   {
-    "question": "What reason did Deutsche Bank AG provide for flagging Klaus Richter\u2019s initial transfer as suspicious?",
-    "answer": "The platform appears to be operating from an offshore jurisdiction."
+    "question": "What finding was noted in the second SAR regarding the transactions to AI Trading Solutions?",
+    "answer": "Multiple large transactions to an unknown entity with a high-risk profile. Consistent with potential investment fraud."
   },
   {
-    "question": "Based on the bank statement, what are the amounts of the two 'AI Trading Solutions Profit Distribution' transactions?",
-    "answer": "\u20ac500.00 and \u20ac750.00"
+    "question": "What did David Miller inquire about in his email to AI Trading Solutions support?",
+    "answer": "How the withdrawal process works."
   },
   {
-    "question": "What is the Risk Level associated with the SAR filed on 2024-02-10?",
-    "answer": "High"
+    "question": "Based on the promotional material, what is suggested about the user\u2019s prior experience with trading?",
+    "answer": "No experience required."
   },
   {
-    "question": "What did the screenshot of the platform website highlight to attract potential customers?",
-    "answer": "A rapidly increasing line representing simulated profits."
+    "question": "What description is provided for the screenshot of the AI Trading Solutions platform?",
+    "answer": "The image shows a website dashboard with impressive, but unrealistic numbers, a 'Withdraw Funds' button, and a disclaimer stating 'Past performance is not indicative of future results'."
   },
   {
-    "question": "What did Klaus Richter express in his urgent message to AI Trading Solutions?",
-    "answer": "He expressed extreme concern regarding a denied withdrawal request and his inability to fully access his account."
+    "question": "What was the amount of the attempted withdrawal flagged in the third SAR, and why was it rejected?",
+    "answer": "25000.00 CAD; The attempted withdrawal was rejected."
   },
   {
-    "question": "Based on the promotional material, what is implied about the potential returns offered by AI Trading Solutions?",
-    "answer": "Guaranteed Returns (Subject to Market Conditions)"
+    "question": "According to the telegram chat log, what reassurance did the AI Support offer to David Miller regarding the platform's performance?",
+    "answer": "The AI is constantly learning and adapting to market conditions."
   },
   {
-    "question": "What is the description given for the type of activity reported in SAR-20240229-003?",
-    "answer": "Suspicious activity report filed by client regarding denied withdrawal request and potential fraud."
+    "question": "What type of entity filed the Suspicious Activity Reports?",
+    "answer": "First Canadian Trust"
   }
 ]

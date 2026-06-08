@@ -1,22 +1,40 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-11-20</ReportDate>
-    <BankName>Royal Bank of Canada</BankName>
-    <SARID>RBC-SAR-20231120-001</SARID>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-11-15</TransactionDate>
-    <Amount>5000.00</Amount>
-    <Currency>CAD</Currency>
-    <SenderAccount>David Miller - Account Number (Redacted)</SenderAccount>
-    <ReceiverAccount>CryptoExchange1 - Account Number (Redacted)</ReceiverAccount>
-    <ReceiverName>Global Crypto Solutions</ReceiverName>
-    <Description>Cryptocurrency Purchase</Description>
-    <SuspiciousActivity>Unusual amount for this customer, frequent cryptocurrency transactions.</SuspiciousActivity>
-  </Transaction>
-  <Party>
-    <PartyType>Customer</PartyType>
-    <Name>David Miller</Name>
-    <Address>(Redacted)</Address>
-  </Party>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-01-15</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-09-25</TransactionDate>
+      <Amount>5000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>Margaret Olsen</SenderName>
+      <SenderAccount>1234567890</SenderAccount>
+      <ReceiverName>AI Trading Solutions</ReceiverName>
+      <ReceiverAccount>9876543210</ReceiverAccount>
+      <Description>Initial investment</Description>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-10-01</TransactionDate>
+      <Amount>1000</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>AI Trading Solutions</SenderName>
+      <SenderAccount>9876543210</SenderAccount>
+      <ReceiverName>Margaret Olsen</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <Description>Profit distribution</Description>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-10-10</TransactionDate>
+      <Amount>1500</Amount>
+      <Currency>AUD</Currency>
+      <SenderName>AI Trading Solutions</SenderName>
+      <SenderAccount>9876543210</SenderAccount>
+      <ReceiverName>Margaret Olsen</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <Description>Profit distribution</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <PartyInformation>
+    <Name>Margaret Olsen</Name>
+    <Address>123 Main Street, Sydney, NSW 2000, Australia</Address>
+  </PartyInformation>
+  <Findings>Potential investment fraud, possible Ponzi scheme</Findings>
 </SAR>

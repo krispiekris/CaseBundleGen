@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary function of AI Trading Solutions, according to its promotional materials?",
-    "answer": "To use proprietary artificial intelligence to identify and capitalize on trading opportunities 24/7."
+    "question": "What was the initial deposit amount made by Richard Elliott?",
+    "answer": "\u00a310,000"
   },
   {
-    "question": "According to the initial welcome email, what does AI Trading Solutions claim to do?",
-    "answer": "Analyze market trends and execute trades with unparalleled precision, generating substantial returns for investors."
+    "question": "According to the SAR reports, what is the address of the suspect, Richard Elliott?",
+    "answer": "12 Oak Avenue, London, SW1A 1AA, United Kingdom"
   },
   {
-    "question": "What is the minimum investment amount required to start using AI Trading Solutions?",
-    "answer": "EUR 500"
+    "question": "What was the stated purpose of the initial wire transfer of \u00a310,000?",
+    "answer": "Investment"
   },
   {
-    "question": "Based on the SAR reports, in which country is the recipient account for the funds transferred to AI Trading Solutions located?",
-    "answer": "Seychelles"
+    "question": "What suspicious activity was noted in the SAR report filed on 2023-12-05?",
+    "answer": "Unusual transfer to Nigeria; high value transfer with vague purpose"
   },
   {
-    "question": "What is the total amount Klaus Hartmann transferred to AI Trading Solutions, according to the bank statements?",
-    "answer": "EUR 15000"
+    "question": "What reason did Barclays Bank give for rejecting Richard Elliott\u2019s large withdrawal attempt on 2024-02-28?",
+    "answer": "Suspected fraudulent activity"
   },
   {
-    "question": "What reason is provided in the promotional material for individuals to use AI Trading Solutions?",
-    "answer": "To stop trading and start investing."
+    "question": "According to promotional material, what is a key feature of the AI Trading Pro platform?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "What specific risk mitigation tools are highlighted in the promotional material for AI Trading Solutions?",
-    "answer": "Sophisticated risk management tools to protect your capital."
+    "question": "What address is listed for the beneficiary, Chimaobi Okoro?",
+    "answer": "14 Adenuga Crescent, Ikeja, Lagos, Nigeria"
   },
   {
-    "question": "According to the telegram chat log, what reason did AI Trading Solutions initially provide for the failed withdrawal?",
-    "answer": "There's a temporary technical issue."
+    "question": "Based on the bank statements, what is the sequence of events in chronological order? (List entities separated by commas)",
+    "answer": "Salary, Wire Transfer to Chimaobi Okoro, Withdrawal to Chimaobi Okoro, Withdrawal Attempt"
   },
   {
-    "question": "Which entities are involved in the transactions described in the SAR reports?",
-    "answer": "Klaus Hartmann, AI Trading Solutions, Deutsche Bank."
+    "question": "What did the screenshot description indicate about the visual representation of performance on the AI Trading Pro platform?",
+    "answer": "A large, prominently displayed graph illustrates exponential profit growth over time."
   },
   {
-    "question": "What is the disclaimer that appears in the welcome email and promotional material?",
-    "answer": "Past performance is not indicative of future results."
+    "question": "What action did the AI Trading Pro team propose in the initial welcome email?",
+    "answer": "To begin exploring the platform"
   }
 ]

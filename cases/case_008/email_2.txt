@@ -1,14 +1,13 @@
-From: support@aitrader.ai
-To: michael.weber@email.com
-Subject: Important Update on Your AI Trading Account
+From: Klaus Richter <klaus.richter@email.de>
+To: "AI Trading Solutions" <support@aitradingsolutions.com>
+Subject: Withdrawal Issue
+Date: November 10, 2023 10:15:00 GMT+1
 
-Dear Michael,
+Dear Support,
 
-We're excited to inform you that your AI Trader account is performing exceptionally well!  Recent market fluctuations have presented incredible opportunities for growth.
+I am experiencing difficulties with my recent withdrawal request. I submitted the request three days ago and the funds have not yet been processed. My account balance is showing a significant profit, but I need to access these funds.
 
-To maximize your returns, we recommend increasing your investment.  A larger portfolio allows our AI to leverage even more advantageous trades.
+Could you please investigate this issue and provide an update?
 
-Contact your account manager, David Miller, for personalized advice.
-
-Sincerely,
-The AI Trader Team
+Thank you,
+Klaus Richter

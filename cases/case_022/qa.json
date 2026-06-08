@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount Klaus Schmidt deposited into AI Trading Pro, according to the SAR?",
-    "answer": "6000.00 EUR"
+    "question": "What initial amount did Hans Meier invest in Quantum AI Trading, according to the SAR?",
+    "answer": "EUR 5000"
   },
   {
-    "question": "What action did Deutsche Bank take regarding Klaus Schmidt's withdrawal request on 2024-01-25?",
-    "answer": "Withdrawal request denied - verification failed"
+    "question": "Based on the promotional material, what is one stated benefit of using Quantum AI Trading?",
+    "answer": "High potential returns"
   },
   {
-    "question": "According to the promotional material, what is one benefit of using the AI Trading Pro platform?",
-    "answer": "Experience significantly higher returns than traditional investments."
+    "question": "What is the purpose of the screenshot linked in the Telegram conversation?",
+    "answer": "To show current trading performance"
   },
   {
-    "question": "What type of document did AI Trading Pro support request from Klaus Schmidt as part of their security verification process?",
-    "answer": "A copy of your government-issued identification and a recent utility bill."
+    "question": "According to the email from John Doe, what action is recommended to maximize profits?",
+    "answer": "Increasing the investment by another \u20ac10,000"
   },
   {
-    "question": "What is the bank name associated with the AI Trading Pro account mentioned in the SAR?",
-    "answer": "Alpha Beta Bank (Cyprus)"
+    "question": "What reason is provided for the temporary delay of Hans Meier's withdrawal request?",
+    "answer": "Unforeseen market volatility"
   },
   {
-    "question": "What does the screenshot of the AI Trading Pro homepage highlight?",
-    "answer": "A sleek, modern design, testimonials, and recent 'trading results' with charts and graphs illustrating exponential growth."
+    "question": "What type of cryptocurrency was transferred from Quantum AI Trading, as indicated in SAR 3?",
+    "answer": "BTC"
   },
   {
-    "question": "Based on the Telegram chat, what message did 'CryptoGuru77' convey to Klaus Schmidt regarding the withdrawal issues?",
-    "answer": "Don't worry, these things happen. Just keep following the instructions from support, and it will be sorted quickly."
+    "question": "What account does the cryptocurrency transfer (mentioned in SAR 3) ultimately go to?",
+    "answer": "GB27NWBK0000000000012345"
   },
   {
-    "question": "What type of report is sar_1.xml?",
-    "answer": "Suspicious Activity Report"
+    "question": "According to the bank statement, how much was the initial salary of Hans Meier?",
+    "answer": "EUR 85000"
   },
   {
-    "question": "What is the main reason provided by AI Trading Pro for placing Klaus Schmidt's withdrawal request on hold, according to email_3.txt?",
-    "answer": "An ongoing security review"
+    "question": "What additional information is requested from Hans Meier in email 3 to expedite his withdrawal?",
+    "answer": "Account details"
   },
   {
-    "question": "What is the account number listed in sar_1.xml for AI Trading Pro?",
-    "answer": "CY001234567890"
+    "question": "Which bank reported the suspicious activity related to Hans Meier's attempted withdrawal?",
+    "answer": "Deutsche Bank"
   }
 ]

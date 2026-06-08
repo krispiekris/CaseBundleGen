@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial incentive did Global Forex Solutions offer to attract potential clients like Klaus Heinz?",
-    "answer": "Expert guidance and proven strategies to increase income and achieve financial goals."
+    "question": "What is the primary purpose of the emails sent to Hans Mueller?",
+    "answer": "To invite him to join Innovative Investments and begin AI-powered trading."
   },
   {
-    "question": "According to email_2.txt, what specific information did Klaus Heinz request from Global Forex Solutions?",
-    "answer": "More details and examples of successful trades related to their VIP program."
+    "question": "According to the promotional material, what is a key benefit of using Innovative Investments' AI trading system?",
+    "answer": "Automated trading and 24/7 market monitoring."
   },
   {
-    "question": "What type of suspicious activity was initially reported in SAR_1.xml, and what financial behavior was observed?",
-    "answer": "Unusual Transaction involving large cash deposits followed by rapid transfers to overseas accounts."
+    "question": "What is the name of the AI algorithm mentioned in the email to Hans Mueller?",
+    "answer": "Chronos."
   },
   {
-    "question": "What currency was used for the initial deposit made by Klaus Heinz, as recorded in the bank statement?",
-    "answer": "EUR"
+    "question": "Based on the SAR reports, what initially triggered the suspicion regarding Hans Mueller\u2019s activity?",
+    "answer": "An unusual investment activity and a high transfer amount relative to the customer profile."
   },
   {
-    "question": "What triggered the creation of SAR_2.xml?",
-    "answer": "Customer reporting difficulties in withdrawing funds from their account."
+    "question": "What is the account number used for the transfers to Innovative Investments Ltd.?",
+    "answer": "1234567890"
   },
   {
-    "question": "Which country is listed as the location of Global Forex Solutions in the SAR reports?",
-    "answer": "Nigeria"
+    "question": "What is the date of birth of Hans Mueller?",
+    "answer": "1968-05-10"
   },
   {
-    "question": "Based on promotional_material_2.txt, what is the central theme or promise that Global Forex Solutions is advertising?",
-    "answer": "Financial Freedom - earning passive income while you sleep."
+    "question": "What is the address of Hans Mueller?",
+    "answer": "Musterstra\u00dfe 12, 10115 Berlin, Germany"
   },
   {
-    "question": "What additional verification method, involving cryptocurrency, was requested from Klaus Heinz in email_3.txt?",
-    "answer": "Transfer of 0.5 BTC to the wallet address: 1BKzJq432WkGzS9q1Q23P6Y738497k77A."
+    "question": "What is the primary reason for the increased suspicion documented in the second SAR report?",
+    "answer": "The customer\u2019s inability to withdraw funds and repeated transfers to an offshore account."
   },
   {
-    "question": "According to SAR_3.xml, which region was involved in the suspicious funds transfer?",
-    "answer": "United Arab Emirates"
+    "question": "Based on the screenshot of the Innovative Investments website, what is a notable characteristic of its design?",
+    "answer": "A sleek, modern design with a dark blue and white color scheme."
   },
   {
-    "question": "What is the primary marketing focus highlighted in promotional_material_3.txt?",
-    "answer": "Limited spots available in an exclusive Forex VIP program."
+    "question": "Which bank is listed as the bank for Innovative Investments Ltd.'s account?",
+    "answer": "RBC Royal Bank (Cayman) Ltd."
   }
 ]

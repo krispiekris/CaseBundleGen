@@ -1,23 +1,28 @@
-<SAR>
-  <Header>
-    <SARReferenceNumber>20231201-003</SARReferenceNumber>
-    <DateFiled>2023-12-01</DateFiled>
-    <FilingBank>Deutsche Bank</FilingBank>
-  </Header>
-  <SuspectTransaction>
-    <TransactionDate>2023-11-15</TransactionDate>
-    <TransactionAmount>Unknown</TransactionAmount>
-    <Currency>EUR</Currency>
-    <TransactionType>Withdrawal Request</TransactionType>
-    <SenderName>Karl Schmidt</SenderName>
-    <SenderAccount>DE91370400440532014900</SenderAccount>
-    <ReceiverName>NovaTrade Solutions</ReceiverName>
-    <ReceiverAccount>GB22NWBK00000000001234</ReceiverAccount>
-    <ReceiverCountry>United Kingdom</ReceiverCountry>
-    <Description>Withdrawal Request Denied</Description>
-  </SuspectTransaction>
-  <Findings>
-    <SuspiciousActivity>Withdrawal request denied by the platform.</SuspiciousActivity>
-    <PotentialFraud>Possible investment fraud.</PotentialFraud>
-  </Findings>
+<SAR id="SAR-2023-11-15-003">
+  <ReportingInstitution>
+    <Name>Deutsche Bank</Name>
+    <Identifier>DB-DE-001</Identifier>
+  </ReportingInstitution>
+  <ReportDate>2023-11-15</ReportDate>
+  <Subject>
+    <Name>Klaus Heinz</Name>
+    <Address>Musterstraße 12, 12345 Musterstadt, Germany</Address>
+    <IdentificationType>Passport</IdentificationType>
+    <IdentificationNumber>123456789</IdentificationNumber>
+  </Subject>
+  <Transaction>
+    <TransactionDate>2023-05-12</TransactionDate>
+    <TransactionAmount>10000.00</TransactionAmount>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionDescription>Outgoing Transfer</TransactionDescription>
+    <Beneficiary>
+      <Name>AI-Traders Ltd.</Name>
+      <Country>Belize</Country>
+    </Beneficiary>
+  </Transaction>
+  <SuspiciousActivity>
+    <Type>Unusual Transaction Pattern</Type>
+    <Description>Large transfers to offshore accounts consistent with potential funds flight</Description>
+    <Findings>Strong indicator of fraudulent activity.  Recommend immediate account review and potential freezing.</Findings>
+  </SuspiciousActivity>
 </SAR>

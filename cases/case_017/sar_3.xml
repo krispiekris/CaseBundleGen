@@ -1,16 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2023-11-01</ReportDate>
-  <ReportingInstitution>Polizeipräsidium München</ReportingInstitution>
-  <CustomerName>Klaus Heinz</CustomerName>
-  <CustomerAccount>1234567890</CustomerAccount>
+<SAR id="SAR-2023-11-25-003">
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <DateFiled>2023-11-25</DateFiled>
+  <Subject>
+    <Name>AI Pro Solutions</Name>
+    <Address>Unknown - Operating from Nigeria</Address>
+  </Subject>
   <SuspiciousActivity>
-    <ActivityType>Fraud Report</ActivityType>
-    <TransactionDate>2023-10-15</TransactionDate>
-    <TransactionAmount currency="EUR">0.00</TransactionAmount>
-    <TransactionDescription>Customer reports inability to withdraw funds and unresponsive support. Suspects fraudulent activity.</TransactionDescription>
-    <BeneficiaryName>Nova Technologies Ltd</BeneficiaryName>
-    <SuspicionReason>Customer believes they have been the victim of investment fraud after being unable to withdraw funds and after receiving unsatisfactory communication from the company.  Evidence suggests the platform may be operating without proper authorization.</SuspicionReason>
+    <Transaction>
+      <Date>2023-09-01</Date>
+      <Amount>10000.00</Amount>
+      <Currency>AUD</Currency>
+      <Type>Deposit</Type>
+      <Description>Cryptocurrency Deposit - Michael Davies</Description>
+      <Counterparty>
+        <Name>Michael Davies</Name>
+      </Counterparty>
+    </Transaction>
+    <Findings>
+      <Finding>Possible fraudulent investment scheme. Operating with limited verifiable information and unusual transaction patterns. Funds likely transferred to offshore accounts.</Finding>
+    </Findings>
   </SuspiciousActivity>
-  <ReportingEmployee>Officer Weber</ReportingEmployee>
-</SuspiciousActivityReport>
+</SAR>

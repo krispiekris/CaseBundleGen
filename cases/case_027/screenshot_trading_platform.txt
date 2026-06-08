@@ -1,0 +1,7 @@
+AI-Trade-Pro Dashboard
+
+[Image: Mockup of a trading platform with charts and graphs.  The display shows a balance of €10,000 and recent 'trades' that have resulted in small profits.  There is a prominent 'Withdraw Funds' button.]
+
+[Text on screen: 'Current Balance: €10,000.00']
+[Text on screen: 'AI Trading Score: 98%']
+[Text on screen: 'Next Trade: 2024-03-06 08:00 UTC']

@@ -1,24 +1,28 @@
 <SAR>
-  <ReportDate>2023-11-15</ReportDate>
-  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <Header>
+    <ReportDate>2023-11-16</ReportDate>
+    <BankID>DEUTBANK</BankID>
+    <ReferenceID>SAR-20231116-003</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <Amount>0.00</Amount>
+    <Currency>EUR</Currency>
+    <FromAccount>
+      <AccountType>Checking</AccountType>
+      <AccountNumber>1234567890</AccountNumber>
+      <BankID>DEUTBANK</BankID>
+    </FromAccount>
+    <ToAccount>
+      <AccountType>Cryptocurrency Exchange</AccountType>
+      <AccountNumber>CRYPTEX-12345</AccountNumber>
+      <BankID>UNKNOWN</BankID>
+      <RecipientName>Cryptocurrency Exchange LLC</RecipientName>
+    </ToAccount>
+    <Description>Withdrawal Attempt - Rejected</Description>
+  </Transaction>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionID>5555555555</TransactionID>
-      <TransactionDate>2023-11-10</TransactionDate>
-      <Amount>0.00</Amount>
-      <Currency>EUR</Currency>
-      <TransactionType>Information</TransactionType>
-      <OriginatingParty>
-        <Name>Klaus Breitling</Name>
-        <Address>Musterstraße 1, 90408 Nürnberg, Germany</Address>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>Profit Horizon Ltd</Name>
-      </Beneficiary>
-      <Description>Police report filed regarding suspicious investment activity</Description>
-    </Transaction>
+    <Type>Failed Withdrawal</Type>
+    <Description>Attempted withdrawal from Innovative AIX platform rejected.  Victim has reported concerns about access and funds.</Description>
   </SuspiciousActivity>
-  <Findings>
-    <Finding>Customer reports potential investment fraud.  Account flagged for investigation.</Finding>
-  </Findings>
 </SAR>

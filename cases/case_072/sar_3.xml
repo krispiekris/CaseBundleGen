@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportDate>2024-02-29</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Account>
-      <AccountHolder>Klaus Hartmann</AccountHolder>
-      <AccountID>DE12345678901234567890</AccountID>
-      <AccountType>Current Account</AccountType>
-      <Country>Germany</Country>
-    </Account>
-    <AlertType>Unusual Activity</AlertType>
-    <Description>Customer reported fraudulent activity related to investment in AI Trading Solutions. Large deposits followed by unsuccessful withdrawal attempts.</Description>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Potential investment fraud involving an AI trading platform with offshore connections.</Finding>
-  </Findings>
-</SAR>
+<sar>
+  <report_id>SAR-20240229-003</report_id>
+  <date_filed>2024-02-29</date_filed>
+  <reporting_institution>Barclays Bank</reporting_institution>
+  <reporter_id>4789321</reporter_id>
+  <suspect_name>Richard Elliott</suspect_name>
+  <suspect_address>12 Oak Avenue, London, SW1A 1AA, United Kingdom</suspect_address>
+  <beneficiary_name>Chimaobi Okoro</beneficiary_name>
+  <beneficiary_address>14 Adenuga Crescent, Ikeja, Lagos, Nigeria</beneficiary_address>
+  <transaction_date>2024-02-28</transaction_date>
+  <transaction_amount>23000.00</transaction_amount>
+  <transaction_currency>GBP</transaction_currency>
+  <transaction_type>Wire Transfer</transaction_type>
+  <purpose>Withdrawal</purpose>
+  <suspicious_activity>Large withdrawal attempt denied by bank due to suspected fraudulent activity. Correlates with previous unusual transactions.</suspicious_activity>
+  <reporter_comments>Customer’s attempted large withdrawal flagged and rejected.  Recommend further investigation and potential account restriction.</reporter_comments>
+</sar>

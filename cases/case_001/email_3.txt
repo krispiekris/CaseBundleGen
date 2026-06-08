@@ -1,14 +1,18 @@
-From: withdrawal.request@aiextrading.com
-To: David.Miller@example.com.au
-Subject: Your Withdrawal Request – Processing
+From: ai-trading-pro.com
+To: klaus.meier@email.de
+Subject: Verification Required - Account Security Alert
 
-Dear David,
+Dear Klaus,
 
-Thank you for your withdrawal request. Our team is currently processing your request. Please allow 7-10 business days for your funds to be released.
+To ensure the security of your account, we require you to verify your identity by submitting the following documents:
 
-For faster processing, verify your account by submitting a copy of your government-issued ID.
+1. Copy of your passport or government-issued ID
+2. Proof of address (utility bill or bank statement)
 
-Sincerely,
-The AI Extra Trading Team
+Please upload these documents through the secure portal: [Link to Suspicious Portal]
 
-www.aiextrading.com
+Failure to verify your identity may result in temporary suspension of your account.
+
+Thank you for your cooperation.
+
+The AI Trading Pro Team

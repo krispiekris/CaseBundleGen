@@ -1,5 +1,6 @@
 Date,Description,Amount (EUR),IBAN
-2023-11-15,AI Trading Solutions Investment,,-5000.00
-2023-11-16,Interest,1.23,DE1234567890
-2023-11-17,Grocery Shopping,,-50.00
-2023-11-18,Utility Bill,,-100.00
+2023-12-01,Deposit to Innovative Profits,5000.00,DE12345678901234567890
+2023-12-05,Payment to Innovative Profits,1000.00,DE12345678901234567890
+2024-01-15,Payment to Innovative Profits,1000.00,DE12345678901234567890
+2024-02-15,Payment to Innovative Profits,1000.00,DE12345678901234567890
+2024-02-28,Withdrawal Attempt - Rejected,1000.00,DE12345678901234567890

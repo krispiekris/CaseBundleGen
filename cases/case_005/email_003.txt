@@ -1,0 +1,10 @@
+From: david.miller@example.com.au
+To: trading.opportunities@aiwealth.net
+Subject: Issue with Withdrawal Request
+
+Dear AI Wealth Support,
+
+I recently submitted a withdrawal request for AUD 5,000, but it hasn't been processed. My account balance shows the available funds, but the withdrawal status is pending. Can you please investigate and expedite the process?
+
+Thank you,
+David Miller

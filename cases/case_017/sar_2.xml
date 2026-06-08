@@ -1,16 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2023-10-08</ReportDate>
-  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
-  <CustomerName>Klaus Heinz</CustomerName>
-  <CustomerAccount>1234567890</CustomerAccount>
+<SAR id="SAR-2024-01-15-002">
+  <ReportingInstitution>Commonwealth Bank of Australia</ReportingInstitution>
+  <DateFiled>2024-01-15</DateFiled>
+  <Subject>
+    <Name>Michael Davies</Name>
+    <Address>123 Main Street, Sydney, NSW, 2000, Australia</Address>
+  </Subject>
   <SuspiciousActivity>
-    <ActivityType>Attempted Withdrawal/Fund Restriction</ActivityType>
-    <TransactionDate>2023-10-01</TransactionDate>
-    <TransactionAmount currency="EUR">5000.00</TransactionAmount>
-    <TransactionDescription>Attempted Withdrawal - Denied due to System Maintenance</TransactionDescription>
-    <BeneficiaryName>Klaus Heinz</BeneficiaryName>
-    <SuspicionReason>Customer experiencing difficulty withdrawing funds; explanation provided by platform appears evasive.</SuspicionReason>
+    <Transaction>
+      <Date>2023-10-15</Date>
+      <Amount>2500.00</Amount>
+      <Currency>AUD</Currency>
+      <Type>Withdrawal Attempt</Type>
+      <Description>Attempted withdrawal of funds – DENIED</Description>
+      <Counterparty>
+        <Name>Michael Davies</Name>
+      </Counterparty>
+    </Transaction>
+    <Findings>
+      <Finding>Attempted withdrawal denied due to insufficient funds and/or platform restrictions.  Potential indication of investment fraud.</Finding>
+    </Findings>
   </SuspiciousActivity>
-  <ReportingEmployee>Anna Schmidt</ReportingEmployee>
-</SuspiciousActivityReport>
+</SAR>

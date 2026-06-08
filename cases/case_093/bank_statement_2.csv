@@ -1,8 +1,1 @@
-Date,Description,Amount (EUR),IBAN
-2023-11-15,Facebook Ad,,- 
-2023-12-05,Transfer to Apex Trading Solutions,-5000.00,SC05XXXXXXX
-2024-01-15,Transfer to Apex Trading Solutions,-3000.00,SC05XXXXXXX
-2024-01-20,Interest,5.00,
-2024-02-10,Transfer to Apex Trading Solutions,-2000.00,SC05XXXXXXX
-2024-02-25,Transfer to Apex Trading Solutions,-1000.00,SC05XXXXXXX
-2024-02-28,Withdrawal Request,-500.00,, 
+Date,Description,Amount,Currency,Balance\n2023-12-05,Withdrawal Attempt,5000,USD,87000\n2023-12-06,Withdrawal Denied,,-,87000\n2024-01-15,Interest Earned,10,AUD,87010\n2024-01-22,Utility Bill Payment,,-,86950

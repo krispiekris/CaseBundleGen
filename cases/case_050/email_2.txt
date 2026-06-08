@@ -1,17 +1,12 @@
-From: support@ai-trading-pro.com
-To: hans.schmidt@email.de
-Subject: Your AI-Trading-Pro Account is Growing!
+From: hans.meier@email.de
+To: trading.support@quantumai.tech
+Subject: Withdrawal Request
 
-Dear Hans,
+Dear Quantum AI Trading Support,
 
-Great news! Your AI-Trading-Pro account is performing exceptionally well. Our algorithms have identified several high-potential trades, resulting in significant gains.
+I would like to request a withdrawal of €10,000 from my account. My account balance is currently €25,000.
 
-To maximize your profits, consider reinvesting a portion of your earnings.  We recommend increasing your investment to unlock even greater opportunities.
+Please confirm the processing of this request and let me know the estimated timeframe.
 
-View your account statement here:
-
-www.ai-trading-pro.net/account
-
-Sincerely,
-
-The AI-Trading-Pro Team
+Thank you,
+Hans Meier

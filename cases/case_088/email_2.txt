@@ -1,10 +1,14 @@
-From: apex.trading.ltd@gmail.com
-To: vendor_relations@innovationsolutions.com
-Subject: Invoice 12345 - Payment Confirmation
+From: support@aitradingpro.com
+To: hans.meier@email.de
+Subject: Congratulations! Your AI Trading Pro Account is Growing!
 
-Dear Sarah,
+Dear Hans,
 
-This email confirms receipt of payment for invoice 12345. Thank you for your prompt processing!
+Your AI Trading Pro account is performing exceptionally well! Our algorithms have identified several high-potential opportunities, and your portfolio is experiencing significant growth.
+
+To maximize your returns, consider reinvesting a portion of your profits. Our experts recommend increasing your investment to leverage even greater potential.
+
+Contact your account manager, David, at david.support@aitradingpro.com to discuss your options.
 
 Sincerely,
-Apex Trading Ltd.
+The AI Trading Pro Support Team

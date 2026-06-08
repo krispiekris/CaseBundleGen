@@ -1,27 +1,26 @@
-<SAR>
-  <Header>
-    <SARReferenceID>20230822-001</SARReferenceID>
-    <FilingDate>2023-08-22</FilingDate>
-    <FilingInstitution>Deutsche Bank</FilingInstitution>
-  </Header>
-  <Transaction>
-    <TransactionID>TXN-12345</TransactionID>
-    <TransactionDate>2023-08-15</TransactionDate>
-    <TransactionAmount currency="EUR">15000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <OriginatingParty>
-      <Name>Ulrich Baumann</Name>
-      <AccountID>DE12345678901234567890</AccountID>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>Prime Global Investments Ltd.</Name>
-      <AccountID>ZA98765432109876543210</AccountID>
-      <Country>South Africa</Country>
-    </BeneficiaryParty>
-    <Description>International Money Transfer</Description>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Unusual international transfer with no apparent business purpose.</SuspiciousActivity>
-    <RiskLevel>Medium</RiskLevel>
-  </Findings>
+<SAR id="SAR-2023-09-05-001">
+  <ReportingInstitution>
+    <Name>First National Bank</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+  </ReportingInstitution>
+  <SuspiciousActivity>
+    <Date>2023-09-05</Date>
+    <Type>Unusual Transaction</Type>
+    <Description>Customer Robert Miller deposited $1000.00 via cryptocurrency transfer to account [Redacted for Privacy]. Potential investment fraud.</Description>
+    <Amount>1000.00</Amount>
+    <Currency>USD</Currency>
+    <TransactionType>Deposit</TransactionType>
+    <Account>
+      <AccountNumber>[Redacted for Privacy]</AccountNumber>
+      <AccountType>Checking</AccountType>
+    </Account>
+    <Customer>
+      <Name>Robert Miller</Name>
+      <Address>[Redacted for Privacy]</Address>
+    </Customer>
+    <RelatedParty>
+      <Name>Elite AI Trading</Name>
+      <Location>Unknown</Location>
+    </RelatedParty>
+  </SuspiciousActivity>
 </SAR>

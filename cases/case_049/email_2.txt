@@ -1,19 +1,20 @@
-From: support@quantumai.tech
-To: david.miller.ca@example.com
-Subject: Your Quantum AI Account is Active!
+From: support@novatradeai.com
+To: hans.meier@email.de
+Subject: Welcome to NovaTrade AI – Your Personalized Dashboard
 
-Dear David,
+Dear Hans,
 
-Welcome to Quantum AI! Your account has been successfully activated. 
+Welcome aboard! We're thrilled to have you join the NovaTrade AI community.
 
-To get started, please deposit a minimum of $5,000 CAD into your trading wallet using the following details:
+Your personalized dashboard is now active. You can access it at www.novatradeai.com/dashboard/hansmeier.
 
-Bank Name: Zenith Bank
-Account Number: 1234567890
-Swift Code: ZENO NG LA
+Here’s a quick overview:
 
-Once your deposit is confirmed, your AI trading will begin generating profits. You can track your progress and withdrawals on our platform.
+*   **Current Portfolio Value:** €10,000
+*   **AI Predicted Return (Next 24 Hours):** +8.3%
+*   **Recommended Action:** Consider adding to your portfolio with Bitcoin (BTC).
 
-Happy Trading!
+For any questions, please contact our support team at support@novatradeai.com.
 
-The Quantum AI Team
+Best regards,
+The NovaTrade AI Support Team

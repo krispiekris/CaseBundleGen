@@ -1,0 +1,20 @@
+<sar>
+  <report>
+    <report_date>2023-07-10</report_date>
+    <institution_name>Deutsche Bank</institution_name>
+    <reporter_id>DB12345</reporter_id>
+    <suspect_account>
+      <account_number>1234567890</account_number>
+      <account_holder>Hans Meier</account_holder>
+      <transaction>
+        <transaction_date>2023-06-10</transaction_date>
+        <amount currency="EUR">10000.00</amount>
+        <recipient_account>9876543210</recipient_account>
+        <recipient_name>Global Forex Group</recipient_name>
+        <recipient_country>Belize</recipient_country>
+        <description>Investment</description>
+      </transaction>
+    </suspect_account>
+    <findings>Multiple transactions to offshore account, potential investment fraud.</findings>
+  </report>
+</sar>

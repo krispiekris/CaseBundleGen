@@ -1,26 +1,28 @@
 <SAR>
-  <ReportDate>2023-10-25</ReportDate>
-  <ReportingInstitution>Globex Bank</ReportingInstitution>
+  <Header>
+    <ReportDate>2023-10-08</ReportDate>
+    <BankID>DEUTBANK</BankID>
+    <ReferenceID>SAR-20231008-002</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-10-01</TransactionDate>
+    <Amount>15000.00</Amount>
+    <Currency>EUR</Currency>
+    <FromAccount>
+      <AccountType>Checking</AccountType>
+      <AccountNumber>1234567890</AccountNumber>
+      <BankID>DEUTBANK</BankID>
+    </FromAccount>
+    <ToAccount>
+      <AccountType>Cryptocurrency Exchange</AccountType>
+      <AccountNumber>CRYPTEX-12345</AccountNumber>
+      <BankID>UNKNOWN</BankID>
+      <RecipientName>Cryptocurrency Exchange LLC</RecipientName>
+    </ToAccount>
+    <Description>Investment - Innovative AIX</Description>
+  </Transaction>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionID>9876543210</TransactionID>
-      <TransactionDate>2023-10-20</TransactionDate>
-      <Amount>5000.00</Amount>
-      <Currency>EUR</Currency>
-      <TransactionType>Withdrawal</TransactionType>
-      <OriginatingParty>
-        <Name>Profit Horizon Ltd</Name>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>Klaus Breitling</Name>
-        <Account>DE123456789012345678</Account>
-        <BankName>Sparkasse Nürnberg</BankName>
-        <Country>Germany</Country>
-      </Beneficiary>
-      <Description>Withdrawal request - processing</Description>
-    </Transaction>
+    <Type>Unusual Transaction</Type>
+    <Description>Large transfer to an unknown cryptocurrency exchange with description "Innovative AIX", following initial transfer.</Description>
   </SuspiciousActivity>
-  <Findings>
-    <Finding>Withdrawal attempt failed. Account flagged for review.</Finding>
-  </Findings>
 </SAR>

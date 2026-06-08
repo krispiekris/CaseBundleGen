@@ -1,21 +1,18 @@
-<SAR>
-  <Header>
-    <ReportDate>2023-10-20</ReportDate>
-    <OriginatingJurisdiction>DE</OriginatingJurisdiction>
-    <ReportingInstitution>Sparkasse Bremen</ReportingInstitution>
-  </Header>
+<SAR xmlns="http://www.example.com/sar">
   <Transaction>
-    <TransactionDate>2023-10-15</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <SenderAccount>DE12345678901234567890</SenderAccount>
-    <ReceiverAccount>NG48901234567890123456</ReceiverAccount>
-    <ReceiverName>Oluwaseun Adebayo</ReceiverName>
-    <ReceiverCountry>Nigeria</ReceiverCountry>
-    <Description>Transfer to AI Trading Platform</Description>
+    <TransactionID>67890</TransactionID>
+    <Date>2024-01-10</Date>
+    <Amount currency="EUR">2000</Amount>
+    <Sender>Karl Heinz</Sender>
+    <SenderAccount>DExxxxxxxxxxxxx</SenderAccount>
+    <Receiver>Quantum AI Trading Ltd</Receiver>
+    <ReceiverAccount>GBxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Withdrawal Request - Quantum AI Trading</Description>
+    <SuspiciousActivity>Withdrawal request rejected - account blocked</SuspiciousActivity>
   </Transaction>
-  <Findings>
-    <SuspiciousActivity>Second unusually large transfer to foreign account with limited information about receiver, following an initial small transfer and claims of profits.</SuspiciousActivity>
-    <PotentialFraud>Possible investment fraud - escalating requests for funds.</PotentialFraud>
-  </Findings>
+  <PartyInformation>
+    <Party Name="Karl Heinz" Role="Victim" Country="Germany" />
+    <Party Name="Quantum AI Trading Ltd" Role="Potential Fraudster" Country="United Kingdom" />
+  </PartyInformation>
+  <Findings>Further investigation recommended due to rejected withdrawal request and account blockage.</Findings>
 </SAR>

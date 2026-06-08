@@ -1,54 +1,54 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-03-27-CYB-0078",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "St. Vincent and the Grenadines"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
-      "event": "Initial contact via email"
+      "date": "2023-11-15",
+      "event": "Victim contacted via Telegram"
     },
     {
-      "date": "2023-04-01",
-      "event": "First investment made"
+      "date": "2023-11-22",
+      "event": "Initial investment of \u20ac5,000 made"
     },
     {
-      "date": "2023-06-10",
-      "event": "Victim encouraged to invest more"
+      "date": "2023-12-10",
+      "event": "Victim shown fabricated profit screenshots"
     },
     {
-      "date": "2023-09-22",
-      "event": "Victim attempts withdrawal - unsuccessful"
+      "date": "2024-01-05",
+      "event": "Victim attempts withdrawal, rejected"
     },
     {
-      "date": "2023-10-15",
-      "event": "Contact lost, platform inaccessible"
+      "date": "2024-02-28",
+      "event": "Case reported to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac25,000 - \u20ac45,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac15,000 - \u20ac25,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.5 - 1.0 BTC"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
     }
   ]
 }

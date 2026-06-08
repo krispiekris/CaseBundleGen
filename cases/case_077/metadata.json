@@ -4,50 +4,51 @@
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "$75,000 - $125,000",
-    "country": "Canada",
+    "income_range": "$75,000 - $100,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
     "location": "Georgia",
     "languages_spoken": [
       "English",
-      "Georgian"
+      "Georgian",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Bulgaria",
-    "Romania"
+    "United Arab Emirates",
+    "Serbia"
   ],
   "timeline": [
     {
-      "date": "2023-07-15",
-      "event": "Victim contacted via LinkedIn"
+      "date": "2023-08-15",
+      "event": "Initial contact via social media advertisement"
     },
     {
-      "date": "2023-08-01",
-      "event": "Initial investment of $5,000"
+      "date": "2023-09-01",
+      "event": "First investment deposited"
     },
     {
-      "date": "2023-09-10",
-      "event": "Victim encouraged to invest further"
+      "date": "2023-11-10",
+      "event": "Victim expresses concern about withdrawals"
     },
     {
-      "date": "2023-11-05",
-      "event": "Victim requests withdrawal, denied"
+      "date": "2023-12-05",
+      "event": "Account access revoked, funds lost"
     },
     {
       "date": "2024-01-20",
-      "event": "Victim files a police report"
+      "event": "Report filed with authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
+      "type": "Cryptocurrency (BTC, ETH)",
       "amount_range": "$10,000 - $25,000"
     },
     {
-      "type": "Bank Account",
+      "type": "Bank Transfers (USD, EUR)",
       "amount_range": "$5,000 - $15,000"
     }
   ]

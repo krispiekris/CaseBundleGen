@@ -1,0 +1,10 @@
+Transaction Confirmation
+
+Transaction ID: TXN-20231201-456789
+Date: 2023-12-01
+Amount: €5,000.00
+From: Hans Mueller, Deutsche Bank, IBAN: DE12345678901234567890
+To: Innovative Investments Ltd., RBC Royal Bank (Cayman) Ltd., Account: 1234567890
+Reference: Initial Investment - AI Trading
+
+Thank you for using Deutsche Bank.

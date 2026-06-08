@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sar_schema.xsd">
-  <CaseID>2023-06-25-002</CaseID>
-  <BankName>First National Bank</BankName>
-  <BankLocation>Anytown, USA</BankLocation>
-  <Currency>USD</Currency>
-  <TransactionDate>2023-06-22</TransactionDate>
-  <TransactionAmount>10000.00</TransactionAmount>
-  <SenderName>Richard Henderson</SenderName>
-  <SenderAccount>XXXXXXX1234</SenderAccount>
-  <RecipientName>AI-Trade Solutions</RecipientName>
-  <RecipientAccount>YYYYYYYY5678</RecipientAccount>
-  <RecipientCountry>Belize</RecipientCountry>
-  <SuspiciousActivity>Follow-up to previous SAR - Continued investment despite limited information.</SuspiciousActivity>
-  <ReportingOfficer>Jane Doe</ReportingOfficer>
-  <ReportingDate>2023-08-20</ReportingDate>
+<SAR>
+  <Header>
+    <ReportDate>2024-03-25</ReportDate>
+    <BankName>GlobalTrust Bank</BankName>
+    <ReportID>GTB-SAR-20240325-002</ReportID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-03-22</TransactionDate>
+    <Amount>10000</Amount>
+    <Currency>GBP</Currency>
+    <SenderAccount>GB26NWBK00000012345678</SenderAccount>
+    <ReceiverAccount>AI Trading Solutions Account - Malta</ReceiverAccount>
+    <Description>Withdrawal Request Denied</Description>
+    <SuspiciousActivity>Account holder reporting inability to withdraw funds.</SuspiciousActivity>
+    <Findings>
+      <Finding>Withdrawal request repeatedly denied.</Finding>
+      <Finding>Account holder expresses concern over platform legitimacy.</Finding>
+    </Findings>
+  </Transaction>
 </SAR>

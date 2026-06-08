@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SAR_schema.xsd">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunusturm, Am Mainufer 55, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Hans Meier</Name>
-    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    <DateOfBirth>1968-04-20</DateOfBirth>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-20</Date>
-    <Amount currency="EUR">0</Amount>
-    <TransactionType>Information Request</TransactionType>
-    <Description>Customer inquiry regarding inability to access funds and unusual account activity.</Description>
-    <Beneficiary>
-      ,,
-      </Beneficiary>
-  </Transaction>
-  <SuspiciousActivity>
-    <Description>Customer expressing concerns about account access and unusual account activity.  Consistent with previous suspicious activity reports related to Quantum AI Trading.</Description>
-    <RiskLevel>High</RiskLevel>
-  </SuspiciousActivity>
-</SAR>
+<sar>
+  <report_date>2023-07-25</report_date>
+  <reporter>Sparkasse Bank</reporter>
+  <reporter_id>SPK12345</reporter_id>
+  <beneficiary_name>Hans Schmidt</beneficiary_name>
+  <beneficiary_account>DE12721418000020000000</beneficiary_account>
+  <transaction_date>2023-07-22</transaction_date>
+  <transaction_amount>10000</transaction_amount>
+  <transaction_currency>EUR</transaction_currency>
+  <transaction_description>Withdrawal Request - AI Trading System</transaction_description>
+  <recipient_name>Global Investments Ltd</recipient_name>
+  <recipient_account>XX1234567890</recipient_account>
+  <recipient_country>United Arab Emirates</recipient_country>
+  <suspicious_activity>Delayed withdrawal request - unusual fees requested</suspicious_activity>
+  <findings>Beneficiary reporting delays and unexpected fees associated with withdrawal request. Potential attempt to extract additional funds.</findings>
+</sar>

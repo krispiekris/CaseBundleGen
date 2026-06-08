@@ -1,0 +1,24 @@
+<SAR id="SAR-2023-0725-004">
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Contact>
+      <Phone>1300 000 000</Phone>
+    </Contact>
+  </ReportingInstitution>
+  <Subject>
+    <Name>John Smith</Name>
+    <Address>123 Main Street, Sydney, NSW, 2000, Australia</Address>
+    <DateOfBirth>1970-01-01</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date> PETER 2023-07-25</Date>
+    <Amount>0.00</Amount>
+    <Currency>AUD</Currency>
+    <Type>Report</Type>
+    <Description>Report to Authorities</Description>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Reported by customer. Possible fraudulent activity. Denied withdrawals.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SAR>

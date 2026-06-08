@@ -1,1 +1,4 @@
-Date,Description,Amount (EUR),IBAN\n2023-11-05,Incoming Salary,2500.00,DE12345678901234567890\n2023-11-20,Outgoing Payment,50.00,DE12345678901234567890\n2023-11-30,-Withdrawal attempt to NovaTrade,-500.00,NG232010000000001234567890\n2023-12-05,Incoming Salary,2500.00,DE12345678901234567890\n2024-01-05,Incoming Salary,2500.00,DE12345678901234567890
+Date,Description,Amount,IBAN
+2023-12-05,Crypto Recovery Experts, -10000.00,,xxxxxxxxxxxxxxx
+2023-12-03,Groceries, -75.00,,xxxxxxxxxxxxxxx
+2023-12-01,Salary, 12000.00,,xxxxxxxxxxxxxxx

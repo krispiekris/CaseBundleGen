@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the primary purpose of AlphaTrade AI, according to its promotional materials?",
-    "answer": "To revolutionize investment strategy by using AI algorithms to analyze market trends and identify profitable opportunities."
+    "question": "According to the email, what is the primary technology Global AI Trading claims to utilize?",
+    "answer": "AI-powered trading system"
   },
   {
-    "question": "According to the email from AlphaTrade AI, what is the first step a new user needs to take?",
-    "answer": "Log in to their account and start deploying automated trading strategies."
+    "question": "What is the IBAN used for all transactions to Global AI Trading?",
+    "answer": "BZ1234567890"
   },
   {
-    "question": "What is the suspicion reason provided in SAR 1 regarding the transactions?",
-    "answer": "Unusual volume of transfers to overseas accounts with a focus on cryptocurrency platforms."
+    "question": "What was the initial investment amount made by Hans Meier, according to the first SAR report?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What information does the withdrawal request email from AlphaTrade AI require from Werner?",
-    "answer": "A copy of his government-issued identification, proof of address (utility bill), and a screenshot of his cryptocurrency wallet."
+    "question": "What timeframe does the promotional material suggest is available for new investors?",
+    "answer": "Limited Time Offer"
   },
   {
-    "question": "What did the screenshot of the AlphaTrade AI platform dashboard show regarding the current profit?",
-    "answer": "+\u20ac2,500.00 (today)."
+    "question": "Based on the Telegram chat log, what reason did the investment manager give when Hans Meier requested a withdrawal?",
+    "answer": "Increased market volatility and the need for more capital to cover withdrawals"
   },
   {
-    "question": "Which entity is consistently listed as the receiver account in the SAR reports and the bank statement?",
-    "answer": "Global Digital Assets LLC"
+    "question": "What design elements are mentioned in the screenshot of the website landing page?",
+    "answer": "Sleek, modern design with a dark blue and gold color scheme, a rotating carousel of testimonials, videos showcasing graphs and charts, and a call-to-action button."
   },
   {
-    "question": "Besides initial account setup, what is a common action Werner takes, according to the bank statements?",
-    "answer": "Transferring funds to AlphaTrade AI."
+    "question": "Based on the screenshot of the trading platform, what characteristics of the user interface are highlighted?",
+    "answer": "Overly complicated, with numerous technical indicators and jargon."
   },
   {
-    "question": "What does the promotional material 2 offer to potential users?",
-    "answer": "A FREE consultation with AI Trading Experts."
+    "question": "What actions are recorded in the bank statement that preceded the attempt to withdraw funds?",
+    "answer": "Salary Deposit, Grocery Shopping, Restaurant Bill, Utilities Payment, and Online Transfers to Global AI Trading"
   },
   {
-    "question": "What action prompted the creation of SAR 2?",
-    "answer": "The customer attempted withdrawal and the request was denied, prompting a follow-up report."
+    "question": "What timezone offset is displayed in the screenshot of the trading platform?",
+    "answer": "UTC-5"
   },
   {
-    "question": "What is the main concern expressed in SAR 3 regarding Werner\u2019s account?",
-    "answer": "Potential fraudulent activity and unauthorized transfers; the account may be compromised."
+    "question": "What was the recommended additional investment amount given by the investment manager in the Telegram chat log after Hans had already made a 15000 EUR investment?",
+    "answer": "10000 EUR"
   }
 ]

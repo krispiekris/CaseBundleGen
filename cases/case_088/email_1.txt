@@ -1,12 +1,14 @@
-From: vendor_relations@innovationsolutions.com
-To: accounts.payable@globaltechsystems.com
-Subject: Invoice 12345 - Payment Request
+From: marketing@aitradingpro.com
+To: hans.meier@email.de
+Subject: Unlock the Power of AI Trading - Limited Time Offer!
 
-Dear Accounts Payable,
+Dear Hans,
 
-Please find attached invoice 12345 for services rendered. Kindly process the payment as per our usual terms.
+Are you ready to experience the future of trading? AI Trading Pro utilizes cutting-edge artificial intelligence to identify and capitalize on market opportunities, delivering exceptional returns.
 
-Thanks,
-Sarah Miller
-Vendor Relations
-Innovationsolutions.com
+Our sophisticated algorithms analyze vast amounts of data to make informed trading decisions, allowing you to profit even when the market is volatile.
+
+For a limited time, we're offering new members a special introductory package. Click here to learn more and start your journey to financial freedom: [link to fake website]
+
+Sincerely,
+The AI Trading Pro Team

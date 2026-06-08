@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the invoice number associated with the payments to Apex Trading Ltd?",
-    "answer": "12345"
+    "question": "What is the primary purpose of the emails sent to Hans Meier by AI Trading Pro?",
+    "answer": "To promote AI Trading Pro's trading services and encourage Hans to join and invest."
   },
   {
-    "question": "According to the compromised account log, what action was performed immediately after a password change?",
-    "answer": "A new vendor 'Apex Trading Ltd' was added to the vendor list"
+    "question": "According to the promotional material, what is a key benefit of using AI Trading Pro?",
+    "answer": "It allows users to profit even in volatile market conditions."
   },
   {
-    "question": "Which country is listed as the receiver country for the transactions involving Apex Trading Ltd?",
-    "answer": "Hong Kong"
+    "question": "What is the purpose of the 'About Us' link on the website?",
+    "answer": "Not mentioned in the case files."
   },
   {
-    "question": "What type of fraudulent activity is initially suspected in SAR-20240727-004?",
-    "answer": "Business Email Compromise (BEC) fraud"
+    "question": "What is the name of the account manager mentioned in email_2, and what is his email address?",
+    "answer": "David, david.support@aitradingpro.com"
   },
   {
-    "question": "What is the amount of the transaction in SAR-20240726-003?",
-    "answer": "0.00"
+    "question": "What was the amount of the second transaction to AI Trading Pro, as documented in SAR_2.xml?",
+    "answer": "10000 EUR"
   },
   {
-    "question": "According to the promotional email, what benefit does Apex Trading Ltd. offer to potential clients?",
-    "answer": "Exclusive rates and personalized support"
+    "question": "Based on the bank statements, what was the initial investment amount made by Hans Meier to AI Trading Pro?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What is the total amount credited to Global Tech Systems' account from Apex Trading Ltd. based on the bank statements?",
-    "answer": "187500.00"
+    "question": "What prompted AI Trading Pro to request a copy of Hans's passport and utility bill, according to email_3?",
+    "answer": "To expedite the processing of his withdrawal request due to ongoing account verification protocols."
   },
   {
-    "question": "What is the description provided for the suspicious activity in SAR-20240111-002?",
-    "answer": "Multiple SARs filed for similar transactions to Apex Trading Ltd. Further investigation required."
+    "question": "Which of the following entities appear in both the SAR reports and the bank statements: Hans Meier, AI Trading Pro Ltd., David, Sparkasse Bremen?",
+    "answer": "Hans Meier, AI Trading Pro Ltd., Sparkasse Bremen"
   },
   {
-    "question": "What does the screenshot of the website indicate about Apex Trading Ltd.?",
-    "answer": "It has a professional design, client testimonials, and contact information."
+    "question": "What action is described in SAR_3.xml related to Hans Meier's account?",
+    "answer": "A withdrawal attempt of 10000 EUR was failed."
   },
   {
-    "question": "According to the invoice, what is the total amount billed for Consulting Services?",
-    "answer": "$50000.00"
+    "question": "What does the website screenshot description suggest about the overall appearance of the AI Trading Pro website?",
+    "answer": "Sleek, modern design with a dark background and vibrant green accents."
   }
 ]

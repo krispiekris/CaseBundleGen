@@ -1,21 +1,22 @@
-<SAR id="SAR-20231116-001">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Country>DE</Country>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Klaus Heinz</Name>
-    <Address>Musterstrasse 123, 10115 Berlin, Germany</Address>
-  </Subject>
-  <Transaction>
-    <Date>2023-11-15</Date>
-    <Amount currency="EUR">5000.00</Amount>
-    <Type>Credit</Type>
-    <Description>Payment to Secure Investments</Description>
-    <Counterparty>
-      <Name>Secure Investments Ltd.</Name>
-      <Country>Unknown</Country>
-    </Counterparty>
-    <SuspiciousActivity>Possible investment fraud - unsolicited email, unusually high potential returns</SuspiciousActivity>
-  </Transaction>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-07-12</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <AccountIdentifier>DE12345678901234567890</AccountIdentifier>
+  <AccountHolderName>Hans Meier</AccountHolderName>
+  <AccountHolderAddress>Musterstrasse 1, 12345 Musterstadt, Germany</AccountHolderAddress>
+  <SuspiciousActivity>
+    <ActivityType>Withdrawal Denial</ActivityType>
+    <Description>Client attempted to withdraw EUR 28,000. Funds flagged as potentially linked to suspicious investment activity. Request denied pending investigation.</Description>
+    <TransactionDate>2023-07-10</TransactionDate>
+    <TransactionAmount>28000.00</TransactionAmount>
+    <Currency>EUR</Currency>
+    <BeneficiaryName>Forex Elite Global</BeneficiaryName>
+    <BeneficiaryAccount>XX123456789</BeneficiaryAccount>
+    <BeneficiaryBank>International Trust Bank (Belize)</BeneficiaryBank>
+    <Findings>
+      <Finding>Potential investment fraud scheme.</Finding>
+      <Finding>Client appears to have been lured with promises of high returns.</Finding>
+    </Findings>
+  </SuspiciousActivity>
+</SuspiciousActivityReport>

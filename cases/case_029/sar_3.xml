@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.example.com/sar_schema.xsd">
-  <ReportDate>2023-08-25</ReportDate>
+<SAR>
+  <ReportDate>2024-02-15</ReportDate>
   <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionDate>2023-03-22</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Deposit</TransactionType>
-    <SenderName>Klaus Meier</SenderName>
-    <SenderAccount>DE12345678901234567890</SenderAccount>
-    <ReceiverName>Global Forex Ventures</ReceiverName>
-    <ReceiverAccount>BEL_GFV_001</ReceiverAccount>
-    <LocationOfReceiver>Belize</LocationOfReceiver>
-    <Suspicion>Large, unexplained deposits into an account linked to a potential Forex scam.</Suspicion>
+    <Transaction>
+      <TransactionDate>2023-09-01</TransactionDate>
+      <TransactionAmount currency="EUR">5000.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>DE89370400440532013000</OriginatingAccount>
+      <BeneficiaryAccount>GB24NWBK00000000012345</BeneficiaryAccount>
+      <BeneficiaryName>NovaTrade AI Investments</BeneficiaryName>
+      <PurposeCode>Investment</PurposeCode>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-11-20</TransactionDate>
+      <TransactionAmount currency="EUR">10000.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>DE89370400440532013000</OriginatingAccount>
+      <BeneficiaryAccount>GB24NWBK00000000012345</BeneficiaryAccount>
+      <BeneficiaryName>NovaTrade AI Investments</BeneficiaryName>
+      <PurposeCode>Investment</PurposeCode>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-12-05</TransactionDate>
+      <TransactionAmount currency="EUR">2000.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>DE89370400440532013000</OriginatingAccount>
+      <BeneficiaryAccount>GB24NWBK00000000012345</BeneficiaryAccount>
+      <BeneficiaryName>NovaTrade AI Investments</BeneficiaryName>
+      <PurposeCode>Investment</PurposeCode>
+    </Transaction>
   </SuspiciousActivity>
+  <Findings>
+    <Finding>Multiple transfers to the same beneficiary account in a short period. Victim has reported fraudulent activity and difficulty in withdrawing funds.</Finding>
+  </Findings>
+  <ReportOriginator>Bank Compliance Officer</ReportOriginator>
 </SAR>

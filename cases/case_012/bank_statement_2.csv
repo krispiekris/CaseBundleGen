@@ -1,6 +1,5 @@
-Date,Description,Amount (EUR),Recipient/Sender IBAN
-2023-10-10,Salary,7000.00,,DE78123456781234567890
-2023-10-20,Grocery Shopping,150.00,,DE10500100000000000000
-2023-11-10,Investment - Aetherium Alpha - Additional Funds,10000.00,GB22NWBK20701724542814
-2023-11-20,Insurance,300.00,,DE01600000000000000000
-2023-12-10,Grocery Shopping,150.00,,DE10500100000000000000
+Date,Description,Amount (AUD),Recipient IBAN
+2023-09-20,Cryptocurrency Transfer, -5000,, 
+2023-09-22,Withdrawal Request, 1000,, 
+2023-12-15,Cryptocurrency Transfer, -15000,, 
+2024-01-10,Withdrawal Attempt, -1000,, 

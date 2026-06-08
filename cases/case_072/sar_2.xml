@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SAR>
-  <ReportDate>2024-02-29</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-12-15</TransactionDate>
-      <TransactionAmount currency="EUR">5000</TransactionAmount>
-      <TransactionType>Debit</TransactionType>
-      <SenderName>AI Trading Solutions</SenderName>
-      <SenderAccount>ZA12345678901234567890</SenderAccount>
-      <RecipientName>Klaus Hartmann</RecipientName>
-      <RecipientAccount>DE12345678901234567890</RecipientAccount>
-      <RecipientCountry>Germany</RecipientCountry>
-      <Description>Withdrawal Request - Failed</Description>
-    </Transaction>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Multiple unsuccessful attempts to withdraw funds, raising suspicion of funds being inaccessible to the customer.</Finding>
-  </Findings>
-</SAR>
+<sar>
+  <report_id>SAR-20240120-002</report_id>
+  <date_filed>2024-01-20</date_filed>
+  <reporting_institution>Barclays Bank</reporting_institution>
+  <reporter_id>4789321</reporter_id>
+  <suspect_name>Richard Elliott</suspect_name>
+  <suspect_address>12 Oak Avenue, London, SW1A 1AA, United Kingdom</suspect_address>
+  <beneficiary_name>Chimaobi Okoro</beneficiary_name>
+  <beneficiary_address>14 Adenuga Crescent, Ikeja, Lagos, Nigeria</beneficiary_address>
+  <transaction_date>2024-01-10</transaction_date>
+  <transaction_amount>500.00</transaction_amount>
+  <transaction_currency>GBP</transaction_currency>
+  <transaction_type>Wire Transfer</transaction_type>
+  <purpose>Withdrawal</purpose>
+  <suspicious_activity>Relatively small withdrawal after substantial initial deposit.  May indicate testing of system.</suspicious_activity>
+  <reporter_comments>Small test withdrawal. Continue monitoring account activity.</reporter_comments>
+</sar>

@@ -1,0 +1,20 @@
+<SAR>
+  <Header>
+    <ReportDate>2023-12-01</ReportDate>
+    <BankName>Royal Bank of Canada</BankName>
+    <SARID>98765</SARID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-12</TransactionDate>
+    <Amount>0.00</Amount>
+    <Currency>CAD</Currency>
+    <SenderAccount>David Miller Account</SenderAccount>
+    <RecipientAccount>AI Wealth Platform - Processing Account</RecipientAccount>
+    <Description>Complaint Filed</Description>
+    <SuspiciousActivity>Client complaint received - attempted withdrawal denied, possible fraud</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>David Miller</Sender>
+    <Recipient>AI Wealth Platform</Recipient>
+  </Parties>
+</SAR>

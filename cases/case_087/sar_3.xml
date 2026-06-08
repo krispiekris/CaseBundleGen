@@ -1,20 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <CaseID>2023-SAR-125</CaseID>
-  <Date>2023-09-12</Date>
-  <BankName>Island Trust Bank</BankName>
-  <BankLocation>Majuro, Marshall Islands</BankLocation>
-  <AccountName>Marshall Islands Holding Company</AccountName>
-  <AccountNum>5555555555</AccountNum>
-  <SuspiciousActivity>Receiving funds from a Forex brokerage, no apparent business activity.</SuspiciousActivity>
-  <TransactionDetails>
-    <Transaction1>
-      <Date>2023-07-22</Date>
-      <Amount>35000.00</Amount>
-      <Currency>CAD</Currency>
-      <Description>Transfer from Global Finance International</Description>
-      <Sender>Global Finance International</Sender>
-    </Transaction1>
-  </TransactionDetails>
-  <Findings>Potential involvement in investment fraud scheme.</Findings>
-  <ReportingBankOfficer>Lani K.</ReportingBankOfficer>
+  <ReportDate>2023-10-21</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2023-07-28</TransactionDate>
+    <TransactionAmount currency="EUR">10000.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverAccount>NG45678901234567890123</ReceiverAccount>
+    <ReceiverName>Oluwaseun Adebayo</ReceiverName>
+    <ReceiverCountry>Nigeria</ReceiverCountry>
+    <Description>Second wire transfer to Nigeria - potential investment fraud</Description>
+    <Findings>
+      Multiple wire transfers to the same recipient in Nigeria.  Withdrawal request subsequently denied.</Findings>
+  </SuspiciousActivity>
 </SAR>

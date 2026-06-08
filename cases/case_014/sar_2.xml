@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>\n<SAR id="SAR-2023-12-15-002">
-  <ReportingInstitution>
-    <Name>Deutsche Bank AG</Name>
-    <Address>Taunuschrift 1, 60329 Frankfurt am Main, Germany</Address>
-  </ReportingInstitution>
-  <Subject>
-    <Name>Baumann, Hans</Name>
-    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
-  </Subject>
+<SAR>
+  <Header>
+    <ReportDate>2023-12-05</ReportDate>
+    <SuspiciousActivity>
+      <Type>Funds Transfer</Type>
+      <Description>Suspicious funds transfer to an overseas account potentially linked to a cryptocurrency recovery scam.</Description>
+    </SuspiciousActivity>
+  </Header>
   <Transaction>
-    <Date>2023-10-15</Date>
-    <Amount currency="EUR">10000.00</Amount>
-    <Description>Wire transfer to NovaTrade AG</Description>
-    <OriginatingParty>
-      <Name>Deutsche Bank AG</Name>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>NovaTrade AG</Name>
-      <Account>1234567890</Account>
-      <Bank>Sterling Bank Nigeria Limited</Bank>
-    </BeneficiaryParty>
+    <Date>2023-12-05</Date>
+    <Amount currency="USD">10,000.00</Amount>
+    <Sender>
+      <Name>David Miller</Name>
+      <Account>xxxxxxxxxxxxxxx</Account>
+    </Sender>
+    <Receiver>
+      <Name>Gabriel Onyekachi</Name>
+      <Account>yyyyyyyyyyyyyyyyy</Account>
+      <Country>Nigeria</Country>
+    </Receiver>
+    <Purpose>Funds transfer for cryptocurrency recovery services</Purpose>
   </Transaction>
   <Findings>
-    <SuspiciousActivity>Potential investment fraud; increased deposit amount, unusual transfer destination.</SuspiciousActivity>
+    <Concern>Continued transfers to the same recipient despite initial concerns. The stated purpose remains "cryptocurrency recovery services." Further investigation warranted.</Findings>
   </Findings>
 </SAR>

@@ -1,16 +1,14 @@
-From: support@aiextrading.com
-To: David.Miller@example.com.au
-Subject: Welcome to AI Extra Trading!
+From: support@ai-trading-pro.com
+To: klaus.meier@email.de
+Subject: Welcome to AI Trading Pro - Your Automated Investment Journey!
 
-Dear David,
+Dear Klaus,
 
-Welcome to AI Extra Trading! We're thrilled to have you join our exclusive community of investors leveraging the power of our cutting-edge AI trading algorithms.
+Welcome to the future of investing! AI Trading Pro utilizes cutting-edge artificial intelligence to analyze markets and execute trades with unparalleled precision.  We're thrilled to have you join our community of forward-thinking investors.
 
-Our system is designed to generate consistent profits with minimal effort. To get started, simply deposit funds into your account and let our AI do the rest.
+To get started, simply log in to your account at [https://ai-trading-pro.com](https://ai-trading-pro.com) and explore the powerful features available to you.  Our automated strategies are designed to work 24/7, maximizing your returns with minimal effort.
 
-For a limited time, new members receive a bonus strategy guide. Click here to claim yours: [link removed]
+For any questions, please contact our support team at support@ai-trading-pro.com.
 
 Sincerely,
-The AI Extra Trading Team
-
-www.aiextrading.com
+The AI Trading Pro Team

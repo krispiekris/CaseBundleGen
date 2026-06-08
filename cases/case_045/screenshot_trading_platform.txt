@@ -1,0 +1,3 @@
+Screenshot of NovaTrade AI trading platform:
+
+[Image Description: The screenshot shows a simulated trading platform with a dark blue and green color scheme.  A graph displays an upward trend, labeled 'AI-Powered Portfolio Growth.'  Below the graph are several buttons: 'Deposit Funds,' 'Withdraw Funds,' 'View Detailed Analytics.'  A ticker displays real-time, but fabricated, cryptocurrency prices. A prominent banner reads: 'Current Portfolio Value: €8,750.00'. A small disclaimer in the corner reads: 'Simulated Results - Not Representative of Actual Performance.' ]

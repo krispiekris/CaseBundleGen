@@ -1,16 +1,22 @@
-<sar>
-  <header>
-    <sar_id>SAR-20230525-003</sar_id>
-    <submission_date>2023-05-25</submission_date>
-    <financial_institution>Global Bank Australia</financial_institution>
-  </header>
-  <customer>
-    <name>David Miller</name>
-    <address>12 Acacia Avenue, Sydney, NSW 2000, Australia</address>
-    <customer_id>DM12345</customer_id>
-  </customer>
-  <findings>
-    <finding>Customer reports being defrauded by AI Prosper Investments Ltd. Unable to withdraw funds. Investigation recommended. Multiple transfers to offshore accounts in Belize and Seychelles.</finding>
-    <finding>Potential involvement of cryptocurrency transactions.</finding>
-  </findings>
-</sar>
+<SAR>
+  <Header>
+    <ReferenceNumber>SAR-2024-0118-UK</ReferenceNumber>
+    <DateFiled>2024-01-20</DateFiled>
+    <ReportingInstitution>Barclays Bank</ReportingInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-20</TransactionDate>
+    <TransactionAmount currency="GBP">20000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <Description>Transfer to AI Trading Pro</Description>
+    <OriginatingParty>
+      <Name>Richard Baker</Name>
+      <Address>12 Oak Avenue, London, SW1A 1AA, UK</Address>
+    </OriginatingParty>
+    <Beneficiary>
+      <Name>AI Trading Pro</Name>
+      <IBAN>GB29NWBK00000000001234</IBAN>
+    </Beneficiary>
+    <SuspiciousActivity>Customer reports difficulty withdrawing funds.  Possible investment fraud.</SuspiciousActivity>
+  </Transaction>
+</SAR>

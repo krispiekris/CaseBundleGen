@@ -1,6 +1,8 @@
-Date,Description,Amount,Currency,IBAN
-2023-09-01,AI Trading Pro, -5000.00,EUR,DExxxxxxxxxxxxxxxxxxxx
-2023-09-15,AI Trading Pro, -3000.00,EUR,DExxxxxxxxxxxxxxxxxxxx
-2023-10-20,Verification Fee, -500.00,EUR,DExxxxxxxxxxxxxxxxxxxx
-2023-10-25,Salary, 3000.00,EUR,DExxxxxxxxxxxxxxxxxxxx
-2023-10-30,Online Shopping, -100.00,EUR,DExxxxxxxxxxxxxxxxxxxx
+Date,Description,Amount (AUD),Recipient IBAN
+2023-09-01,AI Investments Deposit,10000.00,MU12LLBB00180000000010
+2023-10-15,AI Investments Profit,3000.00,
+2023-10-20,-75.00,Restaurant Payment,
+2023-10-25,Online Purchase,100.00,
+2023-10-30,Utilities,250.00,
+2023-11-05,Grocery Shopping,80.50,
+2023-11-10,Savings Transfer,500.00,

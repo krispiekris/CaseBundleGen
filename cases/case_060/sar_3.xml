@@ -1,0 +1,21 @@
+<SAR>
+  <ReportDate>2023-11-19</ReportDate>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-10-05</TransactionDate>
+      <AmountCurrency>GBP</AmountCurrency>
+      <Amount>5000</Amount>
+      <SenderName>David Miller</SenderName>
+      <SenderAccount>123456789</SenderAccount>
+      <ReceiverName>Globex Capital</ReceiverName>
+      <ReceiverAccount>1234567890</ReceiverAccount>
+      <ReceiverBank>Zenith Bank Nigeria Plc</ReceiverBank>
+      <IBAN></IBAN>
+      <Description>Withdrawal Request</Description>
+    </SuspiciousActivity>
+    <Suspicion>
+      <Type>Blocked Withdrawal Request</Type>
+      <Details>Withdrawal request denied without explanation.  Customer expresses concern regarding the status of their funds.</Details>
+    </Suspicion>
+  </ReportDate>
+</SAR>

@@ -1,55 +1,59 @@
 {
-  "case_id": "2024-07-26-CC-0042",
+  "case_id": "2024-CN-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac100,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Nigeria",
+    "location": "Belize",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Spanish",
+      "Russian"
     ]
   },
   "destination_countries": [
-    "Vietnam",
-    "Philippines"
+    "Cyprus",
+    "United Kingdom"
   ],
   "timeline": [
     {
-      "date": "2023-11-15",
-      "event": "Initial contact via Telegram"
+      "date": "2023-03-15",
+      "event": "Victim contacted via Telegram by 'AI Trading Expert'"
     },
     {
-      "date": "2023-12-05",
-      "event": "First deposit made"
+      "date": "2023-04-05",
+      "event": "Initial investment made via cryptocurrency"
     },
     {
-      "date": "2024-01-20",
-      "event": "Victim expresses concerns about withdrawals"
+      "date": "2023-05-20",
+      "event": "Victim receives fabricated profits"
     },
     {
-      "date": "2024-02-10",
-      "event": "Victim reports suspected fraud"
+      "date": "2023-07-10",
+      "event": "Victim attempts withdrawal \u2013 rejected"
+    },
+    {
+      "date": "2023-08-01",
+      "event": "Victim reports fraud to authorities"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bitcoin",
-      "amount_range": "0.5 - 1 BTC"
-    },
-    {
-      "type": "Ethereum",
-      "amount_range": "10 - 20 ETH"
-    },
-    {
-      "type": "EUR",
+      "type": "Cryptocurrency (Bitcoin)",
       "amount_range": "\u20ac15,000 - \u20ac25,000"
+    },
+    {
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac5,000 - \u20ac10,000"
+    },
+    {
+      "type": "Investment Platform Credits",
+      "amount_range": "\u20ac500 - \u20ac1,000"
     }
   ]
 }

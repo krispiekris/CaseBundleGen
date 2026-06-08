@@ -1,16 +1,10 @@
-From: accountmanager@globaltraders.net
-To: thomas.baumann@email.de
-Subject: Exciting Trading Opportunity – High-Yield Potential!
+From: support@ai-globaltrade.com
+To: hans.meier@example.de
+Subject: Important Update Regarding Your Account
 
-Dear Thomas,
+Dear Hans,
 
-We've identified a unique trading opportunity with significant potential for high returns. The EUR/USD pair is showing strong momentum and could yield substantial profits if you act quickly.
+We are experiencing some minor technical difficulties on our platform. We kindly ask that you refrain from making any withdrawal requests for the next 24-48 hours. We apologize for any inconvenience this may cause.
 
-We strongly recommend increasing your position size to capitalize on this opportunity. Our analysts predict a 150-pip move within the next 24 hours. 
-
-This is a limited-time opportunity - don't miss out!
-
-Best regards,
-David Miller
-Senior Account Manager
-Global Traders
+Sincerely,
+The AI Global Trade Support Team

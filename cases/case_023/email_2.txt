@@ -1,10 +1,12 @@
-From: hans.meier@email.de
-To: support@ai-elite-trading.com
-Subject: Withdrawal Problem
+From: support@aitradingpro.com
+To: klaus.meier@email.de
+Subject: Important Update Regarding Your Account
 
-Dear AI Elite Trading Support,
+Dear Klaus,
 
-I attempted to withdraw €10,000 from my account today, but the transaction failed. Can you please investigate this and let me know what’s happening?
+Due to unforeseen market volatility, your withdrawal request has been temporarily frozen. Our AI algorithms are working to ensure the safety of your funds and optimize trading performance.
 
-Thank you,
-Hans Meier
+We appreciate your patience and understanding. Please contact our support team with any questions.
+
+Sincerely,
+The AI Trading Pro Support Team

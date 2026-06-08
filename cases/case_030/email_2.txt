@@ -1,15 +1,13 @@
-From: account.support@globalinvestments.tech
-To: david.miller@example.com.au
-Subject: Important Update Regarding Your Alpha AI Trading Account
+From: invest.ai.support@reliabletrading.tech
+To: "Dr. Markus Schmidt" <markus.schmidt@example.de>
+Subject: Re: Inquiry about Automated Trading System
+Date: 2023-07-13 09:12:00
 
-Dear David,
+Dear Dr. Schmidt,
 
-We're excited to inform you that your Alpha AI Trading System is performing exceptionally well! Your current balance has reached a significant level, and we’re confident that you will continue to see substantial returns.
+Thank you for your interest in Athena AI. Our system utilizes cutting-edge artificial intelligence to analyze market trends and execute trades with exceptional precision. The minimum investment is €5,000, and we offer personalized onboarding assistance to ensure a smooth start.
 
-To ensure the security of your account, we require you to verify your information by clicking on the link below:
-
-[Link to a phishing website]
+For a brief demonstration and a consultation, please schedule a call with our investment advisor, Mr. David Johnson, using this link: [fake scheduling link]
 
 Sincerely,
-
-The Global Investments Support Team
+Reliable Trading Support

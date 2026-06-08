@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the promotional material, what is a key benefit of using NovaTrade?",
-    "answer": "Effortless Trading"
+    "question": "According to the initial email, what is the primary benefit AI-Traders claims their platform offers?",
+    "answer": "Effortlessly growing your portfolio while you focus on what matters most."
   },
   {
-    "question": "What is the minimum investment amount required to participate in NovaTrade, as stated in the initial conversation?",
-    "answer": "\u20ac500"
+    "question": "What disclaimer is present on the AI-Traders platform dashboard, as seen in the screenshot?",
+    "answer": "Simulated Performance - Not Indicative of Future Results"
   },
   {
-    "question": "Based on the bank statements, what is the total amount Karl Schmidt has transferred to NovaTrade?",
-    "answer": "\u20ac15500.00"
+    "question": "Based on the bank statements, what is the IBAN used for both incoming and outgoing transfers?",
+    "answer": "DE87370400440532013000"
   },
   {
-    "question": "What is the SWIFT code provided in email_2 for NovaTrade Solutions\u2019 bank account?",
-    "answer": "UNIBNGLA"
+    "question": "What type of identification does Klaus Heinz use according to SAR-2023-10-27-001?",
+    "answer": "Passport"
   },
   {
-    "question": "What suspicious activity is highlighted in SAR 2 regarding Karl Schmidt's account activity?",
-    "answer": "Small returns following substantial initial investments."
+    "question": "Considering the promotional material and Klaus\u2019s account balance in the screenshot, what may be the intended impression created for potential investors?",
+    "answer": "That they can easily achieve substantial profits and financial freedom."
   },
   {
-    "question": "Which receiver country is associated with the significant wire transfers of \u20ac5000 and \u20ac10000, according to SAR 1 and SAR 2?",
-    "answer": "United Kingdom"
+    "question": "Which country is listed as the country of the beneficiary (AI-Traders Ltd.) in the SAR reports?",
+    "answer": "Belize"
   },
   {
-    "question": "What description is associated with the transaction involving Karl Schmidt\u2019s withdrawal request in SAR 3?",
-    "answer": "Withdrawal Request Denied"
+    "question": "What is the transaction description provided in SAR-2023-11-15-003 regarding the outgoing transfer of 10000.00 EUR?",
+    "answer": "Outgoing Transfer"
   },
   {
-    "question": "What platform feature is prominently displayed in the screenshot of the dashboard?",
-    "answer": "AI trading indicator"
+    "question": "According to the follow-up email, what reason do they provide to address potential investor hesitations?",
+    "answer": "The platform is designed to be simple, secure, and remarkably profitable."
   },
   {
-    "question": "Considering the conversation, the promotional materials, and the SAR reports, what is the likely nature of David Adebayo\u2019s role within NovaTrade?",
-    "answer": "Support"
+    "question": "What is the primary type of suspicious activity identified in SAR-2024-01-05-002?",
+    "answer": "Unusual Transaction Pattern"
   },
   {
-    "question": "What amount was transferred to Karl Schmidt\u2019s account on September 12th, as indicated in SAR 2?",
-    "answer": "\u20ac250.00"
+    "question": "Based on the bank statement, what are the amounts and destinations for the two outgoing transfers to GB29NWBK20200021531681?",
+    "answer": "5000.00 EUR and 5000.00 EUR"
   }
 ]

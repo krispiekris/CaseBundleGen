@@ -1,27 +1,25 @@
-<SAR>
-  <Header>
-    <SARReferenceID>20230805-SAR-001</SARReferenceID>
-    <DateTime>2023-08-05T10:00:00Z</DateTime>
-    <SubmittingInstitution>Deutsche Bank</SubmittingInstitution>
-  </Header>
-  <TransactionDetails>
-    <TransactionDate>2023-08-01</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Credit</TransactionType>
-    <OriginatingParty>
-      <Name>Karl Meier</Name>
-      <AccountID>DE12345678901234567890</AccountID>
-      <Country>DE</Country>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>FX Pro Advisor</Name>
-      <AccountID>BZ21020100000000000001</AccountID>
-      <Country>BZ</Country>
-      <IBAN>BZ21020100000000000001</IBAN>
-    </BeneficiaryParty>
-  </TransactionDetails>
-  <Suspicion>
-    <Description>Large credit to an overseas account with unusual activity</Description>
-    <Reason>Potential investment fraud</Reason>
-  </Suspicion>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<SuspiciousActivityReport>
+  <ReportDate>2023-06-29</ReportDate>
+  <FilingBank>Deutsche Bank</FilingBank>
+  <Subject>
+    <Name>Markus Weber</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+    <DateOfBirth>1968-10-20</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <TransactionDate>2023-04-01</TransactionDate>
+    <Amount currency="EUR">5000.00</Amount>
+    <Description>Transfer to unknown recipient</Description>
+    <Recipient>
+      <Name>AI Trading Solutions</Name>
+      <Account>DE12123456789012345678</Account>
+      <IBAN>DE12123456789012345678</IBAN>
+      <SWIFT>DEUTDEFFXXX</SWIFT>
+    </Recipient>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusually large transfer to an unknown recipient claiming to offer high-yield investment opportunities.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
+</SuspiciousActivityReport>

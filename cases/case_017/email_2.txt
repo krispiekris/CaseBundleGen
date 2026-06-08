@@ -1,0 +1,12 @@
+From: michael.davies@example.com
+To: info@aiprosolutions.com
+Subject: Account Setup - Michael Davies
+
+Dear AI Pro Solutions,
+
+I'm excited to get started with AI Pro Solutions! I've completed the registration process and would like to make my initial deposit of AUD $10,000 using Bitcoin.
+
+Please provide the Bitcoin wallet address for deposit.
+
+Thank you,
+Michael Davies

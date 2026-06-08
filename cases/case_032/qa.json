@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the initial amount Klaus Heinz transferred to Golden Future Investments?",
-    "answer": "15000.00 EUR"
+    "question": "According to the initial Telegram chatlog, what was the initial investment amount proposed by the 'AI Trading Expert'?",
+    "answer": "\u20ac500"
   },
   {
-    "question": "According to the email from AI Trading Pro, what is the primary benefit of using their platform?",
-    "answer": "Utilizes cutting-edge artificial intelligence to identify and execute profitable trades, 24/7."
+    "question": "What type of transaction was reported in SAR-2023-04-12-001, and what was its amount?",
+    "answer": "Cryptocurrency Transfer, \u20ac25000.00"
   },
   {
-    "question": "What is the purpose code associated with Klaus Heinz\u2019s transactions with Golden Future Investments?",
-    "answer": "13 - Other"
+    "question": "Based on the bank statement, what date did Michael Schmidt make a Bitcoin payment?",
+    "answer": "2023-03-15"
   },
   {
-    "question": "What is the minimum deposit required to activate the AI trading system, according to the telegram chat log?",
-    "answer": "\u20ac250"
+    "question": "What is the username Michael Schmidt uses on the investment platform?",
+    "answer": "SchmidtM"
   },
   {
-    "question": "What reason did Deutsche Bank provide for flagging the transaction to Golden Future Investments as suspicious in the first SAR?",
-    "answer": "Unusually large transfer to overseas account; recipient flagged as potentially high-risk."
+    "question": "Which email address is associated with Michael Schmidt's GlobalTradeAI account?",
+    "answer": "michael.schmidt@email.de"
   },
   {
-    "question": "What is the promised timeframe for withdrawal processing, initially stated by AI Trading Pro in the telegram chat log?",
-    "answer": "24-48 hours"
+    "question": "What was the reason given for denying Michael Schmidt\u2019s withdrawal request in SAR-2023-07-15-002?",
+    "answer": "System maintenance"
   },
   {
-    "question": "Besides the initial deposit, how much more money did Klaus Heinz deposit into Golden Future Investments?",
-    "answer": "10000.00 EUR"
+    "question": "Considering the promotional material, what is a key benefit promised to potential investors?",
+    "answer": "Generate consistent profits"
   },
   {
-    "question": "What is the primary reason Klaus Heinz reported concerns in the second SAR?",
-    "answer": "Victim reported concerns about withdrawal; potential scam activity."
+    "question": "What does the screenshot of the investment platform dashboard indicate about the user's account balance and withdrawal options?",
+    "answer": "Account balance: \u20ac0.00; Withdrawals temporarily unavailable"
   },
   {
-    "question": "Based on the wallet transaction history, approximately how much Bitcoin did Golden Future Investments receive from an unknown sender over this period?",
-    "answer": "1.0 BTC"
+    "question": "According to the bank statement of the intermediary, what were the dates of the 'Outgoing Transfer' payments to an unidentified recipient?",
+    "answer": "2023-05-01, 2023-05-15, 2023-06-01"
   },
   {
-    "question": "What does the website screenshot suggest about customer experiences with AI Trading Pro?",
-    "answer": "Testimonials suggest users have experienced significant returns, such as doubling their money in one month."
+    "question": "What potential issue does SAR-2023-08-05-003 highlight regarding the financial transactions of \u2018GlobalTradeAI\u2019?",
+    "answer": "Lack of transparency in financial transactions"
   }
 ]

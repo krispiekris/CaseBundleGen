@@ -1,15 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <sar>
-  <report_date>2023-12-05</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <customer_name>Michael Schmidt</customer_name>
-  <customer_id>1234567890</customer_id>
-  <transaction_date>2023-12-01</transaction_date>
-  <transaction_amount currency="EUR">5000</transaction_amount>
-  <transaction_type>Transfer Out</transaction_type>
-  <recipient_name>CryptoTrade Solutions</recipient_name>
-  <recipient_account>GB21NWBK00000000001234</recipient_account>
-  <recipient_country>United Kingdom</recipient_country>
-  <description>Transfer to CryptoTrade Solutions</description>
-  <suspicious_activity>Unusual transfer to an unknown recipient. Customer expressed interest in AI trading.</suspicious_activity>
-  <reporter>Compliance Officer</reporter>
+  <report_date>2023-11-25</report_date>
+  <institution_name>Deutsche Bank</institution_name>
+  <reporter_name>Anti-Money Laundering Department</reporter_name>
+  <beneficial_owner>
+    <name>Johannes Meier</name>
+    <address>Musterstraße 12, 10115 Berlin, Germany</address>
+  </beneficial_owner>
+  <transaction>
+    <transaction_date>2023-09-01</transaction_date>
+    <amount currency="EUR">5000</amount>
+    <description>Transfer to Global Forex Pro</description>
+    <recipient_iban>DE89370400440532013656</recipient_iban>
+    <reason>Investment</reason>
+  </transaction>
+  <transaction>
+    <transaction_date>2023-10-15</transaction_date>
+    <amount currency="EUR">10000</amount>
+    <description>Transfer to Global Forex Pro</description>
+    <recipient_iban>DE89370400440532013656</recipient_iban>
+    <reason>Investment</reason>
+  </transaction>
+  <findings>Multiple transfers to a foreign entity with unclear business operations.  Large sums transferred with vague descriptions. Potential investment fraud.</findings>
 </sar>

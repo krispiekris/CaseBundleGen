@@ -1,24 +1,21 @@
-<SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2023-11-15</ReportDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2024-02-22</ReportDate>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-11-10</TransactionDate>
-      <Amount>50000</Amount>
-      <Currency>AUD</Currency>
-      <SenderName>David Miller</SenderName>
-      <SenderAccount>XXXX-XXXX-XXXX-1234</SenderAccount>
-      <ReceiverName>Global Investments Ltd</ReceiverName>
-      <ReceiverAccount>ZA1234567890123456</ReceiverAccount>
-      <Description>Investment Deposit</Description>
-      <Location>Australia</Location>
-    </Transaction>
+    <TransactionDate>2023-11-29</TransactionDate>
+    <TransactionAmount>3000.00</TransactionAmount>
+    <TransactionCurrency>EUR</TransactionCurrency>
+    <TransactionType>Deposit</TransactionType>
+    <SenderName>NovaTrade AI</SenderName>
+    <SenderAccount>Unknown</SenderAccount>
+    <ReceiverName>[Victim Name]</ReceiverName>
+    <ReceiverAccount>DE45370400440532015000</ReceiverAccount>
+    <Description>Subsequent deposit to NovaTrade AI platform.  Attempts to withdraw funds were unsuccessful.</Description>
   </SuspiciousActivity>
   <ReportingInstitution>
-    <Name>Commonwealth Bank of Australia</Name>
-    <Contact>Jane Doe</Contact>
-    <Phone>1300 123 456</Phone>
+    <Name>Deutsche Bank</Name>
+    <Contact>
+      <Email>compliance@deutschebank.de</Email>
+    </Contact>
   </ReportingInstitution>
-  <Findings>
-    <Finding>Large investment deposit following initial profit withdrawal, warranting further investigation.</Finding>
-  </Findings>
 </SAR>

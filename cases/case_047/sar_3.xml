@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sar>
-  <report_date>2023-10-05</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <customer_name>Ulrich Baumann</customer_name>
-  <customer_id>1234567890</customer_id>
-  <transaction_date>2023-09-28</transaction_date>
-  <transaction_amount>0.00</transaction_amount>
-  <transaction_currency>EUR</transaction_currency>
-  <transaction_type>Account Activity</transaction_type>
-  <beneficiary_name>N/A</beneficiary_name>
-  <beneficiary_account>N/A</beneficiary_account>
-  <beneficiary_country>N/A</beneficiary_country>
-  <description>Customer reports fraudulent activity and loss of funds.</description>
-  <suspicious_activity>Customer reports unauthorized transactions and inability to access funds.  Indicates a potential fraudulent scheme. Formal complaint filed.</suspicious_activity>
-  <reporter>Compliance Officer</reporter>
-</sar>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-12-01</ReportDate>
+  <OriginatingJurisdiction>Marshall Islands</OriginatingJurisdiction>
+  <ReportingInstitution>Global Trust Corp</ReportingInstitution>
+  <Account>
+    <AccountID>5555555555</AccountID>
+    <AccountName>Global Trust Corp - Client Account</AccountName>
+    <AccountCurrency>USD</AccountCurrency>
+  </Account>
+  <BeneficialOwner>
+    <Name>Unknown</Name>
+    <Address>Registered Agent Address, Majuro, Marshall Islands</Address>
+  </BeneficialOwner>
+  <Transaction>
+    <TransactionDate>2023-10-15</TransactionDate>
+    <TransactionAmount>1000.00</TransactionAmount>
+    <TransactionCurrency>USD</TransactionCurrency>
+    <Description>Withdrawal to David Miller</Description>
+    <SenderName>David Miller</SenderName>
+    <SenderAccount>1234567890</SenderAccount>
+    <SenderBank>Example Bank</SenderBank>
+    <SenderCountry>United Kingdom</SenderCountry>
+  </Transaction>
+  <SuspiciousActivity>Withdrawal after blocked withdrawal attempt; Client account used for potentially fraudulent investment scheme.</SuspiciousActivity>
+  <ReportFiledBy>John.Smith@globaltrustcorp.ki</ReportFiledBy>
+</SAR>

@@ -1,27 +1,23 @@
 <sar>
-  <report_date>2023-07-11</report_date>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <reporter_id>DB-SAR-2023-0048</reporter_id>
-  <customer>
-    <name>Ulrich Baumann</name>
-    <address>Musterstraße 12, 10115 Berlin, Germany</address>
-    <date_of_birth>1968-07-22</date_of_birth>
-  </customer>
-  <suspicious_activity>
-    <activity_date>2023-03-15</activity_date>
-    <transaction_amount currency="EUR">15000.00</transaction_amount>
-    <transaction_type>Deposit</transaction_type>
-    <description>Initial deposit to AI Trading Elite platform.</description>
-    <account_number>1234567890</account_number>
-  </suspicious_activity>
-  <suspicious_activity>
-    <activity_date>2023-04-05</activity_date>
-    <transaction_amount currency="EUR">5000.00</transaction_amount>
-    <transaction_type>Deposit</transaction_type>
-    <description>Additional deposit to AI Trading Elite platform.</description>
-    <account_number>1234567890</account_number>
-  </suspicious_activity>
-  <findings>
-    <finding>Multiple deposits to a platform claiming to use AI for automated trading.  Customer reported fraud on 2023-07-10.</finding>
-  </findings>
+  <report>
+    <report_date>2024-03-01</report_date>
+    <reporting_institution>Deutsche Bank</reporting_institution>
+    <customer_name>Karl Meier</customer_name>
+    <customer_id>123456789</customer_id>
+    <transaction_details>
+      <transaction_date>2024-02-27</transaction_date>
+      <transaction_amount currency="EUR">10000.00</transaction_amount>
+      <transaction_type>Debit</transaction_type>
+      <recipient_name>AI-Wealth Pro</recipient_name>
+      <recipient_account>XX1234567890123456789012</recipient_account>
+      <recipient_bank>Malta International Bank</recipient_bank>
+      <iban>MT12MALT0001234567890123456789</iban>
+      <swift>MALTMTMM</swift>
+      <purpose>Investment</purpose>
+    </transaction_details>
+    <findings>
+      <suspicious_activity>Multiple transfers to the same offshore account with vague investment purpose. Customer attempts to withdraw funds are being blocked.</suspicious_activity>
+      <risk_level>High</risk_level>
+    </findings>
+  </report>
 </sar>

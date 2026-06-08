@@ -1,19 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sar>
-  <report_date>2023-09-05</report_date>
-  <institution_id>DEUTSCHBANK</institution_id>
-  <reporter_name>Deutsche Bank</reporter_name>
-  <suspicious_activity>
-    <transaction>
-      <transaction_date>2023-09-01</transaction_date>
-      <amount currency="EUR">5000.00</amount>
-      <sender_account>DE78123456781234567890</sender_account>
-      <recipient_account>GB22NWBK20701724542814</recipient_account>
-      <recipient_name>Aetherium Alpha Investments</recipient_name>
-      <description>Investment - Aetherium Alpha</description>
-    </transaction>
-    <activity_type>Unusual Transaction</activity_type>
-    <finding>Potential investment fraud - overseas transfer to unknown entity</finding>
-    <reporter_comments>Customer initiated transfer to a UK-based company with limited online presence. Further investigation recommended.</reporter_comments>
-  </suspicious_activity>
-</sar>
+<SAR>
+  <Header>
+    <SARReference>20231101-0042</SARReference>
+    <DateTime>2023-11-01T10:00:00Z</DateTime>
+    <Originator>
+      <Name>Deutsche Bank AG</Name>
+      <Jurisdiction>DE</Jurisdiction>
+    </Originator>
+  </Header>
+  <Transaction>
+    <Amount currency="EUR">5000</Amount>
+    <Date>2023-10-15</Date>
+    <Description>Investment to Elite AI Trading - Crypto</Description>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Account>DE12345678901234567890</Account>
+    </Sender>
+    <Receiver>
+      <Name>Elite AI Trading</Name>
+      <Account>GB87BBIB40120401091234</Account>
+      <IBAN>GB87BBIB40120401091234</IBAN>
+    </Receiver>
+  </Transaction>
+  <Findings>
+    <SuspiciousActivity>Potential investment fraud – high-yield cryptocurrency investment with limited verifiable information.</SuspiciousActivity>
+  </Findings>
+</SAR>

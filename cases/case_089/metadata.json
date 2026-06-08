@@ -1,54 +1,60 @@
 {
-  "case_id": "2024-CX-00789",
+  "case_id": "2024-03-22-CYB-0078",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "$80,000 - $120,000",
-    "country": "Australia",
+    "income_range": "\u00a350,000 - \u00a375,000",
+    "country": "United Kingdom",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Hausa",
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "United Arab Emirates"
+    "Nigeria",
+    "United Arab Emirates",
+    "Switzerland"
   ],
   "timeline": [
     {
-      "date": "2023-03-15",
-      "event": "Victim contacted via Facebook ad"
+      "date": "2023-08-15",
+      "event": "Victim first contacted by 'AI Trading Pro'"
     },
     {
-      "date": "2023-03-22",
-      "event": "Initial investment of $5,000 made"
+      "date": "2023-09-01",
+      "event": "Initial investment of \u00a35,000 made"
     },
     {
-      "date": "2023-04-15",
-      "event": "Victim receives fabricated profit reports"
+      "date": "2023-10-15",
+      "event": "Victim shown fabricated profits and encouraged to invest more"
     },
     {
-      "date": "2023-05-10",
-      "event": "Victim attempts withdrawal - denied"
+      "date": "2023-11-20",
+      "event": "Victim invests a total of \u00a325,000"
     },
     {
-      "date": "2023-05-20",
-      "event": "Victim reports fraud to authorities"
+      "date": "2023-12-05",
+      "event": "Victim attempts to withdraw funds, encounters delays and excuses"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim realises funds are lost and reports the incident"
     }
   ],
   "assets_involved": [
     {
       "type": "Cryptocurrency (BTC)",
-      "amount_range": "$5,000 - $20,000"
+      "amount_range": "\u00a320,000 - \u00a330,000"
     },
     {
-      "type": "Bank Transfers",
-      "amount_range": "$10,000 - $50,000"
+      "type": "Bank Funds",
+      "amount_range": "\u00a325,000 - \u00a335,000"
     }
   ]
 }

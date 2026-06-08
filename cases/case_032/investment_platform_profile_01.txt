@@ -1,0 +1,10 @@
+User ID: 789456
+Username: SchmidtM
+Email: michael.schmidt@email.de
+Registration Date: 2023-04-05
+Account Balance: €0.00
+Trading Bot Name: AlphaTrader v3.2
+Subscription Level: Premium Plus
+Last Login: 2023-07-10 14:35 GMT+2
+IP Address: 192.168.1.100 (Dynamic)
+Contact Support: support@globaltradeAI.com

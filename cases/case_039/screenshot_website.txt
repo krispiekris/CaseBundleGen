@@ -1,0 +1,7 @@
+--- Website Screenshot Description ---
+
+Header: "Global Investments - AI Powered Trading System"
+Large banner image showcasing graphs trending upwards.  "Unlock Your Financial Potential!"
+Below banner: Three boxes with icons: "20% Monthly Returns", "Automated Trading", "Secure Platform"
+Scrolling testimonials: "I've never seen returns like this!" - John S., "Easy to use and profitable!" - Sarah L.
+Footer: Copyright 2023 Global Investments.  Contact us: support@globalinvestments.tech.  Office located in Valletta, Malta.

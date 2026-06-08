@@ -1,22 +1,18 @@
 <SAR>
-  <Header>
-    <ReferenceID>SAR-20240110-001</ReferenceID>
-    <Date>2024-01-10</Date>
-    <Submitter>Polizeiinspektion München</Submitter>
-  </Header>
-  <Transaction>
-    <Amount currency="EUR">8300.00</Amount>
-    <Date>2023-09-01</Date>
-    <Originator>
-      <Name>Andreas Schmidt</Name>
-      <Account>DE12345678901234567890</Account>
-    </Originator>
-    <Beneficiary>
-      <Name>AI Trade Solutions</Name>
-      <Account>GB22NWBK000000000012345678</Account>
-    </Beneficiary>
-    <Purpose>Investment</Purpose>
-    <SuspiciousActivity>Confirmed Investment Fraud</SuspiciousActivity>
-    <Notes>Customer reported being defrauded of €8300. Funds transferred to a known fraudulent account.</Notes>
-  </Transaction>
+  <ReportDate>2024-02-10</ReportDate>
+  <ReportingInstitution>Cryptocurrency Exchange</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-22</TransactionDate>
+      <Amount>10000.00</Amount>
+      <Currency>EUR</Currency>
+      <SenderName>Klaus Müller</SenderName>
+      <SenderAccount>DExxxxxxxxxx</SenderAccount>
+      <ReceiverName>Innovativ Trading Ltd</ReceiverName>
+      <ReceiverAccount>GBxxxxxxxxxx</ReceiverAccount>
+      <Description>Cryptocurrency Purchase</Description>
+      <SuspiciousIndicator>Funds origin unclear</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportingPerson>AML Officer</ReportingPerson>
 </SAR>

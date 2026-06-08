@@ -1,0 +1,14 @@
+From: david.miller@example.com
+To: support@aetradingbots.com
+Subject: Withdrawal Request - Account #DM12345
+
+Dear AETradingBots Support,
+
+I would like to request a withdrawal of AUD 10,000 from my account (Account #DM12345).
+
+Please process this request as soon as possible.
+
+Thank you for your assistance.
+
+Sincerely,
+David Miller

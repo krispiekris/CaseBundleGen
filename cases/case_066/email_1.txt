@@ -1,17 +1,16 @@
-From: automated@ai-tradingprofits.com
-To: david.miller@example.com.au
-Subject: Welcome to AI Trading Profits - Your Automated Journey Begins!
+From: support@aionautics.com
+To: david.miller@email.com
+Subject: Welcome to Aionautics - Your AI Trading Journey Begins!
 
 Dear David,
 
-Welcome aboard AI Trading Profits! We're thrilled to have you join our exclusive community of investors leveraging the power of our cutting-edge AI trading algorithms. 
+Welcome aboard Aionautics! We're thrilled to have you join our community of forward-thinking investors.
 
-Your account has been successfully created and is ready to begin generating profits.  Please review the attached introductory guide for detailed instructions on navigating the platform and maximizing your returns.
+Our revolutionary AI algorithms are designed to maximize your returns while minimizing risk.  Get ready to experience the future of trading!
 
-Our AI consistently outperforms the market, delivering an average of 15-30% monthly returns.  Remember, this is an opportunity to achieve financial freedom – don't miss out!
+To help you get started, here's a link to our introductory guide: [https://aionautics.com/getting-started]
 
 Best regards,
+The Aionautics Team
 
-The AI Trading Profits Team
-
-[Attachment: AI_Trading_Profits_Intro_Guide.pdf]
+[https://aionautics.com]

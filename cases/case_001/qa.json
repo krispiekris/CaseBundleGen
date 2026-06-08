@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount invested by David Miller, according to the bank statement?",
-    "answer": "5000.00"
+    "question": "According to the initial welcome email, what is the primary purpose of AI Trading Pro?",
+    "answer": "To utilize artificial intelligence to analyze markets and execute trades."
   },
   {
-    "question": "According to the promotional material, what is one of the key benefits of using the AI Extra trading platform?",
-    "answer": "Effortless Profits"
+    "question": "What was the initial deposit amount Klaus Meier made to AI Trading Pro, according to the bank statement?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What was the purpose of the second transaction of 15000.00 AUD according to the SAR report?",
-    "answer": "Additional Investment"
+    "question": "Based on the SAR report from Deutsche Bank, what was the stated purpose of Klaus Meier\u2019s transaction to Global Tech Solutions Ltd?",
+    "answer": "Investment"
   },
   {
-    "question": "What type of document was requested from David Miller to expedite the withdrawal processing?",
-    "answer": "A copy of his government-issued ID"
+    "question": "What was the total balance of Klaus\u2019s account as displayed on the platform screenshot?",
+    "answer": "9800.00 EUR"
   },
   {
-    "question": "According to the screenshot of the website, what is a common phrase used in the testimonials?",
-    "answer": "Life-changing profits!"
+    "question": "What reason did Deutsche Bank cite in their initial SAR report for suspecting unusual activity?",
+    "answer": "Unusual investment pattern for customer profile. Large initial deposit with limited prior investment activity."
   },
   {
-    "question": "What was the amount of the profit distribution received by David Miller, as indicated in email_2.txt?",
-    "answer": "1250.00"
+    "question": "What does the promotional material highlight as a potential advantage of joining AI Trading Pro?",
+    "answer": "High-profit potential"
   },
   {
-    "question": "What is the primary reason given for requesting additional verification from David Miller in email_4.txt?",
-    "answer": "To ensure the security of his funds"
+    "question": "According to the Telegram chat logs, what minimum deposit was suggested to fully experience the platform\u2019s capabilities?",
+    "answer": "\u20ac5000"
   },
   {
-    "question": "Based on the SAR reports, which indicator of suspicious activity was flagged for the initial investment?",
-    "answer": "Unusual investment platform"
+    "question": "The second SAR report mentions a customer complaint. What was the nature of the complaint?",
+    "answer": "Customer reports withdrawal request denied with vague explanations."
   },
   {
-    "question": "What type of communication was used to inform David about the processing of his withdrawal request?",
-    "answer": "Email"
+    "question": "What documents does 'AI Trading Pro' request from Klaus to verify his identity, according to the email?",
+    "answer": "Copy of passport or government-issued ID and proof of address (utility bill or bank statement)."
   },
   {
-    "question": "According to promotional material_2.txt, what characteristic is highlighted to create a sense of urgency?",
-    "answer": "Limited spots available"
+    "question": "What is the jurisdiction of the company involved in this case?",
+    "answer": "Cyprus"
   }
 ]

@@ -1,0 +1,14 @@
+From: support@innovativeaichart.com
+To: David Miller <david.miller@example.com>
+Subject: Important Update Regarding Your Account
+
+Dear David,
+
+We are writing to inform you that your recent withdrawal request has been temporarily suspended due to ongoing system maintenance. We apologize for any inconvenience this may cause.
+
+To ensure the security of your funds, we require you to verify your account by providing additional documentation. Please follow this link to complete the verification process: [malicious_link_shortened]
+
+We appreciate your understanding and cooperation.
+
+Sincerely,
+The Innovative AI Chart Support Team

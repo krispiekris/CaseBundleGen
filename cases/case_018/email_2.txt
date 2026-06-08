@@ -1,19 +1,13 @@
-From: support@aitradingpro.com
-To: richard.boudreau@email.ca
-Subject: Important Update Regarding Your Withdrawal
+From: GlobalAIInvestments_AccountManager@gmail.com
+To: klaus.werner@email.de
+Subject: Update on Your AI Investment Portfolio
 
-Dear Richard,
+Dear Klaus,
 
-We've received your withdrawal request. Please note that due to regulatory requirements and security protocols, a processing fee of 5% is applied to all withdrawals. This fee is standard practice in the industry.
+Your AI trading portfolio is performing exceptionally well! We've seen a 32% increase in the last two weeks due to our new deep learning model. 
 
-Additionally, to ensure the security of your funds, we require a one-time verification fee of $500. Please transfer this amount to the following account:
+To maximize your returns, we recommend increasing your investment.
 
-Account Name: [Redacted]
-Bank: [Redacted]
-IBAN: [Redacted]
-
-Once the verification fee is received, your withdrawal of $10,000 will be processed within 24-48 hours.
-
-Thank you for your understanding.
-
-The AI Trading Pro Team
+Sincerely,
+David Miller
+Account Manager

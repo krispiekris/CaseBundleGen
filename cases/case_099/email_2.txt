@@ -1,10 +1,12 @@
-From: ulrich.baumann@example.de
-To: support@ai-profit-solutions.com
-Subject: Withdrawal Issue
+From: support@eliteaitrading.com
+To: Robert.Miller@email.com
+Subject: Important Update Regarding Your Account
 
-Dear Support,
+Dear Robert,
 
-I am having trouble withdrawing my funds. I completed the withdrawal process as instructed but have not received the money. Can you please investigate this issue?
+Due to scheduled maintenance, withdrawals are temporarily unavailable. We apologize for any inconvenience this may cause.
 
-Thank you,
-Ulrich Baumann
+We appreciate your patience and understanding.
+
+Sincerely,
+The Elite AI Trading Support Team

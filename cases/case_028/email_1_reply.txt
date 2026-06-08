@@ -1,0 +1,19 @@
+From: Broker Alex <alex.stellarfx@example.com>
+To: Jan Berger <jan.berger@email.com>
+Subject: Re: Interesse an Forex-Investitionen
+
+Sehr geehrter Herr Berger,
+
+Ich freue mich über Ihr Interesse an StellarFX. Wie besprochen, sind hier die Details für die Einzahlung:
+
+Bank:
+Beneficiary: StellarFX Investments Ltd.
+Account Number: 1234567890
+IBAN: BM370400000000000000000
+Swift Code: STFXIMBBMP
+
+Bitte senden Sie uns eine Kopie der Überweisungsbestätigung zu.
+
+Mit freundlichen Grüßen,
+Broker Alex
+StellarFX

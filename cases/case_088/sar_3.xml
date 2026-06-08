@@ -1,1 +1,26 @@
-<sar><header><sar_id>SAR-20240726-003</sar_id><submission_date>2024-07-26</submission_date></header><transaction><transaction_id>TXN-003</transaction_id><transaction_date>2023-11-22</transaction_date><transaction_amount>0.00</transaction_amount><transaction_currency>USD</transaction_currency><sender_name>Global Tech Systems</sender_name><sender_account>1234567890</sender_account><receiver_name>Unknown</receiver_name><receiver_account>Compromised Account</receiver_account><receiver_country>N/A</receiver_country><description>Unauthorized Access</description><suspicious_activity>Compromise of Global Tech Systems employee email account. Potential for fraudulent activity.</suspicious_activity><narrative>Employee email account compromised, requiring immediate investigation and password reset.</narrative></transaction></sar>
+<SAR>
+  <Header>
+    <ReportDate>2024-02-01</ReportDate>
+    <ReferenceNumber>SAR-2024-02-001</ReferenceNumber>
+    <FinancialInstitution>Sparkasse Bremen</FinancialInstitution>
+  </Header>
+  <Transaction>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount currency="EUR">10000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>DExxxxxxxxxxxxxxxxx</SenderAccount>
+    <ReceiverAccount>CYxxxxxxxxxxxxxxxxx</ReceiverAccount>
+    <Description>Withdrawal Attempt - Failed</Description>
+    <SuspiciousActivity>Attempted large withdrawal from account linked to potential investment fraud</SuspiciousActivity>
+  </Transaction>
+  <Parties>
+    <Sender>
+      <Name>Hans Meier</Name>
+      <Address>Musterstrasse 1, 12345 Musterstadt, Germany</Address>
+    </Sender>
+    <Receiver>
+      <Name>AI Trading Pro Ltd.</Name>
+      <Address>Office 101, 123 Main Street, Nicosia, Cyprus</Address>
+    </Receiver>
+  </Parties>
+</SAR>

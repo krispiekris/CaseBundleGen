@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial amount Alexander Harding invested with SecureInvest?",
-    "answer": "$5,000"
+    "question": "What was the initial amount deposited into Wilhelm Baumann's account?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "According to the promotional material, what is one benefit of joining the Chronos AI VIP program?",
-    "answer": "Personalized Trading Strategies"
+    "question": "According to the first SAR report, what type of account does Wilhelm Baumann hold at Deutsche Bank?",
+    "answer": "Checking"
   },
   {
-    "question": "What country is associated with Belize International Bank, the recipient bank for the wire transfers?",
-    "answer": "Belize"
+    "question": "What was the recipient's name for the withdrawal of 1500.00 EUR?",
+    "answer": "Secure Payments Ltd."
   },
   {
-    "question": "What return on investment did the email from 'AI Trading Expert' claim Chronos was producing?",
-    "answer": "32%"
+    "question": "What reason did AI Trading Pro give for temporarily restricting Wilhelm's account?",
+    "answer": "Due to recent unusual activity."
   },
   {
-    "question": "Based on the SAR report, what was the primary reason for the initial suspicion regarding Alexander Harding\u2019s transactions?",
-    "answer": "Multiple wire transfers to an offshore entity, SecureInvest LLC, in Belize, following unsolicited contact via Telegram claiming expertise in AI trading."
+    "question": "What is highlighted in promotional material 2 as a key benefit for joining the AI Trading Pro community?",
+    "answer": "Achieving remarkable results."
   },
   {
-    "question": "What was the description used for the wire transfers to SecureInvest in the SAR and bank statements?",
-    "answer": "Wire Transfer to SecureInvest"
+    "question": "What did the screenshot description reveal about the design and language used on the AI Trading Pro website?",
+    "answer": "Modern and sleek design with vibrant green accents; Highly persuasive language promising effortless wealth."
   },
   {
-    "question": "What action was taken regarding Alexander Harding\u2019s attempted withdrawal?",
-    "answer": "The withdrawal request was blocked"
+    "question": "What was the total amount of the withdrawal attempt that was blocked?",
+    "answer": "15500.00 EUR"
   },
   {
-    "question": "What is the name and title of the Compliance Officer at First National Bank, as listed in the SARs?",
-    "answer": "Jane Doe, Compliance Officer"
+    "question": "What is the name and position of the individual who filed the suspicious activity reports?",
+    "answer": "Sarah M\u00fcller, Compliance Officer"
   },
   {
-    "question": "According to the screenshot of the website, what is the URL of the Chronos AI platform?",
-    "answer": "secureinvest.bz"
+    "question": "What action was taken regarding Wilhelm Baumann\u2019s account following the attempted withdrawal?",
+    "answer": "Account restricted."
   },
   {
-    "question": "Which entities are referenced in promotional material but not in the SAR report?",
-    "answer": "None"
+    "question": "Based on promotional material 1, what is one of the selling points of AI Trading Pro?",
+    "answer": "Automated Trading."
   }
 ]

@@ -1,5 +1,6 @@
-Date,Description,Amount (EUR),IBAN
-2023-09-01,Transfer to AI FX Capital,5000.00,GB98765432109876543210
-2023-10-01,Transfer to AI FX Capital,10000.00,GB98765432109876543210
-2023-11-01,Attempted Withdrawal,0.00,DE12345678901234567890
-2023-11-05,Grocery Shopping,75.00,DE12345678901234567890
+Date,Description,Amount
+2024-02-01,Interest, 15.25
+2024-02-08,Direct Deposit, 9500.00
+2024-02-15,Debit Card Purchase, -30.75
+2024-02-17,Suspicious Activity Investigation, ,,
+2024-02-22,Direct Deposit, 9500.00

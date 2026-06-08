@@ -1,18 +1,28 @@
 <SAR>
-  <ReportDate>2023-04-05</ReportDate>
-  <Institution>Commonwealth Bank of Australia</Institution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-04-01</TransactionDate>
-      <Amount>5000.00</Amount>
-      <Currency>AUD</Currency>
-      <SenderName>David Miller</SenderName>
-      <ReceiverName>AI Extra Trading</ReceiverName>
-      <ReceiverAccount>1234567890</ReceiverAccount>
-      <ReceiverBank>Global Finance Corp</ReceiverBank>
-      <Description>Initial Investment</Description>
-      <SuspiciousIndicator>Unusual investment platform</SuspiciousIndicator>
-    </Transaction>
-  </SuspiciousActivity>
-  <ReportingPerson>Bank Compliance Officer</ReportingPerson>
+  <Report>
+    <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+    <Date>2023-12-07</Date>
+    <SuspiciousActivity>
+      <Transaction>
+        <Amount>5000</Amount>
+        <Currency>EUR</Currency>
+        <Date>2023-12-05</Date>
+        <Originator>
+          <Name>Klaus Meier</Name>
+          <Address>Musterstraße 123, 10115 Berlin</Address>
+        </Originator>
+        <Beneficiary>
+          <Name>Global Tech Solutions Ltd</Name>
+          <IBAN>CY0100200035000000012345</IBAN>
+          <Country>Cyprus</Country>
+        </Beneficiary>
+        <Purpose>Investment</Purpose>
+        <Description>Transfer to AI Trading Pro platform</Description>
+      </Transaction>
+      <Findings>
+        <SuspicionReason>Unusual investment pattern for customer profile.  Large initial deposit with limited prior investment activity.</SuspicionReason>
+        <PotentialFraudType>Investment Fraud</PotentialFraudType>
+      </Findings>
+    </SuspiciousActivity>
+  </Report>
 </SAR>

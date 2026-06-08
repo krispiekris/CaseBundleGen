@@ -1,27 +1,24 @@
 <SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2024-03-05</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2023-12-20</TransactionDate>
-      <Amount>1500.00</Amount>
-      <Currency>EUR</Currency>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>Hans Meier</Name>
-        <Address>Musterstraße 1, 10115 Berlin, Germany</Address>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>SecurePay Solutions</Name>
-        <Account>1234567890</Account>
-        <Bank>Zenith Bank</Bank>
-        <Country>Nigeria</Country>
-      </Beneficiary>
-      <Description>Further investment to AI Trading Platform</Description>
-    </Transaction>
-    <Findings>
-      <SuspiciousIndicator>Multiple unusual transactions to a foreign bank</SuspiciousIndicator>
-      <SuspiciousIndicator>Lack of transparency regarding platform operations</SuspiciousIndicator>
-    </Findings>
-  </SuspiciousActivity>
+  <Header>
+    <ReportDate>2023-12-16</ReportDate>
+    <InstitutionID>Deutsche Bank Munich</InstitutionID>
+    <SARID>DBM-20231216-003</SARID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-12-15</TransactionDate>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Debit</TransactionType>
+    <OriginatorAccount>DE12345678901234567890</OriginatorAccount>
+    <BeneficiaryAccount>GB26NBYE01017515373183</BeneficiaryAccount>
+    <Description>Withdrawal Request - Denied</Description>
+    <SuspiciousActivity>Withdrawal request denied by AI Investments Global; potential fraud</SuspiciousActivity>
+    <Party>
+      <Name>Hans Meier</Name>
+      <Address>Musterstrasse 1, 80331 München</Address>
+    </Party>
+    <Party>
+      <Name>AI Investments Global</Name>
+    </Party>
+  </Transaction>
 </SAR>

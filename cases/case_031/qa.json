@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial conversation with the AI Trading Bot Pro, what was initially highlighted to attract new users?",
-    "answer": "A limited-time opportunity with exceptional returns."
+    "question": "What was the initial amount of the transfer made by Wolfgang Meier to 'AI Trading Pro Ltd' according to the first bank statement?",
+    "answer": "5000.00 EUR"
   },
   {
-    "question": "What was the initially promised weekly return rate to Markus Weber?",
-    "answer": "15-20%."
+    "question": "According to the email from AI Trading Pro, what is one potential benefit investors can experience?",
+    "answer": "Passive income"
   },
   {
-    "question": "What type of transaction was reported in the first Suspicious Activity Report (SAR)?",
-    "answer": "Funds Transfer."
+    "question": "Based on the SAR reports, which institution flagged the suspicious activity related to Wolfgang Meier\u2019s transfers?",
+    "answer": "Sparkasse N\u00fcrnberg"
   },
   {
-    "question": "What is the IBAN associated with the beneficiary party, GlobalTech Solutions Ltd?",
-    "answer": "GB29NWBK20200830294159"
+    "question": "What reason was provided by AI Trading Pro for the temporary suspension of Wolfgang Meier's withdrawal request?",
+    "answer": "Ongoing security verification procedures"
   },
   {
-    "question": "Besides unusually high promised returns and investment in a largely unregulated sector, what other Suspicion Indicator was listed in the initial SAR?",
-    "answer": "Investment in a largely unregulated sector"
+    "question": "Which promotional material mentions a 'FREE consultation with one of our expert financial advisors'?",
+    "answer": "AI Trading Pro: Your Gateway to Financial Freedom!"
   },
   {
-    "question": "Which date did Markus Weber make his second investment into GlobalTech Solutions Ltd, as documented in SAR-2023-11-15-002?",
-    "answer": "2023-11-15"
+    "question": "What does the screenshot of the platform display regarding the AI's profitability?",
+    "answer": "27.5% daily profit"
   },
   {
-    "question": "Based on promotional material, what is being offered to new users who deposit over \u20ac5,000?",
-    "answer": "A bonus."
+    "question": "Considering the provided SARs, what is the overall trend in the transfer amounts sent by Wolfgang Meier to 'AI Trading Pro Ltd'?",
+    "answer": "Increasing"
   },
   {
-    "question": "What reason was provided by the AI Trading Bot Pro team for temporarily suspending withdrawals?",
-    "answer": "Due to increased demand, we are temporarily suspending withdrawals to process all pending requests."
+    "question": "Which entity is mentioned in both the initial email and the SAR reports?",
+    "answer": "AI Trading Pro Ltd"
   },
   {
-    "question": "According to the screenshot description, what phrase is prominently displayed on the AI Trading Bot Pro platform\u2019s dashboard?",
-    "answer": "'Withdraw Funds'."
+    "question": "What is the transaction description associated with the attempted withdrawal from Wolfgang Meier's account?",
+    "answer": "Attempted Withdrawal - AI Trading Pro Ltd"
   },
   {
-    "question": "What is the approximate total amount (in EUR) Markus Weber has transferred to GlobalTech Solutions Ltd based on the provided data?",
-    "answer": "15000"
+    "question": "What does promotional material 1 claim about the AI Trading Pro platform?",
+    "answer": "It is revolutionizing the way people invest with cutting-edge AI"
   }
 ]

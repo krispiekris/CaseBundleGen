@@ -1,0 +1,22 @@
+[Screenshot of LinkedIn Profile - Simulated]
+
+**Profile Picture:** Professional headshot of a man.
+
+**Name:** David Okoro
+**Title:** Senior Investment Strategist
+**Company:** Connect AI Solutions
+**Location:** Lagos, Nigeria
+
+**Summary:** Highly motivated and results-oriented investment professional with extensive experience in leveraging AI-driven strategies to maximize returns. Proven ability to identify and capitalize on emerging market trends.
+
+**Experience:**
+* Senior Investment Strategist, Connect AI Solutions (2021 – Present)
+* Junior Analyst, Global Finance Group (2018 – 2021)
+
+**Education:**
+* MBA, University of Lagos (2016 – 2018)
+* BSc Finance, University of Benin (2012 – 2016)
+
+**Skills:** AI Trading, Financial Modeling, Portfolio Management, Risk Assessment, Investment Strategies
+
+[End Screenshot Simulation]

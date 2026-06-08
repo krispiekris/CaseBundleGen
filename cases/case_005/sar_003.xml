@@ -1,0 +1,19 @@
+<SAR id="SAR-2024-02-15-003">
+  <ReportDate>2024-02-15</ReportDate>
+  <FilerInstitution>Commonwealth Bank of Australia</FilerInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <TransactionAmount currency="AUD">0.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>David Miller - [REDACTED]</OriginatingAccount>
+      <BeneficiaryAccount>
+        <Name>AI Wealth Investment Account</Name>
+        <AccountNumber>[REDACTED]</AccountNumber>
+        <Jurisdiction>Hong Kong</Jurisdiction>
+      </BeneficiaryAccount>
+      <Description>Withdrawal Attempt - AI Wealth</Description>
+    </Transaction>
+    <SuspicionSummary>Customer reported unsuccessful withdrawal attempt and difficulties contacting platform support.  Further investigation revealed several negative reviews online alleging fraudulent activity associated with 'AI Wealth' and similar trading platforms.</SuspicionSummary>
+  </SuspiciousActivity>
+</SAR>

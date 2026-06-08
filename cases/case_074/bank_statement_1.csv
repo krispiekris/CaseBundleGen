@@ -1,9 +1,5 @@
-Date,Description,Amount (CAD),Balance (CAD)
-2023-08-28,Payment,500.00,12500.00
-2023-08-30,Transfer to savings,2000.00,10500.00
-2023-09-01,Online Investment, -5000.00, 5500.00
-2023-09-05,Interest, 10.00, 5510.00
-2023-10-10,Withdrawal, -100.00, 5410.00
-2023-10-15,Online Investment, -10000.00, -4590.00
-2023-11-15,Interest, 10.00, -4580.00
-2023-12-01,Withdrawal Request, -10000.00, -14580.00
+Date,Description,Amount (EUR),IBAN
+2023-11-01,Standing Order,,-DE12345678901234567890
+2023-11-08,Grocery Shopping,-50.00,DE12345678901234567890
+2023-11-15,Credit from Global Investments,5000.00,GB22BARD37660400000001
+2023-11-22,Utility Bill,-120.00,DE12345678901234567890

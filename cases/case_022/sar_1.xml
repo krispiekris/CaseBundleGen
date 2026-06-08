@@ -1,23 +1,25 @@
-<sar>
-  <report_date>2023-12-07</report_date>
-  <report_type>Suspicious Activity Report</report_type>
-  <reporting_institution>Deutsche Bank</reporting_institution>
-  <customer>
-    <customer_id>1234567</customer_id>
-    <customer_name>Klaus Schmidt</customer_name>
-  </reporting_institution>
-  <transaction>
-    <transaction_date>2023-12-05</transaction_date>
-    <transaction_amount currency="EUR">6000.00</transaction_amount>
-    <transaction_type>Credit</transaction_type>
-    <description>Transfer from Klaus Schmidt to AI Trading Pro</description>
-    <recipient>
-      <name>AI Trading Pro</name>
-      <account_number>CY001234567890</account_number>
-      <bank_name>Alpha Beta Bank (Cyprus)</bank_name>
-    </recipient>
-  </transaction>
-  <findings>
-    <finding>Unusual large deposit for a new account.</finding>
-  </findings>
-</sar>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-12-06</ReportDate>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-08-15</TransactionDate>
+      <Amount currency="EUR">5000</Amount>
+      <Sender>Hans Meier</Sender>
+      <Receiver>Quantum AI Trading</Receiver>
+      <ReceiverAccount>DE89370400440532013588</ReceiverAccount>
+      <Description>Initial investment</Description>
+    </Transaction>
+    <Transaction>
+      <TransactionDate>2023-10-20</TransactionDate>
+      <Amount currency="EUR">15000</Amount>
+      <Sender>Hans Meier</Sender>
+      <Receiver>Quantum AI Trading</Receiver>
+      <ReceiverAccount>DE89370400440532013588</ReceiverAccount>
+      <Description>Additional investment</Description>
+    </Transaction>
+  </SuspiciousActivity>
+  <Findings>
+    <Finding>Unusual investment activity - potential investment fraud.</Finding>
+  </Findings>
+</SAR>

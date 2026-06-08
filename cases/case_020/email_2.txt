@@ -1,14 +1,12 @@
-From: "AI Trading Pro" <support@aitradingpro.com>
-To: David.Anderson@example.com.au
-Subject: Your AI Trading Pro Account Update
+From: david.investment@ai-trading-pro.com
+To: helmut.meier@example.de
+Subject: Urgent: Confirmation Required for Your Withdrawal Request
 
-Dear David,
+Dear Helmut,
 
-We're pleased to inform you that your account balance has increased significantly due to our AI's successful trading strategies.
+We've received your recent withdrawal request. To ensure the security of your account, we require confirmation of your identity and recent investment activity. Please respond to this email with copies of your ID and proof of the latest investment transfer.
 
-Your current balance is $13,500.00 AUD.
+Thank you for your cooperation.
 
-To access your account and view your profits, please log in here: [http://aitradingpro.net](http://aitradingpro.net)
-
-Best regards,
-The AI Trading Pro Team
+Sincerely,
+David, AI Trading Pro Support

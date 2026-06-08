@@ -1,0 +1,19 @@
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-02-21</ReportDate>
+  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-12-05</TransactionDate>
+      <Amount currency="EUR">2000</Amount>
+      <SenderName>Klaus Schmidt</SenderName>
+      <SenderAccount>1234567890</SenderAccount>
+      <ReceiverName>NovaTrade AI Ltd.</ReceiverName>
+      <ReceiverAccount>9876543210</ReceiverAccount>
+      <Description>Additional Investment - NovaTrade AI</Description>
+      <SuspiciousIndicators>
+        <Indicator>Further deposits after initial investments. Lack of communication regarding withdrawal</Indicator>
+      </SuspiciousIndicators>
+    </Transaction>
+  </SuspiciousActivity>
+  <ReportFiledBy>Anna Weber</ReportFiledBy>
+</SAR>

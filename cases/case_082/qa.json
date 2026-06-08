@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount Michael Schmidt made, according to the telegram chat?",
-    "answer": "\u20ac5000"
+    "question": "What is the potential daily return percentage offered by Global Forex Pro, as advertised in the initial email?",
+    "answer": "Up to 3% daily"
   },
   {
-    "question": "What is the date of the first Suspicious Activity Report (SAR) filed concerning Michael Schmidt?",
-    "answer": "2023-12-05"
+    "question": "According to the 'Urgent' email, what is the minimum investment amount David Olu suggests to maximize potential returns?",
+    "answer": "\u20ac15,000"
   },
   {
-    "question": "Which bank account was used as a recipient for the transfers related to this case?",
-    "answer": "GB21NWBK00000000001234"
+    "question": "Which institution filed the first Suspicious Activity Report related to Johannes Meier's transactions?",
+    "answer": "Deutsche Bank"
   },
   {
-    "question": "According to the promotional email, what is the advertised potential return on investment for new investors?",
-    "answer": "Doubling their initial investments in as little as three weeks"
+    "question": "Based on the SAR reports, what is the primary concern raised by the reporting institutions regarding Johannes Meier's transactions?",
+    "answer": "Potential investment fraud"
   },
   {
-    "question": "What reason was provided for the administrative fee request to Michael Schmidt?",
-    "answer": "To expedite the withdrawal process and ensure the security of funds"
+    "question": "What was the description of the transaction on September 1st, 2023, as recorded in the first SAR?",
+    "answer": "Transfer to Global Forex Pro"
   },
   {
-    "question": "Which bank is associated with the account used for the administrative fee?",
-    "answer": "Zenith Bank"
+    "question": "What did David Olu suggest Johannes do to get started with the program, according to the follow-up email?",
+    "answer": "Schedule a quick call"
   },
   {
-    "question": "What is the recipient country associated with the initial transfers to CryptoTrade Solutions?",
-    "answer": "United Kingdom"
+    "question": "What does the screenshot of the website reveal about the testimonials featured on the Global Forex Pro site?",
+    "answer": "Testimonials feature generic stock photos"
   },
   {
-    "question": "Based on the SAR reports, what is the most significant pattern observed in Michael Schmidt\u2019s transactions?",
-    "answer": "Multiple transfers to CryptoTrade Solutions, followed by a request for an administrative fee."
+    "question": "What is the contact information provided for Global Forex Pro, according to the website screenshot?",
+    "answer": "An email address and a UK phone number"
   },
   {
-    "question": "What is the date of the last salary transaction recorded in Michael Schmidt\u2019s bank statement?",
-    "answer": "2024-02-15"
+    "question": "What actions do the second SAR and the bank statement show Johannes took in November 2023?",
+    "answer": "Attempted withdrawal from Global Forex Pro account; outgoing transfers of 50, 100, and 50 EUR"
   },
   {
-    "question": "According to the promotional email, what is offered to new investors?",
-    "answer": "A free consultation with an expert AI trading advisor"
+    "question": "According to the promotional material, what is one key benefit Global Forex Pro claims to offer customers?",
+    "answer": "Daily profit opportunities"
   }
 ]

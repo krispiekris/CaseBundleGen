@@ -1,0 +1,17 @@
+From: support@globalforexcapital.com
+To: david.miller@example.co.uk
+Subject: Withdrawal Request
+
+Dear David,
+
+We have received your withdrawal request. To process your request, we require you to complete a brief verification process. Please provide us with the following:
+
+*   A copy of your government-issued ID.
+*   A recent utility bill showing your current address.
+
+Once we have received these documents, your withdrawal will be processed within 24-48 hours.
+
+Thank you for your patience.
+
+Sincerely,
+The Global Forex Capital Team

@@ -1,18 +1,34 @@
-<SAR id="SAR-20230901-001">
-  <Header>
-    <DateTime>2023-09-01T10:30:00Z</DateTime>
-    <Originator>Deutsche Bank</Originator>
-  </Header>
-  <Transaction>
-    <Amount currency="EUR">10000</Amount>
-    <DateTime>2023-09-01</DateTime>
-    <Description>Transfer to NovaTech Solutions</Description>
-    <Sender>Marc Schneider</Sender>
-    <Receiver>NovaTech Solutions - Cyprus Branch</Receiver>
-    <ReceiverAccount>CY8800200001000000000012345</ReceiverAccount>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Potential investment fraud – high-yield investment scheme</SuspiciousActivity>
-    <Justification>Large transfer to an offshore company with limited online presence.</Justification>
-  </Findings>
-</SAR>
+<?xml version="1.0" encoding="UTF-8"?>
+<sar>
+  <report_id>SAR-2024-00123</report_id>
+  <date_filed>2024-02-01</date_filed>
+  <institution_name>Deutsche Bank</institution_name>
+  <reporter_name>Anna Schmidt</reporter_name>
+  <reporter_title>Compliance Officer</reporter_title>
+  <subject>
+    <name>Klaus Muller</name>
+    <address>Musterstraße 12, 10115 Berlin, Germany</address>
+    <date_of_birth>1967-05-10</date_of_birth>
+  </subject>
+  <transactions>
+    <transaction>
+      <date>2023-11-20</date>
+      <amount>15000.00</amount>
+      <currency>EUR</currency>
+      <type>Debit</type>
+      <description>Transfer to AI Trading Solutions</description>
+      <iban>NG3708336937880532955322</iban>
+      <suspicious_reason>Unusual large transfer to offshore account with high-risk investment scheme</suspicious_reason>
+    </transaction>
+    <transaction>
+      <date>2023-12-15</date>
+      <amount>5.0</amount>
+      <currency>BTC</currency>
+      <type>Debit</type>
+      <description>Purchase of Bitcoin</description>
+      <iban>NG3708336937880532955322</iban>
+      <suspicious_reason>Unusual large transfer to offshore account with high-risk investment scheme</suspicious_reason>
+    </transaction>
+  </transactions>
+  <findings>Potential investment fraud. Subject made multiple transfers to an entity claiming to offer AI-driven cryptocurrency trading services.</findings>
+</sar>

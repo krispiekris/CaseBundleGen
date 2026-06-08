@@ -1,5 +1,14 @@
-Date,Description,Amount (EUR),IBAN
-2023-08-20,Incoming transfer,1000.00,DE89370400440532013000
-2023-09-01,Transfer to AI Global Trading,5000.00,DE89370400440532013000
-2023-09-15,Grocery shopping, -50.00,DE89370400440532013000
-2023-10-05,Online purchase, -200.00,DE89370400440532013000
+Date,Description,Amount,Currency,IBAN
+2023-11-10,-123.45,USD,
+2023-11-15,EnigmaCoin Investment,5000.00,USD,US1234567890
+2023-11-22,Grocery Store,78.90,USD,
+2023-11-29,Online Purchase,35.50,USD,
+2023-12-01,EnigmaCoin Investment,2500.00,USD,US1234567890
+2023-12-08,Restaurant,45.67,USD,
+2023-12-15,Utility Bill,112.22,USD,
+2023-12-22,Streaming Service,14.99,USD,
+2023-12-29,EnigmaCoin Investment,1000.00,USD,US1234567890
+2024-01-05,Dry Cleaning,28.00,USD,
+2024-01-12,Mortgage Payment,1500.00,USD,
+2024-01-19,Gym Membership,30.00,USD,
+2024-01-26,Cable Bill,99.99,USD

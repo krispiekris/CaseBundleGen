@@ -1,0 +1,1 @@
+The trading platform displays a series of graphs and charts with rapidly fluctuating numbers.  The platform's user interface is overly complicated, with numerous technical indicators and jargon.  A 'virtual' portfolio shows inflated balances.  The top right corner displays a timestamp with a timezone offset of UTC-5, suggesting the company's operational base.

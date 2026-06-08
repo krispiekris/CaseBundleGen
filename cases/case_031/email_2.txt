@@ -1,12 +1,10 @@
-From: AI_Bot_Pro@globaltechsolutions.co.uk
-To: MarkusWeber@email.de
-Subject: Your AI is Performing Exceptionally Well!
+From: wolfgang.meier@example.de
+To: automated.alerts@ai-trading-pro.com
+Subject: Question about AI Trading Pro
 
-Dear Markus,
+Dear AI Trading Pro Team,
 
-We’re thrilled to report that your AI Trading Bot Pro is outperforming expectations!  Your current portfolio value has increased by 18% this week alone.
+I'm very interested in learning more about your platform.  Could you please provide me with more details about the algorithm and the team behind it?  I'd also appreciate it if you could tell me more about the risk factors involved.
 
-This is a testament to the power of our cutting-edge AI technology. To maximize your profits, consider reinvesting some of your earnings.  We’re offering a limited-time bonus for users who increase their investment.
-
-Best regards,
-The AI Trading Bot Pro Team
+Thank you,
+Wolfgang Meier

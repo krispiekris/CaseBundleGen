@@ -1,27 +1,26 @@
-<SAR>
-  <Header>
-    <SARReferenceID>2023-11-15-002</SARReferenceID>
-    <FilingDate>2023-11-15</FilingDate>
-    <FilingInstitution>Deutsche Bank</FilingInstitution>
-  </Header>
-  <Transaction>
-    <TransactionID>TXN-67890</TransactionID>
-    <TransactionDate>2023-11-13</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <OriginatingParty>
-      <Name>Ulrich Baumann</Name>
-      <AccountID>DE12345678901234567890</AccountID>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>Global Processing Solutions</Name>
-      <AccountID>GB11223344556677889900</AccountID>
-      <Country>United Kingdom</Country>
-    </BeneficiaryParty>
-    <Description>International Money Transfer</Description>
-  </Transaction>
-  <Findings>
-    <SuspiciousActivity>Second unusual international transfer linked to initial investment.</SuspiciousActivity>
-    <RiskLevel>High</RiskLevel>
-  </Findings>
+<SAR id="SAR-2023-11-15-002">
+  <ReportingInstitution>
+    <Name>First National Bank</Name>
+    <Address>123 Main Street, Anytown, USA</Address>
+  </ReportingInstitution>
+  <SuspiciousActivity>
+    <Date>2023-11-15</Date>
+    <Type>Withdrawal Denial</Type>
+    <Description>Customer Robert Miller attempted to withdraw $10,000.00. Withdrawal denied due to 'system maintenance'. Customer expressed frustration.</Description>
+    <Amount>10000.00</Amount>
+    <Currency>USD</Currency>
+    <TransactionType>Withdrawal</TransactionType>
+    <Account>
+      <AccountNumber>[Redacted for Privacy]</AccountNumber>
+      <AccountType>Checking</AccountType>
+    </Account>
+    <Customer>
+      <Name>Robert Miller</Name>
+      <Address>[Redacted for Privacy]</Address>
+    </Customer>
+    <RelatedParty>
+      <Name>Elite AI Trading</Name>
+      <Location>Unknown</Location>
+    </RelatedParty>
+  </SuspiciousActivity>
 </SAR>

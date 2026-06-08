@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the promotional material, what is the maximum monthly return Apex Trading Solutions claims to offer?",
-    "answer": "Up to 30% per month"
+    "question": "What was the initial investment amount G\u00fcnther Schmidt made, according to the email from Alex Alpha?",
+    "answer": "\u20ac5,000"
   },
   {
-    "question": "What was the amount of the initial transfer Robert Harding made to Apex Trading Solutions, as reflected in the bank statement?",
-    "answer": "15000.00 AUD"
+    "question": "According to the promotional material, what is a key benefit of using AlphaTrade AI for individuals with little to no trading experience?",
+    "answer": "Automated Trading \u2013 No prior experience needed!"
   },
   {
-    "question": "What is the subject of the email Robert Harding sent to Apex Trading Solutions?",
-    "answer": "Withdrawal Issue"
+    "question": "What country is listed as the location of Global Investments Ltd.'s bank in the email sent to G\u00fcnther Schmidt?",
+    "answer": "Marshall Islands"
   },
   {
-    "question": "Based on the telegram conversation, what action did Alexander advise Robert to take?",
-    "answer": "Deposit another $30,000"
+    "question": "Based on the SAR reports, what is the primary reason Deutsche Bank flagged G\u00fcnther Schmidt\u2019s account activity as suspicious?",
+    "answer": "Possible investment fraud - unusually large transaction to offshore account, followed by smaller withdrawals and a failed withdrawal attempt."
   },
   {
-    "question": "What type of activity was flagged as suspicious in the SAR report with ID 20231215-AU-001?",
-    "answer": "Potential investment fraud, unusual activity pattern"
+    "question": "What transaction description appears in the first SAR report for the transfer from G\u00fcnther Schmidt to Global Investments Ltd.?",
+    "answer": "Online transfer - Investment"
   },
   {
-    "question": "Which entity reported the inability to withdraw funds and initiated an investigation?",
-    "answer": "Australian Securities and Investments Commission"
+    "question": "According to the screenshot description, what does the AlphaTrade AI platform display concerning user returns?",
+    "answer": "A graph showing a significant upward trend with the heading 'AI-Powered Profit Generator'."
   },
   {
-    "question": "What is the account ID Robert Harding mentioned in the email regarding the withdrawal issue?",
-    "answer": "RH12345"
+    "question": "What action did G\u00fcnther Schmidt take after making the initial transfer, as indicated in the email he sent to Alex Alpha?",
+    "answer": "He sent a screenshot of the transfer."
   },
   {
-    "question": "What does the screenshot of the trading platform indicate about the AI algorithm\u2019s performance?",
-    "answer": "AI Algorithm Achieves Record Profits!"
+    "question": "What is the risk level associated with the third SAR report filed regarding G\u00fcnther Schmidt's account?",
+    "answer": "High"
   },
   {
-    "question": "What was the total amount Robert Harding deposited into Apex Trading Solutions based on the available transaction data?",
-    "answer": "45000.00 AUD"
+    "question": "What potential incentive was offered in promotional material 2 to encourage new users to join AlphaTrade AI?",
+    "answer": "5% extra profit for joining this week only!"
   },
   {
-    "question": "According to the promotional material, what is the key technology used by Apex Trading Solutions to generate returns?",
-    "answer": "AI-powered technology"
+    "question": "What is the description in the second SAR report, regarding the transaction on 2024-02-20?",
+    "answer": "Withdrawal attempt - rejected by system"
   }
 ]

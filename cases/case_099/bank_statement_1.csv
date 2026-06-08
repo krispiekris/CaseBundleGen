@@ -1,4 +1,17 @@
-Date,Description,Amount (EUR),IBAN
-2023-08-15,Money Transfer, -15000.00,DE12345678901234567890
-2023-08-18,Interest, 1.23,DE12345678901234567890
-2023-08-22,ATM Withdrawal, -50.00,DE12345678901234567890
+Date,Description,Amount
+2023-09-01,Crypto Deposit,1000.00
+2023-09-05,Service Fee,0.00
+2023-09-10,Interest,0.15
+2023-09-15,AI Trading Gains,1250.00
+2023-09-20,AI Trading Gains,1500.00
+2023-09-25,AI Trading Gains,1750.00
+2023-09-30,AI Trading Gains,2000.00
+2023-10-05,AI Trading Gains,2250.00
+2023-10-10,AI Trading Gains,2500.00
+2023-10-15,AI Trading Gains,2750.00
+2023-10-20,AI Trading Gains,3000.00
+2023-10-25,AI Trading Gains,3250.00
+2023-10-30,AI Trading Gains,3500.00
+2023-11-05,AI Trading Gains,3750.00
+2023-11-10,AI Trading Gains,4000.00
+2023-11-15,AI Trading Gains,4250.00

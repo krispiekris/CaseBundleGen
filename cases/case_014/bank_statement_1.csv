@@ -1,1 +1,4 @@
-Date,Description,Amount (EUR),IBAN\n2023-08-28,Incoming Transfer,1000.00,DE12345678901234567890\n2023-09-01,-Wire transfer to NovaTrade AG,-5000.00,NG232010000000001234567890\n2023-09-15,Incoming Salary,2500.00,DE12345678901234567890\n2023-10-15,-Wire transfer to NovaTrade AG,-10000.00,NG232010000000001234567890\n2023-10-20,Outgoing Payment,50.00,DE12345678901234567890\n2023-11-05,Incoming Salary,2500.00,DE12345678901234567890
+Date,Description,Amount,IBAN
+2023-11-22,Crypto Recovery Experts, -5000.00,,xxxxxxxxxxxxxxx
+2023-11-20,Utilities Payment, -150.00,,xxxxxxxxxxxxxxx
+2023-11-18,Salary, 12000.00,,xxxxxxxxxxxxxxx

@@ -1,0 +1,24 @@
+From: richard.baker@example.com
+To: support@ai-trading-solutions.com
+Date: 2024-03-22 10:15 GMT
+Subject: Withdrawal Issue
+
+Dear Support,
+
+I am trying to withdraw £10,000 from my account, but my request keeps being denied.  Can you please investigate this and resolve the issue?
+
+Regards,
+Richard Baker
+
+
+From: support@ai-trading-solutions.com
+To: richard.baker@example.com
+Date: 2024-03-22 12:30 GMT
+Subject: Re: Withdrawal Issue
+
+Dear Richard,
+
+We are experiencing a temporary technical issue with our withdrawal processing system. Your request is being prioritized and will be processed shortly.  Please be patient.
+
+Sincerely,
+The AI Trading Solutions Support Team

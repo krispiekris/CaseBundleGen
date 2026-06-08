@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SuspiciousActivityReport>
-  <ReportDate>2023-11-15</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <CustomerName>Hans Meier</CustomerName>
-  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
-  <TransactionDate>2023-11-01</TransactionDate>
-  <TransactionAmount currency="EUR">0.00</TransactionAmount>
-  <TransactionDescription>Attempted withdrawal - failed</TransactionDescription>
-  <RecipientName>AI FX Capital</RecipientName>
-  <RecipientAccount>1234567890</RecipientAccount>
-  <RecipientBank>Global Finance Ltd.</RecipientBank>
-  <RecipientCountry>Belize</RecipientCountry>
-  <SuspicionDetails>Customer attempted to withdraw funds, but the transaction failed. Subsequent investigation reveals platform inaccessible and communication with AI FX Capital ceased.  All prior transfers are considered suspicious. </SuspicionDetails>
-  <ReportID>DB-SAR-20231115-003</ReportID>
-</SuspiciousActivityReport>
+<SAR>
+  <Transaction>
+    <TransactionID>SAR-003</TransactionID>
+    <Date>2023-12-05</Date>
+    <Amount>10000.00</Amount>
+    <Currency>EUR</Currency>
+    <Sender>Global Forex Partners</Sender>
+    <SenderAccount>BZ770340100100000000</SenderAccount>
+    <Receiver>Hans Meier</Receiver>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+    <Description>Withdrawal Request</Description>
+    <SuspiciousActivity>Attempted withdrawal request. Potential fraud - account activity inconsistent with initial investment profile.  Recipient bank account flagged for suspicious activity.</SuspiciousActivity>
+  </Transaction>
+  <Party>
+    <Name>Hans Meier</Name>
+    <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
+  </Party>
+  <Party>
+    <Name>Global Forex Partners</Name>
+    <Address>Belize City, Belize</Address>
+  </Party>
+</SAR>

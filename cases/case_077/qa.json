@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount made by Robert MacIntyre to Innovative AIX, according to the SAR report?",
-    "answer": "5000.00 CAD"
+    "question": "What was the initial amount deposited by Robert McMillan into AITradingSolutions LLC, according to the SAR reports?",
+    "answer": "10000.00 USD"
   },
   {
-    "question": "What subject line did Dimitri Volkov use when initially contacting Robert MacIntyre?",
-    "answer": "Innovative AIX - Connecting with a Fellow Professional"
+    "question": "According to email_2.txt, what action does AI Trading Solutions suggest Robert McMillan take to maintain momentum?",
+    "answer": "Add more funds to his account"
   },
   {
-    "question": "According to promotional material, what is a key feature of the Innovative AIX platform?",
-    "answer": "Automated Trading"
+    "question": "Based on the SAR reports, what is the general finding related to Robert McMillan's interactions with AITradingSolutions LLC?",
+    "answer": "Potential investment fraud scheme"
   },
   {
-    "question": "What reason did Dimitri Volkov provide for the delay in processing Robert MacIntyre's withdrawal request?",
-    "answer": "Increased market volatility and a commitment to protecting investments"
+    "question": "Which currency was used for the second transaction reported in SAR_2.xml?",
+    "answer": "EUR"
   },
   {
-    "question": "What is the IBAN associated with the beneficiary account for the transactions involving Innovative AIX?",
-    "answer": "BG12BNB37110123456789"
+    "question": "According to promotional_ad_1.txt, what is one of the key features of AI Trading Solutions?",
+    "answer": "24/7 market monitoring"
   },
   {
-    "question": "Based on the SAR reports, what is a concerning trend indicated by the escalating investment amounts?",
-    "answer": "Increased investment amounts following initial interaction, combined with the victim's concerns regarding withdrawal denial."
+    "question": "What is the purpose of the maintenance mentioned in email_3.txt?",
+    "answer": "To improve the platform\u2019s security and performance"
   },
   {
-    "question": "What date did Robert MacIntyre and Dimitri Volkov tentatively schedule a call?",
-    "answer": "Tuesday"
+    "question": "Based on the website screenshot, what is the visual emphasis on the AI Trading Solutions website?",
+    "answer": "Financial Freedom"
   },
   {
-    "question": "What does the promotional material claim about the ROI (Return on Investment) experienced with Innovative AIX?",
-    "answer": "Experience returns far exceeding traditional investment methods."
+    "question": "What action does SAR_3.xml indicate regarding Robert McMillan\u2019s account access?",
+    "answer": "Account access revoked"
   },
   {
-    "question": "What is the assessment level assigned to the suspicious activity regarding the victim's attempt to withdraw funds?",
-    "answer": "High"
+    "question": "What is the expected duration of the maintenance mentioned in email_3.txt?",
+    "answer": "24-48 hours"
   },
   {
-    "question": "What is the monthly income of the subject?",
-    "answer": "10000.00 CAD"
+    "question": "According to promotional_ad_2.txt, what bonus is offered to new depositors?",
+    "answer": "$1,000"
   }
 ]

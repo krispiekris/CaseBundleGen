@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SAR>
-  <ReportDate>2024-02-05</ReportDate>
+  <ReportDate>2024-01-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionType>Cryptocurrency Transfer</TransactionType>
-    <TransactionDate>2023-11-12</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <SenderName>Markus Bauer</SenderName>
-    <SenderAccount>DExxxxxxxxxx</SenderAccount>
-    <ReceiverName>Cryptoking77</ReceiverName>
-    <ReceiverAccount>0xAbCdEfGhIjKlMnOpQrStUvWxYz123456</ReceiverAccount>
-    <Description>Investment in NFT project</Description>
-    <SuspiciousFactor>Linked to potential investment fraud scheme. Victim has filed a complaint with local authorities.</SuspiciousFactor>
+    <TransactionDate>2024-01-05</TransactionDate>
+    <TransactionAmount currency="EUR">500</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>Thomas Baumann</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <ReceiverName>Global Capital Partners</ReceiverName>
+    <ReceiverAccount>GB23NWBK000000000001234567</ReceiverAccount>
+    <PurposeCode>13 - Investment</PurposeCode>
+    <Suspicion>Unusual investment activity; unsolicited communication; pressure tactics; identity verification request</Suspicion>
+    <Notes>Customer made a payment of €500 after being requested to verify identity and pay a processing fee. Suspect further investigation warranted.
+</Notes>
   </SuspiciousActivity>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <ReportID>SAR-003-2024</ReportID>
 </SAR>

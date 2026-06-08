@@ -1,30 +1,13 @@
-<SAR>
-  <Header>
-    <SARReference>20230920-GER-002</SARReference>
-    <DateTime>2023-09-20T09:00:00Z</DateTime>
-    <SubmittedBy>Commerzbank</SubmittedBy>
-  </Header>
-  <TransactionDetails>
-    <TransactionID>TXN-56789</TransactionID>
-    <TransactionDate>2023-09-15</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Credit</TransactionType>
-    <OriginatingBank>Commerzbank</OriginatingBank>
-    <BeneficiaryBank>Not Available</BeneficiaryBank>
-    <BeneficiaryAccount>Unknown</BeneficiaryAccount>
-  </TransactionDetails>
-  <PartyInformation>
-    <Sender>
-      <Name>Klaus Heinz</Name>
-      <Address>Musterstraße 1, 12345 Musterstadt, Germany</Address>
-    </Sender>
-    <Receiver>
-      <Name>AI Profit Solutions</Name>
-      <Location>Cyprus</Location>
-    </Receiver>
-  </PartyInformation>
-  <Findings>
-    <SuspiciousActivity>Large transfer to a potentially high-risk jurisdiction.  Transfer made following pressure from account manager.</SuspiciousActivity>
-    <RiskLevel>High</RiskLevel>
-  </Findings>
+<SAR id="SAR-20230520-002">
+  <ReportDate>2023-05-20</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <TransactionDate>2023-05-20</TransactionDate>
+  <TransactionAmount currency="EUR">15000</TransactionAmount>
+  <TransactionType>Credit</TransactionType>
+  <Sender>Hans Meier</Sender>
+  <SenderAccount>DE12345678901234567890</SenderAccount>
+  <Receiver>AI Trading Pro Ltd</Receiver>
+  <ReceiverAccount>GB87BNKP2050000011234567</ReceiverAccount>
+  <SuspiciousActivity>Potential investment fraud - unusually large deposit following initial investment.</SuspiciousActivity>
+  <Notes>Client seems increasingly convinced by investment outcomes. Transfer amount significantly higher than initial deposit.</Notes>
 </SAR>

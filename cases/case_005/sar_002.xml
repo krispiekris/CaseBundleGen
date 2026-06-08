@@ -1,0 +1,19 @@
+<SAR id="SAR-2024-01-15-002">
+  <ReportDate>2024-01-15</ReportDate>
+  <FilerInstitution>Commonwealth Bank of Australia</FilerInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-01</TransactionDate>
+      <TransactionAmount currency="AUD">5000.00</TransactionAmount>
+      <TransactionType>Debit</TransactionType>
+      <OriginatingAccount>David Miller - [REDACTED]</OriginatingAccount>
+      <BeneficiaryAccount>
+        <Name>AI Wealth Investment Account</Name>
+        <AccountNumber>[REDACTED]</AccountNumber>
+        <Jurisdiction>Hong Kong</Jurisdiction>
+      </BeneficiaryAccount>
+      <Description>Investment Transfer - AI Wealth</Description>
+    </Transaction>
+    <SuspicionSummary>Customer initiated a transfer of AUD 5,000 to an overseas account identified as 'AI Wealth Investment Account' based in Hong Kong. The customer reported issues accessing the platform and difficulty withdrawing funds.</SuspicionSummary>
+  </SuspiciousActivity>
+</SAR>

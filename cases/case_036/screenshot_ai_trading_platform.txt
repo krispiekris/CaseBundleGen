@@ -1,0 +1,3 @@
+Screenshot Description:
+
+The screenshot depicts a simulated trading platform interface.  The platform is branded with "ApexAI" in a modern font.  A graph prominently displays a steep upward trend, labeled "Portfolio Performance."  Below the graph, a table shows daily profit numbers ranging from +$350 to +$800.  A button labeled "Automated Trading" is highlighted.  The overall aesthetic is clean and professional, with a focus on conveying rapid and consistent profits. The URL displayed in the top-left corner is [http://apexaitrading.com/dashboard](http://apexaitrading.com/dashboard).

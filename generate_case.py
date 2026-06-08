@@ -2,6 +2,7 @@ import base64
 import json
 import mimetypes
 import re
+import time
 from pathlib import Path
 from ollama_utils import run_ollama
 
@@ -218,6 +219,7 @@ def generate_case(case_id="case_001", model="gemma3:12b"):
     case_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"\n=== Generating {case_id} ===")
+    start_time = time.perf_counter()
     
     # Step 1: Generate metadata and file structure
     metadata, file_structure = step1_generate_metadata_and_filelist(model)
@@ -240,13 +242,40 @@ def generate_case(case_id="case_001", model="gemma3:12b"):
     for f in files:
         (case_dir / f["filename"]).write_text(f["content"])
 
-    print(f"  ✓ Case {case_id} generated successfully.")
+    elapsed = time.perf_counter() - start_time
+    print(f"  ✓ Case {case_id} generated successfully in {elapsed:.2f} seconds.")
+    return elapsed
 
 def generate_batch(n=100, model="gemma3:12b"):
     """Generate multiple cases in a batch."""
+    total_start = time.perf_counter()
+    case_times = []
+
     for i in range(1, n + 1):
         case_id = f"case_{i:03d}"
-        generate_case(case_id, model=model)
+        elapsed = generate_case(case_id, model=model)
+        case_times.append(elapsed)
+
+    total_elapsed = time.perf_counter() - total_start
+    average_elapsed = sum(case_times) / len(case_times) if case_times else 0.0
+
+    result = {
+        "total_cases_generated": len(case_times),
+        "total_seconds": total_elapsed,
+        "average_seconds": average_elapsed,
+        "case_times": case_times,
+    }
+
+    print("\n=== Generation timing summary ===")
+    print(f"Total cases generated: {result['total_cases_generated']}")
+    print(f"Total generation time: {result['total_seconds']:.2f} seconds")
+    print(f"Average generation time per case: {result['average_seconds']:.2f} seconds")
+
+    timings_file = Path("generation_timing_summary.json")
+    timings_file.write_text(json.dumps(result, indent=2))
+    print(f"Timing summary written to: {timings_file}")
+
+    return result
 
 if __name__ == "__main__":
     generate_batch(100)

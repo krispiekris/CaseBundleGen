@@ -1,54 +1,54 @@
 {
-  "case_id": "2024-0722-FIN-123",
+  "case_id": "2024-07-27-001",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac75,000 - \u20ac125,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Seychelles",
-    "United Arab Emirates"
+    "Malta",
+    "Saint Vincent and the Grenadines"
   ],
   "timeline": [
     {
       "date": "2023-11-15",
-      "event": "Victim contacted by 'broker' on social media"
+      "event": "Victim contacted via Telegram about AI trading opportunity"
     },
     {
       "date": "2023-12-01",
-      "event": "Initial investment made"
+      "event": "Initial deposit made by victim"
     },
     {
       "date": "2024-01-10",
-      "event": "Victim experiences fabricated losses"
+      "event": "Victim requests withdrawal, funds delayed"
     },
     {
-      "date": "2024-02-28",
-      "event": "Victim attempts to withdraw funds and is blocked"
+      "date": "2024-04-22",
+      "event": "Victim reports fraud"
     },
     {
-      "date": "2024-07-10",
-      "event": "Victim files a report with local authorities"
+      "date": "2024-07-27",
+      "event": "Case file creation"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Transfers",
-      "amount_range": "\u20ac50,000 - \u20ac100,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac10,000 - \u20ac25,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.5 - 1.5 BTC"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     }
   ]
 }

@@ -1,59 +1,54 @@
 {
-  "case_id": "2024-CZ-0078",
+  "case_id": "2024-04-26-001",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "75,000 - 100,000 USD",
-    "country": "United States",
+    "income_range": "\u20ac80,000 - \u20ac120,000",
+    "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Russia",
+    "location": "Serbia",
     "languages_spoken": [
-      "Russian",
       "English",
-      "German"
+      "Serbian"
     ]
   },
   "destination_countries": [
     "Belize",
-    "St. Vincent and the Grenadines"
+    "Seychelles"
   ],
   "timeline": [
     {
-      "date": "2022-11-15",
-      "event": "Victim contacts 'AI Trading Platform' online."
+      "date": "2023-10-15",
+      "event": "Victim contacts automated trading platform."
     },
     {
-      "date": "2023-01-20",
-      "event": "Initial investment made by victim."
+      "date": "2023-11-20",
+      "event": "First small deposit made by victim."
     },
     {
-      "date": "2023-03-10",
-      "event": "Victim witnesses fabricated 'profits' on platform."
+      "date": "2023-12-10",
+      "event": "Victim encourages to deposit larger sum."
     },
     {
-      "date": "2023-05-01",
-      "event": "Victim pressured to make additional investments."
+      "date": "2024-01-15",
+      "event": "Victim attempts withdrawal - denied."
     },
     {
-      "date": "2023-07-12",
-      "event": "Victim attempts withdrawal; funds unavailable."
-    },
-    {
-      "date": "2023-09-28",
-      "event": "Victim reports incident to authorities."
+      "date": "2024-02-28",
+      "event": "Victim files complaint."
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "1.5 - 3 BTC"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac50,000 - \u20ac100,000"
     },
     {
-      "type": "USD",
-      "amount_range": "5,000 - 15,000 USD"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac20,000 - \u20ac50,000"
     }
   ]
 }

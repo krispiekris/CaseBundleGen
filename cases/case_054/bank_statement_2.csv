@@ -1,6 +1,5 @@
-Date,Description,Amount (EUR)
-2023-08-20,Online Transfer, -500.00
-2023-09-05,Online Transfer, -10000.00
-2023-09-20,Online Transfer, -15000.00
-2023-10-01,Service Fee, -50.00
-2023-11-10,Withdrawal Request, 10000.00
+Date,Description,Amount,Currency,Balance
+2023-08-01,Payment to AI Wealth Platform,5000.00,CAD,4850.00
+2023-09-05,Profit Distribution,1500.00,CAD,6350.00
+2023-10-25,Withdrawal Request,5000.00,CAD,1350.00
+2023-11-12,Complaint Filed,0.00,CAD,1350.00

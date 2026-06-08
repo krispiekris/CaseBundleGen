@@ -1,24 +1,21 @@
-<SAR xmlns="http://www.example.com/sar">
-  <Header>
-    <SAR_ID>SAR-20240215-002</SAR_ID>
-    <SubmissionDate>2024-02-15</SubmissionDate>
-    <FinancialInstitution>Deutsche Bank</FinancialInstitution>
-  </Header>
-  <Transaction>
-    <TransactionID>TXN-54321</TransactionID>
-    <TransactionDate>2023-11-10</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <Sender>
-      <Name>Klaus Schmidt</Name>
-      <AccountID>DE1234567890</AccountID>
-    </Sender>
-    <Receiver>
-      <Name>Global Investments Ltd.</Name>
-      <AccountID>LC012345678</AccountID>
-      <Country>Belize</Country>
-    </Receiver>
-    <Description>Withdrawal request</Description>
-    <SuspiciousActivity>Request for withdrawal denied by platform, customer unable to access funds.</SuspiciousActivity>
-  </Transaction>
+<?xml version="1.0" encoding="UTF-8"?>
+<SAR>
+  <ReportDate>2023-11-15</ReportDate>
+  <ReportingInstitution>Commerzbank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2023-11-10</TransactionDate>
+      <TransactionAmount currency="EUR">1000.00</TransactionAmount>
+      <TransactionType>Withdrawal Attempt</TransactionType>
+      <SenderAccount>DE89370400440532013700</SenderAccount>
+      <ReceiverAccount>US725649027</ReceiverAccount>
+      <Description>Withdrawal request denied by system</Description>
+      <SuspiciousIndicator>Attempted Withdrawal Exceeding Limits</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <Party>
+    <PartyType>Customer</PartyType>
+    <Name>Klaus Meier</Name>
+    <Country>Germany</Country>
+  </Party>
 </SAR>

@@ -1,27 +1,28 @@
 <SAR>
-  <ReportDate>2023-08-22</ReportDate>
-  <ReportingInstitution>Sparkasse Nürnberg</ReportingInstitution>
+  <Header>
+    <ReportDate>2023-09-05</ReportDate>
+    <BankID>DEUTBANK</BankID>
+    <ReferenceID>SAR-20230905-001</ReferenceID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <Amount>5000.00</Amount>
+    <Currency>EUR</Currency>
+    <FromAccount>
+      <AccountType>Checking</AccountType>
+      <AccountNumber>1234567890</AccountNumber>
+      <BankID>DEUTBANK</BankID>
+    </FromAccount>
+    <ToAccount>
+      <AccountType>Cryptocurrency Exchange</AccountType>
+      <AccountNumber>CRYPTEX-12345</AccountNumber>
+      <BankID>UNKNOWN</BankID>
+      <RecipientName>Cryptocurrency Exchange LLC</RecipientName>
+    </ToAccount>
+    <Description>Investment - Innovative AIX</Description>
+  </Transaction>
   <SuspiciousActivity>
-    <Transaction>
-      <TransactionID>1234567890</TransactionID>
-      <TransactionDate>2023-09-05</TransactionDate>
-      <Amount>7500.00</Amount>
-      <Currency>EUR</Currency>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>Klaus Breitling</Name>
-        <Address>Musterstraße 1, 90408 Nürnberg, Germany</Address>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>Profit Horizon Ltd</Name>
-        <Account>1234567890</Account>
-        <BankName>Globex Bank</BankName>
-        <Country>St. Vincent &amp; the Grenadines</Country>
-      </Beneficiary>
-      <Description>Online investment platform deposit</Description>
-    </Transaction>
+    <Type>Unusual Transaction</Type>
+    <Description>Large transfer to an unknown cryptocurrency exchange with description "Innovative AIX".</Description>
   </SuspiciousActivity>
-  <Findings>
-    <Finding>Unusual activity - large sum transferred to offshore account.</Finding>
-  </Findings>
 </SAR>

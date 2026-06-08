@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CYB-0078",
+  "case_id": "2024-Cyber-Alpha-07",
   "fraud_type": "Investment Fraud",
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
-    "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "age_range": "65-74",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,13 +12,12 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English",
-      "Hausa"
+      "Pidgin English"
     ]
   },
   "destination_countries": [
-    "Marshall Islands",
-    "Saint Vincent and the Grenadines"
+    "Nigeria",
+    "United Arab Emirates"
   ],
   "timeline": [
     {
@@ -27,29 +26,33 @@
     },
     {
       "date": "2023-09-01",
-      "event": "First investment deposited"
+      "event": "First investment made"
     },
     {
       "date": "2023-11-10",
-      "event": "Victim requests withdrawal"
+      "event": "Victim requests withdrawal - partially denied"
     },
     {
-      "date": "2023-11-15",
-      "event": "Withdrawal request denied, explanation of 'verification fees'"
+      "date": "2024-01-22",
+      "event": "Victim reports fraud"
     },
     {
-      "date": "2023-12-05",
-      "event": "Victim reports fraudulent activity"
+      "date": "2024-02-15",
+      "event": "Case initiated"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (Bitcoin)",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Bitcoin",
+      "amount_range": "0.5 - 1.5 BTC"
+    },
+    {
+      "type": "Ethereum",
+      "amount_range": "2 - 5 ETH"
     },
     {
       "type": "EUR Bank Transfers",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "amount_range": "\u20ac5,000 - \u20ac25,000"
     }
   ]
 }

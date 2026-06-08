@@ -1,12 +1,14 @@
-From: support@ai-tradingpro.com
-To: ulrich.baumann@email.de
-Subject: Account Restrictions and Verification
+From: "Support Team" <support@quantumleap-ai.com>
+To: "Kevin Blake" <kevin.blake@example.ca>
+Subject: Account Maintenance Notification
+Date: March 22, 2024 11:15:00
 
-Dear Ulrich,
+Dear Kevin,
 
-Due to a system update and enhanced security protocols, your account has been temporarily restricted. We require you to verify your identity and investment details to ensure the safety of your funds. Please click on the link below to complete the verification process:
+We are currently experiencing a temporary system maintenance. Due to security enhancements, all withdrawal requests are temporarily suspended.
 
-[Link to a phishing page]
+We apologize for any inconvenience this may cause. Our technical team is working diligently to resolve the issue. You will receive another notification once the system is back online.
 
-Sincerely,
-The AI Trading Pro Support Team
+Thank you for your patience and understanding.
+
+The QuantumLeap AI Support Team

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial minimum investment required to join the AI trading platform?",
-    "answer": "\u20ac5,000"
+    "question": "What was the initial deposit amount made by David Miller to Global Forex Capital, according to the bank statement?",
+    "answer": "5000.00"
   },
   {
-    "question": "According to the promotional material, what is one of the key benefits of using the AI Trader platform?",
-    "answer": "Risk-Free Returns"
+    "question": "According to the email promotion, what is the minimum deposit required to start trading with Global Forex Capital?",
+    "answer": "$500"
   },
   {
-    "question": "What was the date of the first Suspicious Activity Report (SAR) filed concerning Michael Weber's account?",
-    "answer": "2023-12-18"
+    "question": "What leverage is advertised by Global Forex Capital in their promotional email?",
+    "answer": "Up to 1:500"
   },
   {
-    "question": "What cryptocurrency did Michael Weber purchase with his initial investment, and what was the amount in EUR?",
-    "answer": "BTC, \u20ac5000"
+    "question": "Based on the SAR reports, which country is associated with the recipient account 'GFX12345'?",
+    "answer": "Marshall Islands"
   },
   {
-    "question": "Based on the email sent to Michael, what does AI Trader encourage him to do to maximize returns?",
-    "answer": "Increase his investment"
+    "question": "What documents did Global Forex Capital request from David Miller as part of the verification process for his withdrawal?",
+    "answer": "A copy of his government-issued ID and a recent utility bill showing his current address."
   },
   {
-    "question": "What is the Telegram ID provided to Michael for communication with his account manager?",
-    "answer": "@DavidMillerAI"
+    "question": "What suspicious activity was initially flagged in the first SAR report regarding the initial deposit?",
+    "answer": "Potential investment fraud - initial deposit"
   },
   {
-    "question": "What was the described design and key elements of the AI Trader website?",
-    "answer": "Sleek, modern design with a predominantly blue and white color scheme. Rotating banner showcasing graphs trending upwards and testimonials. Prominent text proclaiming 'Unlock the Future of Investing with AI.' Call-to-action button encouraging visitors to 'Get Started Now.'"
+    "question": "How much money, in total, did David Miller transfer to Global Forex Capital as reported in the fraud report?",
+    "answer": "$35000"
   },
   {
-    "question": "What is the status of Michael Weber's withdrawal request as reported in the third SAR?",
-    "answer": "Pending"
+    "question": "What was the reason cited by Global Forex Capital for the temporary hold on David Miller's withdrawal, and what amount was requested to resolve it?",
+    "answer": "A system update, requiring a processing fee of $1,500"
   },
   {
-    "question": "Which entities are associated with Michael Weber's account as named in the SAR reports?",
-    "answer": "Deutsche Bank, AI Trading Platform"
+    "question": "Which date does the initial inquiry email from David Miller to Global Forex Capital have as its subject: Inquiry about Forex Trading?",
+    "answer": "None"
   },
   {
-    "question": "Based on the promotional material, what is one potential advantage of signing up for AI Trader during the limited-time offer?",
-    "answer": "A FREE consultation with our expert investment team"
+    "question": "Besides the initial deposit, what other reasons are associated with the 'follow-up deposits' listed in SAR 2?",
+    "answer": "Potential investment fraud"
   }
 ]

@@ -1,0 +1,19 @@
+From: "AI Trading Solutions" <info@aitradingsolutions.com>
+To: "Karl Schmidt" <karl.schmidt@email.de>
+Subject: Your AI Trading Solutions Profit Notification
+
+Dear Karl,
+
+We're excited to inform you that your AI trading algorithms have generated significant profits today!
+
+Your current balance: €12,500.00
+Initial Investment: €5,000.00
+
+Profit: €7,500.00
+
+You can view detailed transaction history in your account dashboard.
+
+Keep an eye out for more profitable trades!
+
+Sincerely,
+The AI Trading Solutions Team

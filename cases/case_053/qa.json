@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial amount did Hans Meier transfer to NovaTrade AI Limited on September 1st, 2023?",
-    "answer": "5000 EUR"
+    "question": "What was the initial investment amount suggested by the 'Dr. AI Trading Bot'?",
+    "answer": "\u20ac500"
   },
   {
-    "question": "According to the promotional material, what is the key benefit of using NovaTrade AI?",
-    "answer": "Effortless Income"
+    "question": "According to the promotional email, what is one of the key benefits highlighted for using the 'Dr. AI Trading Bot'?",
+    "answer": "Risk-Free Investment"
   },
   {
-    "question": "What was the described reason for the temporary suspension of Hans Meier's withdrawal request?",
-    "answer": "A processing fee"
+    "question": "What was the purpose of the 'Verification Transaction' recorded in the bank statement?",
+    "answer": "Verification Transaction - Dr. AI Trading Bot"
   },
   {
-    "question": "What is the account number of 'Global Trade Solutions', the entity mentioned in email_3.txt?",
-    "answer": "MU07DTMB08030100000001"
+    "question": "Which reporting institution filed the Suspicious Activity Report (SAR) related to Johannes Schmidt's account?",
+    "answer": "Sparkasse Bank"
   },
   {
-    "question": "Based on the SAR reports, what potential issue is associated with NovaTrade AI Limited?",
-    "answer": "Potential investment fraud"
+    "question": "Besides Johannes Schmidt, which other entities appear in both the promotional email and the screenshot of the trading platform?",
+    "answer": "Dr. AI Trading Bot"
   },
   {
-    "question": "What finding is recorded in the second SAR (CaseID 2023-10-20-DEF) regarding Hans Meier's investment?",
-    "answer": "Increased investment amount, potentially under duress or influenced by fabricated profits."
+    "question": "What was the projected return on the initial trade of BTC/EUR, as stated by the 'Dr. AI Trading Bot'?",
+    "answer": "+12% in 15 minutes"
   },
   {
-    "question": "Which transaction types are associated with Hans Meier in the provided SARs?",
-    "answer": "Credit and Debit"
+    "question": "Based on the email support response, what is the reason given for the temporary suspension of Johannes Schmidt's withdrawal request?",
+    "answer": "Security verification process"
   },
   {
-    "question": "What date of birth is listed for Hans Meier in the SAR reports?",
-    "answer": "1968-03-10"
+    "question": "What financial transaction appears most frequently in Johannes Schmidt's bank statement, and what is its amount?",
+    "answer": "Online Payment - Dr. AI Trading Bot, varying amounts"
   },
   {
-    "question": "According to the website screenshot, what does the graph displayed show about the trading system\u2019s performance?",
-    "answer": "Steep upward trend labeled 'Monthly Profit Growth'"
+    "question": "What did the findings section of SAR 3 suggest regarding Johannes Schmidt's communication with Dr. AI Trading Bot?",
+    "answer": "Account holder reported suspicious communication from Dr. AI Trading Bot."
   },
   {
-    "question": "What was the purpose code assigned to the transfers to NovaTrade AI Limited in the SARs?",
-    "answer": "Investment"
+    "question": "According to the promotional material, what bonus is being offered to new investors for a limited time?",
+    "answer": "A 100% bonus on your first deposit"
   }
 ]

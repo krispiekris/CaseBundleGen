@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial investment amount made by David Miller to AlgoTrade Pro, according to the bank statement?",
-    "answer": "5000.00"
+    "question": "What was the initial investment amount made by Karl Schmidt to AI Trading Solutions?",
+    "answer": "\u20ac5,000.00"
   },
   {
-    "question": "What type of activity did the Suspicious Activity Report (SAR) initially flag concerning David Miller's account?",
-    "answer": "Potential Investment Fraud"
+    "question": "According to the profit notification email, what was Karl Schmidt\u2019s balance after the AI trading algorithms ran?",
+    "answer": "\u20ac12,500.00"
   },
   {
-    "question": "According to the promotional material, what is one benefit that AlgoTrade Pro offers to its members?",
-    "answer": "Generates consistent profits"
+    "question": "What is the reporting institution associated with the SARs related to Karl Schmidt\u2019s transactions?",
+    "answer": "Deutsche Bank"
   },
   {
-    "question": "What was the described reason for the 1500.00 transaction from AlgoTrade Pro to David Miller in SAR 2?",
-    "answer": "Simulated profit payout"
+    "question": "What was the description of the transaction related to the 5000 EUR payment to AI Trading Solutions?",
+    "answer": "Online Payment to AI Trading Solutions"
   },
   {
-    "question": "Based on the telegram conversation, what was the initial deposit amount suggested by the AI Trading Advisor?",
-    "answer": "5000"
+    "question": "What reason was given for the delay in processing Karl Schmidt's withdrawal request?",
+    "answer": "Increased security measures requiring manual verification"
   },
   {
-    "question": "What country was the receiving account for the initial investment transaction located in, according to the SAR?",
-    "answer": "Romania"
+    "question": "What type of activity was flagged as suspicious in the second SAR (DB-2023-00589)?",
+    "answer": "Potential Investment Fraud - Withdrawal Issue"
   },
   {
-    "question": "What did the screenshot of the website depict in relation to profits?",
-    "answer": "Graphs showing steep upward trends labeled 'Profit Growth'"
+    "question": "What date does the promotional text_1 file advertise the availability of?",
+    "answer": "Limited spots available"
   },
   {
-    "question": "What was the reason for the denied withdrawal attempt, according to SAR 3?",
-    "answer": "Attempted withdrawal denied"
+    "question": "What was the amount of the 'KYC Verification Payment' recorded in the second bank statement?",
+    "answer": "100.00"
   },
   {
-    "question": "Which entities are associated with the 'AlgoTrade Pro' account (9876543210) as both a sender and a receiver in the provided documents?",
-    "answer": "AlgoTrade Pro Team, David Miller"
+    "question": "What does the website screenshot_website_1.txt describe about the visual presentation of the AI Trading Solutions website?",
+    "answer": "The website features a sleek, modern design with a dark blue and white color scheme. Large, dynamic graphs showing simulated profit growth are prominently displayed."
   },
   {
-    "question": "What did the promotional material state about testimonials?",
-    "answer": "\"I've never seen profits like this before!\" - John S.\n\"AlgoTrade Pro is a game-changer!\" - Emily B."
+    "question": "What is the purpose of the link included in the email regarding the withdrawal request?",
+    "answer": "To confirm KYC details."
   }
 ]

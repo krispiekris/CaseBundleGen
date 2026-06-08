@@ -1,13 +1,16 @@
-<SAR>
-  <ReportDate>2024-03-15</ReportDate>
-  <ReportingInstitution>Sparkasse Bank</ReportingInstitution>
-  <TransactionDate>2024-03-15</TransactionDate>
-  <TransactionAmount currency="EUR">0.00</TransactionAmount>
-  <TransactionType>Debit</TransactionType>
-  <SenderAccount>DE23740501010101010101</SenderAccount>
-  <ReceiverAccount>US9876543210</ReceiverAccount>
-  <ReceiverName>Global Digital Assets LLC</ReceiverName>
-  <ReceiverCountry>United States</ReceiverCountry>
-  <SuspicionReason>Customer reports fraudulent activity and unauthorized transfers.  Attempted withdrawal denied. Account may be compromised.</SuspicionReason>
-  <Notes>Customer has filed a formal complaint.  Recommend immediate account suspension and investigation into potential fraud.</Notes>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2024-02-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <CustomerName>Hans Meier</CustomerName>
+  <CustomerAddress>Musterstraße 12, 10115 Berlin, Germany</CustomerAddress>
+  <SuspiciousActivity>
+    <ActivityType>Attempted Withdrawal and Pressure to Invest</ActivityType>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount currency="EUR">0</TransactionAmount>
+    <TransactionDescription>Attempted withdrawal request blocked and further investment pressure applied.</TransactionDescription>
+    <BeneficiaryName>Global AI Trading Ltd.</BeneficiaryName>
+    <BeneficiaryAddress>Belize City, Belize</BeneficiaryAddress>
+    <IBAN>BZ1234567890</IBAN>
+    <Findings>Customer reports inability to withdraw funds and is being pressured to invest further.  Strong suspicion of fraud.</Findings>
+  </SuspiciousActivity>
 </SAR>

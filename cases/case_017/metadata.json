@@ -4,8 +4,8 @@
   "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
-    "country": "Germany",
+    "income_range": "$80,000 - $120,000",
+    "country": "Australia",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
@@ -18,42 +18,39 @@
   },
   "destination_countries": [
     "Nigeria",
-    "United Arab Emirates"
+    "Ghana",
+    "United Kingdom"
   ],
   "timeline": [
     {
       "date": "2023-08-15",
-      "event": "Initial contact via email offering AI trading platform."
+      "event": "Victim contacts fraudulent AI trading platform"
     },
     {
       "date": "2023-09-01",
-      "event": "Victim deposits \u20ac5,000 into trading account."
-    },
-    {
-      "date": "2023-09-15",
-      "event": "Small initial profits shown to build trust."
-    },
-    {
-      "date": "2023-10-01",
-      "event": "Victim attempts to withdraw funds \u2013 request denied."
+      "event": "Initial deposit made by victim"
     },
     {
       "date": "2023-10-15",
-      "event": "Victim contacts support - no response."
+      "event": "Victim receives fabricated 'profits'"
     },
     {
-      "date": "2023-11-01",
-      "event": "Victim reports fraud to authorities."
+      "date": "2023-11-20",
+      "event": "Victim attempts to withdraw funds - denied"
+    },
+    {
+      "date": "2024-01-10",
+      "event": "Victim files a police report"
     }
   ],
   "assets_involved": [
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "\u20ac5,000 - \u20ac10,000"
+      "type": "Cryptocurrency (Bitcoin)",
+      "amount_range": "$10,000 - $20,000"
     },
     {
-      "type": "EUR Bank Account",
-      "amount_range": "\u20ac5,000 - \u20ac15,000"
+      "type": "Bank Transfer",
+      "amount_range": "$5,000 - $15,000"
     }
   ]
 }

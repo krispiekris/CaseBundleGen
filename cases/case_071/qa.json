@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the promotional material, what is a key feature of Quantum AI Investments?",
-    "answer": "Automated Trading \u2013 No experience needed!"
+    "question": "According to the promotional material, what is the minimum investment amount to 'unlock the power of AI trading'?",
+    "answer": "$5,000"
   },
   {
-    "question": "What was the description given for the cryptocurrency purchase transaction in the SAR report from November 2023?",
-    "answer": "Cryptocurrency Purchase"
+    "question": "What description is given for the initial transaction between Margaret Olsen and AI Trading Solutions?",
+    "answer": "Initial investment"
   },
   {
-    "question": "What was the amount of the cryptocurrency purchase in the SAR report from December 2023?",
-    "answer": "10000.00"
+    "question": "What is the account number used by AI Trading Solutions for both receiving investments and sending profit distributions?",
+    "answer": "9876543210"
   },
   {
-    "question": "What did Alex tell David about the AI's functionality?",
-    "answer": "It's proprietary, David. We can't disclose all the details, but trust me, it's top-of-the-line."
+    "question": "What 'tax' did AI Trading Solutions request from Margaret Olsen in order to process her withdrawal?",
+    "answer": "10%"
   },
   {
-    "question": "Based on the Telegram chatlog, what excuse did Alex provide for the delay in processing David's withdrawal request?",
-    "answer": "There appears to be a temporary security issue. We're working on it."
+    "question": "Which words or phrases are used to describe the investment strategy in promotional material?",
+    "answer": "cutting-edge artificial intelligence, unprecedented returns, guaranteed returns, proprietary AI algorithms, revolutionizing the world of finance"
   },
   {
-    "question": "According to the screenshot of the trading platform, what is the 'Current Portfolio Value' displayed?",
-    "answer": "$35,780.00"
+    "question": "Considering the SAR reports and the email correspondence, what is the likely reason Margaret Olsen was asked to pay additional taxes?",
+    "answer": "To prevent the withdrawal of funds, indicative of a potential Ponzi scheme."
   },
   {
-    "question": "What type of activity was flagged as suspicious in the SAR report from February 2024?",
-    "answer": "Withdrawal request denied due to account restrictions."
+    "question": "Based on the Telegram chatlog, what was the initial response from the AI Trading Bot when Margaret Olsen expressed interest in learning more about the platform?",
+    "answer": "Our AI algorithms guarantee high returns. You can start with a minimum investment of $5,000."
   },
   {
-    "question": "What was the approximate range of time between the initial welcome email and the first mention of significant gains in the Telegram chatlog?",
-    "answer": "Approximately one month"
+    "question": "What is the address associated with Margaret Olsen as documented in the SAR files?",
+    "answer": "123 Main Street, Sydney, NSW 2000, Australia"
   },
   {
-    "question": "Based on the provided information, what actions did David take leading up to the withdrawal request?",
-    "answer": "David funded his account, made cryptocurrency purchases, and added more funds."
+    "question": "If Margaret Olsen had initially invested $5,000 and received two distributions of $1,000 and $1,500 respectively, what was her total received amount?",
+    "answer": "$2,500"
   },
   {
-    "question": "What entities are mentioned in the promotional material and the screenshot of the trading platform?",
-    "answer": "Quantum AI Investments"
+    "question": "According to the website screenshot, what is prominently displayed on the website to attract potential investors?",
+    "answer": "A graph trending upwards, labeled 'Exponential Growth with AI'"
   }
 ]

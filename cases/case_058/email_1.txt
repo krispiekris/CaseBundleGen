@@ -1,1 +1,14 @@
-From: ai_trading_advisor@securemail.net\nTo: david.miller@email.com\nSubject: AlgoTrade Pro - Daily Profit Update\n\nDear David,\n\nYour AlgoTrade Pro account is performing exceptionally well! We're seeing a 12.47% return on your investment today. Attached is a detailed report outlining your current profit and recent trades.\n\nKeep up the great work, and let us know if you have any questions.\n\nSincerely,\nThe AlgoTrade Pro Team
+From: "AI Trading Solutions" <info@aitradingsolutions.com>
+To: "Karl Schmidt" <karl.schmidt@email.de>
+Subject: Welcome to AI Trading Solutions!
+
+Dear Karl,
+
+Welcome to the future of automated trading! We're thrilled to have you join the AI Trading Solutions community.
+
+Our cutting-edge AI algorithms are designed to maximize your profits with minimal effort. To get started, simply log in to your account at [https://aitradingsolutions.com](https://aitradingsolutions.com).
+
+For any questions, please don’t hesitate to contact our support team at support@aitradingsolutions.com.
+
+Sincerely,
+The AI Trading Solutions Team

@@ -1,14 +1,1 @@
-From: support@apextradingsolutions.com
-To: klaus.hartmann@email.de
-Subject: Welcome to Apex Trading Solutions!
-
-Dear Klaus,
-
-Welcome aboard! We're thrilled to have you join the Apex Trading Solutions family. Our AI-powered platform is revolutionizing the way people invest.
-
-Get ready to witness unprecedented returns. To help you get started, we've allocated a small initial amount to your account. Feel free to explore and test the system.
-
-Best regards,
-The Apex Trading Solutions Team
-
-[Link to website: www.apextradingsolutions.com]
+From: support@quantumaiinvest.com\nTo: david.miller@example.com\nSubject: Welcome to Quantum AI Investments!\n\nDear David,\n\nWelcome to the future of investing! We're thrilled to have you join the Quantum AI Investments community.\n\nOur cutting-edge AI algorithms analyze market trends with unparalleled accuracy, providing you with exclusive opportunities to maximize your returns.  To get started, please review our introductory guide attached.\n\nWe're confident that Quantum AI Investments will transform your financial future.\n\nSincerely,\nThe Quantum AI Investments Team\n\n[Attached: QuantumAI_IntroductoryGuide.pdf]

@@ -1,42 +1,42 @@
 [
   {
-    "question": "What initial amount did Ulrich Baumann invest according to the Telegram chat logs?",
-    "answer": "\u20ac15,000"
+    "question": "According to the initial email, what is the purpose of the Elite AI Trading program?",
+    "answer": "To identify and capitalize on market opportunities, delivering consistent profits."
   },
   {
-    "question": "According to the SAR reports, which country is associated with Prime Global Investments Ltd.?",
-    "answer": "South Africa"
+    "question": "What was the initial minimum investment amount suggested by the 'AI Trading Expert' in the Telegram chat?",
+    "answer": "$5000"
   },
   {
-    "question": "What was the stated reason for the international money transfers according to the descriptions in the SARs?",
-    "answer": "International Money Transfer"
+    "question": "What type of transaction was recorded in SAR-2023-09-05-001?",
+    "answer": "Unusual Transaction"
   },
   {
-    "question": "Based on the promotional material, what is the key selling point of AI-Profit-Solutions?",
-    "answer": "AI trading algorithms"
+    "question": "What was the stated reason for the withdrawal denial described in SAR-2023-11-15-002?",
+    "answer": "System maintenance"
   },
   {
-    "question": "What was the purpose of the second international transfer of \u20ac5000, as indicated in SAR 2?",
-    "answer": "Linked to initial investment"
+    "question": "Based on the bank statement, what was the amount of the crypto deposit?",
+    "answer": "$1000.00"
   },
   {
-    "question": "What was the name of the company that received the \u20ac5000 transfer for the withdrawal fee?",
-    "answer": "Global Processing Solutions"
+    "question": "Which entities are mentioned in the promotional material, but not in the SAR reports?",
+    "answer": "None"
   },
   {
-    "question": "What is the balance displayed on the screenshot of the trading platform?",
-    "answer": "$54,789.32"
+    "question": "What communication method was used by the 'AI Trading Expert' to retract a previous message about withdrawal issues?",
+    "answer": "Email"
   },
   {
-    "question": "According to Ulrich Baumann's email, what issue is he experiencing?",
-    "answer": "Trouble withdrawing his funds"
+    "question": "What prompted the bank to flag the withdrawal request described in SAR-2024-01-25-003?",
+    "answer": "Ongoing 'system maintenance'"
   },
   {
-    "question": "What disclaimer is included in the promotional material?",
-    "answer": "Results not typical. See terms and conditions."
+    "question": "What range of time was specified for processing withdrawals?",
+    "answer": "24-48 hours"
   },
   {
-    "question": "What is the Risk Level associated with the second unusual international transfer in SAR 2?",
-    "answer": "High"
+    "question": "What is the purpose of the link provided in the welcome email?",
+    "answer": "To schedule a brief onboarding call with the team"
   }
 ]

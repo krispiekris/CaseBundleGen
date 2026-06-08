@@ -1,54 +1,59 @@
 {
-  "case_id": "2024-03-15-FX-007",
+  "case_id": "2024-SC-0078",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac60,000 - \u20ac80,000",
+    "income_range": "\u20ac75,000 - \u20ac120,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
   "fraudster_profile": {
-    "location": "Belize",
+    "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Spanish"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Belize",
-    "United Arab Emirates"
+    "United States",
+    "Hong Kong"
   ],
   "timeline": [
     {
-      "date": "2023-10-27",
-      "event": "Initial Contact - Email"
+      "date": "2023-08-15",
+      "event": "Initial contact via Telegram"
+    },
+    {
+      "date": "2023-09-01",
+      "event": "First deposit of \u20ac5,000 made"
+    },
+    {
+      "date": "2023-10-15",
+      "event": "Victim convinced to deposit \u20ac15,000"
+    },
+    {
+      "date": "2023-11-01",
+      "event": "Fraudster claims withdrawal issues, requests additional 'release fee'"
+    },
+    {
+      "date": "2023-11-10",
+      "event": "Victim transfers final \u20ac10,000"
     },
     {
       "date": "2023-11-15",
-      "event": "First Deposit"
-    },
-    {
-      "date": "2024-01-05",
-      "event": "Victim Requests Withdrawal"
-    },
-    {
-      "date": "2024-01-12",
-      "event": "Withdrawal Refused - Claiming Bonuses"
-    },
-    {
-      "date": "2024-03-08",
-      "event": "Victim Files Complaint"
+      "event": "All communication ceases"
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Account",
-      "amount_range": "\u20ac15,000 - \u20ac25,000"
+      "type": "Cryptocurrency (BTC, ETH)",
+      "amount_range": "\u20ac30,000 - \u20ac40,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.1 - 0.3"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac25,000 - \u20ac35,000"
     }
   ]
 }

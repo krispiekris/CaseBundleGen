@@ -1,22 +1,24 @@
-<SAR xmlns="http://www.example.com/sar">
-  <ReportDate>2024-01-12</ReportDate>
-  <OriginatingInstitution>Deutsche Bank</OriginatingInstitution>
-  <SuspiciousTransaction>
-    <TransactionDate>2023-11-18</TransactionDate>
-    <TransactionAmount currency="EUR">10000</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <OriginatingParty>
-      <Name>Klaus Schmidt</Name>
-      <Address>Musterstrasse 1, 12345 Musterstadt</Address>
-      <Country>Germany</Country>
-    </OriginatingParty>
-    <BeneficiaryParty>
-      <Name>GlobalTech Investments Ltd.</Name>
-      <Account>1234567890</Account>
-      <BankName>Fidelity Bank</BankName>
-      <Country>Malta</Country>
-    </BeneficiaryParty>
-    <SuspiciousActivity>Customer reported account suspension after attempting withdrawal. Possible investment fraud.</SuspiciousActivity>
-    <ReportReferenceNumber>SAR-2024-01-003</ReportReferenceNumber>
-  </SuspiciousTransaction>
+<SAR id="SAR-20240715-003">
+  <ReportingInstitution>
+    <Name>Commonwealth Bank of Australia</Name>
+    <Address>Level 1, 10 Martin Place, Sydney NSW 2000</Address>
+  </ReportingInstitution>
+  <Subject>
+    <Name>David Miller</Name>
+    <Address>12 Acacia Avenue, Melbourne VIC 3000</Address>
+    <DateOfBirth>1972-05-10</DateOfBirth>
+  </Subject>
+  <Transaction>
+    <Date>2024-07-12</Date>
+    <Amount currency="AUD">8000</Amount>
+    <Type>Debit</Type>
+    <Description>Funds Transfer</Description>
+    <Beneficiary>
+        <Name>AI Wealth Pro</Name>
+    </Beneficiary>
+  </Transaction>
+  <Findings>
+      <SuspiciousActivity>Victim reports inability to withdraw funds, potential investment scam. Transfer to overseas account.</SuspiciousActivity>
+      <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

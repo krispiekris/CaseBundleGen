@@ -1,42 +1,42 @@
 [
   {
-    "question": "What is the date of birth of the subject of the Suspicious Activity Report?",
-    "answer": "1968-07-10"
+    "question": "What initial amount did David Miller invest with Quantum AI Investments, according to the bank statement?",
+    "answer": "5000 USD"
   },
   {
-    "question": "According to the emails, what is claimed to be a key advantage of the Apex Trading Solutions platform?",
-    "answer": "AI-powered platform is revolutionizing the way people invest."
+    "question": "According to the promotional material, what is a key benefit of using Quantum AI Investments?",
+    "answer": "Effortless Investing"
   },
   {
-    "question": "What is the IBAN used for the transfers to Apex Trading Solutions?",
-    "answer": "SC05XXXXXXX"
+    "question": "What reason did Alexander Petrov provide to David Miller when he inquired about updates on his investments?",
+    "answer": "The market can fluctuate, and the AI is constantly working."
   },
   {
-    "question": "What is the total amount transferred to Apex Trading Solutions based on the three SARs?",
-    "answer": "9000.00"
+    "question": "Which bank is associated with the receiver account (CY7799887766554433) involved in the transactions?",
+    "answer": "Alpha Bank Cyprus"
   },
   {
-    "question": "What is the initial recommendation given to Klaus Hartmann in the second email regarding maximizing returns?",
-    "answer": "Increasing your investment."
+    "question": "What action did Quantum AI Investments request from David Miller to verify his identity?",
+    "answer": "A copy of his passport and utility bill"
   },
   {
-    "question": "Based on the promotion text, what is claimed as a key benefit of using Apex Trading Solutions?",
-    "answer": "Potential for High Returns"
+    "question": "Based on the SAR reports, what is the reported suspicious activity associated with the initial investment transaction (SAR-20230901-001)?",
+    "answer": "Potential investment fraud - AI trading"
   },
   {
-    "question": "What reason is given for the temporary suspension of Klaus Hartmann's withdrawal request?",
-    "answer": "Ongoing security updates"
+    "question": "What was the promised quarterly return that Alexander Petrov mentioned to David Miller?",
+    "answer": "30%"
   },
   {
-    "question": "What specific type of activity prompted the email requesting verification of identity from Klaus Hartmann?",
-    "answer": "Unusual activity on your account"
+    "question": "What did the screenshot of the trading platform display regarding the user\u2019s balance?",
+    "answer": "125,000 USD"
   },
   {
-    "question": "According to the website screenshot, what visual element is used to suggest profitability?",
-    "answer": "Live trading graph, showing rapid and seemingly consistent upward movement."
+    "question": "What was the outcome of the withdrawal attempt made by David Miller on December 5, 2023?",
+    "answer": "Withdrawal Denied"
   },
   {
-    "question": "Besides Klaus Hartmann's address, what other personal information is included in the SAR?",
-    "answer": "Date of Birth"
+    "question": "What type of investment is the recipient, Global Investments Ltd, engaged in according to the SAR reports?",
+    "answer": "AI trading"
   }
 ]

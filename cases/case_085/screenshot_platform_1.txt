@@ -1,0 +1,3 @@
+[Description of screenshot: A simulated trading platform dashboard.  The dashboard shows a large amount of 'Available Balance', and several 'Open Trades' labeled with cryptocurrency ticker symbols (BTC, ETH, LTC) with substantial positive price movements. A graph displays a sharp upward trend over the past few weeks.  A prominently displayed message reads: 'AI Trading Performance: +32% this week!']
+
+Note:  The screenshot is intentionally designed to appear highly profitable and visually appealing.

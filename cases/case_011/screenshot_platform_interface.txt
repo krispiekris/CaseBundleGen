@@ -1,0 +1,1 @@
+[Description: A screenshot of a trading platform interface displaying a graph with rapidly increasing values labeled 'Daily Profit'. There are buttons labeled 'Deposit', 'Withdraw', and 'Auto Trade'. The displayed currency is EUR. A news ticker at the bottom reads: 'AI Trading Pro: Generating 35% Daily ROI!']

@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the SAR filed by Deutsche Bank, what was the purpose indicated for the transaction involving Hans Baumann?",
-    "answer": "Investment"
+    "question": "What was the initial investment amount made by David Schmidt to AI-Traders, according to the SAR report?",
+    "answer": "5000 EUR"
   },
   {
-    "question": "What was the amount of the initial investment made by Hans Baumann, as recorded in the bank statement?",
-    "answer": "5000.00"
+    "question": "According to promotional material, what is a key benefit offered by AI-Traders to potential investors?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "Based on the telegram chat export, what percentage daily returns were initially claimed by 'David (AI Trading Pro)'?",
-    "answer": "15-20%"
+    "question": "Which bank initially filed a Suspicious Activity Report (SAR) concerning transactions related to AI-Traders?",
+    "answer": "Deutsche Bank"
   },
   {
-    "question": "What was the suspicious activity flagged in the SAR referencing Hans Baumann's 10,000 EUR transaction on December 5th?",
-    "answer": "Multiple large deposits to a foreign account with limited public information."
+    "question": "Based on the bank statements, what is the approximate amount David Schmidt typically spends on rent each month?",
+    "answer": "1200 EUR"
   },
   {
-    "question": "What is the email address used by the AI Trading Pro team?",
-    "answer": "info@ai-trading-pro.com"
+    "question": "What reason did the reporting institution Sparkasse give for its SAR regarding a smaller transaction in January 2024?",
+    "answer": "Repeated small transactions following initial large investment; withdrawal refusal"
   },
   {
-    "question": "What was the purpose listed for the transaction with amount 0.01 EUR on 2024-01-05?",
-    "answer": "Test Withdrawal"
+    "question": "What is mentioned on the AI-Traders website to build trust and create a sense of urgency?",
+    "answer": "Testimonials from 'satisfied investors' and a growth graph"
   },
   {
-    "question": "Which entity sent the email regarding a withdrawal request processing update to Hans Baumann?",
-    "answer": "Global Investments Ltd."
+    "question": "What is the domain name mentioned in the promotional material?",
+    "answer": "www.ai-traders.com"
   },
   {
-    "question": "What information, if any, is provided in the promotional material about the risk associated with using the AI trading technology?",
-    "answer": "Low Risk, High Reward"
+    "question": "Besides the initial investment, what other transaction descriptions appear in the SAR reports related to AI-Traders?",
+    "answer": "Additional Investment"
   },
   {
-    "question": "List the entities that appear in both the promotional materials and the email correspondence.",
-    "answer": "AI Trading Pro, Global Investments Ltd."
+    "question": "Which bank handled the transaction amount 2000 EUR in December 2023?",
+    "answer": "Commerzbank"
   },
   {
-    "question": "What date does the SAR referencing the test withdrawal occur?",
-    "answer": "05-01-2024"
+    "question": "What is David Schmidt\u2019s occupation, based on the provided information?",
+    "answer": "Long-time investor"
   }
 ]

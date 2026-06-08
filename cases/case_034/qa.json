@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is the stated purpose of CryptoRecoveryExperts?",
-    "answer": "Recovering funds lost due to fraudulent cryptocurrency schemes."
+    "question": "What was the initial subject line of the email sent to Hans Schmidt?",
+    "answer": "Unlock Your Financial Potential with Global Forex Group!"
   },
   {
-    "question": "What information was Karl Heinz initially asked to provide in the follow-up email?",
-    "answer": "Details regarding the initial scam and the amount lost."
+    "question": "What was the amount of the withdrawal request submitted by Hans Schmidt?",
+    "answer": "\u20ac25,000"
   },
   {
-    "question": "What was the amount of the 'security clearance fee' requested, and in what currency?",
-    "answer": "$5,000 USD"
+    "question": "According to the first SAR report, what reason was given for the suspicious activity?",
+    "answer": "Potential investment fraud due to unusual withdrawal delay and verification request."
   },
   {
-    "question": "To which bank account was the security clearance fee requested to be transferred?",
-    "answer": "Account Number: 0078901234"
+    "question": "What specific document was requested from Hans Schmidt to facilitate his withdrawal?",
+    "answer": "A copy of his identification document."
   },
   {
-    "question": "What does the progress bar on the recovery platform dashboard indicate?",
-    "answer": "Recovery Progress: 65%"
+    "question": "Based on the promotional material, what benefit does Global Forex Group highlight for potential traders?",
+    "answer": "Competitive spreads and low commissions."
   },
   {
-    "question": "Besides the initial security clearance fee, was any further amount requested for security clearance? If so, what was the amount and currency?",
-    "answer": "Yes, 2000 EUR."
+    "question": "What is the Institution ID associated with Global Forex Group in the SAR files?",
+    "answer": "GFG-BEL-001"
   },
   {
-    "question": "Based on the content of SAR-3.xml, what appears to be the key concern raised by Deutsche Bank regarding Karl Heinz\u2019s transactions?",
-    "answer": "Multiple transactions to the same recipient account with suspicious descriptions; potential indication of fraud; customer has reported concerns about the legitimacy of the recipient."
+    "question": "According to the victim's bank statement, what was the purpose of the payments made to Global Forex Group?",
+    "answer": "Online Payment to Global Forex Group"
   },
   {
-    "question": "What is the stated estimated timeframe for funds to become available after a withdrawal request is submitted, according to the recovery platform?",
-    "answer": "24-48 hours"
+    "question": "According to testimonials, what do traders appreciate about Global Forex Group?",
+    "answer": "Supportive trading environment, ease of getting started, and available support team."
   },
   {
-    "question": "What is the purpose of the initial email according to the sender?",
-    "answer": "To assess the case and determine the feasibility of recovery."
+    "question": "According to the broker's bank statement, where was the \u20ac25,000 deposit from Hans Schmidt transferred?",
+    "answer": "A Seychelles account"
   },
   {
-    "question": "What does the promotional material highlight as a key benefit of using CryptoRecoveryExperts?",
-    "answer": "Experienced Recovery Specialists"
+    "question": "What does the trading platform screenshot reveal about the user experience?",
+    "answer": "The user interface is clean and intuitive."
   }
 ]

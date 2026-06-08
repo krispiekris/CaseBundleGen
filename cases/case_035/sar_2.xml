@@ -1,21 +1,19 @@
-<SAR id="SAR-20240120-002">
-  <ReportingInstitution>
-    <Name>Sparkasse Bank</Name>
-    <Address>München, Germany</Address>
-  </ReportingInstitution>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-12-15</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Ulrich Baumann</Name>
-    <Address>Munich, Germany</Address>
-    <DateOfBirth>1968-05-20</DateOfBirth>
+    <Name>Hans Meier</Name>
+    <Address>Musterstrasse 12, 10115 Berlin, Germany</Address>
+    <DateOfBirth>1968-03-10</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2024-01-15</Date>
-    <Amount currency="EUR">500.00</Amount>
-    <Description>Attempted Withdrawal - Denied</Description>
-    <Recipient>
-      <Name>Sparkasse Bank</Name>
-      <IBAN>DE89370400440532015000</IBAN>
-    </Recipient>
-    <SuspiciousActivity>Withdrawal attempt denied due to account restrictions; potential fraud</SuspiciousActivity>
+    <TransactionDate>2023-12-10</TransactionDate>
+    <Amount currency="BTC">0.7</Amount>
+    <Description>Cryptocurrency Transfer to Global Forex Investments</Description>
+    <DestinationWallet>1A2B3C4D5E6F7G8H9I</DestinationWallet>
   </Transaction>
+  <Findings>
+    <SuspiciousActivity>Cryptocurrency transfer to offshore account with limited transaction history.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

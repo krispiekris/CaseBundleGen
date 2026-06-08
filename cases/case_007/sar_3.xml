@@ -1,25 +1,21 @@
-<SAR xmlns="http://www.example.com/sar">
-  <Header>
-    <SARReferenceID>SAR-20240229-003</SARReferenceID>
-    <DateFiled>2024-02-29</DateFiled>
-    <ReportingBank>Deutsche Bank</ReportingBank>
-  </Header>
-  <Customer>
-    <CustomerID>123456789</CustomerID>
-    <Name>Hans Baumann</Name>
-    <Address>Musterstrasse 1, 10115 Berlin</Address>
-  </Customer>
+<SAR id="SAR-20240210-003">
+  <ReportDate>2024-02-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank AG</ReportingInstitution>
   <SuspiciousActivity>
-    <TransactionDate>2024-01-12</TransactionDate>
-    <TransactionAmount currency="EUR">5000</TransactionAmount>
-    <TransactionType>Wire Transfer</TransactionType>
-    <RecipientName>Crypto Innovations</RecipientName>
-    <RecipientAccount>X789012345</RecipientAccount>
-    <RecipientBank>United Bank of Singapore</RecipientBank>
-    <SWIFTCode>UBSBXXXX</SWIFTCode>
-    <Description>Investment in Crypto Innovations</Description>
+    <Transaction>
+      <TransactionDate>2023-10-12</TransactionDate>
+      <Amount currency="ETH">3</Amount>
+      <TransactionType>Deposit</TransactionType>
+      <OriginatorAccount>Unknown - Investigating</OriginatorAccount>
+      <BeneficiaryAccount>DE89370400440532015000</BeneficiaryAccount>
+      <Description>Deposit of Ethereum</Description>
+    </Transaction>
   </SuspiciousActivity>
-  <Findings>
-    Multiple transactions, coupled with customer concerns and a lack of verifiable information about the recipient company, indicate a high probability of investment fraud. Immediate investigation required.
-  </Findings>
+  <Party>
+    <Name>Ulrich Baumann</Name>
+    <Address>Musterstraße 12, 10115 Berlin, Germany</Address>
+    <IdentificationType>German ID</IdentificationType>
+    <IdentificationNumber>1234567890</IdentificationNumber>
+  </Party>
+  <Findings>Multiple deposits from unknown sources. Account flagged for potential investment fraud.</Findings>
 </SAR>

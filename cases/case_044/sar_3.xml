@@ -1,19 +1,19 @@
-<SAR id="SAR-20240310-003">
-  <ReportDate>2024-03-10</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2024-01-01</TransactionDate>
-      <Amount currency="EUR">5000</Amount>
-      <SenderName>Helmut Klein</SenderName>
-      <SenderAccount>DE12345678901234567890</SenderAccount>
-      <ReceiverName>Global Crypto Solutions Ltd.</ReceiverName>
-      <ReceiverAccount>GB67NWBK40302182397052</ReceiverAccount>
-      <Description>Transfer to Crypto Recovery Service</Description>
-    </Transaction>
+<SAR>
+  <Header>
+    <ReportDate>2023-11-03</ReportDate>
+    <InstitutionID>Deutsche Bank SAR Department</InstitutionID>
+    <OriginatingEntityID>DB-FRA-001</OriginatingEntityID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-11-01</TransactionDate>
+    <TransactionAmount currency="EUR">1000</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderAccount>AlphaAI Holdings Limited (Fake Account)</SenderAccount>
+    <ReceiverAccount>Klaus.Muller@email.de</ReceiverAccount>
+    <Description>Withdrawal Request - Rejected</Description>
+    <SuspiciousActivity>Failed withdrawal request</SuspiciousActivity>
     <Findings>
-      <Finding>Potential investment fraud involving cryptocurrency recovery services.</Finding>
-      <Finding>Continued transfers despite lack of evidence of recovery.</Finding>
+      <Finding>Potential investment fraud scheme - failed withdrawal</Finding>
     </Findings>
-  </SuspiciousActivity>
+  </Transaction>
 </SAR>

@@ -1,27 +1,30 @@
 <SAR>
-  <ReportDate>2023-11-20</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionID>TXN-12345</TransactionID>
-      <TransactionDate>2023-11-15</TransactionDate>
-      <TransactionAmount currency="EUR">5000</TransactionAmount>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>Klaus Schmidt</Name>
-        <AccountID>DE1234567890</AccountID>
-        <Country>Germany</Country>
-      </OriginatingParty>
-      <BeneficiaryParty>
-        <Name>AI Trading Solutions</Name>
-        <AccountID>US9876543210</AccountID>
-        <Country>United States</Country>
-      </BeneficiaryParty>
-      <Description>Initial investment to AI Trading Solutions platform</Description>
-    </Transaction>
-    <SuspiciousIndicators>
-      <Indicator>Unusual investment amount for customer profile</Indicator>
-      <Indicator>Payment to an overseas entity with limited transparency</Indicator>
-    </SuspiciousIndicators>
-  </SuspiciousActivity>
+  <Header>
+    <FilingDate>2023-09-05</FilingDate>
+    <FilingInstitution>First National Bank</FilingInstitution>
+    <SARType>Suspicious Activity Report</SARType>
+  </Header>
+  <Customer>
+    <CustomerID>123456789</CustomerID>
+    <CustomerName>David Miller</CustomerName>
+  </Customer>
+  <Transaction>
+    <TransactionDate>2023-03-10</TransactionDate>
+    <TransactionAmount>-5000.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <RecipientName>Quantum AI Investments</RecipientName>
+    <RecipientAccount>XXXXXXXXXXXXXXX</RecipientAccount>
+    <RecipientCountry>Seychelles</RecipientCountry>
+    <SuspiciousActivity>Unusual investment in an unregulated platform</SuspiciousActivity>
+  </Transaction>
+  <Transaction>
+    <TransactionDate>2023-04-15</TransactionDate>
+    <TransactionAmount>-15000.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <RecipientName>Quantum AI Investments</RecipientName>
+    <RecipientAccount>XXXXXXXXXXXXXXX</RecipientAccount>
+    <RecipientCountry>Seychelles</RecipientCountry>
+    <SuspiciousActivity>Unusual investment in an unregulated platform</SuspiciousActivity>
+  </Transaction>
+  <Findings>Customer invested significant funds in an AI trading platform with limited regulatory oversight. Further investigation recommended.</Findings>
 </SAR>

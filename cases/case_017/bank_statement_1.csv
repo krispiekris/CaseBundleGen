@@ -1,6 +1,11 @@
-Date,Description,Amount (EUR),Balance (EUR)
-2023-08-01,Starting Balance,,60000.00
-2023-09-01,Transfer to Nova Trading Platform,-5000.00,55000.00
-2023-09-08,Interest,,60000.00
-2023-09-12,Platform Deposit,150.00,55150.00
-2023-09-19,Platform Deposit,210.00,55360.00
+Date,Description,Amount (AUD),Balance (AUD)
+2023-08-01,Salary,,100000.00
+2023-08-15,Withdrawal,10000.00,90000.00
+2023-09-01,Bitcoin Deposit,10000.00,100000.00
+2023-09-15,AI Pro Solutions Profit,2500.00,102500.00
+2023-09-30,AI Pro Solutions Profit,1000.00,103500.00
+2023-10-15,AI Pro Solutions Profit,2500.00,106000.00
+2023-11-01,AI Pro Solutions Profit,1000.00,107000.00
+2023-11-15,Attempted Withdrawal,2500.00,104500.00
+2023-12-01,Salary,,100000.00
+2024-01-01,Salary,,100000.00

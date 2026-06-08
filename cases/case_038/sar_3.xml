@@ -1,27 +1,14 @@
 <SAR>
-  <ReportDate>2024-01-15</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionID>TXN-90123</TransactionID>
-      <TransactionDate>2024-01-05</TransactionDate>
-      <TransactionAmount currency="EUR">100</TransactionAmount>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>Klaus Schmidt</Name>
-        <AccountID>DE1234567890</AccountID>
-        <Country>Germany</Country>
-      </OriginatingParty>
-      <BeneficiaryParty>
-        <Name>AI Trading Solutions</Name>
-        <AccountID>US9876543210</AccountID>
-        <Country>United States</Country>
-      </BeneficiaryParty>
-      <Description>Attempted withdrawal denied by AI Trading Solutions</Description>
-    </Transaction>
-    <SuspiciousIndicators>
-      <Indicator>Customer reports difficulty accessing funds</Indicator>
-      <Indicator>Unusual activity consistent with potential fraud</Indicator>
-    </SuspiciousIndicators>
-  </SuspiciousActivity>
+  <Header>
+    <FilingDate>2023-09-05</FilingDate>
+    <FilingInstitution>First National Bank</FilingInstitution>
+    <SARType>Suspicious Activity Report</SARType>
+  </Header>
+  <Customer>
+    <CustomerID>123456789</CustomerID>
+    <CustomerName>David Miller</CustomerName>
+  </Customer>
+  <AdditionalInformation>
+    <InvestigationNotes>Customer complaint received regarding inability to withdraw funds and suspicious KYC requests from Quantum AI Investments.  Further investigation warranted, potential link to investment fraud originating from Nigeria.</InvestigationNotes>
+  </AdditionalInformation>
 </SAR>

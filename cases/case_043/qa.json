@@ -1,42 +1,42 @@
 [
   {
-    "question": "According to the initial email, what is the primary benefit Quantum AI Trading offers to potential investors?",
-    "answer": "Unlock unprecedented returns with cutting-edge artificial intelligence algorithms."
+    "question": "What is the initial amount of money Hans Schmidt transferred to the AI Trading System, as documented in the bank statement?",
+    "answer": "15000 EUR"
   },
   {
-    "question": "What is the subject of the follow-up email sent to Hans Meier?",
-    "answer": "Last Chance: Claim Your Quantum AI Trading Bonus"
+    "question": "According to the promotional material, what is one of the claimed benefits of using the AI Trading System?",
+    "answer": "Risk-Free Profits"
   },
   {
-    "question": "What amount did Hans Meier request to withdraw from his account, as stated in the email?",
-    "answer": "\u20ac15,000"
+    "question": "What country is listed as the recipient country for the transactions associated with 'Global Investments Ltd'?",
+    "answer": "United Arab Emirates"
   },
   {
-    "question": "According to the SAR reports, what is the risk level assigned to the initial deposit to Quantum AI Trading?",
-    "answer": "High"
+    "question": "Based on the SAR reports, what is the primary reason for the initial suspicion regarding this investment scheme?",
+    "answer": "Potential investment fraud - high-yield investment with minimal risk"
   },
   {
-    "question": "What country is listed for the beneficiary bank involved in the deposit transaction?",
-    "answer": "Belize"
+    "question": "What is the balance of Hans Schmidt's account, as reported in the 'Your AI Trading System - Daily Profit Update' email?",
+    "answer": "\u20ac16,500.00"
   },
   {
-    "question": "Based on the bank statements, what are the two dates of incoming transfers to Hans Meier's account?",
-    "answer": "2023-08-10 and 2023-08-25"
+    "question": "According to the website screenshot, what is the purpose of the large button prominently displayed on the AI Trading System homepage?",
+    "answer": "Start Trading Now"
   },
   {
-    "question": "What is the stated purpose of the transaction on 2023-09-01 according to the SAR?",
-    "answer": "Investment Deposit - Quantum AI Trading"
+    "question": "What additional fee, beyond the initial investment and withdrawal fee, did the AI Trading System support request from Hans Schmidt?",
+    "answer": "\u20ac2,000"
   },
   {
-    "question": "What indicator of the trading platform's performance is prominently displayed in the screenshot?",
-    "answer": "AI Confidence: 98%"
+    "question": "What is the name of the bank to which Hans Schmidt was instructed to make the \u20ac2,000 verification payment?",
+    "answer": "Zenith Bank"
   },
   {
-    "question": "What is the description of the customer interaction recorded in SAR 3?",
-    "answer": "Customer expressing concerns about account access and unusual account activity."
+    "question": "Based on the SAR reports, what characteristics raised concerns about the source of profits shown to Hans Schmidt?",
+    "answer": "Notification lacks transparency and may be intended to mislead the beneficiary. Source of profit unclear."
   },
   {
-    "question": "In promotional material 2, what is the benefit of using Quantum AI Trading according to the client testimonial?",
-    "answer": "The returns are incredible!"
+    "question": "Considering the bank statements and SAR reports, what is the common recipient account number across transactions?",
+    "answer": "XX1234567890"
   }
 ]

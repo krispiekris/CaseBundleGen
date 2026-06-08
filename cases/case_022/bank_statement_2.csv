@@ -1,6 +1,5 @@
-Date,Description,Amount (EUR),IBAN
-2023-12-01,Salary Credit,2500.00,DE785001000000000000
-2023-12-15,Online Purchase,-35.00,DE453001000000000000
-2024-01-05,Interest Income,5.00,DE785001000000000000
-2024-01-10,Withdrawal Request,15000.00,DE785001000000000000
-2024-01-25,Withdrawal Denial,-15000.00,DE785001000000000000
+Date,Description,Amount (EUR),Balance (EUR)
+2023-08-15,Quantum AI Investment, -5000, , 
+2023-10-20,Quantum AI Investment, -15000, , 
+2023-11-16,Withdrawal Request, -1000, , 
+2023-12-05,Fund transfer, -200, , 

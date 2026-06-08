@@ -1,7 +1,7 @@
-Date,Description,Amount,Currency,IBAN
-2023-10-26,Online Transfer, -250.00,CAD,CA1234567890123456
-2023-11-01,Grocery Store, -120.00,CAD,CA1234567890123456
-2023-11-08,Online Transfer, -5000.00,CAD,CA1234567890123456
-2023-11-15,Restaurant, -85.00,CAD,CA1234567890123456
-2023-11-22,Online Transfer, -150.00,CAD,CA1234567890123456
-2023-11-29,Utilities, -200.00,CAD,CA1234567890123456
+Date,Description,Amount (AUD),Balance (AUD)
+2023-09-20,Online Transfer,,-5000
+2023-09-25,Online Transfer,5000,,
+2023-10-01,Online Transfer,1000,,
+2023-10-10,Online Transfer,1500,,
+2023-10-18,Online Transfer,500,,
+2024-01-05,Online Transfer,-30000,,

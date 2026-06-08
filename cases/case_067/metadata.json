@@ -1,10 +1,10 @@
 {
-  "case_id": "2024-CX-0078",
+  "case_id": "2024-07-27-CF-0042",
   "fraud_type": "Investment Fraud",
-  "fraud_subtype": "Forex Scam",
+  "fraud_subtype": "AI Trading Scam",
   "victim_profile": {
     "age_range": "55-64",
-    "income_range": "\u20ac75,000 - \u20ac100,000",
+    "income_range": "\u20ac50,000 - \u20ac80,000",
     "country": "Germany",
     "education_level": "Bachelor's Degree"
   },
@@ -12,43 +12,40 @@
     "location": "Nigeria",
     "languages_spoken": [
       "English",
-      "Pidgin English"
+      "Pidgin English",
+      "Hausa"
     ]
   },
   "destination_countries": [
-    "Nigeria",
-    "United Arab Emirates"
+    "Belize",
+    "Saint Vincent and the Grenadines"
   ],
   "timeline": [
     {
-      "date": "2023-08-15",
-      "event": "Initial contact with 'Global Forex Solutions'"
+      "date": "2023-11-15",
+      "event": "Initial contact via social media."
     },
     {
-      "date": "2023-09-01",
-      "event": "First deposit made"
+      "date": "2023-12-01",
+      "event": "Victim transfers first investment."
     },
     {
-      "date": "2023-11-10",
-      "event": "Victim expresses concerns about withdrawal delays"
+      "date": "2024-01-10",
+      "event": "Victim attempts withdrawal, unsuccessful."
     },
     {
-      "date": "2023-12-05",
-      "event": "Victim reports fraudulent activity to bank"
-    },
-    {
-      "date": "2024-01-20",
-      "event": "Formal complaint filed with law enforcement"
+      "date": "2024-02-22",
+      "event": "Victim files police report."
     }
   ],
   "assets_involved": [
     {
-      "type": "Bank Account",
-      "amount_range": "\u20ac30,000 - \u20ac50,000"
+      "type": "Cryptocurrency (BTC)",
+      "amount_range": "\u20ac5,000 - \u20ac15,000"
     },
     {
-      "type": "Cryptocurrency (BTC)",
-      "amount_range": "0.5 - 1.0 BTC"
+      "type": "Bank Transfers",
+      "amount_range": "\u20ac2,000 - \u20ac8,000"
     }
   ]
 }

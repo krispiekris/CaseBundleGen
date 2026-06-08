@@ -1,21 +1,23 @@
-<SAR id="SAR-20231117-001">
-  <ReportingInstitution>
-    <Name>Sparkasse Bank</Name>
-    <Address>München, Germany</Address>
-  </ReportingInstitution>
+<SAR xmlns="http://www.example.com/sar">
+  <ReportDate>2023-09-05</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
   <Subject>
-    <Name>Ulrich Baumann</Name>
-    <Address>Munich, Germany</Address>
-    <DateOfBirth>1968-05-20</DateOfBirth>
+    <Name>Hans Meier</Name>
+    <Address>Musterstrasse 12, 10115 Berlin, Germany</Address>
+    <DateOfBirth>1968-03-10</DateOfBirth>
   </Subject>
   <Transaction>
-    <Date>2023-11-17</Date>
-    <Amount currency="EUR">5000.00</Amount>
-    <Description>Transfer to AI Trading Pro - Investment</Description>
-    <Recipient>
-      <Name>Global Investments Ltd.</Name>
-      <IBAN>DE89370400440532015000</IBAN>
-    </Recipient>
-    <SuspiciousActivity>Potential investment fraud - unusually high promised returns</SuspiciousActivity>
+    <TransactionDate>2023-09-01</TransactionDate>
+    <Amount currency="EUR">50000</Amount>
+    <Description>Wire Transfer to Global Forex Investments</Description>
+    <DestinationAccount>
+      <BankName>First Belize International Bank</BankName>
+      <AccountNumber>123456789</AccountNumber>
+      <IBAN>BZ00000123456789</IBAN>
+    </DestinationAccount>
   </Transaction>
+  <Findings>
+    <SuspiciousActivity>Unusually large wire transfer to offshore account.</SuspiciousActivity>
+    <RiskLevel>High</RiskLevel>
+  </Findings>
 </SAR>

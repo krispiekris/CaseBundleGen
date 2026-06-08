@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial deposit amount made by Thomas Baumann, according to the SAR report?",
-    "answer": "\u20ac50,000"
+    "question": "What is the minimum investment amount mentioned in the promotional material?",
+    "answer": "\u20ac100"
   },
   {
-    "question": "According to email_3.txt, what was the predicted movement of the EUR/USD pair?",
-    "answer": "150-pip move"
+    "question": "According to the email from AIX Capital, what technology do they claim to use to generate profits?",
+    "answer": "Artificial Intelligence"
   },
   {
-    "question": "What type of transaction is recorded in SAR_2.xml concerning Thomas Baumann\u2019s account?",
-    "answer": "Debit"
+    "question": "What is Werner Klaus' account ID according to his withdrawal request?",
+    "answer": "WK789456"
   },
   {
-    "question": "What reason is provided in bank_statement_2.csv for the charge of -200 EUR?",
-    "answer": "Global Traders Rejection Fee"
+    "question": "Based on the SAR reports, which countries are associated with the recipient accounts?",
+    "answer": "Nigeria, Malta"
   },
   {
-    "question": "According to promotional_material_2.txt, what special promotion was offered by Global Traders?",
-    "answer": "Double your deposit"
+    "question": "What is the described purpose of the transactions detailed in the SAR reports?",
+    "answer": "Online Investment Platform Deposit"
   },
   {
-    "question": "Based on the screenshot_website_1.txt, what are three benefits highlighted on the Global Traders website?",
-    "answer": "Expert Guidance, Cutting-Edge Platform, High-Profit Potential"
+    "question": "What does the Telegram chatlog indicate about the potential daily returns offered by AIX Capital?",
+    "answer": "15-20%"
   },
   {
-    "question": "What is the main subject of the email sent from Thomas Baumann to Global Traders Support, as indicated in email_2.txt?",
-    "answer": "Question about initial deposit"
+    "question": "Considering the bank statements and the SAR reports, what is the total amount Werner Klaus has deposited into AIX Capital as of April 22, 2024?",
+    "answer": "30000"
   },
   {
-    "question": "What triggered the investigation, as described in the notes of SAR_3.xml?",
-    "answer": "Client complaint regarding fraudulent activity"
+    "question": "What concern about withdrawal delays is expressed in SAR-2024-04-22-003?",
+    "answer": "The account holder is expressing concerns about withdrawal delays."
   },
   {
-    "question": "In SAR_1.xml, what is the listed reason for the initial transaction\u2019s description?",
-    "answer": "Initial investment - Forex trading"
+    "question": "What is displayed on the screenshot, and what testimonial is included?",
+    "answer": "A graph labeled 'AIX Capital - Daily Profit Growth' and a testimonial reads: 'I've never seen returns like this! - John S., Investor'."
   },
   {
-    "question": "What is mentioned as a possible emotion that Global Traders aims to invoke in promotional material_1.txt?",
-    "answer": "Financial freedom"
+    "question": "What is the name of the entity in Malta receiving the funds according to SAR-2024-0110-002 and SAR-2024-04-22-003?",
+    "answer": "Nova Investments Ltd"
   }
 ]

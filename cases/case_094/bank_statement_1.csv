@@ -1,9 +1,6 @@
-Date,Description,Amount (AUD),Balance (AUD)
-2023-04-20,Salary,7000,50000
-2023-04-22,Wire Transfer to Global Investments Ltd,12000,-7000
-2023-04-29,Wire Transfer to Global Investments Ltd,8000,-15000
-2023-05-05,Interest,10, -14990
-2023-05-12,Withdrawal,500,-14490
-2023-05-20,Withdrawal,200,-14290
-2023-06-01,Withdrawal,500,-13790
-2023-06-15,Withdrawal,100,-13690
+Date,Description,Amount (EUR),IBAN
+2023-11-01,Salary,6500.00,DE12345678901234567890
+2023-11-10,Transfer to Innovative Investments,10000.00,XX12345678901234567890
+2023-11-15,Monthly Expenses, -1500.00,DE98765432109876543210
+2023-11-22,Online Payment, -500.00,DE45678901234567890123
+2023-11-30,Interest, 10.00,DE12345678901234567890

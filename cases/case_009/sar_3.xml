@@ -1,23 +1,16 @@
 <SAR>
-  <Header>
-    <ReportDate>2023-09-29</ReportDate>
-    <InstitutionID>First National Bank</InstitutionID>
-    <SuspiciousActivity>
-      <TransactionDate>2023-07-12</TransactionDate>
-      <TransactionAmount>7500.00</TransactionAmount>
-      <Currency>USD</Currency>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>David Miller</Name>
-        <Address>123 Main Street, Anytown, USA</Address>
-      </OriginatingParty>
-      <Beneficiary>
-        <Name>AIX Capital</Name>
-        <AccountID>XXXXXXXXXXXXXX</AccountID>
-        <Country>Belize</Country>
-      </Beneficiary>
-      <Description>Withdrawal attempt - funds unavailable. Platform unresponsive.</Description>
-      <SuspicionReason>Attempted withdrawal failed, platform unresponsive, and mounting concerns about platform legitimacy.</SuspicionReason>
-    </SuspiciousActivity>
-  </Header>
+  <ReportDate>2024-02-10</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <TransactionDate>2024-01-10</TransactionDate>
+    <TransactionAmount currency="EUR">10000.00</TransactionAmount>
+    <TransactionType>Debit</TransactionType>
+    <SenderName>Quantum AI Technologies Ltd.</SenderName>
+    <SenderAccount>BZ9999999999</ReceiverAccount>
+    <ReceiverName>Hans Meier</SenderName>
+    <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+    <ReceiverCountry>Germany</ReceiverCountry>
+    <Description>Attempted Withdrawal</Description>
+    <SuspicionReason>Attempted withdrawal denied by platform.  Communication suggests customer is unable to access funds.</SuspicionReason>
+  </SuspiciousActivity>
 </SAR>

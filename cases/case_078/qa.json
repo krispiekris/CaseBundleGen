@@ -1,42 +1,42 @@
 [
   {
-    "question": "What was the initial bonus offered to Karl Heinrich by Innovative Investments?",
-    "answer": "A 20% return on his first deposit."
+    "question": "What is the subject line of the initial email John Smith received from AIX Capital?",
+    "answer": "Welcome to AIX Capital!"
   },
   {
-    "question": "According to the initial email, what was the minimum deposit required to claim the bonus?",
-    "answer": "\u20ac2,000 or more."
+    "question": "According to the first SAR, what was the initial amount John Smith transferred to AIX Capital?",
+    "answer": "5000.00 AUD"
   },
   {
-    "question": "What was the purpose code for the transaction where Karl Heinrich transferred funds to Innovative Investments?",
-    "answer": "1000"
+    "question": "What is the main suspicious activity highlighted in SAR-2023-0620-002?",
+    "answer": "Increased investment amount following encouragement from AIX Capital, potential for undue influence."
   },
   {
-    "question": "Based on the SAR reports, what are the main concerns regarding Innovative Investments?",
-    "answer": "Unusual transaction amounts and recipient, denial of withdrawal requests, and a general recommendation for further investigation."
+    "question": "Based on the bank statement, what was John Smith's balance after the first AIX Capital transfer?",
+    "answer": "9900.00 AUD"
   },
   {
-    "question": "What was the total amount Karl Heinrich deposited initially, as indicated in email_2.txt?",
-    "answer": "\u20ac2,500"
+    "question": "What promotional feature does AIX Capital highlight to attract investors?",
+    "answer": "Automated Trading"
   },
   {
-    "question": "According to the telegram chatlog, when did David claim Karl's bonus was credited to his account?",
-    "answer": "2023-09-01 11:12:00 UTC"
+    "question": "In which email did Alex Volkov suggest an increased investment amount and what was the suggested amount?",
+    "answer": "email_2.txt; $20,000"
   },
   {
-    "question": "What does the promotional material highlight as a key advantage of the 'Athena' trading platform?",
-    "answer": "Automated trading, 24/7 performance, and risk management."
+    "question": "What reason was given in email_3.txt for the delay in processing John Smith's withdrawal request?",
+    "answer": "Recent market volatility"
   },
   {
-    "question": "What action did Innovative Investments advise Karl to take in the suspicious email received from support@email.de?",
-    "answer": "Verify his identity by clicking on a link (to a phishing site)."
+    "question": "What is the stated purpose of the platform according to the promotional text?",
+    "answer": "To generate unparalleled returns"
   },
   {
-    "question": "What specific currencies are listed in the screenshot of the Athena platform?",
-    "answer": "BTC, ETH, LTC"
+    "question": "According to SAR-2023-0725-004, what prompted the reporting to authorities?",
+    "answer": "Reported by customer. Possible fraudulent activity. Denied withdrawals."
   },
   {
-    "question": "What was the date of the second SAR related to Karl Heinrich\u2019s case?",
-    "answer": "2023-11-12"
+    "question": "What is the date format used to represent dates in the SAR files?",
+    "answer": "YYYY-MM-DD"
   }
 ]

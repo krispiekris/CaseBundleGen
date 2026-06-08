@@ -1,0 +1,15 @@
+From: support@aitradingpro.com
+To: wilhelm.baumann@email.de
+Subject: Account Restricted - Important Information
+
+Dear Wilhelm,
+
+Due to recent unusual activity, your AI Trading Pro account has been temporarily restricted.  This is a security measure to protect your funds and prevent unauthorized access.
+
+To unlock your account, please verify your identity by following the link below:
+[Link to a phishing website - omitted]
+
+Failure to verify your identity within 24 hours may result in permanent account closure.
+
+Sincerely,
+The AI Trading Pro Support Team

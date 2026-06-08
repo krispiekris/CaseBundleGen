@@ -1,27 +1,19 @@
-<SAR>
-  <Header>
-    <ReportDate>2024-01-15</ReportDate>
-    <ReferenceID>SAR-20240115-003</ReferenceID>
-    <ReportingInstitution>Canadian Bank of Commerce</ReportingInstitution>
-  </Header>
-  <Transaction>
-    <TransactionDate>2023-12-01</TransactionDate>
-    <TransactionAmount currency="CAD">10000.00</TransactionAmount>
-    <TransactionType>Debit</TransactionType>
-    <SenderAccount>CA1234567890123456</SenderAccount>
-    <ReceiverAccount>CY8912345678901234567890</ReceiverAccount>
-    <ReceiverName>Global Investments Ltd.</ReceiverName>
-    <Description>Online Investment</Description>
-    <SuspiciousActivity>Potential Investment Fraud - Unsuccessful Withdrawal Request</SuspiciousActivity>
-  </Transaction>
-  <Parties>
-    <Sender>
-      <Name>David Miller</Name>
-      <Address>123 Main Street, Anytown, Canada</Address>
-    </Sender>
-    <Receiver>
-      <Name>Global Investments Ltd.</Name>
-      <Country>Cyprus</Country>
-    </Receiver>
-  </Parties>
+<SAR id="SAR-20240218-003">
+  <ReportDate>2024-02-19</ReportDate>
+  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
+  <SuspiciousActivity>
+    <Transaction>
+      <TransactionDate>2024-01-10</TransactionDate>
+      <TransactionAmount currency="EUR">0</TransactionAmount>
+      <TransactionType>Withdrawal Attempt</TransactionType>
+      <SenderAccount>DE12345678901234567890</SenderAccount>
+      <ReceiverAccount>DE12345678901234567890</ReceiverAccount>
+      <ReceiverName>Johannes Meier</ReceiverName>
+      <SuspiciousIndicator>Withdrawal attempt denied due to insufficient funds and unusual activity on the account.</SuspiciousIndicator>
+    </Transaction>
+  </SuspiciousActivity>
+  <CustomerInformation>
+    <CustomerID>123456789</CustomerID>
+    <CustomerName>Johannes Meier</CustomerName>
+  </CustomerInformation>
 </SAR>

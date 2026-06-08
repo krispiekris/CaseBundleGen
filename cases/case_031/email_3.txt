@@ -1,12 +1,12 @@
-From: AI_Bot_Pro@globaltechsolutions.co.uk
-To: MarkusWeber@email.de
-Subject: Important Account Update!
+From: support@ai-trading-pro.com
+To: wolfgang.meier@example.de
+Subject: Regarding your recent withdrawal request
 
-Dear Markus,
+Dear Wolfgang,
 
-Due to increased demand, we are temporarily suspending withdrawals to process all pending requests.  We appreciate your patience and understanding.
+We regret to inform you that your recent withdrawal request has been temporarily suspended due to ongoing security verification procedures.  As a valued member of the AI Trading Pro community, we take the security of your funds very seriously.
 
-In the meantime, your AI is still working hard to generate profits for you.  We’ll be back online shortly!
+Please provide us with further documentation to verify your identity. We apologize for any inconvenience this may cause and appreciate your understanding.
 
 Sincerely,
-The AI Trading Bot Pro Team
+The AI Trading Pro Support Team

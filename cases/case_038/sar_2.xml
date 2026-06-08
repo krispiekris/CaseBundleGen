@@ -1,27 +1,21 @@
 <SAR>
-  <ReportDate>2024-01-10</ReportDate>
-  <ReportingInstitution>Deutsche Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionID>TXN-67890</TransactionID>
-      <TransactionDate>2023-12-20</TransactionDate>
-      <TransactionAmount currency="EUR">10000</TransactionAmount>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingParty>
-        <Name>Klaus Schmidt</Name>
-        <AccountID>DE1234567890</AccountID>
-        <Country>Germany</Country>
-      </OriginatingParty>
-      <BeneficiaryParty>
-        <Name>AI Trading Solutions</Name>
-        <AccountID>US9876543210</AccountID>
-        <Country>United States</Country>
-      </BeneficiaryParty>
-      <Description>Additional investment to AI Trading Solutions platform</Description>
-    </Transaction>
-    <SuspiciousIndicators>
-      <Indicator>Significant increase in investment amount compared to previous transaction</Indicator>
-      <Indicator>Payment to an overseas entity with limited transparency</Indicator>
-    </SuspiciousIndicators>
-  </SuspiciousActivity>
+  <Header>
+    <FilingDate>2023-09-05</FilingDate>
+    <FilingInstitution>First National Bank</FilingInstitution>
+    <SARType>Suspicious Activity Report</SARType>
+  </Header>
+  <Customer>
+    <CustomerID>123456789</CustomerID>
+    <CustomerName>David Miller</CustomerName>
+  </Customer>
+  <Transaction>
+    <TransactionDate>2023-08-01</TransactionDate>
+    <TransactionAmount>-50.00</TransactionAmount>
+    <TransactionType>Wire Transfer</TransactionType>
+    <RecipientName>Quantum AI Investments</RecipientName>
+    <RecipientAccount>XXXXXXXXXXXXXXX</RecipientAccount>
+    <RecipientCountry>Seychelles</RecipientCountry>
+    <SuspiciousActivity>Attempted withdrawal denial and KYC verification request</SuspiciousActivity>
+  </Transaction>
+  <Findings>Customer experiencing difficulties withdrawing funds and subjected to unusual KYC requirements. Potential investment fraud.</Findings>
 </SAR>

@@ -1,0 +1,5 @@
+TransactionID,Date,Amount (EUR),Currency,Description,Recipient
+12345,2023-09-01,-50000,EUR,Initial Deposit,Global Forex Investments
+67890,2023-11-10,-10000,EUR,Second Deposit,Global Forex Investments
+24680,2023-12-10,-2000,EUR,Cryptocurrency Purchase,Binance
+13579,2024-01-15,4500,EUR,Salary,Deutsche Bank

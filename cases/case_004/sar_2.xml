@@ -1,14 +1,23 @@
-<SAR id="SAR-2024-01-10-002">
-  <ReportDate>2024-01-10</ReportDate>
-  <BankName>Canadian Risk Bank</BankName>
-  <AccountName>David Miller</AccountName>
-  <AccountID>1234567890</AccountID>
-  <TransactionDate>2023-12-05</TransactionDate>
-  <TransactionAmount currency="CAD">25000.00</TransactionAmount>
-  <TransactionDescription>Wire Transfer to Crypto Exchange - Binance</TransactionDescription>
-  <BeneficiaryName>Binance</BeneficiaryName>
-  <BeneficiaryAccount>Binance Wallet</BeneficiaryAccount>
-  <BeneficiaryBank>Binance</BeneficiaryBank>
-  <Finding>Potential investment fraud. Funds transferred to cryptocurrency exchange after initial investment.</Finding>
-  <ReportSubmittedBy>Sarah Chen</ReportSubmittedBy>
+<SAR>
+  <Header>
+    <ReportDate>2023-06-05</ReportDate>
+    <InstitutionID>Deutsche Bank</InstitutionID>
+    <SuspiciousActivityID>SAR-2023-002</SuspiciousActivityID>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-05-10</TransactionDate>
+    <TransactionAmount>10000.00</TransactionAmount>
+    <Currency>EUR</Currency>
+    <SenderName>Klaus Heinz</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>Global Investments</RecipientName>
+    <RecipientAccount>GB23NWBK00000000001234</RecipientAccount>
+    <Description>Online Forex Investment - Follow-up investment</Description>
+    <SuspicionReason>Increased transaction amount after initial investment. Pressure from sender to increase investment.</SuspicionReason>
+  </Transaction>
+  <Party>
+    <PartyName>Klaus Heinz</PartyName>
+    <Address>Musterstrasse 1, 10115 Berlin, Germany</Address>
+  </Party>
+  <Findings>Potential investment fraud. Escalation of previous SAR. Further investigation recommended.</Findings>
 </SAR>

@@ -1,0 +1,12 @@
+[2023-08-15 14:32:00] David: Welcome to AutotradeAI, Hans! Glad to have you.
+[2023-08-15 14:32:30] Hans: Hi David, thanks for the welcome.
+[2023-08-20 09:15:00] David: Remember to deposit funds to get started. Minimum €500.
+[2023-08-21 10:00:00] Hans: Ok, will do.
+[2023-09-01 16:48:00] Hans: Just made my initial deposit.
+[2023-09-01 16:55:00] David: Great! AI is already working for you.
+[2023-10-18 11:22:00] Hans: I noticed a few unusual trades... can you explain?
+[2023-10-18 11:35:00] David: Those are just part of the AI strategy. Don't worry, everything is on track.
+[2023-10-28 14:55:00] Hans: I'm trying to withdraw some funds, but it's not working.
+[2023-10-28 15:10:00] David: Please be patient, withdrawals can take a few days. We are experiencing high volume.
+[2023-10-29 18:00:00] Hans: Still no withdrawal...
+[2023-10-29 18:15:00] David: (No response)

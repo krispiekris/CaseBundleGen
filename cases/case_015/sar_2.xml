@@ -1,22 +1,20 @@
-<SAR id="SAR-20240115-002">
-  <ReportDate>2024-01-15</ReportDate>
-  <ReportingInstitution>Westpac Bank</ReportingInstitution>
-  <SuspiciousActivity>
-    <Transaction>
-      <TransactionDate>2024-01-10</TransactionDate>
-      <TransactionAmount currency="AUD">15000</TransactionAmount>
-      <TransactionType>Debit</TransactionType>
-      <OriginatingAccount>David.Miller@example.com.au</OriginatingAccount>
-      <BeneficiaryAccount>
-        <AccountName>Phoenix Rise Investments Ltd</AccountName>
-        <AccountNumber>1234567890</AccountNumber>
-        <BankName>First Central Bank (Cyprus)</BankName>
-        <IBAN>CY340000000000000000000000</IBAN>
-      </BeneficiaryAccount>
-      <Description>Withdrawal Request - Denied</Description>
-    </Transaction>
-  </SuspiciousActivity>
-  <Findings>
-    <Finding>Large withdrawal request denied by platform. Possible investment fraud.</Finding>
-  </Findings>
+<SAR>
+  <Header>
+    <ReportDate>2024-01-20</ReportDate>
+    <BankName>Deutsche Bank</BankName>
+    <ReferenceNumber>SAR-20240120-002</ReferenceNumber>
+  </Header>
+  <Transaction>
+    <TransactionDate>2023-12-20</TransactionDate>
+    <Amount>2500.00</Amount>
+    <Currency>EUR</Currency>
+    <TransactionType>Credit</TransactionType>
+    <SenderName>Klaus Meier</SenderName>
+    <SenderAccount>DE12345678901234567890</SenderAccount>
+    <RecipientName>AI Trading Elite</RecipientName>
+    <RecipientAccount>GB86NWBK01234567890123</RecipientAccount>
+    <Purpose>Additional Deposit</Purpose>
+    <SuspiciousActivity>Potential Investment Fraud - AI Trading</SuspiciousActivity>
+    <Notes>Customer making frequent deposits.  Account balance significantly increased. Further investigation recommended.</Notes>
+  </Transaction>
 </SAR>

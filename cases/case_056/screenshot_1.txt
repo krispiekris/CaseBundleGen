@@ -1,1 +1,1 @@
-Screenshot of AI Trading Pro platform showing a fake balance of €12,000 and a graph displaying rapidly increasing profits. The screenshot has a timestamp indicating 2023-09-10 14:30 GMT+1.
+Screenshot showing AI-Investments platform dashboard.  The display shows a rapidly increasing graph labeled 'Portfolio Value' with a fake trading history showing profits. The display also shows a 'Withdrawal' button. The date and time on the dashboard appears to be GMT+3.
