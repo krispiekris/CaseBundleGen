@@ -17,6 +17,41 @@ This framework consists of three main components:
 - HuggingFace models (automatically downloaded on first use)
 - GPU recommended for embedding and benchmarking tasks
 
+## Install Ollama (v0.18.1)
+
+This project has been tested with **Ollama 0.18.1**.
+
+### Linux
+
+```bash
+curl -fsSL https://ollama.com/install.sh | OLLAMA_VERSION=0.18.1 sh
+```
+
+### macOS
+
+```bash
+curl -fsSL https://ollama.com/install.sh | OLLAMA_VERSION=0.18.1 sh
+```
+
+### Windows (PowerShell)
+
+```powershell
+$env:OLLAMA_VERSION="0.18.1"
+irm https://ollama.com/install.ps1 | iex
+```
+
+### Verify installation
+
+```bash
+ollama --version
+```
+
+Expected output:
+
+```text
+ollama version 0.18.1
+```
+
 ## Quick Start
 
 ### Setup
