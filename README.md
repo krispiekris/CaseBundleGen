@@ -141,4 +141,8 @@ INDEX_INSERT_BATCH_SIZE=16    # Batch size for index insertion
 - This repository is designed for research and experimental evaluation purposes
 - Case generation times depend on model performance and available compute resources
 - We recommend gemma3:12b for a good balance of quality and speed, but you can experiment   with other models supported by Ollama. Please note that the model's output should not contain thinking traces or internal reasoning steps, as these can interfere with the evaluation process. If you choose a different model, ensure that it produces clean, final answers without extraneous information.
-- For faster iteration, reduce the number of cases in `generate_case.py` 
+- For faster iteration, reduce the number of cases in `generate_case.py`
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
